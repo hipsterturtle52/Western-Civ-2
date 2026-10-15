@@ -1,0 +1,484 @@
+=== META
+short: WWI & Russian Revolution
+range: 1914–1924
+
+=== LESSON
+## The big picture
+The **First World War (1914–1918)** destroyed four empires (German, Austro-Hungarian, Russian and Ottoman), killed about **ten million soldiers**, and ended a century of European confidence. It also produced the **Russian Revolution**, which created the world's first communist state. Together they are about one exam question in nine. Know the long-term causes, the chain of events in July 1914, why the war became a stalemate, how "total war" changed society, what the peace treaties did, and the steps from the tsar's fall to Lenin's rule.
+
+## Long-term causes: M-A-I-N
+A handy memory aid is **MAIN**: Militarism, Alliances, Imperialism, Nationalism.
+- **Militarism:** huge conscript armies, detailed mobilization timetables, and an **arms race**, above all the **Anglo-German naval race** after Britain launched the revolutionary battleship **HMS Dreadnought (1906)**. Germany's **Schlieffen Plan** assumed a two-front war and called for knocking out France quickly through neutral **Belgium** before turning on Russia.
+- **Alliances:** Europe was split into the **Triple Alliance** (Germany, Austria-Hungary, Italy) and the **Triple Entente** (France, Russia, Britain). A local quarrel could pull in every great power.
+- **Imperialism:** colonial rivalries, especially the two **Moroccan Crises** (1905 and 1911), in which German pressure on France only drove Britain and France closer together.
+- **Nationalism:** French desire to recover Alsace-Lorraine; **Pan-Slavism**, Russia's claim to protect fellow Slavs; and, most dangerous, **Serbian nationalism**, which aimed to unite the South Slavs, many of whom lived inside Austria-Hungary.
+
+The **Balkans** were the "powder keg of Europe." In the **Bosnian Crisis (1908)** Austria-Hungary **annexed Bosnia-Herzegovina**, home to many Serbs, infuriating Serbia and humiliating Russia, which backed down. In the **Balkan Wars (1912–1913)**, Serbia nearly doubled its territory at Ottoman expense. Austria-Hungary came to see Serbia as a mortal threat.
+
+## The July Crisis of 1914
+-> A Bosnian Serb nationalist assassinates Archduke Franz Ferdinand in Sarajevo (June 28, 1914) | Austria, backed by Germany's "blank check," issues an ultimatum and declares war on Serbia; alliances and mobilization plans take over | Within a week Germany, Russia, France and Britain are at war
+
+On **June 28, 1914**, **Gavrilo Princip**, a young Bosnian Serb linked to the Serbian secret society the **Black Hand**, shot **Archduke Franz Ferdinand**, heir to the Austro-Hungarian throne, and his wife in **Sarajevo**. Austria-Hungary decided to crush Serbia. Germany gave it unconditional support, the "**blank check**" (July 5–6). Austria sent Serbia a harsh **ultimatum** (July 23); Serbia accepted most of it, but Austria declared war on **July 28**. Russia mobilized to protect Serbia. Germany declared war on **Russia (August 1)** and **France (August 3)** and, following the Schlieffen Plan, invaded **Belgium**. Because Britain had guaranteed Belgian neutrality (Treaty of London, 1839), **Britain declared war on Germany on August 4**. Italy stayed neutral, then joined the Allies in 1915 in return for promised Austrian land. The **Ottoman Empire** (1914) and **Bulgaria** (1915) joined Germany and Austria-Hungary as the **Central Powers**.
+
+Who was to blame? The Allies said Germany, and wrote "war guilt" into the peace treaty. In the 1960s the German historian **Fritz Fischer** argued that Germany's leaders had aggressive aims and welcomed war. Others stress shared responsibility: rigid alliances and mobilization plans, nationalism everywhere, and leaders who "sleepwalked" into a war they did not fully foresee.
+
+## The war: stalemate and total war
+**Western Front.** The Germans swept through Belgium toward Paris, but the French and British stopped them at the **First Battle of the Marne (September 1914)**. Both sides dug in. Soon a line of **trenches** ran 400 miles from the North Sea to Switzerland. Defensive weapons, **machine guns**, barbed wire and artillery, made attacks suicidal; offensives gained a few miles at the cost of hundreds of thousands of lives. At **Verdun (1916)** the Germans tried to "bleed France white"; the battle lasted ten months and cost about 700,000 casualties. At the **Somme (1916)** the British suffered about 57,000 casualties on the first day alone; **tanks** made their debut there. **Poison gas** was first used on a large scale at Ypres in 1915. Airplanes were used for scouting and then combat.
+
+**Eastern Front and elsewhere.** The Germans under **Hindenburg and Ludendorff** crushed a Russian invasion at **Tannenberg (1914)**. The front in the east stayed more mobile, but Russia suffered staggering losses. To open a supply route to Russia, the Allies attacked the Ottoman Straits at **Gallipoli (1915–1916)**, a costly failure. The British encouraged an **Arab Revolt** against the Ottomans (with T. E. Lawrence). In 1915 the Ottoman government carried out the **Armenian genocide**, killing over a million Armenians.
+
+**At sea.** Britain's **naval blockade** slowly starved Germany. Germany replied with **submarine (U-boat)** warfare; the sinking of the liner ***Lusitania* (1915)**, with 128 Americans aboard, angered the United States.
+
+-> Germany resumes unrestricted submarine warfare (1917); the Zimmermann Telegram offers Mexico U.S. land | The United States enters the war (April 1917) | Fresh American troops and resources tip the balance after Russia leaves the war
+
+In 1917 Germany gambled on **unrestricted submarine warfare**, and the British intercepted the **Zimmermann Telegram**, a German proposal of alliance to Mexico. The **United States declared war in April 1917**. That same year Russia collapsed into revolution and left the war (**Treaty of Brest-Litovsk, March 1918**). Germany shifted troops west for a final **Spring Offensive (1918)**, which failed. Allied counterattacks, with growing American forces, pushed the exhausted Germans back. With its allies collapsing and revolution spreading at home, Germany's Kaiser **William II abdicated**, and an **armistice** took effect on **November 11, 1918**.
+
+## The home front: total war
+The war was **total war**: entire societies and economies were mobilized. Governments took control of industry, labor, food and prices; in Germany, Walther Rathenau's War Raw Materials Office directed the economy, and the 1916 Auxiliary Service Law drafted civilian men for war work. Food and fuel were **rationed**. **Propaganda** demonized the enemy, and censorship (such as Britain's Defence of the Realm Act) controlled the news. Governments paid with borrowing and printing money, causing **inflation** and leaving huge **debts**, much of it owed to the **United States**, which became the world's leading creditor.
+
+Millions of **women** took jobs in munitions factories, offices, transport and nursing. Partly in recognition, **British women over 30 gained the vote in 1918**, and women in Germany, Austria, Poland and other new republics won it in 1918–1919 (France waited until 1944). The war killed around **10 million soldiers** and millions of civilians; a "**lost generation**" of young men was gone. The **influenza pandemic** of 1918–1919 killed even more people worldwide. Disillusionment with old values filled postwar literature, such as Erich Maria Remarque's ***All Quiet on the Western Front*** (1929).
+
+## The peace settlements
+-> Germany asks for an armistice expecting Wilson's Fourteen Points | Paris Peace Conference (1919): Treaty of Versailles with war guilt, reparations, disarmament and territorial losses | New nation-states in central Europe; a resentful Germany; a League of Nations without the U.S.
+
+The victors met in Paris in **1919**. The "**Big Four**" were **Woodrow Wilson** (United States), **David Lloyd George** (Britain), **Georges Clemenceau** (France) and **Vittorio Orlando** (Italy). Germany and Soviet Russia were not invited to negotiate. Wilson's **Fourteen Points** (January 1918) called for open diplomacy, freedom of the seas, free trade, arms reduction, **national self-determination**, and a **League of Nations** to keep the peace. Clemenceau, whose country had been invaded twice in fifty years, wanted security and German payment. Lloyd George sought a middle way.
+
+The **Treaty of Versailles** (signed **June 28, 1919**) with Germany:
+- **Article 231, the "war guilt clause,"** made Germany accept responsibility for the war's losses, the legal basis for **reparations** (set in 1921 at 132 billion gold marks).
+- **Territory:** Alsace-Lorraine to France; land in the east to the new **Poland**, including the "**Polish Corridor**" to the sea that split East Prussia from Germany; **Danzig** a free city; the **Saar** under League control for 15 years; all **colonies** taken and handed to the victors as League **mandates**.
+- **Military:** army limited to **100,000** men; no air force, tanks or submarines; the **Rhineland demilitarized** and occupied by the Allies.
+- Union (**Anschluss**) with Austria forbidden.
+
+Germans called it a *Diktat*, a dictated peace. The economist **John Maynard Keynes** warned in *The Economic Consequences of the Peace* (1919) that the reparations would wreck Europe's economy. Separate treaties broke up Austria-Hungary (**Saint-Germain** with Austria, **Trianon** with Hungary, which lost two-thirds of its territory) and punished Bulgaria (Neuilly) and the Ottoman Empire (**Sèvres**, 1920, later replaced by the Treaty of **Lausanne**, 1923, after Mustafa Kemal's Turkish nationalists fought back). New or restored states appeared: **Poland, Czechoslovakia, Yugoslavia** (the Kingdom of Serbs, Croats and Slovenes), Austria, Hungary, Finland, Estonia, Latvia and Lithuania. But "self-determination" was applied unevenly, leaving large minorities, such as 3 million Germans in Czechoslovakia's **Sudetenland**. Former Ottoman Arab lands became British (Palestine, Iraq, Transjordan) and French (Syria, Lebanon) **mandates**, despite wartime promises to the Arabs and Britain's **Balfour Declaration (1917)** supporting a Jewish "national home" in Palestine.
+
+The **League of Nations** was created, but the **U.S. Senate refused to ratify the treaty**, so the United States never joined, a fatal blow to the League's authority.
+
+## The Russian Revolution
+**Background.** Nicholas II's Russia entered the war already strained by the 1905 revolution, a weak Duma, peasant land hunger and a small but radical industrial working class. The war was a disaster: millions of casualties, shortages of weapons and food, and inflation. Nicholas took personal command at the front in 1915, leaving the government to the unpopular Empress Alexandra and the mystic **Rasputin**, who was murdered by nobles in 1916.
+
+**The February Revolution (March 1917).** Bread riots and strikes in the capital, **Petrograd**, turned into revolution when soldiers refused to fire on crowds and joined them. **Nicholas II abdicated**, ending three centuries of Romanov rule. Power was shared in an unstable "**dual power**": the **Provisional Government**, dominated by liberals and later led by the moderate socialist **Alexander Kerensky**, and the **Petrograd Soviet** (council) of workers' and soldiers' deputies. The Provisional Government's fatal mistake was to **keep fighting the war** and postpone land reform until an elected assembly could meet.
+
+-> The Provisional Government keeps fighting an unpopular war and delays land reform | Lenin's Bolsheviks promise "Peace, Land, Bread" and seize power in the October Revolution (November 1917) | Bolshevik dictatorship, withdrawal from the war (Brest-Litovsk), civil war
+
+**Lenin and the Bolsheviks.** **Vladimir Lenin** led the **Bolsheviks**, the faction of Russia's Marxist party that split from the more moderate **Mensheviks** in **1903**. Lenin argued that a small, disciplined **vanguard party** of professional revolutionaries must lead the workers, and that Russia could leap to socialism without a long capitalist stage. The Germans, hoping to knock Russia out of the war, let him travel home from Switzerland in a sealed train in April 1917. His **April Theses** demanded "**All power to the Soviets**," and his slogan "**Peace, Land, and Bread**" spoke directly to soldiers, peasants and workers. After a failed rising in July and a failed right-wing coup by General Kornilov, the Bolsheviks won majorities in the soviets.
+
+**The October Revolution.** On **October 25, 1917, by the old Russian calendar (November 7 in the Western calendar)**, Bolshevik forces organized by **Leon Trotsky** seized key points in Petrograd and the **Winter Palace**, where the Provisional Government met. Lenin's government decreed peace, gave land to the peasants and put factories under workers' control. When elections to a **Constituent Assembly** gave the Bolsheviks only about a quarter of the votes (the peasant-based Socialist Revolutionaries won more), Lenin **dissolved the Assembly** in January 1918. He created a secret police, the **Cheka**.
+
+**Brest-Litovsk and civil war.** In the **Treaty of Brest-Litovsk (March 1918)** Russia gave up Poland, the Baltic lands, Finland and **Ukraine**, about a third of its European population. A brutal **Russian Civil War (1918–1921)** followed between the Bolshevik **Reds** and the anti-Bolshevik **Whites** (monarchists, liberals and others), who received limited help from Allied troops. Trotsky built the disciplined **Red Army**. The Bolsheviks shot the **tsar and his family** (July 1918). They won because they held the central heartland and railways, were united and ruthless, and the Whites were divided and associated with the return of landlords.
+
+To feed the Red Army, Lenin imposed **War Communism**: nationalization of industry and forced **requisitioning of grain** from peasants. The economy collapsed and famine followed. When sailors at the **Kronstadt** naval base, once Bolshevik heroes, rebelled in 1921, Lenin retreated to the **New Economic Policy (NEP)**, which let peasants sell surplus grain and allowed small private businesses, while the state kept the "commanding heights" (banks, heavy industry, foreign trade). In **1922** the state became the **Union of Soviet Socialist Republics (USSR)**. The Communist International (**Comintern**, 1919) promoted revolution abroad. Lenin died in **1924**, setting off a power struggle between Trotsky and **Joseph Stalin** (Unit 11).
+
+=== MUSTKNOW
+- **MAIN causes:** militarism (naval race, Schlieffen Plan), alliances (Triple Alliance vs. Triple Entente), imperialism (Moroccan crises), nationalism (Serbian, Pan-Slav, French revanche).
+- **Balkans:** Bosnian Crisis (1908), Balkan Wars (1912–13).
+- **July Crisis:** Sarajevo assassination (June 28, 1914) → German "blank check" → ultimatum → war on Serbia → Russian mobilization → Germany invades Belgium → Britain enters (Aug. 4).
+- **Western Front:** Marne (1914) halts Germany → trench stalemate; Verdun and the Somme (1916); machine guns, gas, tanks.
+- **1917:** unrestricted U-boat warfare + Zimmermann Telegram → U.S. enters; Russia exits (Brest-Litovsk, March 1918); armistice Nov. 11, 1918.
+- **Total war:** state economic control, rationing, propaganda, women's labor → women's suffrage (Britain 1918); U.S. becomes creditor.
+- **Versailles (1919):** Article 231 war guilt, reparations, Alsace-Lorraine to France, Polish Corridor, 100,000-man army, demilitarized Rhineland, colonies to mandates; U.S. never joins the League.
+- **New states:** Poland, Czechoslovakia, Yugoslavia, Baltic states; Austria-Hungary and the Ottoman Empire dismantled.
+- **Russia 1917:** February Revolution → tsar abdicates → Provisional Government (Kerensky) + Petrograd Soviet ("dual power") → Lenin's "Peace, Land, Bread" → October Revolution (Bolsheviks, Trotsky).
+- **After:** Constituent Assembly dissolved, Cheka, civil war (Reds vs. Whites), War Communism → Kronstadt → NEP (1921); USSR (1922).
+
+=== TIMELINE
+1903 | Bolshevik–Menshevik split | Lenin's vanguard party
+1906 | HMS Dreadnought launched | Anglo-German naval race intensifies
+1908 | Bosnian Crisis | Austria-Hungary annexes Bosnia-Herzegovina
+1912–1913 | Balkan Wars | Serbia expands
+*1914 (June 28) | Assassination at Sarajevo | Franz Ferdinand killed by Gavrilo Princip
+*1914 (Aug.) | War begins; Germany invades Belgium | Britain enters the war
+*1914 (Sept.) | First Battle of the Marne | Schlieffen Plan fails; trench warfare
+1915 | Gallipoli; Lusitania sunk; Armenian genocide; Italy joins Allies | War widens
+*1916 | Verdun and the Somme | Battles of attrition
+*1917 (March) | February Revolution | Nicholas II abdicates
+*1917 (April) | United States enters the war | After U-boat campaign and Zimmermann Telegram
+*1917 (Nov.) | October Revolution | Bolsheviks seize power
+1918 (March) | Treaty of Brest-Litovsk | Russia leaves the war
+*1918 (Nov. 11) | Armistice | Fighting ends on the Western Front
+1918–1921 | Russian Civil War | Reds defeat Whites
+*1919 | Treaty of Versailles | War guilt, reparations, League of Nations
+1921 | Kronstadt rebellion; New Economic Policy | Lenin's partial retreat to markets
+1922 | USSR founded | Union of Soviet Socialist Republics
+1924 | Death of Lenin | Power struggle begins
+
+=== CARDS
+MAIN :: Long-term causes of WWI: Militarism, Alliances, Imperialism, Nationalism.
+Schlieffen Plan :: German plan to defeat France quickly through Belgium, then turn on Russia.
+@ Franz Ferdinand :: Austro-Hungarian heir assassinated in Sarajevo on June 28, 1914.
+@ Gavrilo Princip :: Bosnian Serb nationalist who assassinated Franz Ferdinand.
+Blank check :: Germany's unconditional promise of support to Austria-Hungary (July 1914).
+First Battle of the Marne (1914) :: Stopped the German advance on Paris; led to trench warfare.
+Battle of Verdun (1916) :: Ten-month German attempt to bleed France white.
+Battle of the Somme (1916) :: Massive British-French offensive; 57,000 British casualties on day one; first tanks.
+Zimmermann Telegram (1917) :: German offer of an alliance to Mexico; helped bring the U.S. into the war.
+Total war :: Mobilization of a nation's entire economy and society for war.
+Treaty of Brest-Litovsk (1918) :: Bolshevik Russia left the war, ceding Poland, the Baltics and Ukraine.
+Armistice (Nov. 11, 1918) :: Ended fighting in World War I.
+Fourteen Points :: Wilson's peace plan: self-determination, open diplomacy, League of Nations.
+@ Georges Clemenceau :: French premier at Paris (1919) who demanded security and harsh terms for Germany.
+Treaty of Versailles (1919) :: Peace with Germany: war guilt, reparations, territorial losses, disarmament.
+Article 231 :: The "war guilt clause" making Germany responsible for war losses.
+Mandate system :: League arrangement giving former German and Ottoman lands to Britain and France to govern.
+@ John Maynard Keynes :: Economist who attacked the Versailles reparations as ruinous (1919).
+@ Nicholas II :: Last Russian tsar; abdicated in March 1917; killed with his family in 1918.
+Provisional Government :: Russia's liberal government (March–Nov. 1917), later led by Kerensky; kept fighting the war.
+Petrograd Soviet :: Council of workers' and soldiers' deputies that shared power with the Provisional Government.
+@ Vladimir Lenin :: Bolshevik leader; vanguard party; "Peace, Land, Bread"; led the October Revolution.
+@ Leon Trotsky :: Organized the October seizure of power and built the Red Army.
+October Revolution (1917) :: Bolshevik seizure of power in Petrograd (Nov. 7, Western calendar).
+War Communism :: Bolshevik civil-war economy: nationalization and forced grain requisitioning.
+New Economic Policy (NEP) :: Lenin's 1921 partial return to private trade and small business.
+
+=== QUESTIONS
+@e
+The assassination that triggered the First World War took place in
++ Sarajevo :: Franz Ferdinand was shot there on June 28, 1914.
+- Vienna :: Vienna was the Austrian capital, not the site of the assassination.
+- Berlin :: The assassination was not in Germany.
+- Belgrade :: Belgrade was Serbia's capital; the killing was in Bosnia.
+- Petrograd :: Petrograd was Russia's capital.
+
+@e
+Britain declared war on Germany in August 1914 immediately after Germany
++ invaded neutral Belgium :: Britain had guaranteed Belgian neutrality since 1839.
+- sank the Lusitania :: That happened in 1915.
+- signed the Treaty of Brest-Litovsk :: That was in 1918.
+- annexed Bosnia-Herzegovina :: Austria-Hungary annexed Bosnia in 1908.
+- sent the Zimmermann Telegram :: That was in 1917 and concerned the United States.
+
+@e
+Trench warfare on the Western Front resulted mainly from
++ the power of defensive weapons such as machine guns and artillery :: Attacks across open ground were enormously costly.
+- a shortage of soldiers on both sides :: Both sides had huge armies.
+- an agreement to avoid fighting :: The trenches saw constant fighting.
+- the use of airplanes to bomb cities :: Air power was a minor factor in creating stalemate.
+- the absence of railways :: Railways helped defenders bring reserves quickly.
+
+@e
+The United States entered the First World War in 1917 largely because of
++ Germany's unrestricted submarine warfare and the Zimmermann Telegram :: Both angered Americans in early 1917.
+- the assassination of Franz Ferdinand :: That was in 1914, and the U.S. stayed neutral.
+- the Russian Revolution :: That made the war harder for the Allies but was not the U.S. reason.
+- a Japanese attack on Pearl Harbor :: That was in 1941.
+- the Treaty of Versailles :: That came after the war.
+
+@e
+Which leader led the Bolsheviks to power in Russia in 1917?
++ Vladimir Lenin :: Lenin directed the October Revolution.
+- Alexander Kerensky :: Kerensky led the Provisional Government that the Bolsheviks overthrew.
+- Nicholas II :: The tsar abdicated in March 1917.
+- Joseph Stalin :: Stalin rose to power after Lenin's death in 1924.
+- Karl Marx :: Marx died in 1883.
+
+@e
+Article 231 of the Treaty of Versailles
++ required Germany to accept responsibility for causing the war's losses :: The "war guilt clause" justified reparations.
+- created the League of Nations :: The League's covenant was a separate part of the treaty.
+- gave Germany new colonies in Africa :: Germany lost all its colonies.
+- united Germany and Austria :: Anschluss was forbidden.
+- abolished the German army :: The army was limited to 100,000 men, not abolished.
+
+@e
+The slogan "Peace, Land, and Bread" was used by
++ the Bolsheviks in 1917 :: It promised what war-weary Russians wanted most.
+- the Provisional Government :: It kept fighting the war and delayed land reform.
+- Napoleon III :: The slogan is from the Russian Revolution.
+- the Chartists :: Chartists campaigned for political reform in Britain.
+- Woodrow Wilson :: Wilson's program was the Fourteen Points.
+
+@e
+Which battle in 1914 stopped the German advance on Paris?
++ The First Battle of the Marne :: The French and British halted the Schlieffen Plan.
+- Tannenberg :: Tannenberg was a German victory over Russia.
+- Verdun :: Verdun was fought in 1916.
+- Gallipoli :: Gallipoli was an Allied campaign against the Ottomans.
+- Jutland :: Jutland was a naval battle in 1916.
+
+@e
+Which of the following became an independent state as a result of the First World War?
++ Poland :: Poland was restored as a state in 1918.
+- Prussia :: Prussia remained part of Germany.
+- Bavaria :: Bavaria remained part of Germany.
+- Serbia :: Serbia was already independent and became part of Yugoslavia.
+- Sardinia :: Sardinia had been part of Italy since 1861.
+
+@e
+Which country left the First World War by signing the Treaty of Brest-Litovsk?
++ Russia :: The Bolsheviks made peace with Germany in March 1918.
+- France :: France fought until the armistice.
+- Italy :: Italy fought on the Allied side to the end.
+- The United States :: The U.S. entered in 1917 and fought until the armistice.
+- Britain :: Britain fought until the armistice.
+
+@e
+Woodrow Wilson's Fourteen Points included
++ national self-determination and a League of Nations :: Wilson hoped these would create a lasting peace.
+- heavy reparations to be paid by Germany :: Wilson opposed a punitive peace.
+- the division of Germany into occupation zones :: That happened after World War II.
+- a return to secret alliances :: He called for open diplomacy.
+- the restoration of the Russian tsar :: The Fourteen Points did not call for this.
+
+@e
+The tsar who abdicated in March 1917 was
++ Nicholas II :: His abdication ended Romanov rule.
+- Alexander II :: Alexander II was assassinated in 1881.
+- Alexander III :: Alexander III died in 1894.
+- Peter the Great :: Peter died in 1725.
+- Nicholas I :: Nicholas I died in 1855.
+
+@e
+Which group made up the Central Powers in the First World War?
++ Germany, Austria-Hungary, the Ottoman Empire and Bulgaria :: These four fought against the Allies.
+- Britain, France, Russia and Italy :: These were Allied powers.
+- Germany, Italy and Japan :: That was the Axis of World War II.
+- Austria-Hungary, Russia and Serbia :: Russia and Serbia were Allies.
+- The United States, Britain and France :: These were Allied powers.
+
+@m
+The "blank check" of July 1914 refers to
++ Germany's promise of unconditional support to Austria-Hungary against Serbia :: It encouraged Austria to take a hard line.
+- Britain's loans to France :: It refers to German support for Austria.
+- U.S. reparations payments to Germany :: There were no such payments.
+- Russia's promise to protect Belgium :: Britain guaranteed Belgium.
+- Serbia's acceptance of the Austrian ultimatum :: Serbia accepted most but not all of it.
+
+@m
+Which event came FIRST?
++ The Bosnian annexation crisis :: 1908.
+- The Battle of the Marne :: 1914.
+- The sinking of the Lusitania :: 1915.
+- The Battle of the Somme :: 1916.
+- The Zimmermann Telegram :: 1917.
+
+@m
+The Schlieffen Plan failed mainly because
++ the French and British stopped the German advance at the Marne, and Russia mobilized faster than expected :: Germany could not knock out France quickly.
+- Germany refused to invade Belgium :: Germany did invade Belgium.
+- Italy joined Germany and slowed its advance :: Italy stayed neutral, then joined the Allies.
+- the United States entered the war in 1914 :: The U.S. entered in 1917.
+- Britain stayed neutral :: Britain entered the war on August 4.
+
+@m
+Which statement best describes the home front in the First World War?
++ Governments took control of economies, rationed goods and used propaganda to sustain total war :: The war mobilized whole societies.
+- Civilian life continued with little government interference :: Governments intervened heavily.
+- Women were barred from factory work :: Millions of women worked in factories.
+- All nations balanced their budgets :: Governments borrowed heavily and printed money.
+- Censorship was abolished :: Censorship expanded.
+
+@m
+Which provision was part of the Treaty of Versailles?
++ Limiting the German army to 100,000 men and demilitarizing the Rhineland :: These measures were meant to prevent future German aggression.
+- Giving Alsace-Lorraine to Germany :: Alsace-Lorraine went back to France.
+- Allowing Germany to unite with Austria :: Anschluss was forbidden.
+- Granting Germany a seat on the League of Nations Council immediately :: Germany joined the League only in 1926.
+- Dividing Germany into four occupation zones :: That was in 1945.
+
+@m
+The Provisional Government in Russia lost support in 1917 mainly because it
++ continued the unpopular war and postponed land reform :: These failures opened the way for the Bolsheviks.
+- signed a separate peace with Germany :: The Bolsheviks did that in 1918.
+- restored Nicholas II to the throne :: It was formed after his abdication.
+- abolished the soviets :: The soviets existed alongside it.
+- carried out Stalin's five-year plans :: Those began in 1928.
+
+@m
+Lenin's view of the revolutionary party differed from the Mensheviks' in that Lenin
++ insisted on a small, disciplined vanguard of professional revolutionaries :: This was the cause of the 1903 split.
+- favored cooperation with the tsar :: Lenin wanted to overthrow the tsar.
+- rejected Marxism entirely :: Both factions were Marxist.
+- wanted a mass party open to all workers with no central direction :: That was closer to the Menshevik view.
+- supported the Provisional Government's war policy :: Lenin opposed the war.
+
+@m
+Why did Lenin dissolve the Constituent Assembly in January 1918?
++ The Bolsheviks had won only about a quarter of the seats :: The Socialist Revolutionaries outpolled them.
+- The Assembly voted to restore the tsar :: It did not vote to restore the monarchy.
+- The Germans demanded it in the peace talks :: This was not a German demand.
+- The Assembly had already completed a constitution :: It met only once before being dispersed.
+- Trotsky had been elected its president :: Trotsky did not lead the Assembly.
+
+@m
+The New Economic Policy (1921) was
++ a temporary return to limited private trade and small business after War Communism :: Peasants could sell surplus grain, and the economy recovered.
+- the collectivization of agriculture :: That was Stalin's policy from 1929.
+- Russia's withdrawal from the First World War :: That was Brest-Litovsk.
+- the first five-year plan :: That began in 1928.
+- a plan to restore the Romanovs :: The Bolsheviks killed the Romanovs in 1918.
+
+@m
+In the Russian Civil War, the Bolsheviks (Reds) defeated the Whites partly because
++ the Reds controlled the central heartland and railways and were more united :: The Whites were scattered and divided.
+- the Whites had no foreign support at all :: The Allies sent limited aid and troops to the Whites.
+- the peasants wanted the landlords to return :: Peasants feared a White victory would bring landlords back.
+- the Whites were led by Lenin :: Lenin led the Reds.
+- Germany sent armies to help the Bolsheviks :: Germany was defeated in 1918.
+
+@m
+> "The Allied and Associated Governments affirm and Germany accepts the responsibility of Germany and her allies for causing all the loss and damage to which the Allied and Associated Governments and their nationals have been subjected as a consequence of the war."
+This passage provided the legal basis for
++ reparations payments by Germany :: It is Article 231, the war guilt clause.
+- the creation of the League of Nations :: The League's Covenant is a separate section.
+- the Dawes Plan :: The Dawes Plan (1924) restructured payments later.
+- the Treaty of Brest-Litovsk :: That was Germany's treaty with Russia in 1918.
+- the Locarno Pact :: That came in 1925.
+
+@m
+Which statement about women and the First World War is most accurate?
++ Women's wartime work helped them win the vote in Britain, Germany and several other countries by 1919 :: British women over 30 voted from 1918; German women from 1919.
+- Women were excluded from all wartime work :: Millions worked in factories and services.
+- France gave women the vote in 1918 :: French women voted only from 1944.
+- The war ended the women's suffrage movement :: The movement achieved major victories.
+- Women served as front-line infantry in all armies :: Front-line combat roles for women were rare.
+
+@m
+The Battle of the Somme (1916) is remembered for
++ enormous casualties, including about 57,000 British on the first day, and the first use of tanks :: It symbolizes the futility of attrition.
+- the first use of atomic weapons :: Those were used in 1945.
+- ending the war in a decisive Allied victory :: The war continued for two more years.
+- the defeat of the Russian army :: The Somme was on the Western Front.
+- the capture of Paris by Germany :: Paris was never captured in World War I.
+
+@m
+The Gallipoli campaign (1915–1916) was an Allied attempt to
++ knock the Ottoman Empire out of the war and open a supply route to Russia :: The campaign failed with heavy losses.
+- invade Germany through Denmark :: There was no such campaign.
+- defend Belgium from the Schlieffen Plan :: That occurred in 1914 in the west.
+- capture Vienna :: Gallipoli was in the Ottoman Empire.
+- break the British naval blockade :: The blockade was Britain's own strategy.
+
+@m
+The Paris Peace Conference's application of national self-determination is often criticized because
++ it was applied unevenly and left large minorities, such as Germans in the Sudetenland, inside new states :: Mixed populations made neat borders impossible.
+- no new states were created :: Many new states were created.
+- it gave all former colonies independence :: Colonies became mandates.
+- it united all Germans in one state :: Germans in Austria and the Sudetenland were excluded.
+- it was applied to the victors as well as the defeated :: It was applied mainly to defeated empires.
+
+@m
+Which treaty dismantled Hungary's territory, leaving it with about one-third of its prewar lands?
++ The Treaty of Trianon :: Signed in 1920, it left millions of Hungarians outside Hungary.
+- The Treaty of Versailles :: That treaty was with Germany.
+- The Treaty of Brest-Litovsk :: That was between Russia and the Central Powers.
+- The Treaty of Lausanne :: That was with Turkey (1923).
+- The Treaty of Paris (1856) :: That ended the Crimean War.
+
+@m
+Which statement about the League of Nations is accurate?
++ The United States never joined because the Senate refused to ratify the Treaty of Versailles :: This weakened the League from the start.
+- It was created by the Congress of Vienna :: It was created in 1919–20.
+- It had its own powerful army :: It had no armed forces.
+- Germany and the Soviet Union were founding members :: Germany joined in 1926 and the USSR in 1934.
+- It replaced the United Nations :: The UN replaced the League in 1945.
+
+@m
+The Bolsheviks seized power in Petrograd in the October Revolution, which in the Western calendar took place in
++ November 1917 :: Russia still used the Julian calendar; October 25 was November 7.
+- March 1917 :: That was the February Revolution.
+- August 1914 :: That was the start of the war.
+- March 1918 :: That was Brest-Litovsk.
+- January 1924 :: That was Lenin's death.
+
+@m
+War Communism during the Russian Civil War involved
++ nationalizing industry and forcibly requisitioning grain from peasants :: It kept the Red Army supplied but caused economic collapse.
+- allowing peasants to sell grain freely :: That was the NEP.
+- returning factories to private owners :: Industry was nationalized.
+- ending the secret police :: The Cheka expanded.
+- inviting foreign investment :: Foreign capital fled.
+
+@h
+Which development MOST directly turned a local Austro-Serbian conflict into a general European war in 1914?
++ The alliance system and rigid mobilization plans :: Russia's mobilization and Germany's Schlieffen Plan quickly involved France and Britain.
+- The Treaty of Versailles :: That came after the war.
+- The Zimmermann Telegram :: That came in 1917.
+- The Russian Revolution :: That came in 1917.
+- The Balfour Declaration :: That came in 1917 and concerned Palestine.
+
+@h
+Fritz Fischer's interpretation of the origins of the First World War emphasized
++ the aggressive aims of Germany's leaders, who were willing to risk a major war :: Fischer's 1961 work reopened the war-guilt debate.
+- Britain's desire to destroy Germany's navy :: Fischer focused on German policy.
+- Russia's sole responsibility :: Fischer argued the opposite of German innocence.
+- the war's purely accidental nature :: Fischer stressed intention, not accident.
+- the role of the United States :: The U.S. was neutral in 1914.
+
+@h
+Which comparison of the February and October Revolutions of 1917 is most accurate?
++ February was a largely spontaneous popular uprising that toppled the tsar; October was a planned seizure of power by one party :: The Bolsheviks organized October through the Military Revolutionary Committee.
+- Both were led by Lenin :: Lenin was in exile during February.
+- Both restored the monarchy :: February ended the monarchy; October created a Bolshevik state.
+- February brought the Bolsheviks to power and October removed them :: The reverse is closer to the truth.
+- Both ended Russian participation in the war immediately :: The Provisional Government kept fighting after February.
+
+@h
+John Maynard Keynes criticized the Treaty of Versailles mainly because he believed
++ the heavy reparations would damage the economy of Germany and all of Europe :: The Economic Consequences of the Peace (1919) predicted economic disaster.
+- the treaty was too lenient toward Germany :: Keynes thought it was too harsh economically.
+- the League of Nations should have been abolished :: His focus was economics.
+- Germany should have kept its colonies :: That was not his main argument.
+- the United States should have paid Germany reparations :: He proposed nothing of the kind.
+
+@h
+Which factor best explains why the First World War is described as a "total war"?
++ Governments mobilized entire economies and civilian populations, not just armies :: Production, labor, food and opinion were all directed toward victory.
+- It was fought on every continent equally :: Most fighting was in Europe and the Middle East.
+- Every country in the world took part :: Many countries stayed neutral.
+- Soldiers fought without any rules :: Some conventions still applied.
+- It lasted longer than any previous war :: The Thirty Years' War and Hundred Years' War lasted far longer.
+
+@h
+The Treaty of Brest-Litovsk shows that the Bolsheviks
++ were willing to give up vast territory to end the war and secure their revolution :: Lenin accepted harsh terms to survive.
+- won the war on the Eastern Front :: Russia was defeated.
+- kept fighting Germany until 1918's armistice :: Russia left the war in March 1918.
+- regained Poland and the Baltic states :: Russia lost those lands.
+- accepted Wilson's Fourteen Points :: The Bolsheviks made a separate peace with Germany.
+
+@h
+Which outcome of the First World War most directly contributed to the instability of central and eastern Europe in the 1920s?
++ The replacement of multinational empires by new states with disputed borders and large minorities :: Border disputes and ethnic tensions troubled the new states.
+- The creation of a strong, unified Austria-Hungary :: Austria-Hungary was dissolved.
+- The restoration of the Romanov dynasty :: The Romanovs were overthrown and killed.
+- The economic dominance of Germany in the region :: Germany was weakened and paying reparations.
+- The absorption of Poland into Russia :: Poland became independent.
+
+@h
+Which statement best explains why the Bolsheviks gained support between March and November 1917?
++ Their promises of peace, land and soviet power matched the demands of soldiers, peasants and workers :: The Provisional Government failed to deliver these.
+- They promised to continue the war until victory :: That was the Provisional Government's policy.
+- They had won a majority in the Constituent Assembly elections :: Those elections came after October, and they lost.
+- They were supported by the Russian nobility :: The nobility opposed them.
+- They promised to restore the tsar :: They opposed the monarchy.
+
+@m
+The mandate system created after World War I
++ placed former German colonies and Ottoman Arab lands under British, French and other Allied administration :: Mandates were supervised, in theory, by the League of Nations.
+- granted immediate independence to all colonies :: Colonies were not freed.
+- gave Germany new colonies in the Middle East :: Germany lost all colonies.
+- returned Arab lands to Ottoman rule :: The Ottoman Empire lost those lands.
+- created the state of Israel :: Israel was founded in 1948.
+
+@h
+Which wartime document most complicated the postwar settlement of the Middle East?
++ The Balfour Declaration (1917), supporting a Jewish national home in Palestine :: It conflicted with British promises to the Arabs.
+- The Fourteen Points' call for freedom of the seas :: This had no specific Middle Eastern effect.
+- The Treaty of Brest-Litovsk :: That concerned Russia and Germany.
+- The October Manifesto :: That was a 1905 Russian document.
+- The Zimmermann Telegram :: That concerned Mexico and the U.S.
+
+@m
+The Kronstadt rebellion of 1921 led Lenin to
++ abandon War Communism and introduce the New Economic Policy :: The revolt of once-loyal sailors showed how unpopular forced requisitioning was.
+- restore the Provisional Government :: The Bolsheviks kept power.
+- declare war on Germany again :: The war was over.
+- hold new elections to the Constituent Assembly :: There were none.
+- invite the tsar back :: The tsar had been killed in 1918.
+
+@m
+Which factor most weakened the tsarist government during the First World War?
++ Military defeats, shortages of food and weapons, and the influence of Rasputin at court :: Nicholas's absence at the front left an unpopular court in charge.
+- A successful German invasion of Petrograd :: Germany never captured Petrograd.
+- Britain's refusal to sell Russia grain :: Russia's problems were internal transport and production.
+- The Bolsheviks' control of the Duma :: The Bolsheviks were a small minority before 1917.
+- The emancipation of the serfs in 1914 :: The serfs had been freed in 1861.
