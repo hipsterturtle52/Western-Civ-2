@@ -272,12 +272,12 @@ The Civil Constitution of the Clergy (1790) was significant because it
 - ended the Revolution's conflict with the Church :: It intensified that conflict.
 
 @m
-Which event came FIRST?
-+ The October Days march on Versailles :: October 1789.
-- The execution of Louis XVI :: January 1793.
-- The Flight to Varennes :: June 1791.
-- The declaration of war on Austria :: April 1792.
-- The levée en masse :: August 1793.
+Which event of the French Revolution came FIRST?
++ The October Days march on Versailles :: The October Days march on Versailles dates from October 1789, the earliest of the five.
+- The execution of Louis XVI :: The execution of Louis XVI dates from January 1793, later than October 1789.
+- The Flight to Varennes :: The Flight to Varennes dates from June 1791, later than October 1789.
+- The declaration of war on Austria :: The declaration of war on Austria dates from April 1792, later than October 1789.
+- The levée en masse :: The levée en masse dates from August 1793, later than October 1789.
 
 @m
 The levée en masse of 1793 was significant because it

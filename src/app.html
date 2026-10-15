@@ -230,6 +230,7 @@ label.field { display: flex; flex-direction: column; gap: 4px; font-size: 0.9rem
 .timeline .ev b { font-weight: 600; }
 .timeline .ev span { display: block; color: var(--muted); font-size: 0.9rem; }
 .lesson-actions { position: sticky; bottom: calc(10px + env(safe-area-inset-bottom, 0px)); z-index: 5; }
+@media (max-width: 560px) { .lesson-actions { position: static; } }
 .lesson-actions .panel { box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12); flex-direction: row; flex-wrap: wrap; align-items: center; padding: 10px 12px; }
 
 /* Question runner */
@@ -301,7 +302,7 @@ details > summary { cursor: pointer; }
 /* Cheat sheet */
 .cheat h2 { font-size: 1.2rem; border-bottom: 2px solid var(--ink); padding-bottom: 4px; margin-top: 8px; }
 .cheat-cols { columns: 2 300px; column-gap: 28px; font-size: 0.9rem; }
-.cheat-cols > div { break-inside: avoid; padding: 2px 0; display: grid; grid-template-columns: 3.4em minmax(0, 1fr); gap: 8px; }
+.cheat-cols > div { break-inside: avoid; padding: 2px 0; display: grid; grid-template-columns: 5.6em minmax(0, 1fr); gap: 8px; }
 .cheat-cols .y { font-family: var(--serif); font-weight: 600; color: var(--accent); text-align: right; font-variant-numeric: tabular-nums; }
 .who { columns: 2 300px; column-gap: 28px; font-size: 0.9rem; }
 .who p { break-inside: avoid; margin-bottom: 4px; }
@@ -317,11 +318,16 @@ details > summary { cursor: pointer; }
   .shell { display: block; }
   main { padding: 0; }
   .col, .col.wide { max-width: none; gap: 8px; }
-  body { font-size: 8.5pt; line-height: 1.3; background: #fff; }
-  .cheat-cols, .who { columns: 3; column-gap: 14px; font-size: 7.5pt; }
-  .cheat h2 { font-size: 10pt; margin-top: 4px; }
+  body { font-size: 7pt; line-height: 1.22; background: #fff; }
+  .cheat h1 { font-size: 13pt; }
+  .cheat .eyebrow { display: none; }
+  .cheat-cols { columns: 4; column-gap: 10px; font-size: 6.4pt; }
+  .cheat-cols > div { grid-template-columns: 4.6em minmax(0, 1fr); gap: 4px; padding: 0; }
+  .who { columns: 4; column-gap: 10px; font-size: 6pt; line-height: 1.18; }
+  .who p { margin-bottom: 1.5px; }
+  .cheat h2 { font-size: 8.5pt; margin-top: 2px; padding-bottom: 1px; border-bottom-width: 1px; }
+  @page { size: letter; margin: 8mm; }
   .cheat .hideable.masked { color: #000; background: none; }
-  @page { margin: 10mm; }
 }
 </style>
 </head>
@@ -475,7 +481,13 @@ function navHTML() {
   return s;
 }
 
+let rendering = false;
 function render() {
+  if (rendering) return;
+  rendering = true;
+  try { renderNow(); } finally { rendering = false; }
+}
+function renderNow() {
   const r = route();
   $("#nav").innerHTML = navHTML();
   const running = runningExam();
@@ -935,8 +947,8 @@ function viewCheat() {
   <div class="cheat-cols">${tlHtml}</div>
   <h2>Who's who: thinkers, leaders, and their big idea</h2>
   <div class="who">${who}</div>
-  <h2>Top 3 per unit</h2>
-  <div class="grid2">${mini}</div>
+  <div class="no-print"><h2>Top 3 per unit</h2>
+  <div class="grid2">${mini}</div></div>
 </div>`;
 }
 
@@ -1000,7 +1012,20 @@ function viewPlan() {
   const start = p.start || today;
   const def = isoDate(new Date(Date.now() + 21 * 864e5));
   const examDate = p.date || def;
-  const res = buildPlan(+p.hours, examDate, start);
+  return `<div class="col">
+  <span class="eyebrow">Day by day</span>
+  <h1>Study plan</h1>
+  <p class="lede">Built from what's left: finished units drop out and units your diagnostic marked "skim" get half the time. The last two days before the exam are always Practice Exam 1 and Practice Exam 2.</p>
+  <div class="panel"><div class="row">
+    <label class="field">Hours per day<input id="planHours" type="number" min="0.5" max="12" step="0.5" value="${esc(p.hours)}"></label>
+    <label class="field">Start date<input id="planStart" type="date" value="${esc(start)}"></label>
+    <label class="field">Exam date<input id="planDate" type="date" value="${esc(examDate)}"></label>
+  </div><p class="small muted">Total remaining: ${fmtH(hoursLeft())}. Changes save automatically.</p></div>
+  <div id="planOut">${planOut(+p.hours, examDate, start)}</div>
+</div>`;
+}
+function planOut(hours, examDate, start) {
+  const res = buildPlan(hours, examDate, start);
   let out;
   if (res.error) out = `<div class="notice bad">${res.error}</div>`;
   else {
@@ -1008,17 +1033,7 @@ function viewPlan() {
     const warn = res.shortfall > 0.1 ? `<div class="notice bad"><b>Not enough time:</b> about ${fmtH(res.shortfall)} of unit work doesn't fit before the practice exams. Study about <b>${res.suggest} hours a day</b>, or move the exam date later.</div>` : `<div class="notice info">Fits: ${fmtH(res.need)} of remaining work across ${res.studyDays} study days, then two practice-exam days.</div>`;
     out = warn + `<div class="tablewrap"><table class="plan-table"><thead><tr><th>Date</th><th>Day</th><th>Tasks</th><th class="n">Hours</th></tr></thead><tbody>${rows}</tbody></table></div>`;
   }
-  return `<div class="col">
-  <span class="eyebrow">Day by day</span>
-  <h1>Study plan</h1>
-  <p class="lede">Built from what's left: finished units drop out and units your diagnostic marked "skim" get half the time. The last two days before the exam are always Practice Exam 1 and Practice Exam 2.</p>
-  <div class="panel"><div class="row">
-    <label class="field">Hours per day<input id="planHours" type="number" min="0.5" max="12" step="0.5" value="${esc(p.hours)}" data-act="plan-input"></label>
-    <label class="field">Start date<input id="planStart" type="date" value="${esc(start)}" data-act="plan-input"></label>
-    <label class="field">Exam date<input id="planDate" type="date" value="${esc(examDate)}" data-act="plan-input"></label>
-  </div><p class="small muted">Total remaining: ${fmtH(hoursLeft())}. Changes save automatically.</p></div>
-  <div id="planOut">${out}</div>
-</div>`;
+  return out;
 }
 
 /* ---------- about ---------- */
@@ -1196,7 +1211,8 @@ document.addEventListener("change", (ev) => {
   }
   if (["planHours", "planStart", "planDate"].includes(el.id)) {
     ST.plan = { hours: +$("#planHours").value || 0, start: $("#planStart").value, date: $("#planDate").value };
-    save(); render();
+    save();
+    $("#planOut").innerHTML = planOut(ST.plan.hours, ST.plan.date, ST.plan.start);
   }
 });
 document.addEventListener("keydown", (ev) => {

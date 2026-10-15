@@ -234,12 +234,12 @@ Pierre Bayle's Historical and Critical Dictionary (1697) contributed to the new 
 - calling for a return to absolute monarchy :: His work was critical, not a political program for absolutism.
 
 @m
-Which development came LAST?
-+ Publication of Newton's Principia :: 1687, the latest of these.
-- Galileo's trial before the Inquisition :: 1633.
-- Publication of Copernicus's On the Revolutions :: 1543.
-- Harvey's work on the circulation of the blood :: 1628.
-- Publication of Hobbes's Leviathan :: 1651.
+Which development of the Scientific Revolution came LAST?
++ Publication of Newton's Principia :: Publication of Newton's Principia dates from 1687, the latest of the five.
+- Galileo's trial before the Inquisition :: Galileo's trial before the Inquisition dates from 1633, earlier than 1687.
+- Publication of Copernicus's On the Revolutions :: Publication of Copernicus's On the Revolutions dates from 1543, earlier than 1687.
+- Harvey's work on the circulation of the blood :: Harvey's work on the circulation of the blood dates from 1628, earlier than 1687.
+- Publication of Hobbes's Leviathan :: Publication of Hobbes's Leviathan dates from 1651, earlier than 1687.
 
 @h
 A historian argues that the Scientific Revolution changed how educated Europeans decided what was true. Which change best supports this?

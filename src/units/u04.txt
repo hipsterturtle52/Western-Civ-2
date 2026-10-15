@@ -270,12 +270,12 @@ Frederick II of Prussia described himself as
 - "Lord Protector" :: That was Cromwell's title.
 
 @m
-Which work came FIRST?
-+ Montesquieu's The Spirit of the Laws :: 1748.
-- Rousseau's The Social Contract :: 1762.
-- Beccaria's On Crimes and Punishments :: 1764.
-- Smith's The Wealth of Nations :: 1776.
-- Wollstonecraft's A Vindication of the Rights of Woman :: 1792.
+Which Enlightenment work was published FIRST?
++ Montesquieu's The Spirit of the Laws :: Montesquieu's The Spirit of the Laws dates from 1748, the earliest of the five.
+- Rousseau's The Social Contract :: Rousseau's The Social Contract dates from 1762, later than 1748.
+- Beccaria's On Crimes and Punishments :: Beccaria's On Crimes and Punishments dates from 1764, later than 1748.
+- Smith's The Wealth of Nations :: Smith's The Wealth of Nations dates from 1776, later than 1748.
+- Wollstonecraft's A Vindication of the Rights of Woman :: Wollstonecraft's A Vindication of the Rights of Woman dates from 1792, later than 1748.
 
 @h
 Which development best illustrates the limits of enlightened despotism?

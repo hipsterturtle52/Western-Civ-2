@@ -1,0 +1,50 @@
+STATIC CHECKS
+  ok   417 questions: each has 5 options, exactly one answer key, 5 explanations, a valid unit tag, no duplicates
+  ok   pools are disjoint: no question repeats between quizzes, diagnostic, Exam 1 and Exam 2
+  ok   each practice exam has 120 questions (official count)
+  ok   diagnostic has 30 questions
+  ok   quiz: answer positions A-E 30/30/29/29/29, difficulty easy/med/hard 30/48/22%
+  ok   diag: answer positions A-E 6/6/6/6/6, difficulty easy/med/hard 30/50/20%
+  ok   exam1: answer positions A-E 24/24/24/24/24, difficulty easy/med/hard 30/52/18%
+  ok   exam2: answer positions A-E 24/24/24/24/24, difficulty easy/med/hard 29/50/21%
+  ok   whole bank: positions 84/84/83/83/83; difficulty 30% easy, 50% medium, 20% hard (target 30/50/20)
+  ok   correct answer is the longest option in 13% of questions (chance = 20%)
+
+BROWSER RUN
+  ok   diagnostic completed by keyboard: scored 15/30 as expected
+  ok   diagnostic per-unit scores match the answer key
+  ok   diagnostic results show 12 unit rows with Skim/Review/Must-study marks
+  ok   mistake log received all 15 missed diagnostic questions
+  ok   exam timer running (89:58 left of 90:00)
+  ok   Practice Exam 1 submitted: 96/120 (80%) as expected
+  ok   exam results show all 12 topics
+  ok   readiness stays "Not ready yet" with only one exam at 80%
+  ok   unit quiz shows a verdict and an explanation for all 5 options after answering
+  ok   unit 5 quiz recorded (5/15)
+  ok   Leitner: known card moved to box 2, missed card to box 1
+  ok   "Review missed only" offers exactly the 1 missed card
+  ok   study plan: 14 days + exam day; Practice Exam 1 and 2 fall on the 2 days before the exam
+  ok   reset clears progress
+  ok   import restores exported progress exactly
+  ok   readiness shows "Ready to book" once both exams are at 75% or higher (80%, 75%)
+  ok   expired exam is auto-submitted on reload (no pausing)
+  ok   with storage blocked: no errors, app works, warning shown
+  ok   no JavaScript errors during the run
+
+COVERAGE VS OFFICIAL WEIGHTS (* = weight unverified)
+unit | weight  | wt share | lesson min | lesson share | questions (share) | quiz | per exam | cards (share)
+   1 | 7-9%    |     8.1% |         11 |         7.8% |        34 (8.2%) |   12 |       10 |    20 (8.3%)
+   2 | 4-6%    |     5.1% |          8 |         5.4% |        24 (5.8%) |   10 |        6 |    12 (5.0%)
+   3 | 5-7%    |     6.1% |          8 |         5.5% |        26 (6.2%) |   10 |        7 |    15 (6.2%)
+   4 | 7-9%    |     8.1% |         10 |         7.2% |        35 (8.4%) |   12 |       10 |    20 (8.3%)
+   5 | 10-13%  |    11.7% |         16 |        10.9% |        47 (11.3%) |   15 |       14 |    28 (11.6%)
+   6 | 7-9%    |     8.1% |         10 |         6.9% |        34 (8.2%) |   12 |       10 |    20 (8.3%)
+   7 | 6-8%*   |     7.1% |         11 |         7.7% |        29 (7.0%) |   11 |        8 |    17 (7.0%)
+   8 | 8-10%   |     9.1% |         14 |         9.6% |        38 (9.1%) |   13 |       11 |    22 (9.1%)
+   9 | 7-9%    |     8.1% |         12 |         7.9% |        34 (8.2%) |   12 |       10 |    20 (8.3%)
+  10 | 10-12%  |    11.2% |         15 |        10.4% |        44 (10.6%) |   15 |       13 |    26 (10.7%)
+  11 | 7-9%    |     8.1% |         14 |         9.8% |        34 (8.2%) |   12 |       10 |    20 (8.3%)
+  12 | 8-10%   |     9.1% |         16 |        11.0% |        38 (9.1%) |   13 |       11 |    22 (9.1%)
+TOTAL: 12 lessons (145 min), 417 questions, 242 flashcards
+
+AUDIT PASSED

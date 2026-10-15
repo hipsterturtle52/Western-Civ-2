@@ -222,12 +222,12 @@ Cavour sent Piedmontese troops to fight in the Crimean War mainly to
 - spread Mazzini's republican ideas :: Cavour was a monarchist.
 
 @m
-Which event came LAST?
-+ The proclamation of the German Empire :: January 1871.
-- The Danish War :: 1864.
-- The Battle of Königgrätz :: 1866.
-- The proclamation of the Kingdom of Italy :: 1861.
-- The Crimean War :: 1853–56.
+Which event in the unification era came LAST?
++ The proclamation of the German Empire :: The proclamation of the German Empire dates from January 1871, the latest of the five.
+- The Danish War :: The Danish War dates from 1864, earlier than January 1871.
+- The Battle of Königgrätz :: The Battle of Königgrätz dates from 1866, earlier than January 1871.
+- The proclamation of the Kingdom of Italy :: The proclamation of the Kingdom of Italy dates from 1861, earlier than January 1871.
+- The Crimean War :: The Crimean War dates from 1853–56, earlier than January 1871.
 
 @m
 Bismarck's purpose in creating health, accident and old-age insurance in the 1880s was to

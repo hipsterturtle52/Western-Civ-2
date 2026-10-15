@@ -200,12 +200,12 @@ Which pairing of a state and its form of government around 1700 is correct?
 - Dutch Republic: absolute monarchy under the House of Orange :: The Orange stadtholders were powerful but the Republic had no king.
 
 @m
-Which event came FIRST?
-+ The beheading of Charles I :: 1649, the earliest of these.
-- The Glorious Revolution :: 1688.
-- The founding of St. Petersburg :: 1703.
-- The Treaty of Utrecht :: 1713.
-- The revocation of the Edict of Nantes :: 1685.
+Which of these events in Stuart England, France and Russia came FIRST?
++ The beheading of Charles I :: The beheading of Charles I dates from 1649, the earliest of the five.
+- The Glorious Revolution :: The Glorious Revolution dates from 1688, later than 1649.
+- The founding of St. Petersburg :: The founding of St. Petersburg dates from 1703, later than 1649.
+- The Treaty of Utrecht :: The Treaty of Utrecht dates from 1713, later than 1649.
+- The revocation of the Edict of Nantes :: The revocation of the Edict of Nantes dates from 1685, later than 1649.
 
 @m
 > "The royal throne is not the throne of a man, but the throne of God himself... The person of the king is sacred, and to attack him in any way is sacrilege."

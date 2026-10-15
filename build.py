@@ -206,15 +206,29 @@ def parse_unit(path, topic):
     }, qs
 
 
-def assign_pools(uid, qs, rng):
+# Difficulty sequence for diagnostic picks across all units (30 picks -> ~30/50/20).
+DIAG_CYCLE = list("mehmmemhem")
+
+
+def assign_pools(uid, qs, rng, diag_state):
     plan = PLAN[uid]
     targets = {"diag": plan["diag"], "exam1": plan["exam"], "exam2": plan["exam"], "quiz": plan["quiz"]}
     need = sum(targets.values())
     if len(qs) != need:
         raise ValueError(f"unit {uid}: has {len(qs)} questions, plan needs {need}")
-    # Deal each difficulty level across pools so every pool gets a similar mix.
     counts = {k: 0 for k in targets}
-    order = sorted(range(len(qs)), key=lambda i: ("emh".index(qs[i]["diff"]), rng.random()))
+    # Diagnostic first: follow the global difficulty cycle so the 30 picks match the bank's mix.
+    free = list(range(len(qs)))
+    rng.shuffle(free)
+    for _ in range(targets["diag"]):
+        want = DIAG_CYCLE[diag_state["n"] % len(DIAG_CYCLE)]
+        diag_state["n"] += 1
+        pick = next((i for i in free if qs[i]["diff"] == want), free[0])
+        qs[pick]["pool"] = "diag"
+        free.remove(pick)
+        counts["diag"] += 1
+    # Deal the rest by difficulty so quiz and both exams get a similar mix.
+    order = sorted(free, key=lambda i: ("emh".index(qs[i]["diff"]), rng.random()))
     for i in order:
         # Pool with the lowest fill ratio that still has room.
         pool = min((k for k in targets if counts[k] < targets[k]), key=lambda k: (counts[k] / targets[k], k))
@@ -262,6 +276,7 @@ def validate(q, uid):
 def main():
     outline = json.loads((ROOT / "outline.json").read_text(encoding="utf-8"))
     rng = random.Random(1648)
+    diag_state = {"n": 0}
     units, questions = [], []
     for topic in outline["topics"]:
         path = ROOT / "src" / "units" / f"u{topic['id']:02d}.txt"
@@ -271,7 +286,7 @@ def main():
         for q in qs:
             validate(q, unit["id"])
         if qs:
-            assign_pools(unit["id"], qs, rng)
+            assign_pools(unit["id"], qs, rng, diag_state)
         for n, q in enumerate(qs, 1):
             q["unit"] = unit["id"]
             q["id"] = f"u{unit['id']}q{n}"

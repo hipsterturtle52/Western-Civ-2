@@ -243,12 +243,12 @@ The "blank check" of July 1914 refers to
 - Serbia's acceptance of every term of the Austrian ultimatum :: Serbia accepted most but not all of it.
 
 @m
-Which event came FIRST?
-+ The Bosnian annexation crisis :: 1908.
-- The Battle of the Marne :: 1914.
-- The sinking of the Lusitania :: 1915.
-- The Battle of the Somme :: 1916.
-- The Zimmermann Telegram :: 1917.
+Which event on the road to and through the First World War came FIRST?
++ The Bosnian annexation crisis :: The Bosnian annexation crisis dates from 1908, the earliest of the five.
+- The Battle of the Marne :: The Battle of the Marne dates from 1914, later than 1908.
+- The sinking of the Lusitania :: The sinking of the Lusitania dates from 1915, later than 1908.
+- The Battle of the Somme :: The Battle of the Somme dates from 1916, later than 1908.
+- The Zimmermann Telegram :: The Zimmermann Telegram dates from 1917, later than 1908.
 
 @m
 The Schlieffen Plan failed mainly because

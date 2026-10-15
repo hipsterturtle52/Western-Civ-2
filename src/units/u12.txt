@@ -224,12 +224,12 @@ Which statement best explains the British victory in the Battle of Britain (1940
 - The French navy defended British skies :: France had fallen.
 
 @m
-Which event came FIRST?
-+ The fall of France :: June 1940.
-- Operation Barbarossa :: June 1941.
-- Pearl Harbor :: December 1941.
-- The Battle of Stalingrad :: 1942–43.
-- D-Day :: June 1944.
+Which event of the Second World War came FIRST?
++ The fall of France :: The fall of France dates from June 1940, the earliest of the five.
+- Operation Barbarossa :: Operation Barbarossa dates from June 1941, later than June 1940.
+- Pearl Harbor :: Pearl Harbor dates from December 1941, later than June 1940.
+- The Battle of Stalingrad :: The Battle of Stalingrad dates from 1942–43, later than June 1940.
+- D-Day :: D-Day dates from June 1944, later than June 1940.
 
 @m
 At the Yalta Conference (February 1945), Stalin promised
