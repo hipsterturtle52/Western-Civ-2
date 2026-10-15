@@ -421,7 +421,7 @@ John Maynard Keynes criticized the Treaty of Versailles mainly because he believ
 
 @h
 Which factor best explains why the First World War is described as a "total war"?
-+ whole societies were mobilized :: Production, labor, food and opinion were all directed toward victory.
++ Whole societies were mobilized :: Production, labor, food and opinion were all directed toward victory.
 - It was fought on every continent equally :: Most fighting was in Europe and the Middle East.
 - Every country in the world took part :: Many countries stayed neutral.
 - Soldiers fought without any rules :: Some conventions still applied.
