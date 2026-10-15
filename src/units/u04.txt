@@ -1,0 +1,390 @@
+=== META
+short: The Enlightenment
+range: 1715–1789
+
+=== LESSON
+## The big picture
+The **Enlightenment** was an eighteenth-century movement that applied the methods of the Scientific Revolution to human society. If Newton could find the natural laws of the universe, the thinkers of the Enlightenment asked, why not find the natural laws of government, economics, religion and justice? Their tools were **reason, skepticism of tradition, and confidence in progress**. Their targets were the Catholic Church's power, censorship, torture, arbitrary rule and inherited privilege. The exam loves to match each thinker to a book and an idea, so learn the "who said what" list in the Must-know box.
+
+## The philosophes and the spread of ideas
+The French called these writers **philosophes**: not academic philosophers but public intellectuals who wrote clearly for educated readers. Their ideas spread through new channels of the **public sphere**: books and newspapers, coffeehouses, reading clubs, Masonic lodges and the **salons**, gatherings hosted in Paris homes by educated women such as **Madame Geoffrin**, where nobles, writers and officials debated ideas. Censorship existed but was often evaded by printing in the Dutch Republic or Switzerland.
+
+-> Newton shows nature runs on rational laws; Locke says people are shaped by environment | Philosophes apply reason to society and attack tradition, privilege and the Church | Reform programs: toleration, legal reform, limited or "enlightened" government, and eventually revolution
+
+The great collective project was the ***Encyclopedia***, edited by **Denis Diderot** and Jean d'Alembert (published 1751–1772, 28 volumes). It gathered practical and scientific knowledge, from how to make pins to how to think about religion, and quietly criticized the Church and the state. The French government banned it more than once, but it was completed anyway.
+
+## The great thinkers
+**Voltaire** (François-Marie Arouet, 1694–1778) was the most famous philosophe. He admired England's tolerance and freedoms (*Letters on the English*, 1733), mocked religious fanaticism, and campaigned to clear the name of **Jean Calas**, a Protestant executed after a biased trial. His satire ***Candide*** (1759) ridiculed blind optimism. His battle cry against the intolerant Church was "**Écrasez l'infâme**" ("Crush the infamous thing"). He was a **deist**, like many philosophes: God created the universe and its laws, then let it run; there is no need for miracles, priests or revealed scripture.
+
+**Baron de Montesquieu** wrote ***The Spirit of the Laws* (1748)**. Studying governments around the world, he argued that liberty is safest when power is divided among **legislative, executive and judicial branches** that check one another: the **separation of powers**. He thought England's system came closest. The framers of the U.S. Constitution relied heavily on him. His earlier *Persian Letters* satirized French society through the eyes of fictional Persian visitors.
+
+**Jean-Jacques Rousseau** was the Enlightenment's most radical and most unusual voice. In ***The Social Contract* (1762)** he wrote, "Man is born free, and everywhere he is in chains." Legitimate government, he argued, must express the **general will**, the collective will of the community for the common good, and individuals may be "forced to be free" by obeying it. That idea could support democracy (popular sovereignty) or justify majority tyranny. In *Emile* (1762) he argued that children should learn by nature and experience. Rousseau distrusted pure reason and praised emotion and nature, so he also anticipated **Romanticism** (Unit 7).
+
+**Adam Smith**, a Scottish economist, wrote ***The Wealth of Nations* (1776)**, the founding work of modern economics. He attacked mercantilism and argued for **laissez-faire** ("let it be") free markets: when individuals pursue their own interest, an "**invisible hand**" of competition promotes the general good. He praised the **division of labor**, showing how a pin factory multiplied output by splitting work into simple steps. The French **physiocrats** (such as François Quesnay) had argued earlier that land, not gold, is the source of wealth and that trade in grain should be free.
+
+**Cesare Beccaria**, an Italian, wrote ***On Crimes and Punishments* (1764)**, arguing against **torture** and the **death penalty** and for punishments that are swift, certain and proportional to the crime. Many states reformed their laws because of him.
+
+**Mary Wollstonecraft** wrote ***A Vindication of the Rights of Woman* (1792)**, arguing that women appear inferior only because they are denied education, and that reason belongs to both sexes. Most male philosophes, including Rousseau, assumed women belonged in the home.
+
+**David Hume**, a Scottish philosopher, pushed skepticism further, questioning cause and effect and arguing that reports of miracles are never believable. **Immanuel Kant** of Prussia summed up the age in his 1784 essay "What Is Enlightenment?": "**Dare to know!**" (*Sapere aude*), that is, have the courage to use your own reason.
+
+## Enlightened despotism
+Some monarchs, called **enlightened despots** (or enlightened absolutists), borrowed Enlightenment ideas to make their states stronger and more efficient, without giving up any power.
+
+-> Monarchs want stronger, richer states after costly wars | Enlightened despots adopt rational reforms from the philosophes | Real gains in law, toleration and administration, but no sharing of power and serfdom mostly untouched
+
+**Frederick II (the Great) of Prussia** (r. 1740–1786) corresponded with Voltaire and hosted him at his palace. He called himself "the **first servant of the state**," abolished torture, granted wide religious toleration, reformed the courts and promoted agriculture. But he kept serfdom and relied on the Junkers to staff his army.
+
+**Catherine II (the Great) of Russia** (r. 1762–1796) corresponded with Voltaire and Diderot and called a Legislative Commission in 1767 to reform Russian law. After the huge peasant revolt led by **Emelian Pugachev** (1773–1775), she sided firmly with the nobles: her **Charter of the Nobility (1785)** freed nobles from state service and confirmed their power over serfs. Serfdom expanded under her rule. She also expanded Russia south to the Black Sea at the expense of the Ottomans.
+
+**Joseph II of Austria** (r. 1780–1790) was the most radical. His **Edict of Toleration (1781)** gave rights to Protestants and Orthodox Christians, and he eased restrictions on Jews. He **abolished serfdom** and tried to replace labor services with money rents, closed hundreds of monasteries and imposed German as the language of administration. Nobles, clergy and non-German peoples resisted so fiercely that his successor, Leopold II, cancelled most of his reforms. Joseph's failure shows how hard it was to impose reform from above.
+
+## Toleration, reform and the limits of the Enlightenment
+Toleration was the cause that united almost every philosophe. Religious wars and persecution, they argued, came from **fanaticism** and **superstition**, and a rational state should leave belief to the individual. The German Jewish philosopher **Moses Mendelssohn** argued that Jews could be loyal citizens and full participants in European culture, and his friend Gotthold Lessing's play *Nathan the Wise* (1779) pleaded for respect among Jews, Christians and Muslims. Some states moved slowly toward legal equality: Joseph II eased restrictions on Jews in the 1780s, and revolutionary France granted Jews full citizenship in 1791.
+
+Enlightenment writers also began to attack **slavery**. Montesquieu ridiculed the arguments used to defend it, the *Encyclopedia* condemned it, and by the 1780s abolition societies had formed in Britain and France. Their success came later: Britain abolished the slave trade in 1807.
+
+Yet the Enlightenment had clear limits. Most philosophes were **reformers, not democrats**. Voltaire hoped for a wise king, not rule by the uneducated masses. Many assumed that women's nature suited them for the home, and some, including Hume, wrote that non-Europeans were inferior. Critics then and since have pointed out that "reason" was often defined by and for educated European men.
+
+-> Philosophes teach that institutions should be judged by reason and utility | Readers begin to question privilege, censorship and arbitrary power | In 1789 French revolutionaries put Enlightenment principles (rights, popular sovereignty, separation of powers) into practice
+
+The Enlightenment's most lasting legacy is the idea of **progress**: that human beings can use reason to understand their world and make it better. Its political ideas (natural rights, separation of powers, popular sovereignty, toleration, free markets) became the program of the **American and French Revolutions** (Unit 5) and of nineteenth-century **liberalism** (Unit 7).
+
+## The partitions of Poland
+**Poland-Lithuania** was a large but weak state. Its nobles elected the king, and any single noble could block legislation in the parliament (the **liberum veto**). Its neighbors exploited the weakness.
+
+-> Poland's elected kings and the liberum veto leave it with no strong government or army | Russia, Prussia and Austria agree to take Polish territory in 1772, 1793 and 1795 | Poland disappears from the map until 1918
+
+In the **First Partition (1772)**, Russia, Prussia and Austria took about a third of its territory. Poland tried to reform and adopted a modern **constitution in May 1791**. Russia and Prussia answered with the **Second Partition (1793)**. A national uprising led by **Tadeusz Kościuszko** failed, and the **Third Partition (1795)** erased Poland entirely. The partitions show that "enlightened" rulers still practiced old-fashioned power politics.
+
+=== MUSTKNOW
+- **Philosophes** applied reason to society; ideas spread through **salons**, coffeehouses, print and the **Encyclopedia** (Diderot).
+- **Voltaire:** toleration, satire (*Candide*), anti-clerical "Crush the infamous thing," deism.
+- **Montesquieu:** *The Spirit of the Laws* (1748): separation of powers, checks and balances.
+- **Rousseau:** *The Social Contract* (1762): general will, popular sovereignty; "Man is born free, and everywhere he is in chains."
+- **Adam Smith:** *The Wealth of Nations* (1776): laissez-faire, invisible hand, division of labor.
+- **Beccaria:** *On Crimes and Punishments* (1764): against torture and the death penalty.
+- **Wollstonecraft:** *A Vindication of the Rights of Woman* (1792): education and reason for women.
+- **Deism:** God the clockmaker; no miracles or revealed religion needed.
+- **Enlightened despots:** Frederick II ("first servant of the state"), Catherine II (Pugachev revolt → Charter of the Nobility), Joseph II (Edict of Toleration, abolished serfdom; reforms reversed).
+- **Partitions of Poland:** 1772, 1793, 1795 by Russia, Prussia, Austria; Poland vanishes until 1918.
+
+=== TIMELINE
+1733 | Voltaire's Letters on the English | Praises English tolerance and liberty
+*1748 | Montesquieu's The Spirit of the Laws | Separation of powers
+*1751 | Encyclopedia begins | Diderot and d'Alembert's great project
+1759 | Voltaire's Candide | Satire of optimism
+*1762 | Rousseau's The Social Contract | General will; Catherine II takes power
+1764 | Beccaria's On Crimes and Punishments | Against torture and execution
+*1772 | First Partition of Poland | Russia, Prussia and Austria take territory
+1773–1775 | Pugachev's Rebellion | Massive Russian peasant revolt
+*1776 | Adam Smith's The Wealth of Nations | Laissez-faire economics
+1781 | Joseph II's Edict of Toleration | Rights for non-Catholic Christians in Austria
+1784 | Kant's "What Is Enlightenment?" | "Dare to know!"
+1785 | Catherine's Charter of the Nobility | Nobles' privileges confirmed
+1792 | Wollstonecraft's Vindication of the Rights of Woman | Early feminist argument
+*1795 | Third Partition of Poland | Poland disappears
+
+=== CARDS
+Philosophes :: French public intellectuals of the Enlightenment who applied reason to society.
+Salons :: Gatherings in private homes, often hosted by women, where Enlightenment ideas were debated.
+@ Denis Diderot :: Edited the Encyclopedia (1751–72), a summary of knowledge that criticized Church and state.
+@ Voltaire :: Toleration, satire (Candide), "Crush the infamous thing"; deist; defended Jean Calas.
+@ Montesquieu :: The Spirit of the Laws (1748): separation of powers and checks and balances.
+@ Jean-Jacques Rousseau :: The Social Contract (1762): the general will and popular sovereignty; Emile on education.
+General will :: Rousseau's idea of the community's collective will for the common good, the basis of legitimate law.
+@ Adam Smith :: The Wealth of Nations (1776): free markets, the invisible hand, division of labor.
+Laissez-faire :: Economic policy of minimal government interference in markets.
+Physiocrats :: French economists who said land is the source of wealth and urged free trade in grain.
+@ Cesare Beccaria :: On Crimes and Punishments (1764): opposed torture and the death penalty.
+@ Mary Wollstonecraft :: A Vindication of the Rights of Woman (1792): women deserve equal education and are capable of reason.
+@ Immanuel Kant :: "Dare to know!": Enlightenment means using your own reason without another's guidance.
+Deism :: Belief in a creator God who set natural laws in motion but does not intervene; rejects miracles.
+Enlightened despotism :: Absolute monarchs using Enlightenment reforms to strengthen the state without sharing power.
+@ Frederick II (the Great) :: Prussian king (1740–86); "first servant of the state"; abolished torture; religious toleration.
+@ Catherine II (the Great) :: Russian empress (1762–96); corresponded with philosophes but strengthened serfdom after Pugachev's revolt.
+@ Joseph II :: Austrian emperor (1780–90); Edict of Toleration, abolished serfdom; most reforms reversed.
+Liberum veto :: Rule letting any single Polish noble block legislation; it crippled Poland's government.
+Partitions of Poland :: 1772, 1793, 1795: Russia, Prussia and Austria divided Poland until it vanished.
+
+=== QUESTIONS
+@e
+Which German Jewish philosopher argued that Jews could be full participants in European culture and loyal citizens?
++ Moses Mendelssohn :: Mendelssohn was a leading voice of the Jewish Enlightenment (Haskalah).
+- Karl Marx :: Marx was a nineteenth-century socialist.
+- Immanuel Kant :: Kant was a Prussian philosopher, not Jewish.
+- Johann Gottfried Herder :: Herder wrote on national culture and language.
+- Martin Luther :: Luther was a sixteenth-century reformer.
+
+@e
+Most philosophes were best described as
++ reformers who wanted rational, tolerant government, not necessarily democracy :: Many, like Voltaire, hoped for an enlightened monarch rather than popular rule.
+- revolutionaries who demanded immediate democracy everywhere :: Few philosophes before 1789 called for full democracy.
+- defenders of the Catholic Church's political power :: They generally attacked clerical power.
+- supporters of the divine right of kings :: They judged government by reason and utility.
+- opponents of all scientific inquiry :: They were enthusiastic about science.
+
+@e
+Which Enlightenment thinker argued for the separation of powers into legislative, executive and judicial branches?
++ Montesquieu :: The Spirit of the Laws (1748) made the separation of powers famous.
+- Rousseau :: Rousseau stressed the general will and popular sovereignty.
+- Adam Smith :: Smith wrote on economics.
+- Voltaire :: Voltaire is best known for toleration and satire.
+- Beccaria :: Beccaria wrote on criminal justice.
+
+@e
+Adam Smith's The Wealth of Nations (1776) argued that
++ free markets guided by an "invisible hand" of competition promote prosperity :: Smith attacked mercantilist controls and favored laissez-faire.
+- governments should hoard gold and silver through tariffs :: That is mercantilism, which Smith criticized.
+- workers should own the means of production :: That is socialism, which came later.
+- the state should set all prices and wages :: Smith opposed such controls.
+- colonies are the only true source of wealth :: Smith saw labor and productivity as the sources of wealth.
+
+@e
+The opening line "Man is born free, and everywhere he is in chains" comes from
++ Rousseau's The Social Contract :: The 1762 work argued that legitimate government must express the general will.
+- Locke's Two Treatises of Government :: Locke wrote about natural rights but not this line.
+- Voltaire's Candide :: Candide is a satirical novel about optimism.
+- Hobbes's Leviathan :: Hobbes described life in the state of nature as "nasty, brutish, and short."
+- Marx's Communist Manifesto :: The Manifesto ends "Workers of the world, unite!" and dates from 1848.
+
+@e
+Cesare Beccaria's On Crimes and Punishments (1764) called for
++ an end to torture and the death penalty :: Beccaria argued punishments should prevent crime, not inflict cruelty.
+- harsher punishments for religious dissenters :: Beccaria opposed cruelty and arbitrariness.
+- the restoration of trial by ordeal :: Beccaria favored rational justice.
+- the abolition of all prisons :: Beccaria favored proportionate punishment, not abolishing prisons.
+- rule by the Catholic Inquisition :: Beccaria criticized arbitrary courts.
+
+@e
+Who edited the Encyclopedia, a major summary of Enlightenment knowledge?
++ Denis Diderot :: Diderot and d'Alembert led the project from 1751 to 1772.
+- Isaac Newton :: Newton died in 1727 and was a scientist, not an encyclopedist.
+- Adam Smith :: Smith wrote The Wealth of Nations.
+- Catherine the Great :: Catherine was a patron of Diderot but not the editor.
+- Immanuel Kant :: Kant was a German philosopher.
+
+@e
+Which ruler was an "enlightened despot"?
++ Frederick II of Prussia :: He corresponded with Voltaire, abolished torture and promoted toleration while keeping absolute power.
+- Louis XIV of France :: Louis XIV was an absolutist before the Enlightenment.
+- Oliver Cromwell :: Cromwell ruled England in the 1650s, before the Enlightenment.
+- William III of England :: William was a constitutional monarch.
+- Charles I of England :: Charles was a divine-right Stuart king executed in 1649.
+
+@e
+Mary Wollstonecraft's A Vindication of the Rights of Woman argued that
++ women should receive the same education as men because they are equally capable of reason :: She blamed women's apparent inferiority on lack of education.
+- women should be confined to domestic life :: That was Rousseau's view, which she attacked.
+- women should rule as absolute monarchs :: She wrote about rights and education, not monarchy.
+- women's suffrage had already been achieved in Britain :: British women gained the vote only in 1918 and 1928.
+- women should not be allowed to read novels :: Her argument centered on education and reason.
+
+@m
+Joseph II of Austria's reforms differed from those of Frederick II and Catherine II in that Joseph
++ abolished serfdom, though resistance led to most of his reforms being reversed :: Joseph went further than other enlightened despots and paid for it.
+- refused to grant any religious toleration :: His Edict of Toleration (1781) did the opposite.
+- strengthened the privileges of the nobility :: That fits Catherine's Charter of the Nobility.
+- shared power with an elected parliament :: Joseph remained an absolute ruler.
+- ignored Enlightenment ideas completely :: He was the most enthusiastic reformer of the three.
+
+@m
+Catherine the Great's response to Pugachev's Rebellion (1773–1775) was to
++ ally more closely with the nobility, confirming their privileges in the Charter of the Nobility :: After the revolt she relied on nobles to keep order and expanded serfdom.
+- emancipate the serfs to win their loyalty :: Serfdom expanded under Catherine; emancipation came in 1861.
+- call an elected parliament with peasant representatives :: No such parliament was created.
+- abdicate in favor of her son :: She ruled until her death in 1796.
+- adopt Rousseau's general will as Russia's constitution :: Catherine never adopted a constitution.
+
+@m
+The partitions of Poland in 1772, 1793 and 1795 were carried out by
++ Russia, Prussia and Austria :: All three took Polish land in 1772 and 1795; Russia and Prussia alone in 1793.
+- France, Britain and Spain :: Western powers did not partition Poland.
+- Sweden and the Ottoman Empire :: Neither took part.
+- Napoleon and his allies :: Napoleon later created the Duchy of Warsaw out of partitioned land.
+- the Holy Roman Emperor and the pope :: The pope had no role.
+
+@m
+Most philosophes held which view of religion?
++ Deism, the belief in a rational creator who does not intervene in the world :: Many, like Voltaire, rejected miracles and church authority but believed in a creator.
+- Strict Catholic orthodoxy :: Philosophes criticized the Church's power.
+- Puritan predestination :: Philosophes rejected harsh dogma.
+- That religion should control government :: Philosophes favored toleration and limits on clerical power.
+- Polytheism based on classical gods :: This was not a significant Enlightenment position.
+
+@m
+Which of the following institutions did the MOST to spread Enlightenment ideas among elite men and women in Paris?
++ Salons hosted by educated women :: Salons brought together writers, nobles and officials to discuss new ideas.
+- The Estates-General :: It did not meet between 1614 and 1789.
+- Guild workshops :: Guilds organized trades, not intellectual debate.
+- The Jesuit order :: The Jesuits generally defended the Church against the philosophes.
+- The royal army :: The army was not a vehicle for spreading ideas.
+
+@m
+> "Political liberty is to be found only when there is no abuse of power. But constant experience shows us that every man invested with power is liable to abuse it... To prevent this abuse, it is necessary from the very nature of things that power should be a check to power."
+The author of this passage would most likely support
++ a constitution dividing authority among separate branches of government :: This is Montesquieu's argument for checks and balances.
+- an absolute monarch ruling by divine right :: The passage warns against unchecked power.
+- a single assembly with unlimited power :: That would concentrate power, not check it.
+- rule by the Catholic Church :: The passage concerns dividing power, not clerical rule.
+- abolishing all government :: The passage seeks to limit, not abolish, government.
+
+@m
+Voltaire's campaign on behalf of Jean Calas illustrates his commitment to
++ religious toleration and fair justice :: Calas, a Protestant, was executed after a trial shaped by anti-Protestant prejudice.
+- the divine right of kings :: Voltaire did not defend divine right.
+- the general will :: That is Rousseau's concept.
+- mercantilist economics :: The Calas case was about justice and religion.
+- the partition of Poland :: The Calas case had nothing to do with Poland.
+
+@m
+Which statement about Rousseau distinguishes him from most other philosophes?
++ He valued emotion and nature and was suspicious of civilization's effects, anticipating Romanticism :: Rousseau's emphasis on feeling and natural man set him apart.
+- He supported enlightened despotism :: Rousseau favored popular sovereignty.
+- He opposed all forms of education :: Emile is a treatise on education.
+- He was a devoted Catholic who defended the Church's power :: Rousseau was not a defender of Church power.
+- He believed private property was a natural right :: Rousseau saw property as a source of inequality.
+
+@m
+The physiocrats differed from mercantilists in arguing that
++ land and agriculture, not gold and silver, are the true source of wealth :: Quesnay and the physiocrats also urged free trade in grain.
+- governments should regulate all trade :: That is closer to mercantilism.
+- colonies are the key to national power :: That is a mercantilist idea.
+- manufacturing should be state-owned :: The physiocrats favored free markets.
+- the nobility should be abolished :: The physiocrats were not social revolutionaries.
+
+@m
+The liberum veto contributed to the partitions of Poland because it
++ allowed any single noble to block legislation, leaving the state weak :: Poland could not raise taxes or armies to defend itself.
+- gave the Polish king absolute power :: Polish kings were elected and weak.
+- required Poland to obey the Russian tsar :: It was a rule of the Polish parliament itself.
+- banned Poland from having an army :: There was no such ban, though the army was small.
+- forced the Polish nobility to free their serfs :: It had nothing to do with serfdom.
+
+@m
+Frederick II of Prussia described himself as
++ "the first servant of the state" :: He presented monarchy as a duty to serve the state, not a personal possession.
+- "the state, it is I" :: That line is attributed to Louis XIV.
+- "God's lieutenant on earth" :: That expresses Bossuet's divine-right theory.
+- "Emperor of the French" :: That was Napoleon's title from 1804.
+- "Lord Protector" :: That was Cromwell's title.
+
+@m
+Which work came FIRST?
++ Montesquieu's The Spirit of the Laws :: 1748.
+- Rousseau's The Social Contract :: 1762.
+- Beccaria's On Crimes and Punishments :: 1764.
+- Smith's The Wealth of Nations :: 1776.
+- Wollstonecraft's A Vindication of the Rights of Woman :: 1792.
+
+@h
+Which development best illustrates the limits of enlightened despotism?
++ Catherine II expanded serfdom despite praising Enlightenment ideals :: Rulers took reforms that strengthened the state but kept the social order that supported them.
+- Frederick II abolished judicial torture :: This was a real Enlightenment reform, not a limit.
+- Joseph II granted toleration to Protestants :: This was a genuine reform.
+- Diderot completed the Encyclopedia :: This was a philosophe's project, not a monarch's policy.
+- Kant wrote "What Is Enlightenment?" :: Kant's essay is not an act of government.
+
+@h
+Kant's motto "Dare to know!" (Sapere aude) best captures the Enlightenment's emphasis on
++ the individual's courage to use reason independently of authority :: Kant defined enlightenment as leaving "self-imposed immaturity."
+- obedience to established religious authority :: Kant urged independence from guardians, including clergy.
+- the collective will of the nation :: That is closer to Rousseau or later nationalism.
+- emotion as the highest form of truth :: That is a Romantic idea.
+- the divine right of monarchs :: Kant's essay is about individual reason.
+
+@h
+An eighteenth-century reformer argues that a prisoner's guilt should be proven by evidence rather than a confession under torture, and that punishments should be certain but moderate. Which work most likely influenced him?
++ Beccaria's On Crimes and Punishments :: These are Beccaria's key arguments.
+- Smith's The Wealth of Nations :: Smith wrote on economics.
+- Rousseau's Emile :: Emile concerns education.
+- Hobbes's Leviathan :: Hobbes defended absolute sovereign power, not legal reform.
+- Bossuet's Politics Drawn from Holy Scripture :: Bossuet defended divine-right monarchy.
+
+@h
+Which outcome best shows Rousseau's general will being used to justify the suppression of individuals?
++ Revolutionary leaders claiming to embody the people's will while silencing opponents :: Robespierre and the Jacobins later invoked the general will to justify the Terror.
+- Adam Smith's support for free trade :: That is unrelated to the general will.
+- Joseph II's Edict of Toleration :: That expanded individual freedom.
+- Montesquieu's praise of the English constitution :: Montesquieu favored checks on power.
+- Catherine II's Charter of the Nobility :: That was a grant of privilege to nobles, not an appeal to the general will.
+
+@h
+Which statement best explains why the Enlightenment spread widely in the eighteenth century?
++ Growing literacy, cheaper printing and new public spaces created a reading public for new ideas :: The public sphere of print, coffeehouses and salons carried ideas beyond small elites.
+- Governments everywhere abolished censorship :: Censorship persisted, especially in France.
+- The Catholic Church officially endorsed the philosophes :: The Church condemned many of their works.
+- The partitions of Poland spread French culture eastward :: The partitions were acts of power politics.
+- Most peasants attended universities :: Universities served a small elite.
+
+@m
+Joseph II's Edict of Toleration (1781) granted
++ religious freedom to Protestants and Orthodox Christians in the Habsburg lands :: It extended toleration beyond Catholicism.
+- the vote to all adult men :: There was no democratic suffrage.
+- independence to Hungary :: Hungary remained under Habsburg rule.
+- the Catholic Church control of all schools :: Joseph reduced Church power.
+- noble exemption from all taxation :: Joseph tried to tax nobles more fairly.
+
+@h
+The partition of Poland most directly contradicts the claim that enlightened despots
++ governed by reason and justice rather than traditional power politics :: Frederick, Catherine and Joseph seized a neighbor's land for gain.
+- were interested in reform :: All three made genuine reforms at home.
+- were absolute rulers :: They were absolute rulers.
+- read Enlightenment authors :: All three did.
+- strengthened their states :: The partitions did strengthen their states.
+
+@e
+The salon hostesses of eighteenth-century Paris, such as Madame Geoffrin, were important because they
++ organized gatherings where writers and elites discussed Enlightenment ideas :: Salons were key meeting places of the Republic of Letters.
+- commanded French armies in the Seven Years' War :: Women did not command armies.
+- wrote the French constitution of 1791 :: The National Assembly wrote that constitution.
+- controlled the Catholic Church in France :: They had no Church authority.
+- ran the royal treasury :: They held no state office.
+
+@m
+Which pair correctly matches a thinker with a work?
++ Voltaire – Candide :: Candide (1759) satirizes the claim that this is "the best of all possible worlds."
+- Montesquieu – The Social Contract :: Rousseau wrote The Social Contract.
+- Rousseau – The Wealth of Nations :: Adam Smith wrote The Wealth of Nations.
+- Smith – The Spirit of the Laws :: Montesquieu wrote The Spirit of the Laws.
+- Beccaria – Emile :: Rousseau wrote Emile.
+
+@h
+Which comparison of Locke and Rousseau is most accurate?
++ Locke emphasized protecting individual rights, especially property; Rousseau emphasized the community's general will :: Locke's liberalism centers on the individual; Rousseau's theory centers on collective sovereignty.
+- Both believed private property was the root of all inequality :: That was Rousseau's view, not Locke's.
+- Locke supported democracy by majority vote of all citizens; Rousseau supported absolute monarchy :: Rousseau favored popular sovereignty.
+- Both wrote before the Glorious Revolution :: Rousseau wrote in the 1750s and 1760s.
+- Both rejected the idea of a social contract :: Both built on a social contract.
+
+@m
+The Enlightenment idea that human institutions should be judged by reason and can be improved is closely linked to
++ the belief in progress :: Philosophes believed reason could steadily improve society.
+- the doctrine of original sin as unchangeable :: Philosophes downplayed original sin.
+- the divine right of kings :: Divine right placed kingship beyond rational criticism.
+- the revival of medieval guilds :: Philosophes generally criticized guild restrictions.
+- the defense of judicial torture :: Philosophes attacked torture.
+
+@e
+Voltaire's satirical novel Candide (1759) mocked
++ the naive optimism that "all is for the best in the best of all possible worlds" :: Candide's misfortunes ridicule this philosophy, associated with Leibniz.
+- the separation of powers :: Voltaire did not attack Montesquieu's idea.
+- free-market economics :: Candide is not about economics.
+- the Scientific Revolution :: Voltaire popularized Newton's science.
+- the partition of Poland :: Candide predates the partitions.
+
+@m
+Which ruler's reforms were most resisted by nobles, clergy and non-German peoples, leading to their reversal?
++ Joseph II of Austria :: His centralizing and anti-clerical reforms provoked revolts in Hungary and the Austrian Netherlands.
+- Frederick II of Prussia :: Frederick avoided challenging the Junkers.
+- Catherine II of Russia :: Catherine accommodated the nobility.
+- Louis XV of France :: Louis XV was not a major reformer.
+- George III of Britain :: George III was a constitutional monarch.
+
+@h
+Which development MOST directly reflects the influence of Montesquieu?
++ The U.S. Constitution's three branches with checks and balances :: The framers cited Montesquieu more than any other modern author.
+- Catherine II's Charter of the Nobility :: That confirmed noble privilege.
+- The partitions of Poland :: These were acts of conquest.
+- Adam Smith's critique of mercantilism :: That is economics, not constitutional design.
+- The Jacobin Reign of Terror :: The Terror concentrated power rather than dividing it.

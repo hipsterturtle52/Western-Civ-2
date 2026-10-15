@@ -1,0 +1,279 @@
+=== META
+short: Empire & Economic Expansion
+range: 1713–1763
+
+=== LESSON
+## The big picture
+After the Treaty of Utrecht (1713), Europe's great powers stopped fighting over religion and dynasties alone and started fighting over **trade and colonies**. Britain and France became global rivals, competing in the Caribbean, North America, India and on the seas. At home, Europe's population began a long climb that never stopped. This unit is small on the exam (about 5%), so focus on three things: the **Atlantic economy**, the **Anglo-French wars for empire**, and the **causes of population growth**.
+
+## The Atlantic economy and the slave trade
+In the 1700s the most valuable colonies were not in North America but in the **Caribbean**, where **sugar** plantations on islands such as French **Saint-Domingue** (today's Haiti) and British **Jamaica** made enormous profits. Sugar, tobacco, coffee, cotton and indigo were grown by **enslaved Africans**. Roughly six million Africans were carried across the Atlantic in the eighteenth century alone, more than in any other century of the trade, and many died on the brutal **Middle Passage**.
+
+Historians describe a **triangular trade**: European manufactured goods (guns, cloth, alcohol) went to West Africa; enslaved people went to the Americas; plantation crops went back to Europe. Port cities such as Liverpool, Bristol, Nantes and Bordeaux grew rich on it.
+
+-> Cheap plantation sugar, tea, coffee and tobacco flood into European ports | A "consumer revolution": ordinary Europeans buy colonial goods | Demand for slave labor and colonies grows; merchants and port cities gain wealth and influence
+
+Governments still thought in **mercantilist** terms: colonies existed to enrich the mother country. Britain's **Navigation Acts** required colonial trade to travel in British ships, and colonists were expected to buy British manufactures. Spain, whose silver empire was in decline, attempted the **Bourbon reforms** to tighten control and revenue, and Portugal profited from gold discovered in **Brazil**.
+
+## Europe after Utrecht, 1713–1740: a generation of (mostly) peace
+**Britain.** In 1714 the German prince of Hanover became **George I**, under the Act of Settlement, which required a Protestant monarch. George spoke little English and left government to his ministers. **Robert Walpole** (in power 1721–1742) became Britain's first **prime minister** in all but name. He kept Britain out of wars, kept taxes low, and governed through a **cabinet** that needed the support of the House of Commons. That habit of ministers answering to Parliament became central to the British system.
+
+**Financial bubbles.** In 1720 two speculative manias burst. In Britain the **South Sea Bubble** (shares in a company with a monopoly on trade with Spanish America) collapsed; Walpole rose by cleaning up the mess. In France, the Scottish financier **John Law** had set up a royal bank that issued paper money and a Mississippi Company promising profits from Louisiana. When his **Mississippi Bubble** burst in 1720, it ruined investors and left the French distrustful of paper money and banks for decades.
+
+**France.** Louis XV was a child in 1715, so the Duke of Orléans ruled as regent, then **Cardinal Fleury** (1726–1743) gave France stable, peaceful government. The regent also returned to the Paris **parlement** (a high law court, not a legislature) its right to object to royal decrees. The parlements would use that power to block tax reform for the rest of the century.
+
+**Austria.** Emperor **Charles VI** had no son. He spent his reign getting the powers of Europe to accept the **Pragmatic Sanction** (1713), a decree that his daughter **Maria Theresa** would inherit all the Habsburg lands undivided.
+
+**Prussia.** **Frederick William I**, the "Soldier King" (r. 1713–1740), lived frugally, filled the treasury and built Europe's fourth-largest army from a small population, including a famous regiment of extremely tall soldiers. He rarely used the army. His son would.
+
+## The wars for empire, 1740–1763
+-> Charles VI dies (1740); Frederick II of Prussia sees a woman inherit Austria | Frederick seizes rich Silesia; War of the Austrian Succession (1740–1748) | Prussia keeps Silesia; Austria wants revenge and Britain and France keep fighting overseas
+
+In 1740 **Frederick II (the Great)** of Prussia ignored the Pragmatic Sanction and invaded **Silesia**, a rich Austrian province. France joined against Austria; Britain backed Austria. The **War of the Austrian Succession** (1740–1748) ended with the Treaty of **Aix-la-Chapelle**: Maria Theresa kept her throne, but Prussia kept Silesia.
+
+Maria Theresa wanted Silesia back. In the **Diplomatic Revolution of 1756**, old enemies swapped partners: Austria allied with its traditional foe **France**, and Britain allied with **Prussia**. Russia joined Austria and France.
+
+The **Seven Years' War** (1756–1763) was the first truly global war. In Europe, Prussia survived against huge odds (helped when the new Russian tsar, Peter III, an admirer of Frederick, made peace in 1762). Overseas, Britain, led by **William Pitt the Elder**, poured money into its navy and colonial campaigns. In North America (the "French and Indian War") the British took Quebec in 1759. In India, **Robert Clive** of the British East India Company won the **Battle of Plassey** (1757), beginning British control of Bengal. The **Treaty of Paris (1763)** gave Britain **Canada** and most of France's North American lands east of the Mississippi and left Britain the dominant power in India. France kept its profitable sugar islands.
+
+-> Britain wins a global empire but doubles its national debt | Britain taxes the American colonies to pay for defense | Colonial resistance leads to the American Revolution (1775–1783)
+
+The war's debts also crushed France. Its financial crisis would lead, a generation later, to 1789.
+
+## Demographic change: Europe's population takes off
+Europe's population grew from roughly **120 million in 1700 to about 190 million by 1800**, and growth accelerated afterward. The main causes were a **falling death rate**, not a rising birth rate:
+- **Plague disappeared** from western Europe (the last major outbreak was at Marseille in 1720).
+- **Fewer famines**, thanks to better farming, the spread of new American crops such as the **potato** and maize, and better roads and canals to move grain to hungry regions.
+- Somewhat **better weather** after the cold of the seventeenth century and more effective governments controlling borders and epidemics.
+
+Medicine played only a small role before the 1800s (Jenner's smallpox vaccine came only in 1796). The extra people needed work. Many rural families earned money in the **putting-out system** (cottage industry): a merchant delivered raw wool or cotton to a peasant household, the family spun and wove it at home, and the merchant collected and sold the cloth. Historians call this **proto-industrialization**, a step toward the factory system of the Industrial Revolution.
+
+=== MUSTKNOW
+- **Caribbean sugar** colonies (Saint-Domingue, Jamaica) were the most valuable colonies; worked by enslaved Africans; the 1700s were the peak century of the Atlantic slave trade.
+- **Triangular trade:** manufactures to Africa, enslaved people to the Americas, plantation goods to Europe.
+- **Walpole** (1721–42): Britain's first prime minister in practice; cabinet responsible to the Commons; peace and low taxes.
+- **1720 bubbles:** the South Sea Bubble (Britain) and John Law's Mississippi Bubble (France).
+- **Pragmatic Sanction:** Charles VI's plan for Maria Theresa to inherit undivided Habsburg lands.
+- **1740:** Frederick the Great seizes Silesia → War of the Austrian Succession.
+- **Diplomatic Revolution (1756):** Austria + France vs. Britain + Prussia.
+- **Seven Years' War (1756–63)** → Treaty of Paris: Britain gains Canada and supremacy in India (Clive, Plassey 1757).
+- **Population growth** came from a falling death rate: the end of plague, fewer famines, the potato and better transport, not from medicine.
+- **Putting-out system** (cottage industry, proto-industrialization) employed the growing rural population.
+
+=== TIMELINE
+1714 | Hanoverian succession | George I becomes king of Great Britain
+*1720 | South Sea and Mississippi Bubbles burst | Speculative crashes in Britain and France
+1720 | Last major plague in western Europe | Outbreak at Marseille
+1721–1742 | Walpole's ministry | First prime minister in practice
+*1740 | Frederick II invades Silesia | Begins the War of the Austrian Succession
+1748 | Treaty of Aix-la-Chapelle | Prussia keeps Silesia
+*1756 | Diplomatic Revolution; Seven Years' War begins | Austria and France ally against Prussia and Britain
+1757 | Battle of Plassey | Clive's victory starts British rule in Bengal
+1759 | British capture Quebec | Turning point in North America
+*1763 | Treaty of Paris | Britain gains Canada and dominance in India
+
+=== CARDS
+Triangular trade :: Atlantic trade loop: European goods to Africa, enslaved Africans to the Americas, plantation crops to Europe.
+Middle Passage :: The deadly Atlantic crossing of enslaved Africans to the Americas.
+Saint-Domingue :: French Caribbean sugar colony (later Haiti), the richest colony in the 1700s.
+@ Robert Walpole :: Britain's first prime minister in practice (1721–42); peace, low taxes, cabinet government.
+South Sea Bubble (1720) :: British stock-market crash of a company with a monopoly on trade with Spanish America.
+@ John Law :: Scottish financier whose French paper-money and Mississippi Company scheme collapsed in 1720.
+Pragmatic Sanction :: Charles VI's decree that Maria Theresa would inherit all Habsburg lands undivided.
+War of the Austrian Succession (1740–48) :: Began when Frederick II seized Silesia; Prussia kept it at Aix-la-Chapelle (1748).
+Diplomatic Revolution (1756) :: Reversal of alliances: Austria joined France; Britain joined Prussia.
+Seven Years' War (1756–63) :: Global Anglo-French war; Treaty of Paris gave Britain Canada and dominance in India.
+Putting-out system :: Merchants supplied raw materials to rural families who spun and wove at home (cottage industry).
+18th-century population growth :: Caused mainly by a falling death rate: end of plague, fewer famines, potatoes, better transport.
+
+=== QUESTIONS
+@e
+In the eighteenth century, the most profitable European colonies in the Americas were the
++ sugar islands of the Caribbean :: Islands such as Saint-Domingue and Jamaica produced sugar that was worth more than any other colonial export.
+- fur-trading posts of Canada :: The fur trade was valuable but far smaller than sugar.
+- farming colonies of New England :: New England did not produce a major export crop for Europe.
+- gold mines of Louisiana :: Louisiana had no gold mines; John Law's promises of wealth there were a fantasy.
+- tea plantations of Virginia :: Virginia grew tobacco; tea came from China.
+
+@e
+Robert Walpole is significant in British history as
++ the first prime minister in practice, governing through a cabinet responsible to Parliament :: Walpole led the government from 1721 to 1742 and set the pattern of cabinet rule.
+- the general who captured Quebec :: James Wolfe led the attack on Quebec in 1759.
+- the founder of the Bank of England :: The Bank of England was founded in 1694.
+- the king who replaced James II :: That was William III.
+- the leader of the Puritan army in the Civil War :: That was Oliver Cromwell.
+
+@e
+The Diplomatic Revolution of 1756 refers to
++ Austria allying with its old enemy France, while Britain allied with Prussia :: The switch of partners set the sides for the Seven Years' War.
+- the overthrow of James II in favor of William and Mary :: That was the Glorious Revolution of 1688.
+- France's alliance with the American colonies :: That came in 1778 during the American Revolution.
+- the union of England and Scotland :: That was the Act of Union in 1707.
+- Russia's alliance with Napoleon at Tilsit :: Tilsit was in 1807.
+
+@e
+Which treaty gave Britain control of Canada?
++ The Treaty of Paris (1763) :: It ended the Seven Years' War and transferred New France to Britain.
+- The Treaty of Utrecht (1713) :: Utrecht gave Britain Nova Scotia, Newfoundland and Hudson Bay, not all of Canada.
+- The Treaty of Aix-la-Chapelle (1748) :: That treaty largely restored colonial conquests.
+- The Peace of Westphalia (1648) :: Westphalia concerned the Thirty Years' War in Europe.
+- The Treaty of Nystad (1721) :: Nystad ended the Great Northern War between Russia and Sweden.
+
+@e
+The putting-out system involved
++ merchants supplying raw materials to rural households that produced goods at home :: Families spun and wove in their cottages; merchants collected and sold the finished cloth.
+- government factories run by state officials :: The system was private and decentralized.
+- slave labor on Caribbean plantations :: That was the plantation system.
+- guild workshops in large cities :: Merchants used rural labor to avoid urban guild rules.
+- steam-powered textile mills :: Mills came with the Industrial Revolution and replaced cottage industry.
+
+@e
+Frederick II's invasion of Silesia in 1740 began the
++ War of the Austrian Succession :: Frederick exploited Maria Theresa's accession to seize Silesia.
+- Thirty Years' War :: That war ran from 1618 to 1648.
+- War of the Spanish Succession :: That war ran from 1701 to 1714.
+- Great Northern War :: That war (1700–1721) was fought between Russia and Sweden.
+- Crimean War :: The Crimean War was fought in the 1850s.
+
+@m
+The main cause of European population growth in the eighteenth century was
++ a declining death rate as plague vanished and famines became less frequent :: Fewer deaths from plague and famine, not more births, drove the increase.
+- the spread of modern vaccination and antibiotics :: Antibiotics came in the 1900s; the smallpox vaccine only in 1796.
+- mass immigration from Asia and Africa :: There was no large immigration into Europe.
+- government programs encouraging large families :: No such programs drove the trend.
+- the end of serfdom across Europe :: Serfdom survived in central and eastern Europe well into the 1800s.
+
+@m
+Which statement about the Atlantic slave trade in the eighteenth century is accurate?
++ More enslaved Africans were transported in the 1700s than in any other century :: The trade peaked in the eighteenth century, driven by plantation demand.
+- It was abolished by Britain at the Treaty of Utrecht :: Utrecht gave Britain the asiento; Britain abolished the trade in 1807.
+- It mainly supplied workers to European factories :: Enslaved people were sent to American plantations.
+- It was controlled entirely by the Dutch :: Britain, Portugal and France were the leading carriers in this period.
+- It declined sharply as sugar became less profitable :: Sugar profits were high, and the trade expanded.
+
+@m
+Charles VI's Pragmatic Sanction was intended to
++ ensure that his daughter Maria Theresa inherited the Habsburg lands intact :: Charles had no son and sought international guarantees for her succession.
+- unite the crowns of France and Spain :: Utrecht forbade that union, and it was not Charles's aim.
+- abolish serfdom in the Habsburg lands :: Serfdom reform came later under Joseph II.
+- grant religious toleration to Protestants in Austria :: That was Joseph II's Edict of Toleration in 1781.
+- divide Poland among its neighbors :: The partitions of Poland began in 1772.
+
+@m
+The South Sea Bubble (1720) and the Mississippi Bubble (1720) were both
++ speculative financial collapses tied to companies promising colonial trade profits :: Both crashes ruined investors in companies selling dreams of overseas wealth.
+- slave revolts in the Caribbean :: They were stock-market crashes, not revolts.
+- naval battles between Britain and France :: Neither was a battle.
+- plagues that killed thousands in port cities :: The Marseille plague of 1720 is unrelated to these crashes.
+- treaties that ended the War of the Spanish Succession :: That war ended with Utrecht and Rastatt.
+
+@m
+Which of the following was a result of the Seven Years' War?
++ Britain emerged as the dominant colonial power in North America and India :: The Treaty of Paris (1763) removed France from Canada and left Britain dominant in India.
+- Prussia was forced to return Silesia to Austria :: Prussia kept Silesia.
+- France gained Canada from Britain :: France lost Canada.
+- Spain lost all its American colonies :: Spain kept its American empire and received Louisiana from France.
+- Austria gained control of the Holy Roman Empire's German states :: There was no such outcome.
+
+@m
+Robert Clive's victory at the Battle of Plassey (1757) is significant because it
++ began British East India Company control of Bengal :: Plassey made the Company the real power in Bengal, a base for wider British rule in India.
+- ended the Mughal Empire's conquest of Europe :: The Mughals never invaded Europe.
+- gave France control of the spice trade :: France lost ground in India.
+- opened Japan to Western trade :: Japan was opened by the United States in the 1850s.
+- ended the Atlantic slave trade :: Plassey was in India and unrelated to the slave trade.
+
+@m
+The growth of eighteenth-century consumption of sugar, tea and coffee in Europe most directly encouraged
++ the expansion of slave-worked plantations in the Americas :: Rising demand for sugar and coffee meant more plantations and more enslaved labor.
+- the decline of European port cities :: Ports like Liverpool and Nantes grew rich.
+- the abandonment of mercantilist policies :: Mercantilism remained dominant through the century.
+- the collapse of the Dutch East India Company within a decade :: The VOC declined slowly and was dissolved only in 1799.
+- a fall in the price of land in Britain :: There is no direct link between colonial goods and British land prices.
+
+@m
+Which pair were allies during the Seven Years' War?
++ Britain and Prussia :: After the Diplomatic Revolution, Britain subsidized Prussia against Austria, France and Russia.
+- Britain and France :: They were the main colonial rivals.
+- Prussia and Austria :: Austria wanted to reconquer Silesia from Prussia.
+- France and Prussia :: France switched to Austria's side in 1756.
+- Britain and Austria :: They had been allies earlier but split in 1756.
+
+@m
+Frederick William I of Prussia, the "Soldier King," is best known for
++ building a large, well-drilled army and a full treasury through strict economy :: He made Prussia a major military power while rarely going to war.
+- conquering Silesia from Austria :: His son Frederick II did that in 1740.
+- leading Prussia to defeat at Jena :: Jena was in 1806, under Frederick William III.
+- writing philosophical letters to Voltaire :: That was Frederick II.
+- creating a constitutional monarchy :: He was an absolutist.
+
+@m
+After Louis XIV died in 1715, the Paris parlement regained the right to
++ object to royal decrees before registering them :: The parlements later used this right of remonstrance to block tax reforms.
+- elect the king of France :: The French crown was hereditary.
+- declare war without royal approval :: The parlements were law courts with no war powers.
+- appoint the king's ministers :: Ministers were chosen by the king.
+- abolish noble tax exemptions :: The parlements defended privilege; they did not abolish it.
+
+@h
+Which development best reflects proto-industrialization in the eighteenth century?
++ Rural families earning extra income by spinning and weaving for merchants :: Proto-industry was market-oriented rural cottage production that came before factories.
+- The building of steam-powered cotton mills in Manchester :: Mills are the factory system itself, not its precursor.
+- The guilds' monopoly over urban textile production :: Proto-industry grew in the countryside largely to escape guild control.
+- State-run silk factories in Lyon :: Lyon's silk trade was urban and artisanal.
+- The Navigation Acts' restriction of colonial shipping :: These were trade laws, not a production system.
+
+@h
+A historian notes that the national debt of both Britain and France nearly doubled because of the Seven Years' War. Which later development does this best help explain?
++ Both the American Revolution and the French fiscal crisis of the 1780s :: British taxes on the colonies and France's bankruptcy both grew out of war debt.
+- The Glorious Revolution of 1688 :: That came long before the war.
+- The South Sea Bubble of 1720 :: That came before the war.
+- The Diplomatic Revolution of 1756 :: The alliance switch came before the debts were run up.
+- The spread of the potato in eastern Europe :: Crop diffusion is unrelated to war debt.
+
+@h
+Which factor contributed LEAST to Europe's eighteenth-century population growth?
++ Advances in hospital medicine :: Hospitals of the period often spread disease; medicine had little demographic effect before the 1800s.
+- The disappearance of bubonic plague from western Europe :: This sharply reduced mortality.
+- The spread of the potato :: The potato provided cheap calories and reduced famine.
+- Improved transportation for moving grain :: Better roads and canals relieved local shortages.
+- A milder climate after the seventeenth century :: Better harvests reduced famine.
+
+@h
+Which statement best compares Britain and France in the mid-1700s?
++ Britain's Parliament-backed credit let it borrow cheaply for war, while France's finances were hampered by privilege and distrust of banks :: Britain's credit system funded naval victories; France's tax exemptions and memories of John Law's collapse limited its borrowing.
+- France had a larger navy and won most colonial wars :: Britain's navy was superior, and Britain won the Seven Years' War.
+- Britain was an absolute monarchy and France a parliamentary state :: The reverse is true.
+- Both abolished their colonial empires after 1763 :: Both kept empires; France kept its sugar islands.
+- Neither country participated in the Atlantic slave trade :: Both were major slave-trading nations.
+
+@m
+What was the asiento that Britain won in 1713?
++ The right to supply enslaved Africans to Spanish America :: The asiento contract was the commercial prize of Utrecht and was later held by the South Sea Company.
+- A monopoly on the tea trade with China :: The British East India Company's China trade was unrelated to the asiento.
+- Control of the Mississippi River :: The Mississippi remained in French and then Spanish hands until 1803.
+- A royal charter for the Bank of England :: The Bank of England was chartered in 1694.
+- Permanent fishing rights in the Baltic :: The asiento concerned the slave trade.
+
+@e
+Which crop from the Americas most helped Europe reduce famine in the eighteenth century?
++ The potato :: Potatoes yielded many calories per acre and grew in poor soils.
+- Sugarcane :: Sugar was a cash crop grown in the Caribbean, not a European staple.
+- Tobacco :: Tobacco is not a food.
+- Rice :: Rice was not a major American crop in Europe's diet.
+- Coffee :: Coffee is a stimulant, not a staple food.
+
+@m
+Which best describes how mercantilist Britain viewed its colonies?
++ As sources of raw materials and markets that should trade mainly with Britain :: The Navigation Acts channeled colonial trade through British ships and ports.
+- As independent nations free to trade with anyone :: Mercantilism restricted colonial trade.
+- As burdens to be abandoned as soon as possible :: Britain fought major wars to keep and expand them.
+- As places to build factories that would compete with Britain :: Colonial manufacturing was discouraged.
+- As territories governed directly by Parliament's elected colonial members :: Colonies had no seats in Parliament.
+
+@h
+Which of the following is the best evidence that the Seven Years' War was a "world war"?
++ Fighting took place in Europe, North America, the Caribbean, India and at sea :: Its theaters spanned several continents and oceans.
+- It involved more than one German state :: German states fought each other in many wars.
+- It lasted seven years :: Length alone does not make a war global.
+- It started because of a dynastic succession dispute :: It was rooted in Silesia and colonial rivalry, not succession.
+- It ended with a treaty signed in Paris :: Many treaties were signed in Paris.
