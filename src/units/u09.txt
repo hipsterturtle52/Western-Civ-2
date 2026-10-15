@@ -1,0 +1,383 @@
+=== META
+short: Economy, Culture & Empire
+range: 1850–1914
+
+=== LESSON
+## The big picture
+Between 1850 and 1914 Europe reached the peak of its power and confidence. A **Second Industrial Revolution** built on steel, chemicals, electricity and oil made Europe and the United States the workshops of the world. Population soared, cities were cleaned up, and tens of millions emigrated. Ordinary people became literate voters reading cheap newspapers: the age of **mass politics**. Europeans used their new technology to seize most of Africa and much of Asia in the **New Imperialism**. Yet at the same time, scientists and artists such as **Darwin, Freud, Nietzsche, Einstein and Picasso** undermined older certainties about humanity, reason and reality. This unit mixes economics, empire and culture; expect "match the thinker to the idea" and "what motivated imperialism" questions.
+
+## The Second Industrial Revolution
+-> New processes and science-based industry: Bessemer steel (1856), synthetic chemicals, electricity, the internal combustion engine | Mass production, big corporations and cartels; Germany and the U.S. overtake Britain | A global economy, consumer goods, and fierce competition for markets and raw materials
+
+The first industrial revolution ran on cotton, coal, iron and steam. The second (about **1870–1914**) ran on:
+- **Steel:** Henry Bessemer's converter (1856) made cheap steel for railways, ships, bridges and weapons.
+- **Chemicals:** German firms led in synthetic dyes, fertilizers, pharmaceuticals and explosives, often employing university-trained scientists.
+- **Electricity:** dynamos and power stations; Thomas Edison's practical light bulb (1879); electric trams and factory motors.
+- **Oil and the internal combustion engine:** Gottlieb Daimler and Karl Benz built early automobiles in the 1880s; Rudolf Diesel his engine in the 1890s.
+- **Communications:** the telephone (Bell, 1876) and radio (Marconi, 1890s), plus undersea telegraph cables.
+
+**Germany** became the industrial leader of the continent and, with the **United States**, overtook Britain in steel production by about 1900. Businesses grew into giant corporations; in Germany, firms formed **cartels** that fixed prices and shared markets. A long slump in prices and profits, the **Long Depression** (about 1873–1896), led most countries except Britain to abandon free trade for **protective tariffs** (Germany in 1879). Wages slowly rose; department stores, advertising and brand-name goods created a **consumer society** for the middle class and better-off workers.
+
+## Demography: more people, healthier cities, mass migration
+Europe's population rose from about **266 million in 1850 to more than 450 million by 1914**. The main reason was again a falling death rate, now helped by real medical and sanitary advances. **Louis Pasteur** proved the **germ theory of disease** in the 1860s (and developed pasteurization and vaccines); **Robert Koch** identified the bacteria causing tuberculosis (1882) and cholera; **Joseph Lister** introduced antiseptic surgery (1867). Governments built **sewers and clean water systems**; after London's "Great Stink" of 1858, engineers built a modern sewer network. In Paris, Baron **Haussmann** replaced slums with broad boulevards, parks and sewers. Late in the century, birth rates also began to fall, first in France, as middle-class families chose to have fewer children.
+
+Even so, Europe could not employ everyone. Between 1815 and 1914 about **50 million Europeans emigrated**, mostly to the **United States**, Canada, Argentina, Brazil and Australia. Early waves came from Ireland (driven by the **potato famine** of 1845–1852, which killed about a million people) and Germany; later waves from **Italy**, Austria-Hungary and the Russian Empire, including many Jews fleeing pogroms.
+
+## Mass politics and society
+By 1914 most Western European men could vote. To vote sensibly, the argument went, citizens needed schools: states created **free, compulsory primary education** (Britain from 1870; France under the **Ferry laws** of the 1880s, which made schools secular). Literacy brought a cheap **mass press** (Britain's *Daily Mail*, 1896) that often whipped up nationalism. **Mass political parties** with dues-paying members, newspapers and clubs replaced loose groups of notables: socialist parties on the left, Catholic parties, and new **radical-right** movements that mixed nationalism, anti-Semitism and hostility to liberalism (for example, Karl Lueger, the anti-Semitic mayor of Vienna).
+
+Women organized too. **Feminists** campaigned for property rights, education, entry into professions and the vote. The **suffragists** used petitions and persuasion; the British **suffragettes** of Emmeline Pankhurst's Women's Social and Political Union (founded 1903) used militant tactics. Before 1914 only **Finland (1906)** and **Norway (1913)** gave women the national vote in Europe.
+
+## The New Imperialism, 1880–1914
+-> Industrial economies want raw materials, markets and investment outlets; nationalist rivalry; social Darwinist and "civilizing" ideas | The Scramble for Africa and expansion in Asia, made possible by steamships, quinine, railways and the machine gun | By 1914 Europeans control about 90 percent of Africa; colonized peoples suffer exploitation and violence; rivalries worsen tensions in Europe
+
+Europeans had held coastal trading posts for centuries. After about 1880, they rushed to conquer and directly rule vast interiors. Historians list several **motives**:
+- **Economic:** raw materials (rubber, cotton, copper, palm oil), new markets and investment opportunities. The British economist **J. A. Hobson** (*Imperialism*, 1902) argued that capitalists pushed imperialism to find profitable investments; **Lenin** later called imperialism "the highest stage of capitalism" (1916).
+- **Political and strategic:** national prestige, coaling stations and naval bases, and fear of rivals grabbing land first.
+- **Ideological:** **social Darwinism**, the misapplication of Darwin's ideas to claim that some races and nations were "fitter" than others; the "**civilizing mission**"; and Christian **missionaries**. **Rudyard Kipling's** poem "**The White Man's Burden**" (1899) urged Americans and Britons to rule "new-caught, sullen peoples" as a duty.
+- **Enablers:** the steamship, telegraph and railway; **quinine**, which protected Europeans against malaria; and the **Maxim gun**, an early machine gun. As one poet put it, "Whatever happens, we have got the Maxim gun, and they have not."
+
+**Africa.** To avoid war over Africa, Bismarck hosted the **Berlin Conference (1884–1885)**, which set the rule that a power must "effectively occupy" territory to claim it. No Africans were invited. Within twenty years almost the whole continent was divided; only **Ethiopia**, which crushed an Italian army at **Adwa (1896)**, and **Liberia** stayed independent. King **Leopold II of Belgium** ran the **Congo Free State** as his personal property, forcing Africans to gather rubber under a regime of terror and mutilation that killed millions; international outrage forced Belgium to take over the colony in 1908. Britain bought shares in the **Suez Canal** (1875), occupied **Egypt** (1882), and dreamed (with **Cecil Rhodes**) of a "Cape to Cairo" railway. British and French expansion collided at **Fashoda** in Sudan (1898); France backed down. Britain fought the Dutch-descended **Boers** in the **South African (Boer) War (1899–1902)**, using concentration camps in which tens of thousands of Boer and African civilians died. In German Southwest Africa (Namibia), the army's campaign against the **Herero and Nama** (1904–1907) killed most of the Herero people, now widely recognized as genocide.
+
+**Asia.** In **India**, the **Indian Rebellion (Sepoy Mutiny) of 1857** led Britain to end East India Company rule; from **1858** the British crown ruled directly (the **Raj**), and Queen Victoria became Empress of India in 1876. In **China**, Britain's victory in the **Opium War (1839–1842)** forced open ports and gave it **Hong Kong**; later "unequal treaties" carved China into foreign **spheres of influence**, and the anti-foreign **Boxer Rebellion (1900)** was crushed by an international force. France took **Indochina** (Vietnam, Cambodia, Laos). **Japan** responded differently: after the **Meiji Restoration (1868)** it rapidly modernized on Western lines, defeated China (1895) and then **Russia (1905)**, the first modern Asian victory over a European great power.
+
+## Science and thought: new certainties and new doubts
+**Charles Darwin's *On the Origin of Species* (1859)** argued that species evolve through **natural selection**: individuals with traits better suited to their environment survive and reproduce. *The Descent of Man* (1871) placed humans in the same process. Darwin shocked religious believers who read Genesis literally. **Herbert Spencer** coined "**survival of the fittest**" and applied it to society, giving rise to **social Darwinism**, used to justify laissez-faire, imperialism and racism.
+
+Physics overturned the Newtonian world: **Wilhelm Röntgen** discovered X-rays (1895); **Marie Curie** (with Pierre Curie) studied **radioactivity** and won two Nobel Prizes; **Max Planck** proposed quantum theory (1900); **Albert Einstein's** theory of **relativity** (1905) showed that time and space are not absolute.
+
+**Sigmund Freud**, a Viennese doctor, founded **psychoanalysis** (*The Interpretation of Dreams*, 1900). He argued that human behavior is driven largely by the **unconscious**, by repressed desires (especially sexual and aggressive drives), and he described the mind as the id, ego and superego. Humans were less rational than the Enlightenment had believed.
+
+**Friedrich Nietzsche** attacked Christianity and middle-class morality as "slave morality," declared "**God is dead**," praised the **will to power**, and imagined a "superman" (*Übermensch*) who would create his own values. Others built new social sciences: Auguste Comte's **positivism** (only scientific knowledge is real), and the sociologists **Émile Durkheim** and **Max Weber** (*The Protestant Ethic and the Spirit of Capitalism*, 1905).
+
+## Literature and the arts: from Realism to Modernism
+Mid-century **Realism** rejected Romantic idealism to show ordinary life truthfully: **Gustave Courbet** painted laborers (*The Stone Breakers*); novelists **Gustave Flaubert** (*Madame Bovary*, 1857), **Charles Dickens**, **Leo Tolstoy** and **Émile Zola** (whose "naturalism" showed people shaped by heredity and environment) described society in detail. Henrik **Ibsen's** play *A Doll's House* (1879) challenged women's roles in marriage.
+
+**Impressionists** such as **Claude Monet** and Pierre-Auguste Renoir (first group show 1874) painted outdoors to capture fleeting effects of **light and color**. **Post-Impressionists** (Paul **Cézanne**, Vincent **van Gogh**, Paul Gauguin) used color and form to express structure and emotion. By 1914 **Modernism** broke with tradition entirely: **Pablo Picasso** and Georges Braque invented **Cubism**, showing objects from several viewpoints at once (*Les Demoiselles d'Avignon*, 1907); Expressionists painted inner anxiety; and **Igor Stravinsky's** ballet ***The Rite of Spring*** caused a riot at its 1913 Paris premiere. Artists and thinkers alike suggested that the world was less orderly and rational than Europe's confident leaders believed.
+
+=== MUSTKNOW
+- **Second Industrial Revolution** (c. 1870–1914): steel (Bessemer), chemicals, electricity, oil and the internal combustion engine; Germany and the U.S. overtake Britain; cartels; return to tariffs.
+- **Public health:** Pasteur's germ theory, Koch, Lister; sewers and clean water; death rates fall.
+- **Mass emigration:** about 50 million Europeans left (1815–1914), especially to the U.S.; Irish potato famine.
+- **Mass politics:** wider male suffrage, compulsory schooling, mass press, mass parties; women's suffrage movement (Pankhurst).
+- **New Imperialism motives:** economic (Hobson, Lenin), strategic and nationalist rivalry, social Darwinism and the "civilizing mission" ("White Man's Burden"); enabled by steamships, quinine, the Maxim gun.
+- **Berlin Conference (1884–85):** rules for dividing Africa; only Ethiopia (Adwa 1896) and Liberia stayed free; Leopold II's Congo atrocities; Fashoda (1898); Boer War (1899–1902).
+- **Asia:** Indian Rebellion (1857) → British Raj (1858); Opium Wars and spheres of influence in China; Boxer Rebellion (1900); Japan's Meiji modernization beats Russia (1905).
+- **Darwin** (natural selection, 1859) → Spencer's **social Darwinism**.
+- **Freud** (the unconscious), **Nietzsche** ("God is dead," will to power), **Einstein** (relativity), **Curie** (radioactivity).
+- **Art:** Realism (Courbet) → Impressionism (Monet: light) → Post-Impressionism (Van Gogh, Cézanne) → Cubism (Picasso).
+
+=== TIMELINE
+1845–1852 | Irish potato famine | About a million die; mass emigration
+1856 | Bessemer process | Cheap steel
+*1857–1858 | Indian Rebellion; British Raj begins | Crown rule replaces the East India Company
+*1859 | Darwin's On the Origin of Species | Natural selection
+1860s | Pasteur's germ theory | Modern public health
+1868 | Meiji Restoration in Japan | Rapid Westernization
+1874 | First Impressionist exhibition | Monet and others
+1879 | Germany adopts protective tariffs | End of free-trade era on the continent
+1882 | Britain occupies Egypt | Control of the Suez route
+*1884–1885 | Berlin Conference | Rules for the Scramble for Africa
+1896 | Battle of Adwa | Ethiopia defeats Italy
+1898 | Fashoda Crisis | Anglo-French showdown in Sudan
+1899–1902 | Boer War | British war in South Africa
+*1900 | Freud's Interpretation of Dreams; Boxer Rebellion | The unconscious; anti-foreign rising in China
+1903 | Women's Social and Political Union founded | Militant suffragettes
+*1905 | Einstein's relativity; Japan defeats Russia | New physics; Asian power rises
+1907 | Picasso's Les Demoiselles d'Avignon | Toward Cubism
+
+=== CARDS
+Second Industrial Revolution :: c. 1870–1914: steel, chemicals, electricity, oil; Germany and the U.S. take the lead.
+Cartels :: Agreements among firms (especially in Germany) to fix prices and divide markets.
+@ Louis Pasteur :: Proved germ theory of disease; pasteurization and vaccines.
+Mass politics :: Era of wide suffrage, mass parties, compulsory schooling and a popular press.
+@ Emmeline Pankhurst :: Led Britain's militant suffragettes (WSPU, founded 1903).
+New Imperialism :: 1880–1914 drive to conquer and directly rule Africa and Asia.
+Social Darwinism :: Misuse of Darwin's ideas to claim some races or nations were "fitter" and should dominate.
+"The White Man's Burden" :: Kipling's 1899 poem urging Westerners to rule colonized peoples as a duty.
+@ J. A. Hobson :: British economist (Imperialism, 1902) who blamed imperialism on capitalist search for investment.
+Berlin Conference (1884–85) :: Set rules ("effective occupation") for European partition of Africa.
+@ Leopold II :: Belgian king whose Congo Free State used terror to extract rubber.
+Battle of Adwa (1896) :: Ethiopia defeated Italy and kept its independence.
+Boer War (1899–1902) :: British war against Dutch-descended settlers in South Africa; concentration camps.
+Indian Rebellion (1857) :: Revolt against East India Company rule; led to direct British crown rule (the Raj).
+Boxer Rebellion (1900) :: Anti-foreign uprising in China crushed by an international force.
+@ Charles Darwin :: On the Origin of Species (1859): evolution by natural selection.
+@ Sigmund Freud :: Founder of psychoanalysis; behavior driven by the unconscious.
+@ Friedrich Nietzsche :: "God is dead"; will to power; attacked Christian and bourgeois morality.
+@ Albert Einstein :: Theory of relativity (1905): time and space are not absolute.
+Impressionism :: Late-1800s painting capturing light and fleeting moments (Monet, Renoir).
+
+=== QUESTIONS
+@e
+Charles Darwin's On the Origin of Species (1859) proposed that
++ species evolve through natural selection :: Organisms with advantageous traits survive and reproduce more.
+- the universe operates according to universal gravitation :: That was Newton.
+- human behavior is driven by the unconscious :: That was Freud.
+- history is the history of class struggle :: That was Marx.
+- time and space are relative :: That was Einstein.
+
+@e
+The Berlin Conference of 1884–1885 established rules for
++ the partition of Africa among European powers :: Its "effective occupation" rule governed the Scramble for Africa.
+- the unification of Germany :: Germany had been unified in 1871.
+- ending the Crimean War :: That war ended in 1856.
+- dividing Poland :: Poland had been partitioned in the 1700s.
+- the Concert of Europe's intervention in Spain :: That was in the 1820s.
+
+@e
+Sigmund Freud is best known for
++ founding psychoanalysis and stressing the role of the unconscious :: The Interpretation of Dreams (1900) is his landmark work.
+- discovering radioactivity :: That was Marie and Pierre Curie (with Becquerel).
+- formulating the theory of relativity :: That was Einstein.
+- writing On the Origin of Species :: That was Darwin.
+- painting Les Demoiselles d'Avignon :: That was Picasso.
+
+@e
+Which African country defeated Italy at the Battle of Adwa (1896) and kept its independence?
++ Ethiopia :: Ethiopia's victory preserved its independence.
+- Egypt :: Egypt was occupied by Britain from 1882.
+- Congo :: The Congo was Leopold II's personal colony.
+- South Africa :: South Africa was a British sphere.
+- Algeria :: Algeria was a French colony from 1830.
+
+@e
+Impressionist painters such as Claude Monet focused on
++ capturing fleeting effects of light and color :: They often painted outdoors.
+- depicting religious scenes in the Renaissance style :: Impressionists painted modern life and landscape.
+- breaking objects into geometric planes :: That was Cubism.
+- glorifying the French Revolution :: That fits Romantic painting such as Delacroix.
+- realistic portraits of rulers :: Impressionists avoided formal academic portraiture.
+
+@e
+Which philosopher declared "God is dead" and called for a revaluation of values?
++ Friedrich Nietzsche :: Nietzsche attacked Christian morality and praised the will to power.
+- Karl Marx :: Marx called religion "the opium of the people," but did not use this phrase.
+- Charles Darwin :: Darwin was a naturalist.
+- Auguste Comte :: Comte founded positivism.
+- John Stuart Mill :: Mill was a liberal philosopher.
+
+@e
+Louis Pasteur's work was important because it
++ established the germ theory of disease :: Germ theory transformed medicine and public health.
+- invented the steam engine :: That was Watt, among others.
+- developed the theory of evolution :: That was Darwin.
+- discovered X-rays :: That was Röntgen in 1895.
+- invented the telephone :: That was Bell in 1876.
+
+@e
+In "The White Man's Burden" (1899), Rudyard Kipling
++ urged Western nations to take up the duty of ruling colonized peoples :: The poem expressed the "civilizing mission" ideology.
+- condemned imperialism as theft :: Kipling defended imperial rule.
+- called for socialist revolution :: Kipling was not a socialist.
+- celebrated the Boxer Rebellion :: He wrote about Western duty, not Chinese resistance.
+- demanded votes for women :: The poem is about empire.
+
+@e
+Which countries overtook Britain in steel production by about 1900?
++ Germany and the United States :: Both surged ahead in the Second Industrial Revolution.
+- France and Italy :: Neither surpassed Britain.
+- Russia and Austria-Hungary :: Both lagged behind.
+- Spain and Portugal :: Both were little industrialized.
+- Belgium and the Netherlands :: Too small to surpass Britain.
+
+@e
+Which new energy source was central to the Second Industrial Revolution?
++ Electricity :: Dynamos, power stations and electric motors transformed industry and cities.
+- Water wheels :: These belong to the earliest factories.
+- Wind power :: Wind was a pre-industrial power source.
+- Nuclear power :: Nuclear power came after 1945.
+- Solar power :: Solar power is modern.
+
+@m
+Which of the following was an important enabling factor for the New Imperialism in Africa?
++ Quinine to protect against malaria and machine guns like the Maxim gun :: Technology let Europeans survive and conquer inland Africa.
+- The abolition of all European armies :: European armies grew.
+- African kingdoms' invitations to rule them :: Most Africans resisted.
+- The Congress of Vienna's colonial clauses :: Vienna predates the Scramble.
+- The decline of steamship travel :: Steamships expanded.
+
+@m
+J. A. Hobson and later Lenin argued that imperialism was driven primarily by
++ capitalists seeking profitable investments and markets abroad :: Both gave an economic explanation of empire.
+- missionaries seeking converts :: They stressed economics, not religion.
+- the desire to spread democracy :: Neither believed that.
+- social Darwinist ideas held by workers :: They focused on capitalists.
+- the need for coaling stations only :: That is a strategic explanation.
+
+@m
+Social Darwinism was used to justify
++ imperialism, racism and laissez-faire policies :: It claimed the "fittest" nations and individuals deserved to dominate.
+- the abolition of colonial empires :: It was used to defend empire.
+- Marxist revolution :: Marx's theory was about class, not biological fitness.
+- universal suffrage for women :: It was rarely used to support equality.
+- the Kulturkampf :: That was Bismarck's church policy.
+
+@m
+The Indian Rebellion of 1857 resulted in
++ the end of East India Company rule and direct rule by the British crown :: The Raj began in 1858.
+- Indian independence :: India became independent in 1947.
+- French control of India :: France had lost India in the 1700s.
+- the Opium War :: The Opium War concerned China and was earlier.
+- the abolition of the British monarchy :: The monarchy continued.
+
+@m
+King Leopold II's Congo Free State became notorious for
++ forced labor and atrocities used to extract rubber :: Millions died, and outrage forced Belgium to take over in 1908.
+- its peaceful self-government by Africans :: Leopold ran it as a personal possession.
+- defeating Italy at Adwa :: That was Ethiopia.
+- being the only African state never colonized :: The Congo was colonized.
+- abolishing slavery throughout Africa :: The regime used forced labor.
+
+@m
+Japan's response to Western pressure after 1868 differed from China's in that Japan
++ rapidly modernized its economy and military on Western models :: Meiji Japan defeated China (1895) and Russia (1905).
+- refused all contact with the West :: Meiji Japan embraced Western technology.
+- was divided into European spheres of influence :: That was China.
+- became a British colony :: Japan was never colonized.
+- abolished its emperor :: The Meiji Restoration strengthened the emperor's position.
+
+@m
+Which development most reduced urban death rates in the late nineteenth century?
++ Sewers, clean water supplies and the acceptance of germ theory :: Sanitation and medicine cut deaths from cholera and typhoid.
+- The invention of the automobile :: Cars did not improve health.
+- Mass emigration to the Americas :: Emigration did not change urban death rates.
+- Higher protective tariffs :: Tariffs had no direct effect on mortality.
+- The growth of Impressionist art :: Art did not affect mortality.
+
+@m
+The Fashoda Crisis of 1898 was a confrontation between
++ Britain and France in the Sudan :: France backed down, clearing the way for the Entente Cordiale.
+- Germany and Russia in China :: Fashoda was in Africa.
+- Italy and Ethiopia at Adwa :: That was a battle in 1896.
+- Britain and the Boers in South Africa :: That was the Boer War.
+- Belgium and Germany in the Congo :: Fashoda involved Britain and France.
+
+@m
+Which statement best describes European emigration between 1815 and 1914?
++ About 50 million Europeans emigrated, mostly to the Americas :: The United States received the largest share.
+- Few Europeans emigrated because of strict laws :: Emigration was massive.
+- Most emigrants went to Africa :: Most went to the Americas.
+- Emigration was mainly from Britain to Russia :: That is not the pattern.
+- Emigrants were mostly wealthy aristocrats :: Most were poor peasants and workers.
+
+@m
+> "In the life of the mind, much that we think we choose is in fact determined by desires we do not know we have; the conscious self is only the tip of the iceberg."
+This passage best reflects the ideas of
++ Sigmund Freud :: Freud emphasized the power of the unconscious.
+- Auguste Comte :: Comte's positivism stressed scientific knowledge.
+- Adam Smith :: Smith wrote about markets.
+- John Locke :: Locke's mind is a blank slate shaped by experience.
+- Herbert Spencer :: Spencer applied evolution to society.
+
+@m
+The Ferry laws in France in the 1880s
++ made primary education free, compulsory and secular :: Republicans wanted loyal, literate citizens free from Church influence.
+- banned women from attending school :: They expanded schooling for girls and boys.
+- restored Catholic control of education :: They removed religious instruction from public schools.
+- created French colonies in Africa :: Jules Ferry did promote empire, but the Ferry laws were school laws.
+- abolished universal male suffrage :: They concerned education.
+
+@m
+Which statement about the Second Industrial Revolution is most accurate?
++ It depended more on scientific research, as in the German chemical industry :: Science-based industry was a key difference from the first industrial revolution.
+- It was centered on the cotton industry :: That was the first industrial revolution.
+- It began in the 1700s :: It began around 1870.
+- It made Britain the only industrial power :: Germany and the U.S. caught up and overtook Britain.
+- It ended the use of steel :: Steel was central to it.
+
+@m
+After the Long Depression began in 1873, most continental governments responded by
++ raising protective tariffs :: Germany adopted tariffs in 1879; others followed.
+- abolishing all tariffs :: Britain alone stayed with free trade.
+- nationalizing all industry :: This did not occur.
+- abandoning colonies :: Colonial expansion accelerated.
+- adopting socialism :: Governments were not socialist.
+
+@m
+Which pairing of artist and movement is correct?
++ Pablo Picasso – Cubism :: Picasso and Braque invented Cubism around 1907–08.
+- Claude Monet – Realism :: Monet was an Impressionist.
+- Gustave Courbet – Cubism :: Courbet was a Realist.
+- Vincent van Gogh – Romanticism :: Van Gogh was a Post-Impressionist.
+- Eugène Delacroix – Impressionism :: Delacroix was a Romantic.
+
+@m
+The Boxer Rebellion (1900) was
++ an anti-foreign uprising in China suppressed by an international army :: Eight powers, including Japan and the U.S., crushed it.
+- a British war against Dutch settlers :: That was the Boer War.
+- a revolt of Indian soldiers against the British :: That was the 1857 rebellion.
+- a Japanese revolution that restored the emperor :: That was the Meiji Restoration of 1868.
+- an Ethiopian victory over Italy :: That was Adwa in 1896.
+
+@m
+Albert Einstein's theory of relativity (1905) contributed to a sense that
++ the Newtonian picture of absolute space and time was incomplete :: Relativity undermined old certainties about the physical world.
+- evolution was false :: Relativity concerns physics, not biology.
+- the unconscious mind controls behavior :: That is Freud.
+- God is dead :: That is Nietzsche.
+- germs cause disease :: That is Pasteur.
+
+@m
+Which of the following was a goal of the women's suffrage movement before 1914?
++ Winning the right to vote in national elections :: Suffragists and suffragettes campaigned for the parliamentary vote.
+- Abolishing the right of men to vote :: They sought equal voting rights.
+- Restoring absolute monarchy :: The movement sought democratic rights.
+- Ending compulsory education :: Feminists supported education for women.
+- Expanding colonial empires :: Suffrage was a domestic political cause.
+
+@h
+Which statement best explains how mass politics changed European nationalism after 1870?
++ Mass literacy, the popular press and mass parties spread an aggressive, often anti-Semitic nationalism to ordinary voters :: Nationalism shifted from liberal causes to right-wing mass movements.
+- Nationalism disappeared as socialism took its place :: Nationalism grew stronger.
+- Nationalism became limited to aristocrats :: It became a mass phenomenon.
+- Mass politics ended all imperial rivalries :: Rivalries intensified.
+- Nationalism became exclusively associated with socialism :: The radical right embraced nationalism most aggressively.
+
+@h
+A historian argues that the New Imperialism was driven more by European rivalries than by economic profit. Which evidence best supports this?
++ Many colonies cost more to govern than they earned, yet powers rushed to claim them before rivals did :: Prestige and strategic competition, not profit alone, explain the Scramble.
+- British investors put most of their foreign capital into Africa :: Most British capital went to the Americas and other regions.
+- Africa was Europe's largest trading partner in 1900 :: Africa was a small share of European trade.
+- Hobson argued that imperialism served capitalists :: That supports an economic interpretation.
+- The Congo produced large rubber profits for Leopold II :: That supports an economic motive.
+
+@h
+Which statement best captures how Darwin, Freud and Nietzsche together challenged Enlightenment assumptions?
++ They suggested humans are shaped by biology, irrational drives and will rather than by reason alone :: Each undermined faith in human rationality.
+- They proved that reason governs all human behavior :: They argued the opposite.
+- They defended traditional religious authority :: All three challenged traditional religion.
+- They supported the divine right of kings :: None of them addressed kingship this way.
+- They argued for a return to mercantilism :: None wrote on mercantilism.
+
+@h
+The Battle of Adwa and the Russo-Japanese War both demonstrated that
++ non-European peoples could defeat European armies :: Ethiopia beat Italy (1896) and Japan beat Russia (1905).
+- European powers were invincible outside Europe :: These defeats showed otherwise.
+- Britain dominated Africa and Asia without rivals :: Neither battle involved British defeat.
+- the Berlin Conference had ended imperial wars :: Imperial wars continued.
+- socialism had spread to Africa and Asia :: Neither was a socialist war.
+
+@h
+Which pairing correctly links a cause to its consequence?
++ Rivalry over colonies such as Fashoda → Anglo-French settlement in the Entente Cordiale (1904) :: Resolving colonial disputes allowed Britain and France to align against Germany.
+- The Boer War → Ethiopia's independence :: Ethiopia's independence came from Adwa (1896).
+- The Indian Rebellion → the Berlin Conference :: These are unrelated.
+- Freud's theories → the Meiji Restoration :: Japan's reform predates Freud's work.
+- The Opium War → the Irish potato famine :: These are unrelated.
+
+@h
+Realist and naturalist writers such as Flaubert and Zola differed from Romantics in that they
++ depicted ordinary life and social conditions objectively rather than idealizing emotion and the past :: Realism aimed at truthful observation of everyday society.
+- celebrated medieval knights and legends :: That is Romantic.
+- wrote only about scientific discoveries :: They wrote novels about society.
+- rejected the novel as a form :: They were novelists.
+- opposed all depiction of the working class :: Zola wrote extensively about workers.
+
+@m
+The Opium War (1839–1842) between Britain and China resulted in
++ China opening ports to British trade and ceding Hong Kong :: The Treaty of Nanking began the "unequal treaties."
+- China banning British trade permanently :: China was forced to open up.
+- Britain giving up the opium trade :: The trade continued.
+- Japan colonizing China :: Japan's expansion came later.
+- China joining the Triple Entente :: China was never part of it.
