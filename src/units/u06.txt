@@ -1,0 +1,389 @@
+=== META
+short: Industrial Revolution
+range: 1750–1850
+
+=== LESSON
+## The big picture
+For all of human history before about 1750, almost everyone farmed, energy came from muscles, wind, water and wood, and economies grew very slowly. The **Industrial Revolution**, which began in **Britain** in the late 1700s, changed that forever. Machines powered by **coal and steam** produced goods in **factories**; output per worker multiplied; people moved to cities; and new social classes and political demands appeared. This unit covers why it began, how it worked, who gained and lost, and how Britain responded with reform laws and the Chartist movement.
+
+## Step one: the agricultural revolution
+-> Enclosure, new crops and crop rotation make farms more productive | More food with fewer farm workers | Population grows and surplus rural labor moves to factory towns
+
+British landowners **enclosed** the old open fields and common lands into compact private farms, especially through acts of Parliament in the 1700s and early 1800s. Enclosure let improving landlords experiment, but it pushed many small farmers and cottagers off the land. New methods spread: **crop rotation** with **turnips and clover** (popularized by Charles "Turnip" **Townshend**) restored nitrogen to the soil and fed livestock through the winter, so land no longer had to lie fallow. **Jethro Tull's seed drill** (1701) planted seeds in neat rows, and Robert **Bakewell** bred heavier sheep and cattle. Higher yields fed a growing population and freed workers for industry.
+
+## Why Britain first?
+Britain had an unusual combination of advantages:
+- **Natural resources:** abundant **coal** and **iron ore**, often close together, and many rivers for water power and transport.
+- **Capital and finance:** profits from overseas trade (including the slave trade and plantations), a sophisticated banking system and the Bank of England.
+- **Markets:** a growing home population and a large colonial empire; no internal tolls or tariffs.
+- **Stable government friendly to business:** after 1688, Parliament protected property, enforced patents, built canals and roads, and supported a navy that protected trade.
+- **Labor:** population growth and enclosure created a supply of workers.
+- **Culture:** a practical tinkering tradition and entrepreneurs, many of them Protestant **Dissenters** shut out of politics, who poured energy into business.
+
+## Cotton, steam and iron
+The first factory industry was **cotton textiles**. Each invention created a bottleneck that the next solved:
+
+-> John Kay's flying shuttle (1733) speeds up weaving, so weavers need more thread | Hargreaves's spinning jenny (c. 1765), Arkwright's water frame (1769) and Crompton's mule (1779) mechanize spinning | Machines become too big for cottages: the factory system is born
+
+**Richard Arkwright's water frame** needed a river to turn it, so he built one of the first true **factories** at Cromford (1771), gathering workers under one roof and one clock. Edmund Cartwright's **power loom** (1785) then mechanized weaving. The raw cotton came largely from slave plantations in the **American South**, where Eli Whitney's **cotton gin** (1793) made production cheap.
+
+**Steam** freed factories from rivers. Thomas **Newcomen's** steam engine (1712) pumped water out of coal mines but wasted fuel. **James Watt**, with his partner Matthew Boulton, added a **separate condenser** (patented 1769) and later rotary motion, producing an efficient engine that could power any machine anywhere. Factories clustered in coal towns such as **Manchester**, nicknamed "Cottonopolis."
+
+**Iron** improved too. **Abraham Darby** smelted iron using **coke** (baked coal) instead of scarce charcoal (1709), and Henry Cort's **puddling** process (1784) made better wrought iron cheaply.
+
+**Railways** combined coal, iron and steam. The Stockton and Darlington line opened in 1825; **George Stephenson's Rocket** won the trials for the **Liverpool and Manchester Railway** (1830), the first intercity line powered by steam. A railway boom in the 1840s cut transport costs, created huge demand for iron and coal, and knit national markets together.
+
+## The spread to the continent
+**Belgium**, with coal and iron and close ties to Britain, industrialized first on the continent, then northern France and the German states. Continental countries had obstacles: wars until 1815, poorer transport, internal tolls and guild rules. Governments played a bigger role than in Britain, building railways and setting tariffs. The Prussian-led **Zollverein** (customs union, 1834) removed tariffs among most German states. The German economist **Friedrich List** argued that young industries need **protective tariffs** to compete with Britain. Southern and eastern Europe, including Russia, industrialized only late in the century.
+
+## Social impact: a new world of work and cities
+-> Factories and steam power concentrate work in industrial towns | Rapid urbanization: overcrowded slums, polluted water, cholera, long hours, child labor | A new working class and a new middle class, each with political demands
+
+**Factory work** imposed strict discipline: fixed hours set by the clock and bell, fines for lateness, 12- to 14-hour days, six days a week. Employers hired **women and children** because they were cheaper and nimble at tending machines; children as young as six worked in mills and mines. Families that had worked together at home in the putting-out system were split up during the working day.
+
+**Cities** grew faster than anyone could plan for. Manchester went from about 25,000 people in 1770 to over 300,000 by 1850. Workers crowded into **back-to-back houses** with no running water or sewers; **cholera** epidemics struck in 1832 and 1848. **Friedrich Engels**, a German whose family owned a Manchester mill, described the horrors in ***The Condition of the Working Class in England* (1845)**, which shaped Marx's thinking.
+
+Industrialization created a **working class (proletariat)** of wage earners who owned nothing but their labor, and an expanding **middle class** of factory owners, merchants and professionals. The middle class prized hard work, thrift, self-help and respectability, and promoted the ideal of "**separate spheres**": men in the public world of work, women in the home. Historians still debate the **standard of living**: real wages fell or stagnated for many workers until about the 1840s, then rose; the long-term gains were enormous, but the first generations paid a heavy price.
+
+Economists explained (and often justified) the new order. **Thomas Malthus** (*Essay on the Principle of Population*, 1798) argued that population grows faster than the food supply, so poverty is inevitable unless people have fewer children. **David Ricardo** proposed the "**iron law of wages**": wages tend to sink to subsistence level. Their gloom earned economics the label "the dismal science." These **classical economists** opposed government intervention in the economy.
+
+## Workers' responses and British reform
+Workers resisted. The **Luddites** (1811–1816) smashed textile machines that threatened their jobs. Trade unions were banned by the **Combination Acts** (1799–1800), repealed in 1824. In 1819 cavalry charged a peaceful crowd demanding parliamentary reform in Manchester, killing about fifteen people: the **Peterloo Massacre**.
+
+Yet Britain avoided revolution by passing reforms step by step:
+- **Catholic Emancipation (1829)** let Catholics sit in Parliament.
+- The **Great Reform Act of 1832** took seats from "**rotten boroughs**" (tiny or empty districts controlled by patrons) and gave them to new industrial cities, and gave the vote to middle-class men who owned or rented property of moderate value. The electorate grew by roughly half, to about one in five adult men in England. Workers were still excluded.
+- The **Factory Act of 1833** banned children under 9 from textile mills, limited hours for children, and created government **inspectors** to enforce it. The **Mines Act (1842)** barred women and children under 10 from underground work; the **Ten Hours Act (1847)** limited women and teenagers to ten hours a day.
+- The **Poor Law Amendment Act (1834)** forced the able-bodied poor into harsh **workhouses** to discourage dependence, a reform workers hated.
+- Slavery was abolished throughout the British Empire in **1833**.
+- The **Corn Laws** (1815) had protected landowners with high tariffs on imported grain, keeping bread prices high. The middle-class **Anti-Corn Law League** (Richard Cobden, John Bright) campaigned for free trade, and Prime Minister Robert **Peel** repealed the Corn Laws in **1846**, a victory for industrialists and free trade over the landed aristocracy.
+
+## Chartism
+Disappointed that the Reform Act of 1832 left them voteless, working-class radicals drew up the **People's Charter (1838)**. Its six points: **universal male suffrage**, the **secret ballot**, no property qualification for members of Parliament, **payment of MPs**, equal electoral districts, and annual elections to Parliament. Chartists gathered millions of signatures on petitions in 1839, 1842 and 1848; Parliament rejected all three, and the movement faded after 1848. But Chartism was the first mass working-class political movement, and by 1918 every point except annual parliaments had become law.
+
+=== MUSTKNOW
+- **Agricultural revolution:** enclosure, crop rotation (turnips, clover), Tull's seed drill → more food, fewer farm jobs, labor for industry.
+- **Why Britain:** coal and iron, capital, colonial markets, stable pro-business government, labor supply, no internal tariffs.
+- **Textile chain:** flying shuttle → spinning jenny → water frame (Arkwright's factories) → mule → power loom.
+- **James Watt** improved the steam engine (separate condenser) → factories anywhere; **Darby's** coke smelting; **Stephenson's Rocket** and the Liverpool–Manchester Railway (1830).
+- **Social costs:** urbanization, slums, cholera, child labor, factory discipline; Engels's *Condition of the Working Class* (1845).
+- **Classical economists:** Malthus (population outruns food), Ricardo (iron law of wages), laissez-faire.
+- **Luddites** smashed machines; **Peterloo Massacre** (1819).
+- **Reform Act of 1832:** middle-class men get the vote; rotten boroughs abolished; workers still excluded.
+- **Factory Act (1833), Mines Act (1842), Poor Law (1834), Corn Law repeal (1846).**
+- **Chartism (1838–48):** six points incl. universal male suffrage and secret ballot; petitions rejected but most points later adopted.
+
+=== TIMELINE
+1701 | Tull's seed drill | Agricultural improvement
+1709 | Darby smelts iron with coke | Cheaper iron
+1712 | Newcomen steam engine | Pumps water from mines
+1733 | Kay's flying shuttle | Faster weaving
+c. 1765 | Hargreaves's spinning jenny | Multi-spindle hand spinning
+*1769 | Watt's separate condenser; Arkwright's water frame | Efficient steam; factory spinning
+1798 | Malthus's Essay on Population | Population outruns food
+1811–1816 | Luddite riots | Machine-breaking
+1819 | Peterloo Massacre | Repression of reform rally
+*1830 | Liverpool and Manchester Railway | Steam railway age begins
+*1832 | Great Reform Act | Middle-class franchise
+*1833 | Factory Act; abolition of slavery in the empire | Inspectors; limits on child labor
+1834 | Poor Law Amendment; Zollverein | Workhouses; German customs union
+*1838 | People's Charter | Chartism begins
+1845 | Engels's Condition of the Working Class in England | Exposé of Manchester
+*1846 | Repeal of the Corn Laws | Victory for free trade
+1848 | Final Chartist petition | Chartism fades
+
+=== CARDS
+Enclosure movement :: Fencing off open fields and commons into private farms; raised output, displaced small farmers.
+Crop rotation (Norfolk system) :: Rotating wheat, turnips, barley and clover so no field lies fallow.
+Spinning jenny :: Hargreaves's multi-spindle spinning machine (c. 1765).
+@ Richard Arkwright :: Water frame (1769) and early factories at Cromford: the father of the factory system.
+@ James Watt :: Improved the steam engine with a separate condenser; partnered with Boulton.
+@ George Stephenson :: Railway pioneer; his Rocket won the 1829 trials for the Liverpool–Manchester line.
+Factory system :: Production in one building with power-driven machines, wage labor and strict discipline.
+@ Thomas Malthus :: Essay on Population (1798): population grows faster than food, so poverty persists.
+@ David Ricardo :: Classical economist; "iron law of wages": wages tend toward subsistence.
+@ Friedrich Engels :: The Condition of the Working Class in England (1845); Marx's collaborator.
+Luddites :: Workers who smashed textile machines (1811–16) to protect their jobs.
+Peterloo Massacre (1819) :: Cavalry attacked a peaceful reform rally in Manchester.
+Great Reform Act (1832) :: Ended rotten boroughs and gave the vote to middle-class men.
+Rotten boroughs :: Tiny or empty districts that still elected MPs before 1832.
+Factory Act (1833) :: Banned children under 9 from textile mills, limited children's hours, created inspectors.
+Poor Law Amendment Act (1834) :: Forced the able-bodied poor into workhouses.
+Corn Laws :: Tariffs on imported grain protecting landowners; repealed in 1846.
+Anti-Corn Law League :: Middle-class free-trade campaign led by Cobden and Bright.
+Chartism :: Working-class movement for the People's Charter (1838): universal male suffrage, secret ballot, etc.
+Zollverein (1834) :: Prussian-led customs union of German states.
+
+=== QUESTIONS
+@e
+The Industrial Revolution began in which country?
++ Great Britain :: Britain's coal, capital, markets and stable government made it the first industrial nation.
+- France :: France industrialized later, slowed by revolution and war.
+- Russia :: Russia industrialized late in the nineteenth century.
+- Italy :: Italy industrialized late, mainly in the north.
+- Spain :: Spain industrialized late and unevenly.
+
+@e
+James Watt is best known for
++ greatly improving the efficiency of the steam engine :: His separate condenser and rotary motion made steam power practical for factories.
+- inventing the spinning jenny :: That was James Hargreaves.
+- building the first railway locomotive to win the Rainhill trials :: That was George Stephenson's Rocket.
+- writing The Wealth of Nations :: That was Adam Smith.
+- leading the Chartist movement :: Chartism was a working-class movement of the 1830s and 1840s.
+
+@e
+The first industry to be transformed by factory production in Britain was
++ cotton textiles :: Spinning and weaving machines created the first factories.
+- automobile manufacturing :: Automobiles came in the late 1800s.
+- chemical dyes :: Synthetic dyes came in the mid-1800s, led by Germany.
+- electrical goods :: Electricity came in the late 1800s.
+- shipbuilding :: Shipbuilding mechanized later.
+
+@e
+The Luddites were
++ workers who destroyed textile machinery they blamed for taking their jobs :: The Luddite riots took place in 1811–1816.
+- landowners who supported the Corn Laws :: Landowners were not Luddites.
+- middle-class reformers who campaigned for free trade :: That describes the Anti-Corn Law League.
+- engineers who promoted railways :: Luddites opposed machines.
+- socialist followers of Karl Marx :: Marx wrote later, in the 1840s.
+
+@e
+Which law gave the vote to many middle-class men in Britain?
++ The Reform Act of 1832 :: It redistributed seats to industrial towns and enfranchised middle-class property holders.
+- The Factory Act of 1833 :: That regulated child labor.
+- The Corn Laws of 1815 :: Those were tariffs on grain.
+- The Poor Law Amendment Act of 1834 :: That created the workhouse system.
+- The Combination Acts :: Those banned trade unions.
+
+@e
+The People's Charter of 1838 demanded
++ universal male suffrage and a secret ballot :: These were two of the Chartists' six points.
+- the abolition of the monarchy :: The Charter sought parliamentary reform, not a republic.
+- a return to the putting-out system :: Chartists sought political rights.
+- votes for women :: The Charter called for manhood suffrage only.
+- higher tariffs on grain :: Chartists generally opposed the Corn Laws.
+
+@e
+Enclosure in eighteenth-century Britain involved
++ consolidating open fields and common lands into private, fenced farms :: Enclosure raised productivity but displaced many small farmers.
+- forcing peasants to live in walled cities :: Enclosure concerned land, not urban walls.
+- banning the import of foreign grain :: That was the Corn Laws.
+- closing factories to protect artisans :: Enclosure was agricultural.
+- creating collective farms run by the state :: That describes Soviet collectivization in the 1930s.
+
+@e
+Which city became the symbol of the cotton industry and was nicknamed "Cottonopolis"?
++ Manchester :: Manchester's mills made it the center of the cotton industry.
+- Paris :: Paris was not a cotton-manufacturing center.
+- Vienna :: Vienna was not a major industrial city in this era.
+- Edinburgh :: Edinburgh was a financial and intellectual center.
+- Rome :: Rome was not industrial.
+
+@e
+Which economist argued that population grows faster than the food supply?
++ Thomas Malthus :: His Essay on the Principle of Population (1798) predicted persistent poverty.
+- Adam Smith :: Smith wrote about free markets and the division of labor.
+- Karl Marx :: Marx blamed capitalism, not population, for poverty.
+- John Stuart Mill :: Mill was a liberal philosopher of the mid-1800s.
+- Friedrich List :: List argued for protective tariffs.
+
+@e
+The Factory Act of 1833 is significant because it
++ limited child labor in textile mills and created government inspectors :: It was the first effective factory regulation.
+- gave factory workers the vote :: Workers did not gain the vote until 1867 and after.
+- abolished factories in British cities :: Factories kept growing.
+- legalized trade unions :: Unions were legalized by repeal of the Combination Acts in 1824.
+- repealed the Corn Laws :: That happened in 1846.
+
+@m
+Which of the following best explains why Britain industrialized first?
++ It combined coal and iron deposits, capital from trade, a large market and a stable, pro-business government :: No single factor explains it; the combination mattered.
+- It had the largest population in Europe :: France and Russia had larger populations.
+- Its government owned and ran all factories :: British industry was privately owned.
+- It had no overseas colonies to distract it :: Britain had a large empire that supplied markets and raw materials.
+- It had abolished private property :: Secure property rights encouraged investment.
+
+@m
+Which sequence of inventions is in the correct chronological order?
++ Flying shuttle, spinning jenny, power loom :: 1733, c. 1765, 1785.
+- Power loom, flying shuttle, spinning jenny :: The power loom came last, in 1785.
+- Spinning jenny, flying shuttle, power loom :: The flying shuttle (1733) came before the jenny.
+- Power loom, spinning jenny, flying shuttle :: This reverses the order.
+- Flying shuttle, power loom, spinning jenny :: The jenny came before the power loom.
+
+@m
+The agricultural revolution contributed to industrialization chiefly by
++ producing more food with fewer workers, freeing labor and supporting population growth :: Surplus food and labor fed the growing factory towns.
+- ending the need for coal :: Coal demand grew.
+- increasing the number of small family farms :: Enclosure reduced small farms.
+- reducing the population of Britain :: Population grew rapidly.
+- restoring feudal obligations :: Feudal obligations were long gone in England.
+
+@m
+The Great Reform Act of 1832 is best described as
++ a moderate reform that brought the middle class into politics while excluding workers :: It removed rotten boroughs and widened the franchise to middle-class property owners.
+- a revolutionary law granting universal suffrage :: Only about one in five adult men in England could vote.
+- the law that legalized trade unions :: That was the repeal of the Combination Acts in 1824.
+- the law that created the workhouse system :: That was the Poor Law of 1834.
+- a measure to restore royal power over Parliament :: It strengthened the House of Commons.
+
+@m
+The repeal of the Corn Laws in 1846 represented a victory for
++ industrialists and advocates of free trade over landowners :: Cheaper grain helped manufacturers and workers; landowners lost protection.
+- landed aristocrats over manufacturers :: The Corn Laws had protected landowners.
+- Chartists over Parliament :: Chartist petitions were rejected.
+- mercantilists over classical economists :: Repeal was a free-trade, anti-mercantilist measure.
+- Irish nationalists over British rule :: Repeal was a British economic policy, though the Irish famine helped prompt it.
+
+@m
+Which of the following was a common feature of early factory work?
++ Strict time discipline with long hours and fines for lateness :: Factories ran on the clock and bell.
+- An eight-hour working day guaranteed by law :: The eight-hour day came much later.
+- Work done at home with family members :: That was the putting-out system.
+- High wages for child workers to attract them :: Children were hired because they were cheap.
+- Worker ownership of the machines :: Owners controlled the machinery.
+
+@m
+Friedrich Engels's The Condition of the Working Class in England (1845) described
++ the overcrowded, unhealthy living and working conditions of industrial Manchester :: Engels drew on what he saw in his family's mill town.
+- the luxurious lives of factory workers :: Engels described misery.
+- the agricultural revolution in Norfolk :: His subject was industrial cities.
+- the campaign to repeal the Corn Laws :: That was not his focus.
+- the success of the Chartists in winning the vote :: The Chartists did not win in his lifetime.
+
+@m
+Abraham Darby's use of coke to smelt iron was important because
++ it freed iron production from dependence on scarce charcoal :: Coal-based coke allowed iron output to expand enormously.
+- it created the first steam locomotive :: Locomotives came a century later.
+- it ended Britain's need for coal :: Coke is made from coal.
+- it made iron too expensive for railways :: Cheaper iron made railways possible.
+- it mechanized cotton spinning :: That was the work of Hargreaves, Arkwright and Crompton.
+
+@m
+The Peterloo Massacre (1819) occurred when
++ cavalry attacked a peaceful crowd demanding parliamentary reform in Manchester :: About fifteen people were killed; it became a symbol of repression.
+- Luddites burned factories in Yorkshire :: Luddite actions were different events.
+- the French army defeated the British at Waterloo :: Wellington defeated Napoleon at Waterloo in 1815.
+- Chartists stormed Parliament in 1848 :: The 1848 Chartist rally was peaceful.
+- strikers seized the Bank of England :: No such event occurred.
+
+@m
+The Poor Law Amendment Act of 1834 reflected the belief that
++ relief should be made harsh so that the able-bodied poor would prefer to work :: Workhouses were deliberately unpleasant to discourage dependence.
+- the state should guarantee a minimum income for all :: The act was designed to cut relief costs.
+- poverty was caused mainly by low wages set by employers :: The act blamed idleness rather than wages.
+- the Church should take over all poor relief :: Relief was organized by local boards of guardians.
+- workers should own the factories :: That is a socialist idea.
+
+@m
+Which statement about Chartism is most accurate?
++ It failed in the short run, but most of its demands later became law :: Petitions were rejected in 1839, 1842 and 1848, yet by 1918 all points except annual parliaments were enacted.
+- It succeeded immediately in winning universal male suffrage in 1838 :: Universal male suffrage came in 1918.
+- It was a middle-class movement for free trade :: That was the Anti-Corn Law League.
+- It sought the overthrow of capitalism by armed revolution :: Most Chartists sought political reform.
+- It was organized mainly by landowners :: Its base was the working class.
+
+@m
+On the continent, the Zollverein (1834) contributed to German industrialization by
++ removing tariffs among most German states and creating a larger market :: The Prussian-led customs union promoted trade and economic unity.
+- building Germany's first steam engines :: Steam engines were imported from Britain earlier.
+- abolishing serfdom in Prussia :: Prussian serfdom was abolished in reforms beginning in 1807.
+- uniting Germany politically under Austria :: Austria was excluded.
+- imposing tariffs on goods traded between German states :: It removed them.
+
+@m
+"Separate spheres" refers to the middle-class ideal that
++ men belonged in the public world of work and politics and women in the home :: This ideology shaped nineteenth-century gender roles.
+- workers and owners should live in separate parts of town :: The term refers to gender roles.
+- church and state should be separated :: That is a different principle.
+- agriculture and industry should be taxed separately :: The term has nothing to do with taxation.
+- Britain and its colonies should have separate economies :: The term refers to gender roles.
+
+@m
+> "In Manchester... the cottages are old, dirty, and of the smallest sort, the streets uneven, fallen into ruts and in part without drains or pavement; masses of refuse, offal and sickening filth lie among standing pools in all directions."
+This description is most useful as evidence of
++ the effects of rapid, unplanned urbanization on industrial workers :: It describes housing and sanitation in an industrial city.
+- the success of the Factory Act of 1833 :: The passage does not concern factory regulation.
+- conditions on enclosed farms :: The passage describes a city.
+- middle-class life in London :: It describes working-class districts in Manchester.
+- the effects of the Continental System :: The passage concerns urban conditions.
+
+@m
+Which group was the core of the Anti-Corn Law League?
++ Middle-class manufacturers and merchants who wanted free trade :: Cobden and Bright led businessmen who wanted cheaper food and wider markets.
+- Aristocratic landowners :: They benefited from the Corn Laws.
+- Catholic clergy :: The League was a secular economic campaign.
+- Luddite machine-breakers :: The League worked through petitions and Parliament.
+- Prussian Junkers :: The League was British.
+
+@m
+Which change resulted from Richard Arkwright's water frame?
++ Spinning moved from homes to large water-powered mills :: The water frame was too large for cottages and needed river power.
+- Weaving was mechanized for the first time :: The water frame spun thread; Cartwright's power loom mechanized weaving.
+- Coal mining was banned :: Mining expanded.
+- Steam locomotives replaced canals :: That came with the railways after 1830.
+- The putting-out system expanded :: Factory spinning undercut cottage spinning.
+
+@h
+Which development MOST directly resulted from the high cost of transporting coal before 1830?
++ The building of canals and then railways :: Moving bulky coal cheaply drove the canal age and the first railways.
+- The repeal of the Corn Laws :: That concerned grain tariffs.
+- The Great Reform Act :: That concerned representation.
+- The decline of the cotton industry :: Cotton grew.
+- The Luddite movement :: Luddites protested machines.
+
+@h
+A historian argues that the early Industrial Revolution lowered living standards for many workers before raising them. Which evidence would best support this?
++ Data showing stagnant real wages and rising urban death rates before the 1840s, followed by rising real wages afterward :: This is the "pessimist" position in the standard-of-living debate.
+- The invention of the spinning jenny in the 1760s :: An invention does not show workers' living standards.
+- The growth of Britain's total GDP after 1780 :: Total output can rise while workers' wages lag.
+- The passage of the Reform Act of 1832 :: That concerns voting rights.
+- The founding of the Bank of England in 1694 :: That predates industrialization.
+
+@h
+Continental European industrialization differed from British industrialization mainly in that
++ governments played a larger role through tariffs, banks and state-built railways :: Latecomers used the state to catch up with Britain.
+- it began earlier than in Britain :: It came later.
+- it relied entirely on water power :: Continental industry used steam and coal.
+- it was led by the textile industry in Russia :: Russia industrialized late.
+- it rejected railways in favor of canals :: Railways were central on the continent.
+
+@h
+David Ricardo's "iron law of wages" was used to argue that
++ efforts to raise workers' wages through regulation would fail in the long run :: If wages tend to subsistence, intervention seemed pointless to classical economists.
+- workers should seize factories in a revolution :: Marx drew revolutionary conclusions; Ricardo did not.
+- governments should set a minimum wage :: Ricardo's theory argued against such intervention.
+- women should be paid the same as men :: Ricardo's law was not about gender pay.
+- landowners should give land to peasants :: Ricardo did not propose land redistribution.
+
+@h
+Which statement best explains why Britain avoided revolution in 1848 when much of Europe did not?
++ Earlier reforms (1832, factory acts, Corn Law repeal) had given the middle class a stake in the system and eased some grievances :: Gradual reform defused pressure, and the Chartists' 1848 rally ended peacefully.
+- Britain had already become a republic :: Britain remained a monarchy.
+- Britain had no industrial working class :: It had Europe's largest industrial working class.
+- Chartism had already achieved universal suffrage :: Universal male suffrage came in 1918.
+- The British army had been disbanded after Waterloo :: Britain kept an army.
+
+@h
+Which statement about child labor in early British factories is most accurate?
++ Children were employed because they were cheap and nimble, and legislation limited their work only gradually :: The 1833 Factory Act and later laws restricted child labor step by step.
+- Children were banned from factories from the start of industrialization :: Children worked in mills from the beginning.
+- Child labor was invented by the factory system :: Children had always worked on farms and in cottage industry.
+- Parliament abolished all child labor in 1802 :: The 1802 act applied only to pauper apprentices and was poorly enforced.
+- Children were paid more than adult men :: Children were paid much less.
+
+@m
+The Mines Act of 1842 prohibited
++ women and girls, and boys under 10, from working underground in mines :: Reports on mine conditions shocked the public and led to the law.
+- all coal mining in Britain :: Mining expanded.
+- trade unions among miners :: Unions were legal after 1824.
+- the use of steam engines in mines :: Steam engines were essential for pumping.
+- the export of coal to the continent :: The act concerned labor.
+
+@h
+Which pairing correctly links a cause to its consequence in British industrialization?
++ Watt's efficient steam engine → factories no longer had to be built beside rivers :: Steam power let factories concentrate in coal towns and cities.
+- The repeal of the Corn Laws → the invention of the spinning jenny :: The jenny came about eighty years before repeal.
+- The Chartist petitions → universal male suffrage in 1848 :: Parliament rejected the petitions.
+- The Factory Act of 1833 → the start of child labor :: The act limited child labor.
+- The Peterloo Massacre → the abolition of the monarchy :: Britain remained a monarchy.
