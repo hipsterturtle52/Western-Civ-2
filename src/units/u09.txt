@@ -119,16 +119,16 @@ Charles Darwin's On the Origin of Species (1859) proposed that
 
 @e
 The Berlin Conference of 1884–1885 established rules for
-+ the partition of Africa among European powers :: Its "effective occupation" rule governed the Scramble for Africa.
++ dividing Africa :: Its "effective occupation" rule governed the Scramble for Africa.
 - the unification of Germany :: Germany had been unified in 1871.
-- ending the Crimean War :: That war ended in 1856.
+- ending the Crimean War on the Black Sea :: That war ended in 1856.
 - dividing Poland :: Poland had been partitioned in the 1700s.
 - the Concert of Europe's intervention in Spain :: That was in the 1820s.
 
 @e
 Sigmund Freud is best known for
-+ founding psychoanalysis and stressing the role of the unconscious :: The Interpretation of Dreams (1900) is his landmark work.
-- discovering radioactivity :: That was Marie and Pierre Curie (with Becquerel).
++ founding psychoanalysis :: The Interpretation of Dreams (1900) is his landmark work.
+- discovering radioactivity with Pierre Curie :: That was Marie and Pierre Curie (with Becquerel).
 - formulating the theory of relativity :: That was Einstein.
 - writing On the Origin of Species :: That was Darwin.
 - painting Les Demoiselles d'Avignon :: That was Picasso.
@@ -159,18 +159,18 @@ Which philosopher declared "God is dead" and called for a revaluation of values?
 
 @e
 Louis Pasteur's work was important because it
-+ established the germ theory of disease :: Germ theory transformed medicine and public health.
-- invented the steam engine :: That was Watt, among others.
++ proved germ theory :: Germ theory transformed medicine and public health.
+- invented the high-pressure steam engine :: That was Watt, among others.
 - developed the theory of evolution :: That was Darwin.
 - discovered X-rays :: That was Röntgen in 1895.
 - invented the telephone :: That was Bell in 1876.
 
 @e
 In "The White Man's Burden" (1899), Rudyard Kipling
-+ urged Western nations to take up the duty of ruling colonized peoples :: The poem expressed the "civilizing mission" ideology.
++ called empire a duty :: The poem expressed the "civilizing mission" ideology.
 - condemned imperialism as theft :: Kipling defended imperial rule.
 - called for socialist revolution :: Kipling was not a socialist.
-- celebrated the Boxer Rebellion :: He wrote about Western duty, not Chinese resistance.
+- celebrated the Boxer Rebellion against foreigners in China :: He wrote about Western duty, not Chinese resistance.
 - demanded votes for women :: The poem is about empire.
 
 @e
@@ -191,59 +191,59 @@ Which new energy source was central to the Second Industrial Revolution?
 
 @m
 Which of the following was an important enabling factor for the New Imperialism in Africa?
-+ Quinine to protect against malaria and machine guns like the Maxim gun :: Technology let Europeans survive and conquer inland Africa.
++ Quinine and the machine gun :: Technology let Europeans survive and conquer inland Africa.
 - The abolition of all European armies :: European armies grew.
-- African kingdoms' invitations to rule them :: Most Africans resisted.
+- African kingdoms' invitations to Europeans to rule them :: Most Africans resisted.
 - The Congress of Vienna's colonial clauses :: Vienna predates the Scramble.
 - The decline of steamship travel :: Steamships expanded.
 
 @m
 J. A. Hobson and later Lenin argued that imperialism was driven primarily by
-+ capitalists seeking profitable investments and markets abroad :: Both gave an economic explanation of empire.
++ capitalists' search for profits :: Both gave an economic explanation of empire.
 - missionaries seeking converts :: They stressed economics, not religion.
 - the desire to spread democracy :: Neither believed that.
-- social Darwinist ideas held by workers :: They focused on capitalists.
+- social Darwinist ideas held by industrial workers :: They focused on capitalists.
 - the need for coaling stations only :: That is a strategic explanation.
 
 @m
 Social Darwinism was used to justify
-+ imperialism, racism and laissez-faire policies :: It claimed the "fittest" nations and individuals deserved to dominate.
++ empire and racism :: It claimed the "fittest" nations and individuals deserved to dominate.
 - the abolition of colonial empires :: It was used to defend empire.
 - Marxist revolution :: Marx's theory was about class, not biological fitness.
-- universal suffrage for women :: It was rarely used to support equality.
+- universal suffrage for women in Britain :: It was rarely used to support equality.
 - the Kulturkampf :: That was Bismarck's church policy.
 
 @m
 The Indian Rebellion of 1857 resulted in
-+ the end of East India Company rule and direct rule by the British crown :: The Raj began in 1858.
++ direct British crown rule :: The Raj began in 1858.
 - Indian independence :: India became independent in 1947.
 - French control of India :: France had lost India in the 1700s.
 - the Opium War :: The Opium War concerned China and was earlier.
-- the abolition of the British monarchy :: The monarchy continued.
+- the abolition of the British monarchy and House of Lords :: The monarchy continued.
 
 @m
 King Leopold II's Congo Free State became notorious for
-+ forced labor and atrocities used to extract rubber :: Millions died, and outrage forced Belgium to take over in 1908.
++ forced labor for rubber :: Millions died, and outrage forced Belgium to take over in 1908.
 - its peaceful self-government by Africans :: Leopold ran it as a personal possession.
 - defeating Italy at Adwa :: That was Ethiopia.
-- being the only African state never colonized :: The Congo was colonized.
+- being the only African state never colonized by Europeans :: The Congo was colonized.
 - abolishing slavery throughout Africa :: The regime used forced labor.
 
 @m
 Japan's response to Western pressure after 1868 differed from China's in that Japan
-+ rapidly modernized its economy and military on Western models :: Meiji Japan defeated China (1895) and Russia (1905).
++ modernized on Western lines :: Meiji Japan defeated China (1895) and Russia (1905).
 - refused all contact with the West :: Meiji Japan embraced Western technology.
-- was divided into European spheres of influence :: That was China.
+- was divided into European spheres of influence like China :: That was China.
 - became a British colony :: Japan was never colonized.
 - abolished its emperor :: The Meiji Restoration strengthened the emperor's position.
 
 @m
 Which development most reduced urban death rates in the late nineteenth century?
-+ Sewers, clean water supplies and the acceptance of germ theory :: Sanitation and medicine cut deaths from cholera and typhoid.
++ Sewers and clean water :: Sanitation and medicine cut deaths from cholera and typhoid.
 - The invention of the automobile :: Cars did not improve health.
 - Mass emigration to the Americas :: Emigration did not change urban death rates.
 - Higher protective tariffs :: Tariffs had no direct effect on mortality.
-- The growth of Impressionist art :: Art did not affect mortality.
+- The growth of Impressionist art in the cities :: Art did not affect mortality.
 
 @m
 The Fashoda Crisis of 1898 was a confrontation between
@@ -255,7 +255,7 @@ The Fashoda Crisis of 1898 was a confrontation between
 
 @m
 Which statement best describes European emigration between 1815 and 1914?
-+ About 50 million Europeans emigrated, mostly to the Americas :: The United States received the largest share.
++ Tens of millions left, mostly for the Americas :: The United States received the largest share.
 - Few Europeans emigrated because of strict laws :: Emigration was massive.
 - Most emigrants went to Africa :: Most went to the Americas.
 - Emigration was mainly from Britain to Russia :: That is not the pattern.
@@ -272,18 +272,18 @@ This passage best reflects the ideas of
 
 @m
 The Ferry laws in France in the 1880s
-+ made primary education free, compulsory and secular :: Republicans wanted loyal, literate citizens free from Church influence.
++ made primary schooling free and secular :: Republicans wanted loyal, literate citizens free from Church influence.
 - banned women from attending school :: They expanded schooling for girls and boys.
 - restored Catholic control of education :: They removed religious instruction from public schools.
-- created French colonies in Africa :: Jules Ferry did promote empire, but the Ferry laws were school laws.
+- created French colonies in North and West Africa :: Jules Ferry did promote empire, but the Ferry laws were school laws.
 - abolished universal male suffrage :: They concerned education.
 
 @m
 Which statement about the Second Industrial Revolution is most accurate?
-+ It depended more on scientific research, as in the German chemical industry :: Science-based industry was a key difference from the first industrial revolution.
++ It relied more on science :: Science-based industry was a key difference from the first industrial revolution.
 - It was centered on the cotton industry :: That was the first industrial revolution.
 - It began in the 1700s :: It began around 1870.
-- It made Britain the only industrial power :: Germany and the U.S. caught up and overtook Britain.
+- It made Britain the only industrial power in the world :: Germany and the U.S. caught up and overtook Britain.
 - It ended the use of steel :: Steel was central to it.
 
 @m
@@ -304,49 +304,49 @@ Which pairing of artist and movement is correct?
 
 @m
 The Boxer Rebellion (1900) was
-+ an anti-foreign uprising in China suppressed by an international army :: Eight powers, including Japan and the U.S., crushed it.
++ an anti-foreign rising in China :: Eight powers, including Japan and the U.S., crushed it.
 - a British war against Dutch settlers :: That was the Boer War.
 - a revolt of Indian soldiers against the British :: That was the 1857 rebellion.
-- a Japanese revolution that restored the emperor :: That was the Meiji Restoration of 1868.
+- a Japanese revolution that restored the emperor's power :: That was the Meiji Restoration of 1868.
 - an Ethiopian victory over Italy :: That was Adwa in 1896.
 
 @m
 Albert Einstein's theory of relativity (1905) contributed to a sense that
-+ the Newtonian picture of absolute space and time was incomplete :: Relativity undermined old certainties about the physical world.
++ Newton's physics was incomplete :: Relativity undermined old certainties about the physical world.
 - evolution was false :: Relativity concerns physics, not biology.
-- the unconscious mind controls behavior :: That is Freud.
+- the unconscious mind controls most human behavior :: That is Freud.
 - God is dead :: That is Nietzsche.
 - germs cause disease :: That is Pasteur.
 
 @m
 Which of the following was a goal of the women's suffrage movement before 1914?
-+ Winning the right to vote in national elections :: Suffragists and suffragettes campaigned for the parliamentary vote.
++ Winning the vote :: Suffragists and suffragettes campaigned for the parliamentary vote.
 - Abolishing the right of men to vote :: They sought equal voting rights.
 - Restoring absolute monarchy :: The movement sought democratic rights.
-- Ending compulsory education :: Feminists supported education for women.
+- Ending compulsory education for girls :: Feminists supported education for women.
 - Expanding colonial empires :: Suffrage was a domestic political cause.
 
 @h
 Which statement best explains how mass politics changed European nationalism after 1870?
-+ Mass literacy, the popular press and mass parties spread an aggressive, often anti-Semitic nationalism to ordinary voters :: Nationalism shifted from liberal causes to right-wing mass movements.
++ Mass press and parties spread a harsher nationalism :: Nationalism shifted from liberal causes to right-wing mass movements.
 - Nationalism disappeared as socialism took its place :: Nationalism grew stronger.
 - Nationalism became limited to aristocrats :: It became a mass phenomenon.
-- Mass politics ended all imperial rivalries :: Rivalries intensified.
+- Mass politics ended all the imperial rivalries among the powers :: Rivalries intensified.
 - Nationalism became exclusively associated with socialism :: The radical right embraced nationalism most aggressively.
 
 @h
 A historian argues that the New Imperialism was driven more by European rivalries than by economic profit. Which evidence best supports this?
-+ Many colonies cost more to govern than they earned, yet powers rushed to claim them before rivals did :: Prestige and strategic competition, not profit alone, explain the Scramble.
-- British investors put most of their foreign capital into Africa :: Most British capital went to the Americas and other regions.
++ Many colonies cost more than they earned :: Prestige and strategic competition, not profit alone, explain the Scramble.
+- British investors put most of their foreign capital into African colonies :: Most British capital went to the Americas and other regions.
 - Africa was Europe's largest trading partner in 1900 :: Africa was a small share of European trade.
 - Hobson argued that imperialism served capitalists :: That supports an economic interpretation.
 - The Congo produced large rubber profits for Leopold II :: That supports an economic motive.
 
 @h
 Which statement best captures how Darwin, Freud and Nietzsche together challenged Enlightenment assumptions?
-+ They suggested humans are shaped by biology, irrational drives and will rather than by reason alone :: Each undermined faith in human rationality.
++ They stressed forces other than reason :: Each undermined faith in human rationality.
 - They proved that reason governs all human behavior :: They argued the opposite.
-- They defended traditional religious authority :: All three challenged traditional religion.
+- They defended traditional religious authority and the churches :: All three challenged traditional religion.
 - They supported the divine right of kings :: None of them addressed kingship this way.
 - They argued for a return to mercantilism :: None wrote on mercantilism.
 
@@ -360,24 +360,24 @@ The Battle of Adwa and the Russo-Japanese War both demonstrated that
 
 @h
 Which pairing correctly links a cause to its consequence?
-+ Rivalry over colonies such as Fashoda → Anglo-French settlement in the Entente Cordiale (1904) :: Resolving colonial disputes allowed Britain and France to align against Germany.
++ Fashoda → the Entente Cordiale :: Resolving colonial disputes allowed Britain and France to align against Germany.
 - The Boer War → Ethiopia's independence :: Ethiopia's independence came from Adwa (1896).
 - The Indian Rebellion → the Berlin Conference :: These are unrelated.
-- Freud's theories → the Meiji Restoration :: Japan's reform predates Freud's work.
+- Freud's theories of the unconscious → the Meiji Restoration :: Japan's reform predates Freud's work.
 - The Opium War → the Irish potato famine :: These are unrelated.
 
 @h
 Realist and naturalist writers such as Flaubert and Zola differed from Romantics in that they
-+ depicted ordinary life and social conditions objectively rather than idealizing emotion and the past :: Realism aimed at truthful observation of everyday society.
++ depicted ordinary life objectively :: Realism aimed at truthful observation of everyday society.
 - celebrated medieval knights and legends :: That is Romantic.
 - wrote only about scientific discoveries :: They wrote novels about society.
 - rejected the novel as a form :: They were novelists.
-- opposed all depiction of the working class :: Zola wrote extensively about workers.
+- opposed all depiction of the working class in fiction :: Zola wrote extensively about workers.
 
 @m
 The Opium War (1839–1842) between Britain and China resulted in
-+ China opening ports to British trade and ceding Hong Kong :: The Treaty of Nanking began the "unequal treaties."
-- China banning British trade permanently :: China was forced to open up.
++ China ceding Hong Kong :: The Treaty of Nanking began the "unequal treaties."
+- China banning all British trade permanently :: China was forced to open up.
 - Britain giving up the opium trade :: The trade continued.
 - Japan colonizing China :: Japan's expansion came later.
 - China joining the Triple Entente :: China was never part of it.

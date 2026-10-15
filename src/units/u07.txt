@@ -108,11 +108,11 @@ Which ideology most strongly emphasized tradition, monarchy and an established c
 
 @e
 The Communist Manifesto (1848) argued that
-+ history is the history of class struggles and the proletariat will overthrow the bourgeoisie :: Marx and Engels predicted a workers' revolution.
-- workers and owners share the same interests :: Marx saw their interests as opposed.
++ workers will overthrow the bourgeoisie :: Marx and Engels predicted a workers' revolution.
+- workers and factory owners share the same basic interests :: Marx saw their interests as opposed.
 - monarchy is the best form of government :: The Manifesto is revolutionary and anti-monarchical.
 - private property is a sacred natural right :: Marx called for abolishing bourgeois property.
-- society should return to medieval guilds :: Marx looked forward, not backward.
+- society should return to the medieval guild system of crafts :: Marx looked forward, not backward.
 
 @e
 Romanticism emphasized
@@ -124,7 +124,7 @@ Romanticism emphasized
 
 @e
 Giuseppe Mazzini is best known for
-+ founding Young Italy to work for a united, democratic Italy :: Mazzini was the prophet of Italian nationalism.
++ founding Young Italy :: Mazzini was the prophet of Italian nationalism.
 - writing The Communist Manifesto :: That was Marx and Engels.
 - serving as Austria's foreign minister :: That was Metternich.
 - leading the Decembrist Revolt :: That took place in Russia in 1825.
@@ -148,11 +148,11 @@ Which of the following won its independence from the Ottoman Empire in the 1820s
 
 @e
 The Carlsbad Decrees (1819) were designed to
-+ suppress liberal and nationalist activity in German universities and the press :: Metternich used them to censor and dissolve student societies.
++ silence nationalist students and the press :: Metternich used them to censor and dissolve student societies.
 - unify Germany under Prussia :: They aimed to prevent nationalist agitation.
 - abolish serfdom in Austria :: Serfdom was abolished in 1848.
-- grant constitutions to all German states :: They restricted liberal movements.
-- create a customs union :: That was the Zollverein (1834).
+- grant liberal constitutions to all the German states :: They restricted liberal movements.
+- create a customs union among the German states :: That was the Zollverein (1834).
 
 @e
 Which utopian socialist built a model industrial community at New Lanark, Scotland?
@@ -164,16 +164,16 @@ Which utopian socialist built a model industrial community at New Lanark, Scotla
 
 @e
 The Frankfurt Parliament of 1848–1849 attempted to
-+ unify Germany under a liberal constitution :: It offered the crown to Frederick William IV, who refused.
-- restore Napoleon's Confederation of the Rhine :: It sought a new national state.
++ unify Germany under a constitution :: It offered the crown to Frederick William IV, who refused.
+- restore Napoleon's old Confederation of the Rhine :: It sought a new national state.
 - abolish the Prussian army :: It had no power over the army.
 - partition Poland :: It did not concern Poland's partition.
 - elect Metternich as German emperor :: Metternich had fled Vienna.
 
 @m
 Most liberals in the early nineteenth century supported
-+ constitutional government with voting limited to property owners :: Liberals feared democracy as well as absolutism.
-- universal suffrage for men and women :: Most liberals opposed even universal male suffrage.
++ constitutions with property qualifications for voting :: Liberals feared democracy as well as absolutism.
+- universal suffrage for all adult men and women :: Most liberals opposed even universal male suffrage.
 - absolute monarchy by divine right :: That is conservative or absolutist.
 - state ownership of industry :: That is socialist.
 - the abolition of all government :: That is anarchist.
@@ -197,18 +197,18 @@ Why was Metternich especially hostile to nationalism?
 
 @m
 Utopian socialists differed from Marx in that they
-+ hoped to reform society by example and persuasion rather than through class revolution :: Owen and Fourier built model communities; Marx predicted revolution.
++ sought change by example, not revolution :: Owen and Fourier built model communities; Marx predicted revolution.
 - supported laissez-faire capitalism :: They criticized capitalist competition.
 - wanted to restore absolute monarchy :: They sought social reform.
-- denied that workers suffered under industrialization :: They were responding to workers' suffering.
+- denied that workers suffered under the new industrial system :: They were responding to workers' suffering.
 - were all government officials :: Most were private reformers and writers.
 
 @m
 The revolutions of 1848 failed mainly because
-+ liberals, radicals and rival nationalities divided while royal armies stayed loyal :: Divisions let monarchs regain control in 1848–49.
-- no revolutions broke out outside France :: Revolution spread across central Europe and Italy.
++ the revolutionaries were divided :: Divisions let monarchs regain control in 1848–49.
+- no revolutions broke out anywhere outside France :: Revolution spread across central Europe and Italy.
 - the revolutionaries had won universal suffrage everywhere :: They had not.
-- Britain sent armies to restore the monarchs :: Britain did not intervene; Russia did in Hungary.
+- Britain sent armies to restore the monarchs of central Europe :: Britain did not intervene; Russia did in Hungary.
 - Marx ordered the workers to stop fighting :: Marx had no such authority.
 
 @m
@@ -221,11 +221,11 @@ Which was a lasting result of the 1848 revolutions in the Austrian Empire?
 
 @m
 The June Days of 1848 in Paris were caused by
-+ the government's closing of the National Workshops that employed jobless workers :: Workers rose in protest and were crushed by the army.
++ the closing of the National Workshops :: Workers rose in protest and were crushed by the army.
 - Napoleon III's coup d'état :: The coup came in December 1851.
 - Charles X's July Ordinances :: Those caused the 1830 revolution.
 - the arrival of Russian troops :: Russian troops intervened in Hungary, not France.
-- the publication of the Communist Manifesto :: The Manifesto had little immediate effect.
+- the publication of the Communist Manifesto in February :: The Manifesto had little immediate effect.
 
 @m
 Which work of art is most associated with the Romantic glorification of revolution?
@@ -237,18 +237,18 @@ Which work of art is most associated with the Romantic glorification of revoluti
 
 @m
 Frederick William IV of Prussia refused the crown offered by the Frankfurt Parliament because
-+ he would not accept a crown from an elected assembly rather than from his fellow princes :: He called it a "crown from the gutter."
-- he wanted Austria to rule a united Germany :: He did not refuse in order to favor Austria.
++ he scorned a crown offered by a parliament :: He called it a "crown from the gutter."
+- he wanted Austria's emperor to rule a united Germany :: He did not refuse in order to favor Austria.
 - he had already been crowned emperor of Germany :: There was no German emperor until 1871.
 - Napoleon III threatened war :: Napoleon III did not stop him.
 - Prussia had become a republic :: Prussia remained a monarchy.
 
 @m
 Jeremy Bentham's utilitarianism held that
-+ laws and institutions should be judged by whether they produce the greatest happiness of the greatest number :: Utility was the test of good policy.
-- tradition is the best guide for government :: That is a conservative view.
++ laws should produce the greatest happiness :: Utility was the test of good policy.
+- tradition is the best guide for government and law :: That is a conservative view.
 - history is driven by class struggle :: That is Marxism.
-- each nation has a unique spirit :: That is Herder's nationalism.
+- each nation has a unique spirit expressed in its language :: That is Herder's nationalism.
 - property is theft :: That is Proudhon.
 
 @m
@@ -261,23 +261,23 @@ Which event of 1825 showed the influence of Western liberal ideas on the Russian
 
 @m
 In 1848, Louis Napoleon Bonaparte won the French presidential election largely because
-+ his famous name and promise of order appealed to peasants and property owners frightened by radicalism :: Voters chose stability after the June Days.
++ his famous name promised order :: Voters chose stability after the June Days.
 - he had led the workers in the June Days :: He was not involved in the June Days.
-- he was the candidate of the Communist League :: He ran on order and his uncle's legend.
-- only aristocrats were allowed to vote :: The 1848 election used universal male suffrage.
+- he was the official candidate of the Communist League :: He ran on order and his uncle's legend.
+- only aristocrats were allowed to vote in the election :: The 1848 election used universal male suffrage.
 - the Concert of Europe appointed him :: He was elected by French voters.
 
 @m
 Which statement about nationalism and Romanticism is most accurate?
-+ Romantics' interest in folk culture, language and history strengthened national identity :: Collections like Grimm's tales celebrated a people's heritage.
++ Romantic interest in folk culture fed nationalism :: Collections like Grimm's tales celebrated a people's heritage.
 - Romantics rejected all national traditions in favor of universal reason :: That describes the Enlightenment more than Romanticism.
 - Nationalism and Romanticism were both invented by Metternich :: Metternich opposed nationalism.
-- Romanticism opposed the Greek struggle for independence :: Romantics like Byron championed it.
+- Romanticism opposed the Greek struggle for independence from the Ottomans :: Romantics like Byron championed it.
 - Nationalism emerged only after 1900 :: It was a major force by 1815.
 
 @h
 A liberal in 1830 and a socialist in 1848 would most likely have disagreed about
-+ whether private property and free markets should be the basis of society :: Liberals defended property and laissez-faire; socialists attacked them.
++ private property and free markets :: Liberals defended property and laissez-faire; socialists attacked them.
 - whether absolute monarchy was desirable :: Both opposed absolute monarchy.
 - whether the Congress of Vienna's settlement should be preserved :: Both generally criticized it.
 - whether censorship should be ended :: Both generally opposed censorship.
@@ -285,34 +285,34 @@ A liberal in 1830 and a socialist in 1848 would most likely have disagreed about
 
 @h
 The successful Greek War of Independence differed from the failed revolts in Naples and Spain in the 1820s because
-+ the great powers backed the Greeks against the Ottoman Empire rather than suppressing them :: Christian sympathy and Russian self-interest outweighed Metternich's opposition.
++ the great powers backed the rebels :: Christian sympathy and Russian self-interest outweighed Metternich's opposition.
 - the Greeks fought for an absolute monarchy :: The Greeks sought national independence.
-- Metternich personally led the Greek armies :: Metternich opposed the revolt.
+- Metternich personally led the Greek armies against the Ottomans :: Metternich opposed the revolt.
 - the Greeks had no help from abroad :: Britain, France and Russia intervened.
-- the revolt took place in Western Europe :: Greece was in southeastern Europe under Ottoman rule.
+- the revolt took place in Western Europe, near France :: Greece was in southeastern Europe under Ottoman rule.
 
 @h
 In 1848–1849, Croatian troops helped the Habsburgs defeat the Hungarian revolution. This best illustrates that
-+ rival nationalisms within the empire could be played against one another :: Croats feared Hungarian domination more than Habsburg rule.
-- all nationalities in the Austrian Empire wanted independence as a single bloc :: They had conflicting goals.
++ rival nationalisms could be played off :: Croats feared Hungarian domination more than Habsburg rule.
+- all nationalities in the empire wanted independence as one bloc :: They had conflicting goals.
 - Croatia was the center of the revolution :: Budapest and Vienna were the centers.
 - the Croats supported Marxist revolution :: The Croats sided with the emperor.
 - Austria had abolished its army :: The army was crucial to the counterrevolution.
 
 @h
 Which development MOST directly reflects the shift from idealism to Realpolitik after 1848?
-+ Nationalists abandoning parliamentary methods for unification by war and diplomacy :: Cavour and Bismarck used power politics after the failures of 1848.
++ Unification by war rather than parliaments :: Cavour and Bismarck used power politics after the failures of 1848.
 - The founding of Young Italy in 1831 :: That was an idealistic movement before 1848.
 - The Romantic poetry of Wordsworth :: That predates 1848 and is cultural.
 - The Carlsbad Decrees :: Those were from 1819.
-- The publication of Burke's Reflections :: That dates from 1790.
+- The publication of Burke's Reflections on the Revolution in France :: That dates from 1790.
 
 @h
 Which comparison of the revolutions of 1830 and 1848 in France is most accurate?
-+ 1830 replaced one king with a more liberal one; 1848 abolished the monarchy and introduced universal male suffrage :: The July Monarchy kept a narrow electorate; the Second Republic expanded it.
++ 1830 changed kings; 1848 created a republic :: The July Monarchy kept a narrow electorate; the Second Republic expanded it.
 - Both established permanent republics :: The Second Republic ended in 1852.
 - Both were led by Napoleon III :: Napoleon III came to power after 1848.
-- 1830 abolished slavery and 1848 restored it :: France abolished slavery in its colonies in 1848.
+- 1830 abolished slavery in the colonies and 1848 restored it :: France abolished slavery in its colonies in 1848.
 - Neither had any influence outside France :: Both inspired revolts abroad.
 
 @m
@@ -325,8 +325,8 @@ Which pairing of a Romantic figure and his work is correct?
 
 @m
 Nicholas I's slogan "Orthodoxy, Autocracy, Nationality" expressed
-+ the conservative program of the Russian monarchy :: It defended the Church, absolute rule and Russian identity.
++ the tsar's conservative program :: It defended the Church, absolute rule and Russian identity.
 - the goals of the Decembrists :: The Decembrists wanted a constitution.
 - the platform of the Frankfurt Parliament :: That was a German liberal body.
 - Marx's program for revolution :: Marx rejected religion and autocracy.
-- the principles of the Greek revolutionaries :: The Greeks fought for independence from the Ottomans.
+- the principles of the Greek revolutionaries of the 1820s :: The Greeks fought for independence from the Ottomans.

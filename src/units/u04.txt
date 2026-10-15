@@ -118,8 +118,8 @@ Which German Jewish philosopher argued that Jews could be full participants in E
 
 @e
 Most philosophes were best described as
-+ reformers who wanted rational, tolerant government, not necessarily democracy :: Many, like Voltaire, hoped for an enlightened monarch rather than popular rule.
-- revolutionaries who demanded immediate democracy everywhere :: Few philosophes before 1789 called for full democracy.
++ reformers more than democrats :: Many, like Voltaire, hoped for an enlightened monarch rather than popular rule.
+- revolutionaries who demanded immediate democracy :: Few philosophes before 1789 called for full democracy.
 - defenders of the Catholic Church's political power :: They generally attacked clerical power.
 - supporters of the divine right of kings :: They judged government by reason and utility.
 - opponents of all scientific inquiry :: They were enthusiastic about science.
@@ -134,8 +134,8 @@ Which Enlightenment thinker argued for the separation of powers into legislative
 
 @e
 Adam Smith's The Wealth of Nations (1776) argued that
-+ free markets guided by an "invisible hand" of competition promote prosperity :: Smith attacked mercantilist controls and favored laissez-faire.
-- governments should hoard gold and silver through tariffs :: That is mercantilism, which Smith criticized.
++ free markets and competition create prosperity :: Smith attacked mercantilist controls and favored laissez-faire.
+- governments should hoard gold and silver by means of high tariffs :: That is mercantilism, which Smith criticized.
 - workers should own the means of production :: That is socialism, which came later.
 - the state should set all prices and wages :: Smith opposed such controls.
 - colonies are the only true source of wealth :: Smith saw labor and productivity as the sources of wealth.
@@ -174,27 +174,27 @@ Which ruler was an "enlightened despot"?
 
 @e
 Mary Wollstonecraft's A Vindication of the Rights of Woman argued that
-+ women should receive the same education as men because they are equally capable of reason :: She blamed women's apparent inferiority on lack of education.
++ women deserve the same education as men :: She blamed women's apparent inferiority on lack of education.
 - women should be confined to domestic life :: That was Rousseau's view, which she attacked.
 - women should rule as absolute monarchs :: She wrote about rights and education, not monarchy.
-- women's suffrage had already been achieved in Britain :: British women gained the vote only in 1918 and 1928.
+- women's suffrage had already been won in Britain and France :: British women gained the vote only in 1918 and 1928.
 - women should not be allowed to read novels :: Her argument centered on education and reason.
 
 @m
 Joseph II of Austria's reforms differed from those of Frederick II and Catherine II in that Joseph
-+ abolished serfdom, though resistance led to most of his reforms being reversed :: Joseph went further than other enlightened despots and paid for it.
++ abolished serfdom, though most reforms were reversed :: Joseph went further than other enlightened despots and paid for it.
 - refused to grant any religious toleration :: His Edict of Toleration (1781) did the opposite.
 - strengthened the privileges of the nobility :: That fits Catherine's Charter of the Nobility.
-- shared power with an elected parliament :: Joseph remained an absolute ruler.
+- shared power with an elected parliament of nobles and townsmen :: Joseph remained an absolute ruler.
 - ignored Enlightenment ideas completely :: He was the most enthusiastic reformer of the three.
 
 @m
 Catherine the Great's response to Pugachev's Rebellion (1773–1775) was to
-+ ally more closely with the nobility, confirming their privileges in the Charter of the Nobility :: After the revolt she relied on nobles to keep order and expanded serfdom.
++ side with the nobility and confirm its privileges :: After the revolt she relied on nobles to keep order and expanded serfdom.
 - emancipate the serfs to win their loyalty :: Serfdom expanded under Catherine; emancipation came in 1861.
 - call an elected parliament with peasant representatives :: No such parliament was created.
 - abdicate in favor of her son :: She ruled until her death in 1796.
-- adopt Rousseau's general will as Russia's constitution :: Catherine never adopted a constitution.
+- adopt Rousseau's general will as the basis of Russia's constitution :: Catherine never adopted a constitution.
 
 @m
 The partitions of Poland in 1772, 1793 and 1795 were carried out by
@@ -206,7 +206,7 @@ The partitions of Poland in 1772, 1793 and 1795 were carried out by
 
 @m
 Most philosophes held which view of religion?
-+ Deism, the belief in a rational creator who does not intervene in the world :: Many, like Voltaire, rejected miracles and church authority but believed in a creator.
++ Deism :: Many, like Voltaire, rejected miracles and church authority but believed in a creator.
 - Strict Catholic orthodoxy :: Philosophes criticized the Church's power.
 - Puritan predestination :: Philosophes rejected harsh dogma.
 - That religion should control government :: Philosophes favored toleration and limits on clerical power.
@@ -214,7 +214,7 @@ Most philosophes held which view of religion?
 
 @m
 Which of the following institutions did the MOST to spread Enlightenment ideas among elite men and women in Paris?
-+ Salons hosted by educated women :: Salons brought together writers, nobles and officials to discuss new ideas.
++ Salons :: Salons brought together writers, nobles and officials to discuss new ideas.
 - The Estates-General :: It did not meet between 1614 and 1789.
 - Guild workshops :: Guilds organized trades, not intellectual debate.
 - The Jesuit order :: The Jesuits generally defended the Church against the philosophes.
@@ -223,41 +223,41 @@ Which of the following institutions did the MOST to spread Enlightenment ideas a
 @m
 > "Political liberty is to be found only when there is no abuse of power. But constant experience shows us that every man invested with power is liable to abuse it... To prevent this abuse, it is necessary from the very nature of things that power should be a check to power."
 The author of this passage would most likely support
-+ a constitution dividing authority among separate branches of government :: This is Montesquieu's argument for checks and balances.
++ a constitution dividing power among branches :: This is Montesquieu's argument for checks and balances.
 - an absolute monarch ruling by divine right :: The passage warns against unchecked power.
-- a single assembly with unlimited power :: That would concentrate power, not check it.
-- rule by the Catholic Church :: The passage concerns dividing power, not clerical rule.
+- a single elected assembly holding unlimited power :: That would concentrate power, not check it.
+- rule by the Catholic Church and its bishops :: The passage concerns dividing power, not clerical rule.
 - abolishing all government :: The passage seeks to limit, not abolish, government.
 
 @m
 Voltaire's campaign on behalf of Jean Calas illustrates his commitment to
-+ religious toleration and fair justice :: Calas, a Protestant, was executed after a trial shaped by anti-Protestant prejudice.
++ toleration and fair trials :: Calas, a Protestant, was executed after a trial shaped by anti-Protestant prejudice.
 - the divine right of kings :: Voltaire did not defend divine right.
 - the general will :: That is Rousseau's concept.
 - mercantilist economics :: The Calas case was about justice and religion.
-- the partition of Poland :: The Calas case had nothing to do with Poland.
+- the partition of Poland among its neighbors :: The Calas case had nothing to do with Poland.
 
 @m
 Which statement about Rousseau distinguishes him from most other philosophes?
-+ He valued emotion and nature and was suspicious of civilization's effects, anticipating Romanticism :: Rousseau's emphasis on feeling and natural man set him apart.
++ He valued emotion and nature over polished civilization :: Rousseau's emphasis on feeling and natural man set him apart.
 - He supported enlightened despotism :: Rousseau favored popular sovereignty.
 - He opposed all forms of education :: Emile is a treatise on education.
-- He was a devoted Catholic who defended the Church's power :: Rousseau was not a defender of Church power.
+- He was a devoted Catholic who defended the Church's political power :: Rousseau was not a defender of Church power.
 - He believed private property was a natural right :: Rousseau saw property as a source of inequality.
 
 @m
 The physiocrats differed from mercantilists in arguing that
-+ land and agriculture, not gold and silver, are the true source of wealth :: Quesnay and the physiocrats also urged free trade in grain.
-- governments should regulate all trade :: That is closer to mercantilism.
++ land, not gold, is the source of wealth :: Quesnay and the physiocrats also urged free trade in grain.
+- governments should regulate all trade closely :: That is closer to mercantilism.
 - colonies are the key to national power :: That is a mercantilist idea.
 - manufacturing should be state-owned :: The physiocrats favored free markets.
 - the nobility should be abolished :: The physiocrats were not social revolutionaries.
 
 @m
 The liberum veto contributed to the partitions of Poland because it
-+ allowed any single noble to block legislation, leaving the state weak :: Poland could not raise taxes or armies to defend itself.
++ let any one noble block laws :: Poland could not raise taxes or armies to defend itself.
 - gave the Polish king absolute power :: Polish kings were elected and weak.
-- required Poland to obey the Russian tsar :: It was a rule of the Polish parliament itself.
+- required Poland to obey the Russian tsar in foreign affairs :: It was a rule of the Polish parliament itself.
 - banned Poland from having an army :: There was no such ban, though the army was small.
 - forced the Polish nobility to free their serfs :: It had nothing to do with serfdom.
 
@@ -279,16 +279,16 @@ Which work came FIRST?
 
 @h
 Which development best illustrates the limits of enlightened despotism?
-+ Catherine II expanded serfdom despite praising Enlightenment ideals :: Rulers took reforms that strengthened the state but kept the social order that supported them.
-- Frederick II abolished judicial torture :: This was a real Enlightenment reform, not a limit.
-- Joseph II granted toleration to Protestants :: This was a genuine reform.
-- Diderot completed the Encyclopedia :: This was a philosophe's project, not a monarch's policy.
-- Kant wrote "What Is Enlightenment?" :: Kant's essay is not an act of government.
++ Catherine II's expansion of serfdom :: Rulers took reforms that strengthened the state but kept the social order that supported them.
+- Frederick II's abolition of judicial torture in Prussia :: This was a real Enlightenment reform, not a limit.
+- Joseph II's grant of toleration to Protestants :: This was a genuine reform.
+- Diderot's completion of the Encyclopedia :: This was a philosophe's project, not a monarch's policy.
+- Kant's essay "What Is Enlightenment?" :: Kant's essay is not an act of government.
 
 @h
 Kant's motto "Dare to know!" (Sapere aude) best captures the Enlightenment's emphasis on
-+ the individual's courage to use reason independently of authority :: Kant defined enlightenment as leaving "self-imposed immaturity."
-- obedience to established religious authority :: Kant urged independence from guardians, including clergy.
++ using one's own reason :: Kant defined enlightenment as leaving "self-imposed immaturity."
+- obedience to established religious and political authority :: Kant urged independence from guardians, including clergy.
 - the collective will of the nation :: That is closer to Rousseau or later nationalism.
 - emotion as the highest form of truth :: That is a Romantic idea.
 - the divine right of monarchs :: Kant's essay is about individual reason.
@@ -303,42 +303,42 @@ An eighteenth-century reformer argues that a prisoner's guilt should be proven b
 
 @h
 Which outcome best shows Rousseau's general will being used to justify the suppression of individuals?
-+ Revolutionary leaders claiming to embody the people's will while silencing opponents :: Robespierre and the Jacobins later invoked the general will to justify the Terror.
++ Jacobins silencing opponents in the people's name :: Robespierre and the Jacobins later invoked the general will to justify the Terror.
 - Adam Smith's support for free trade :: That is unrelated to the general will.
 - Joseph II's Edict of Toleration :: That expanded individual freedom.
-- Montesquieu's praise of the English constitution :: Montesquieu favored checks on power.
+- Montesquieu's praise of the English constitution and its balance :: Montesquieu favored checks on power.
 - Catherine II's Charter of the Nobility :: That was a grant of privilege to nobles, not an appeal to the general will.
 
 @h
 Which statement best explains why the Enlightenment spread widely in the eighteenth century?
-+ Growing literacy, cheaper printing and new public spaces created a reading public for new ideas :: The public sphere of print, coffeehouses and salons carried ideas beyond small elites.
++ Rising literacy and cheap print created a reading public :: The public sphere of print, coffeehouses and salons carried ideas beyond small elites.
 - Governments everywhere abolished censorship :: Censorship persisted, especially in France.
 - The Catholic Church officially endorsed the philosophes :: The Church condemned many of their works.
-- The partitions of Poland spread French culture eastward :: The partitions were acts of power politics.
+- The partitions of Poland spread French culture eastward into Russia :: The partitions were acts of power politics.
 - Most peasants attended universities :: Universities served a small elite.
 
 @m
 Joseph II's Edict of Toleration (1781) granted
-+ religious freedom to Protestants and Orthodox Christians in the Habsburg lands :: It extended toleration beyond Catholicism.
++ toleration to non-Catholic Christians :: It extended toleration beyond Catholicism.
 - the vote to all adult men :: There was no democratic suffrage.
 - independence to Hungary :: Hungary remained under Habsburg rule.
-- the Catholic Church control of all schools :: Joseph reduced Church power.
-- noble exemption from all taxation :: Joseph tried to tax nobles more fairly.
+- control of all schools to the Catholic Church :: Joseph reduced Church power.
+- nobles a permanent exemption from all taxation :: Joseph tried to tax nobles more fairly.
 
 @h
 The partition of Poland most directly contradicts the claim that enlightened despots
-+ governed by reason and justice rather than traditional power politics :: Frederick, Catherine and Joseph seized a neighbor's land for gain.
-- were interested in reform :: All three made genuine reforms at home.
++ governed by reason, not power politics :: Frederick, Catherine and Joseph seized a neighbor's land for gain.
+- were interested in domestic reform :: All three made genuine reforms at home.
 - were absolute rulers :: They were absolute rulers.
-- read Enlightenment authors :: All three did.
+- read and corresponded with Enlightenment authors :: All three did.
 - strengthened their states :: The partitions did strengthen their states.
 
 @e
 The salon hostesses of eighteenth-century Paris, such as Madame Geoffrin, were important because they
-+ organized gatherings where writers and elites discussed Enlightenment ideas :: Salons were key meeting places of the Republic of Letters.
++ hosted gatherings where ideas were debated :: Salons were key meeting places of the Republic of Letters.
 - commanded French armies in the Seven Years' War :: Women did not command armies.
 - wrote the French constitution of 1791 :: The National Assembly wrote that constitution.
-- controlled the Catholic Church in France :: They had no Church authority.
+- controlled the appointment of bishops in France :: They had no Church authority.
 - ran the royal treasury :: They held no state office.
 
 @m
@@ -351,8 +351,8 @@ Which pair correctly matches a thinker with a work?
 
 @h
 Which comparison of Locke and Rousseau is most accurate?
-+ Locke emphasized protecting individual rights, especially property; Rousseau emphasized the community's general will :: Locke's liberalism centers on the individual; Rousseau's theory centers on collective sovereignty.
-- Both believed private property was the root of all inequality :: That was Rousseau's view, not Locke's.
++ Locke stressed individual rights; Rousseau the general will :: Locke's liberalism centers on the individual; Rousseau's theory centers on collective sovereignty.
+- Both believed that private property was the root of all inequality among people :: That was Rousseau's view, not Locke's.
 - Locke supported democracy by majority vote of all citizens; Rousseau supported absolute monarchy :: Rousseau favored popular sovereignty.
 - Both wrote before the Glorious Revolution :: Rousseau wrote in the 1750s and 1760s.
 - Both rejected the idea of a social contract :: Both built on a social contract.
@@ -367,7 +367,7 @@ The Enlightenment idea that human institutions should be judged by reason and ca
 
 @e
 Voltaire's satirical novel Candide (1759) mocked
-+ the naive optimism that "all is for the best in the best of all possible worlds" :: Candide's misfortunes ridicule this philosophy, associated with Leibniz.
++ naive optimism :: Candide's misfortunes ridicule this philosophy, associated with Leibniz.
 - the separation of powers :: Voltaire did not attack Montesquieu's idea.
 - free-market economics :: Candide is not about economics.
 - the Scientific Revolution :: Voltaire popularized Newton's science.
@@ -383,8 +383,8 @@ Which ruler's reforms were most resisted by nobles, clergy and non-German people
 
 @h
 Which development MOST directly reflects the influence of Montesquieu?
-+ The U.S. Constitution's three branches with checks and balances :: The framers cited Montesquieu more than any other modern author.
++ The U.S. Constitution's checks and balances :: The framers cited Montesquieu more than any other modern author.
 - Catherine II's Charter of the Nobility :: That confirmed noble privilege.
 - The partitions of Poland :: These were acts of conquest.
-- Adam Smith's critique of mercantilism :: That is economics, not constitutional design.
+- Adam Smith's critique of mercantilism and colonial monopolies :: That is economics, not constitutional design.
 - The Jacobin Reign of Terror :: The Terror concentrated power rather than dividing it.

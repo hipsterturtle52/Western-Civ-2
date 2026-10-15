@@ -167,9 +167,9 @@ The Ausgleich (Compromise) of 1867 created
 
 @e
 The Dreyfus Affair in France centered on
-+ the false conviction of a Jewish army officer for treason :: The case exposed anti-Semitism in the army and society.
++ a Jewish officer falsely convicted of treason :: The case exposed anti-Semitism in the army and society.
 - a scandal over the building of the Suez Canal :: The canal opened in 1869 without such a scandal.
-- the assassination of a French president by a socialist :: The affair concerned Alfred Dreyfus's trial.
+- the assassination of a French president by an anarchist :: The affair concerned Alfred Dreyfus's trial.
 - France's defeat in the Crimean War :: France was on the winning side in the Crimea.
 - the Paris Commune of 1871 :: The Commune was a separate event.
 
@@ -183,7 +183,7 @@ Which country fought against Russia in the Crimean War?
 
 @e
 Bismarck's statement that great questions would be decided "by iron and blood" reflected his belief in
-+ Realpolitik and the use of military power :: He unified Germany through war, not parliamentary debate.
++ Realpolitik :: He unified Germany through war, not parliamentary debate.
 - pacifism and international law :: Bismarck relied on force.
 - liberal parliamentary government :: Bismarck defied the liberal Prussian parliament.
 - Marxist class struggle :: Bismarck fought socialism.
@@ -215,10 +215,10 @@ Who wrote the open letter "J'accuse!" (1898) defending Alfred Dreyfus?
 
 @m
 Cavour sent Piedmontese troops to fight in the Crimean War mainly to
-+ gain diplomatic standing and allies for Italian unification :: Participation won Piedmont a voice at the Paris peace conference.
++ win allies for Italy's cause :: Participation won Piedmont a voice at the Paris peace conference.
 - help Russia defeat the Ottoman Empire :: Piedmont fought against Russia.
 - conquer the Crimea for Italy :: Piedmont sought no territory there.
-- support Austria's control of northern Italy :: Cavour wanted to drive Austria out.
+- support Austria's control of Lombardy and Venetia :: Cavour wanted to drive Austria out.
 - spread Mazzini's republican ideas :: Cavour was a monarchist.
 
 @m
@@ -231,64 +231,64 @@ Which event came LAST?
 
 @m
 Bismarck's purpose in creating health, accident and old-age insurance in the 1880s was to
-+ win workers' loyalty to the state and weaken the socialist movement :: It was "state socialism" to undercut the SPD.
++ undercut the socialists :: It was "state socialism" to undercut the SPD.
 - carry out Marx's program :: Bismarck was a conservative opponent of Marxism.
-- reward the Catholic Church for its support :: He had fought the Church in the Kulturkampf.
+- reward the Catholic Church for its support in the Reichstag :: He had fought the Church in the Kulturkampf.
 - prepare for war against Russia :: The insurance laws were domestic social policy.
-- satisfy demands of the Frankfurt Parliament :: That body had dissolved in 1849.
+- satisfy demands made by the Frankfurt Parliament :: That body had dissolved in 1849.
 
 @m
 The Franco-Prussian War resulted in
-+ Germany's annexation of Alsace-Lorraine and lasting French resentment :: France also paid a large indemnity.
++ German annexation of Alsace-Lorraine :: France also paid a large indemnity.
 - France's annexation of the Rhineland :: France lost territory.
 - the restoration of Napoleon III's power :: His empire collapsed after Sedan.
 - Austria's entry into the German Empire :: Austria was excluded.
-- a Franco-German alliance against Russia :: France and Russia later allied against Germany.
+- a Franco-German alliance against Russia and Britain :: France and Russia later allied against Germany.
 
 @m
 Which statement about the emancipation of the Russian serfs (1861) is accurate?
-+ Peasants gained freedom but owed redemption payments and usually held land through the village commune :: Freedom came with heavy burdens.
++ Peasants owed redemption payments for land :: Freedom came with heavy burdens.
 - Peasants received land free of charge as private property :: They paid for it over decades.
 - It was a result of a successful peasant revolution :: It was a reform from above.
-- It immediately made Russia a constitutional monarchy :: Russia remained an autocracy.
+- It immediately made Russia a constitutional monarchy with a parliament :: Russia remained an autocracy.
 - It applied only to Russian Poland :: It applied across the empire.
 
 @m
 Why did Bismarck impose a lenient peace on Austria in 1866?
-+ To avoid lasting hostility and keep Austria as a possible future ally :: He wanted Austria out of Germany, not humiliated.
++ To keep Austria as a future ally :: He wanted Austria out of Germany, not humiliated.
 - Because Austria had won the war :: Prussia won decisively at Königgrätz.
 - Because the Frankfurt Parliament demanded it :: That parliament no longer existed.
-- To win Austria's support for war with Britain :: Germany and Britain were not at war.
+- To win Austria's support for a later war with Britain :: Germany and Britain were not at war.
 - Because France threatened to invade Prussia :: France's role was not the reason.
 
 @m
 The Kulturkampf was Bismarck's campaign against
-+ the political influence of the Catholic Church :: Laws in the 1870s restricted clergy and Catholic schools.
++ the Catholic Church :: Laws in the 1870s restricted clergy and Catholic schools.
 - the Social Democratic Party :: That was the Anti-Socialist Laws of 1878.
 - Austria-Hungary :: Kulturkampf was a domestic cultural struggle.
-- Jewish immigration from Russia :: The Kulturkampf targeted Catholicism.
+- Jewish immigration from the Russian Empire :: The Kulturkampf targeted Catholicism.
 - the Prussian Junkers :: Junkers were Bismarck's own class and allies.
 
 @m
 The Congress of Berlin (1878) is significant because it
-+ revised the Russian-dictated Treaty of San Stefano and angered Russia :: Bismarck's "honest broker" settlement cut Bulgaria down and let Austria occupy Bosnia.
++ cut back Russia's gains, angering it :: Bismarck's "honest broker" settlement cut Bulgaria down and let Austria occupy Bosnia.
 - unified Germany :: Unification came in 1871.
 - ended the Crimean War :: That was the Treaty of Paris (1856).
-- divided Africa among the European powers :: That was the Berlin Conference of 1884–85.
+- divided Africa among the European colonial powers :: That was the Berlin Conference of 1884–85.
 - created the League of Nations :: The League was created in 1919–20.
 
 @m
 The French Third Republic's response to the Paris Commune in 1871 was to
-+ crush it with the army, killing thousands of Communards :: "Bloody Week" left lasting class bitterness.
-- negotiate a power-sharing government with the Commune :: There was no compromise.
++ crush it by force :: "Bloody Week" left lasting class bitterness.
+- negotiate a power-sharing government with the Commune's leaders :: There was no compromise.
 - invite Prussia to restore order :: The French army did it.
 - adopt the Commune's socialist program :: The Republic suppressed it.
 - restore Napoleon III :: Napoleon III had been deposed.
 
 @m
 After 1890, William II's foreign policy differed from Bismarck's in that William
-+ let the Reinsurance Treaty with Russia lapse and pursued an aggressive world policy :: This pushed Russia toward France and alarmed Britain.
-- sought to keep France isolated by alliances with Russia :: That was Bismarck's approach.
++ dropped the treaty with Russia :: This pushed Russia toward France and alarmed Britain.
+- sought to keep France isolated through close alliances with Russia :: That was Bismarck's approach.
 - reduced the size of the German navy :: William expanded the navy.
 - withdrew from the alliance with Austria-Hungary :: The Dual Alliance remained.
 - gave Alsace-Lorraine back to France :: Germany kept it until 1918.
@@ -312,99 +312,99 @@ This statement best reflects the views of
 
 @m
 The Austro-Prussian War of 1866 had which result?
-+ Austria was excluded from German affairs, and Prussia formed the North German Confederation :: Königgrätz ended Austrian leadership in Germany.
-- Austria became the leader of a united Germany :: Prussia, not Austria, led unification.
++ Austria was shut out of German affairs :: Königgrätz ended Austrian leadership in Germany.
+- Austria became the leader of a newly united Germany :: Prussia, not Austria, led unification.
 - Prussia lost Schleswig-Holstein to Denmark :: Prussia kept and annexed Holstein.
 - France annexed the Rhineland :: France gained nothing.
 - Italy lost Venetia to Austria :: Italy gained Venetia.
 
 @m
 In what way did Garibaldi's actions in 1860 contribute to Italian unification?
-+ He conquered southern Italy and then handed it over to King Victor Emmanuel II :: His patriotism let north and south unite under the monarchy.
++ He gave his southern conquests to the king :: His patriotism let north and south unite under the monarchy.
 - He defeated Austria at Solferino :: Solferino was won by French and Piedmontese armies.
-- He negotiated the alliance with Napoleon III :: That was Cavour at Plombières.
+- He negotiated the secret alliance with Napoleon III :: That was Cavour at Plombières.
 - He captured Rome from the pope in 1860 :: Rome was taken in 1870.
 - He founded Young Italy :: That was Mazzini in 1831.
 
 @m
 The Third French Republic's separation of church and state in 1905 was most directly connected to
-+ the republicans' victory in the Dreyfus Affair :: The affair discredited the army and Catholic right.
++ the Dreyfus Affair :: The affair discredited the army and Catholic right.
 - the Paris Commune :: The Commune was crushed in 1871.
-- Napoleon III's Concordat :: The Concordat was Napoleon I's in 1801, and it was abolished in 1905.
+- Napoleon III's Concordat with the papacy :: The Concordat was Napoleon I's in 1801, and it was abolished in 1905.
 - Bismarck's Kulturkampf :: That was a German campaign.
 - the Crimean War :: That was decades earlier.
 
 @m
 The Franco-Russian Alliance of 1894 was significant because it
-+ created the danger of a two-front war for Germany :: Bismarck had worked to prevent exactly this.
++ threatened Germany with a two-front war :: Bismarck had worked to prevent exactly this.
 - ended the Crimean War :: That war ended in 1856.
-- united France and Germany against Britain :: France was allied with Russia against Germany.
+- united France and Germany against Britain in Africa :: France was allied with Russia against Germany.
 - led to the unification of Italy :: Italy had been unified by 1870.
 - created the Dual Monarchy :: The Dual Monarchy came in 1867.
 
 @m
 Which of the following was a weakness of the German Empire's constitution?
-+ The chancellor answered to the Kaiser rather than to the elected Reichstag :: Universal male suffrage elected a parliament with limited control over government.
++ The chancellor answered only to the Kaiser :: Universal male suffrage elected a parliament with limited control over government.
 - It denied the vote to all men :: The Reichstag was elected by universal male suffrage.
 - It abolished the Prussian monarchy :: The Prussian king was the German emperor.
 - It made Germany a republic :: Germany became a republic only in 1918.
-- It required unanimous approval from all states for any law :: There was no such rule.
+- It required unanimous approval from all member states for any law :: There was no such rule.
 
 @m
 Russification under Alexander III involved
-+ imposing the Russian language and Orthodox religion on the empire's minorities :: Poles, Finns, Ukrainians, Jews and others faced pressure.
++ forcing Russian ways on minorities :: Poles, Finns, Ukrainians, Jews and others faced pressure.
 - freeing the serfs :: That was Alexander II in 1861.
-- adopting Western constitutional government :: Alexander III was a reactionary.
+- adopting a Western-style constitutional government :: Alexander III was a reactionary.
 - giving independence to Finland :: Finland gained independence in 1917.
 - moving the capital to Moscow :: The capital moved to Moscow in 1918, under the Bolsheviks.
 
 @h
 Which statement best compares the unification of Italy and Germany?
-+ Both were led by a strong northern kingdom using diplomacy and war, and both excluded or defeated Austria :: Piedmont and Prussia played parallel roles.
-- Both were achieved mainly through popular revolutions in 1848 :: The 1848 revolutions failed in both.
++ A northern kingdom led each, using war against Austria :: Piedmont and Prussia played parallel roles.
+- Both were achieved mainly through the popular revolutions of 1848 :: The 1848 revolutions failed in both.
 - Both were opposed by Napoleon III throughout :: Napoleon III helped Italy in 1859.
 - Both created democratic republics :: Both created monarchies.
 - Both were completed without any wars :: Both required several wars.
 
 @h
 A historian argues that the Crimean War made German and Italian unification possible. Which reasoning best supports this?
-+ It destroyed the Concert of Europe and left Austria isolated from Russia :: Without Russian support, Austria faced Piedmont and Prussia alone.
++ It broke the Concert and isolated Austria :: Without Russian support, Austria faced Piedmont and Prussia alone.
 - It made Russia the protector of Austria :: Russia felt betrayed by Austria.
-- It forced Britain to join the German Confederation :: Britain was never part of it.
+- It forced Britain to join the German Confederation as a member :: Britain was never part of it.
 - It gave Prussia control of the Black Sea :: Prussia was neutral and gained nothing there.
 - It ended the Ottoman Empire :: The Ottoman Empire survived until 1922.
 
 @h
 Which statement best explains why Austria-Hungary was especially threatened by nationalism?
-+ It ruled many nationalities, and the 1867 settlement privileged Germans and Magyars over Slavs :: Excluded peoples sought rights or independence.
++ It ruled many peoples and favored two of them :: Excluded peoples sought rights or independence.
 - It was a single-nationality state :: It was highly diverse.
 - It had no army :: It had a large army.
-- It had already been divided by the Congress of Berlin :: Berlin allowed it to occupy Bosnia.
+- It had already been divided into separate states by the Congress of Berlin :: Berlin allowed it to occupy Bosnia.
 - It was ruled by a republican government :: It was a monarchy.
 
 @h
 The emancipation of the Russian serfs and the creation of the zemstvos were both responses to
-+ Russia's defeat in the Crimean War, which exposed its backwardness :: Alexander II concluded Russia must modernize to remain a great power.
++ defeat in the Crimean War :: Alexander II concluded Russia must modernize to remain a great power.
 - the Revolution of 1905 :: These reforms came in the 1860s.
 - the assassination of Alexander II :: That came in 1881, after the reforms.
 - Russification policies :: Russification came later, under Alexander III.
-- the Franco-Russian Alliance :: That came in 1894.
+- the Franco-Russian Alliance of 1894 :: That came in 1894.
 
 @h
 Bismarck's alliance system after 1871 was designed primarily to
-+ keep France diplomatically isolated and prevent a two-front war :: He wanted no ally for a revenge-seeking France.
-- encourage French expansion in Europe :: He wanted France contained in Europe.
++ keep France isolated :: He wanted no ally for a revenge-seeking France.
+- encourage French expansion within Europe :: He wanted France contained in Europe.
 - prepare Germany to conquer Russia :: He sought peace with Russia.
 - break up Austria-Hungary :: Austria-Hungary was his main ally.
-- support British naval supremacy :: His system concerned continental alliances.
+- support British naval supremacy in the North Sea :: His system concerned continental alliances.
 
 @h
 The Dreyfus Affair is significant in European history beyond France because it
-+ revealed the strength of modern political anti-Semitism and helped inspire Zionism :: Theodor Herzl concluded that assimilation would not protect Jews.
++ helped inspire political Zionism :: Theodor Herzl concluded that assimilation would not protect Jews.
 - started the First World War :: The war began in 1914 with the Sarajevo assassination.
 - led to the unification of Germany :: Unification preceded it.
 - ended the Russian monarchy :: That happened in 1917.
-- established the first communist government :: That was in Russia in 1917.
+- established the first communist government in Europe :: That was in Russia in 1917.
 
 @h
 The Paris Commune of 1871 was later celebrated by Marxists because they saw it as
@@ -424,8 +424,8 @@ Which development MOST weakened Bismarck's goal of isolating France?
 
 @m
 The Revolution of 1905 in Russia led Nicholas II to
-+ issue the October Manifesto promising civil liberties and an elected Duma :: He conceded a parliament, then limited its powers.
++ promise an elected Duma :: He conceded a parliament, then limited its powers.
 - abdicate in favor of a republic :: He abdicated in 1917.
 - emancipate the serfs :: The serfs were freed in 1861.
-- withdraw from the Triple Alliance :: Russia was never in the Triple Alliance.
+- withdraw from the Triple Alliance with Germany :: Russia was never in the Triple Alliance.
 - sign the Treaty of Brest-Litovsk :: That was signed by the Bolsheviks in 1918.

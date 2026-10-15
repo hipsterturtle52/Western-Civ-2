@@ -48,7 +48,7 @@ Britain granted independence to **India and Pakistan in 1947**, after a long non
 ## European integration
 -> Two world wars convince leaders that French-German rivalry must end | Schuman Plan → European Coal and Steel Community (1951) → Treaty of Rome creates the European Economic Community (1957) | A common market grows into the European Union (Maastricht, 1992) with a common currency, the euro
 
-French planners **Jean Monnet** and **Robert Schuman** proposed pooling French and German coal and steel, the raw materials of war. The **European Coal and Steel Community (1951)** joined France, West Germany, Italy, Belgium, the Netherlands and Luxembourg ("the Six"). The **Treaty of Rome (1957)** created the **European Economic Community (EEC)**, or **Common Market**, removing tariffs among members and creating a common external tariff. **Britain** at first stayed out; de Gaulle **vetoed** its applications in 1963 and 1967, and it joined only in **1973** (with Ireland and Denmark). The **Maastricht Treaty (1992)** created the **European Union**, with common citizenship and plans for a single currency; the **euro** was introduced in 1999 (notes and coins in 2002). After 2004 the EU expanded into former communist Eastern Europe. In 2016 British voters chose to leave, and the United Kingdom left the EU in 2020 ("Brexit").
+French planners **Jean Monnet** and **Robert Schuman** proposed pooling French and German coal and steel, the raw materials of war. The **European Coal and Steel Community (1951)** joined France, West Germany, Italy, Belgium, the Netherlands and Luxembourg ("the Six"). The **Treaty of Rome (1957)** created the **European Economic Community (EEC)**, or **Common Market**, removing tariffs among members and creating a common external tariff. **Britain** at first stayed out; de Gaulle **vetoed** its applications in 1963 and 1967, fearing Britain would be an American "Trojan horse" and challenge French leadership, and it joined only in **1973** (with Ireland and Denmark). The **Maastricht Treaty (1992)** created the **European Union**, with common citizenship and plans for a single currency; the **euro** was introduced in 1999 (notes and coins in 2002). After 2004 the EU expanded into former communist Eastern Europe. In 2016 British voters chose to leave, and the United Kingdom left the EU in 2020 ("Brexit").
 
 ## The collapse of communism, 1980–1991
 In **Poland**, the election of a Polish pope, **John Paul II (1978)**, inspired national pride, and in **1980** shipyard workers in Gdańsk led by **Lech Wałęsa** founded **Solidarity**, the first independent trade union in the Soviet bloc. The regime imposed martial law (1981), but Solidarity survived underground.
@@ -137,11 +137,11 @@ World War II in Europe began when Germany invaded
 
 @e
 The Battle of Stalingrad (1942–1943) is significant because
-+ it destroyed a German army and marked the turning point on the Eastern Front :: The Sixth Army surrendered in February 1943.
++ it turned the tide in the east :: The Sixth Army surrendered in February 1943.
 - it was the first battle of the war :: The war had begun in 1939.
 - Germany captured Moscow there :: Stalingrad is on the Volga, and Moscow never fell.
-- it was fought between Britain and Italy :: It was a German-Soviet battle.
-- it ended with the atomic bombing of the city :: Atomic bombs were used only on Japan.
+- it was fought between Britain and Italy in North Africa :: It was a German-Soviet battle.
+- it ended with the atomic bombing of the city by the U.S. :: Atomic bombs were used only on Japan.
 
 @e
 D-Day (June 6, 1944) refers to
@@ -153,25 +153,25 @@ D-Day (June 6, 1944) refers to
 
 @e
 The Marshall Plan was a U.S. program to
-+ provide economic aid to rebuild Western Europe after World War II :: It also aimed to prevent the spread of communism.
++ fund Western Europe's recovery :: It also aimed to prevent the spread of communism.
 - divide Germany into occupation zones :: That was agreed at Yalta and Potsdam.
-- defend Western Europe militarily :: That was NATO.
-- punish Germany with reparations :: The plan helped West Germany recover.
+- defend Western Europe militarily with U.S. troops :: That was NATO.
+- punish Germany with heavy reparations payments :: The plan helped West Germany recover.
 - create the United Nations :: The UN was founded in 1945.
 
 @e
 The Berlin Wall was built in 1961 by
-+ the East German government to stop its citizens from fleeing to the West :: The wall stood until November 1989.
-- the United States to protect West Berlin :: The Western powers did not build it.
++ East Germany to stop emigration :: The wall stood until November 1989.
+- the United States to protect West Berlin from attack :: The Western powers did not build it.
 - NATO to divide Germany :: It was built by East Germany.
-- Britain and France after World War II :: It was built by East Germany in 1961.
+- Britain and France at the end of World War II :: It was built by East Germany in 1961.
 - the European Union :: The EU was created in 1992.
 
 @e
 Mikhail Gorbachev's policies of glasnost and perestroika aimed to
-+ allow more openness and restructure the Soviet economy :: He hoped to reform communism, not end it.
++ open up and reform the USSR :: He hoped to reform communism, not end it.
 - restore Stalinist terror :: Gorbachev rejected Stalinism.
-- expand the Soviet empire into Western Europe :: He reduced Soviet commitments.
+- expand the Soviet empire into Western Europe by force :: He reduced Soviet commitments.
 - create the Warsaw Pact :: That was created in 1955.
 - end the Marshall Plan :: That had ended in 1952.
 
@@ -185,16 +185,16 @@ The Treaty of Rome (1957) created
 
 @e
 NATO, founded in 1949, was
-+ a military alliance of Western nations led by the United States :: It aimed to deter Soviet aggression.
++ a U.S.-led military alliance :: It aimed to deter Soviet aggression.
 - an alliance of the Soviet Union and its satellites :: That was the Warsaw Pact.
-- an economic union of six European states :: That was the ECSC/EEC.
+- an economic union of six Western European states :: That was the ECSC/EEC.
 - a League of Nations agency :: The League was dissolved in 1946.
 - a treaty ending World War II :: NATO is a defensive alliance.
 
 @e
 The Holocaust refers to
-+ the Nazi genocide of about six million Jews and millions of others :: It was carried out through shootings, ghettos and death camps.
-- the bombing of Hiroshima and Nagasaki :: Those were atomic bombings of Japan.
++ the Nazi murder of Europe's Jews :: It was carried out through shootings, ghettos and death camps.
+- the atomic bombing of Hiroshima and Nagasaki :: Those were atomic bombings of Japan.
 - the Soviet famine in Ukraine :: That was the Holodomor of 1932–33.
 - the Battle of Britain :: That was an air campaign.
 - the partition of India :: That occurred in 1947.
@@ -209,17 +209,17 @@ Which colony gained independence from Britain in 1947?
 
 @e
 Lech Wałęsa is best known as the leader of
-+ the Solidarity trade union in Poland :: Solidarity helped bring down communism in Poland.
++ Poland's Solidarity union :: Solidarity helped bring down communism in Poland.
 - the Prague Spring :: That was Alexander Dubček.
-- the Hungarian Revolution of 1956 :: Imre Nagy led Hungary's reform government.
+- the Hungarian Revolution of 1956 in Budapest :: Imre Nagy led Hungary's reform government.
 - the Free French :: That was Charles de Gaulle.
 - the Vichy regime :: That was Marshal Pétain.
 
 @m
 Which statement best explains the British victory in the Battle of Britain (1940)?
-+ The Royal Air Force, aided by radar, prevented Germany from gaining air superiority needed for an invasion :: Hitler postponed the invasion indefinitely.
++ The RAF and radar denied Germany air control :: Hitler postponed the invasion indefinitely.
 - The United States sent its army to defend Britain :: The U.S. was neutral until December 1941.
-- The Soviet Union attacked Germany from the east in 1940 :: The USSR was neutral and allied by pact with Germany until June 1941.
+- The Soviet Union attacked Germany from the east in the summer of 1940 :: The USSR was neutral and allied by pact with Germany until June 1941.
 - Germany never attacked Britain from the air :: The Luftwaffe attacked heavily.
 - The French navy defended British skies :: France had fallen.
 
@@ -233,10 +233,10 @@ Which event came FIRST?
 
 @m
 At the Yalta Conference (February 1945), Stalin promised
-+ free elections in the liberated countries of Eastern Europe :: He did not keep the promise.
++ free elections in Eastern Europe :: He did not keep the promise.
 - to withdraw all Soviet troops from Germany immediately :: Soviet troops occupied eastern Germany for decades.
 - to join NATO :: NATO did not yet exist.
-- to give Poland all of East Prussia and Berlin :: No such agreement was made.
+- to give Poland all of East Prussia and the city of Berlin :: No such agreement was made.
 - never to fight Japan :: Stalin agreed to enter the war against Japan.
 
 @m
@@ -249,11 +249,11 @@ The Truman Doctrine (1947) was first applied to
 
 @m
 The Berlin Blockade (1948–1949) began when
-+ the Soviets cut off land access to West Berlin after the Western powers introduced a new currency in their zones :: The West responded with the Airlift.
-- the East Germans built the Berlin Wall :: That was in 1961.
++ the West introduced a new currency :: Stalin answered the Western currency reform by cutting land access; the West responded with the Airlift.
+- the East Germans built the Berlin Wall around the city :: That was in 1961.
 - NATO invaded East Germany :: There was no invasion.
 - Germany was reunified :: Reunification was in 1990.
-- Hitler retreated to his bunker :: That was in 1945.
+- Hitler retreated to his bunker as the Soviets approached :: That was in 1945.
 
 @m
 The Prague Spring of 1968 ended when
@@ -265,56 +265,56 @@ The Prague Spring of 1968 ended when
 
 @m
 The Suez Crisis of 1956 demonstrated that
-+ Britain and France could no longer act as independent great powers without U.S. support :: U.S. and Soviet pressure forced their withdrawal.
++ Britain and France could not act alone :: U.S. and Soviet pressure forced their withdrawal.
 - the Soviet Union had joined NATO :: The USSR opposed NATO.
 - Egypt had become a British colony again :: Egypt kept the canal.
-- the United States supported the British invasion :: Eisenhower opposed it.
+- the United States supported the British and French invasion :: Eisenhower opposed it.
 - European integration had failed :: The Treaty of Rome followed in 1957.
 
 @m
 The European Coal and Steel Community (1951) was designed partly to
-+ make war between France and Germany practically impossible by pooling key industries :: The Schuman Plan tied the two economies together.
++ bind France and Germany together :: The Schuman Plan tied the two economies together.
 - exclude West Germany from Europe's economy :: West Germany was a founding member.
 - create a military alliance against the Soviet Union :: That was NATO.
-- give Britain control of German industry :: Britain did not join.
+- give Britain control of German heavy industry in the Ruhr :: Britain did not join.
 - restore colonial trade :: It concerned European coal and steel.
 
 @m
 Why did France veto Britain's applications to join the EEC in the 1960s?
-+ De Gaulle feared Britain would weaken French leadership and act as a U.S. "Trojan horse" :: He vetoed in 1963 and 1967.
++ De Gaulle saw Britain as an American "Trojan horse" :: He vetoed in 1963 and 1967.
 - Britain had refused to join NATO :: Britain was a founding NATO member.
 - Britain was a communist state :: Britain was a parliamentary democracy.
 - Britain had supported Algeria's independence :: This was not the reason.
-- Britain demanded the abolition of the Common Market :: It wanted to join it.
+- Britain demanded the abolition of the Common Market's tariffs :: It wanted to join it.
 
 @m
 Which development most directly allowed the Eastern European revolutions of 1989 to succeed peacefully?
-+ Gorbachev's decision not to use Soviet force to prop up communist regimes :: He abandoned the Brezhnev Doctrine.
++ Gorbachev's refusal to send in troops :: He abandoned the Brezhnev Doctrine.
 - A NATO invasion of Eastern Europe :: There was no invasion.
-- The restoration of the Brezhnev Doctrine :: The doctrine was abandoned.
+- The restoration of the Brezhnev Doctrine by the Soviet army :: The doctrine was abandoned.
 - The death of Stalin in 1989 :: Stalin died in 1953.
 - The construction of the Berlin Wall :: The wall was opened in 1989.
 
 @m
 Khrushchev's "Secret Speech" of 1956
-+ denounced Stalin's crimes and cult of personality :: It began de-Stalinization.
++ denounced Stalin's crimes :: It began de-Stalinization.
 - announced the building of the Berlin Wall :: That came in 1961.
 - declared the Brezhnev Doctrine :: That came in 1968.
 - ended the Cold War :: The Cold War continued for decades.
-- called for the reunification of Germany :: It did not.
+- called for the reunification of Germany as a neutral state :: It did not.
 
 @m
 > "From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the Continent."
 This statement, made in 1946, referred to
-+ the division of Europe between Soviet-controlled East and the West :: Churchill spoke in Fulton, Missouri.
++ Europe's Cold War division :: Churchill spoke in Fulton, Missouri.
 - the Maginot Line between France and Germany :: That was a French fortification of the 1930s.
 - the Berlin Wall :: The wall was built in 1961.
 - the Treaty of Versailles borders :: Churchill described a postwar division.
-- the front lines of World War I :: The quotation concerns the Cold War.
+- the front lines of World War I in France and Belgium :: The quotation concerns the Cold War.
 
 @m
 Which of the following was a key feature of the welfare state created in Britain after 1945?
-+ A National Health Service providing free medical care :: The NHS was founded in 1948.
++ A National Health Service :: The NHS was founded in 1948.
 - Abolition of all private property :: Britain remained a mixed economy.
 - One-party rule by the Labour Party :: Britain kept competitive elections.
 - Return to laissez-faire economics :: The welfare state expanded government's role.
@@ -322,7 +322,7 @@ Which of the following was a key feature of the welfare state created in Britain
 
 @m
 France's war in Algeria (1954–1962) had which major effect on French politics?
-+ It brought down the Fourth Republic and returned de Gaulle to power :: De Gaulle founded the Fifth Republic in 1958.
++ It returned de Gaulle to power :: De Gaulle founded the Fifth Republic in 1958.
 - It led France to join the Warsaw Pact :: France remained in the West.
 - It caused France to leave the European Economic Community :: France stayed in the EEC.
 - It restored the Vichy regime :: Vichy ended in 1944.
@@ -330,15 +330,15 @@ France's war in Algeria (1954–1962) had which major effect on French politics?
 
 @m
 The Wannsee Conference (1942) is significant because
-+ Nazi officials coordinated the "Final Solution," the systematic murder of Europe's Jews :: Mass killing was already under way; Wannsee organized it across agencies.
++ officials coordinated the "Final Solution" :: Mass killing was already under way; Wannsee organized it across agencies.
 - the Allies planned the D-Day invasion there :: Wannsee was a Nazi meeting.
 - it ended the war in Europe :: The war ended in May 1945.
 - it created the Warsaw Pact :: That was in 1955.
-- Germany and the USSR signed a nonaggression pact there :: That was in Moscow in August 1939.
+- Germany and the USSR signed their nonaggression pact there :: That was in Moscow in August 1939.
 
 @m
 Which statement about the collapse of the Soviet Union is accurate?
-+ A failed hardliner coup in August 1991 accelerated the breakup, and the USSR dissolved in December 1991 :: The republics declared independence.
++ A failed coup in 1991 hastened the breakup :: The republics declared independence.
 - It was caused by a NATO invasion :: There was no invasion.
 - It occurred before the fall of the Berlin Wall :: The wall fell in 1989.
 - Gorbachev used tanks to keep the union together successfully :: The union dissolved.
@@ -354,47 +354,47 @@ Which pair correctly matches a Cold War crisis with its outcome?
 
 @h
 Which factor best explains why Germany lost World War II?
-+ It fought a multi-front war against powers with far greater combined manpower and industrial capacity :: The USSR, U.S. and Britain outproduced and outnumbered the Axis.
++ It was outproduced on several fronts :: The USSR, U.S. and Britain outproduced and outnumbered the Axis.
 - It never invaded the Soviet Union :: It did invade, in 1941.
 - It had no tanks or aircraft :: Germany had advanced weapons.
 - Italy defeated Germany in 1943 :: Italy switched sides but did not defeat Germany.
-- France recaptured Berlin in 1944 :: Soviet troops took Berlin in 1945.
+- France recaptured Berlin in 1944 with British help :: Soviet troops took Berlin in 1945.
 
 @h
 Which statement best compares the Treaty of Versailles settlement and the post-1945 settlement of Germany?
-+ After 1945 Germany was occupied and divided rather than left intact and burdened with large reparations :: The Allies sought to avoid Versailles's mistakes by occupation and, in the West, economic recovery.
++ After 1945 Germany was occupied and divided :: The Allies sought to avoid Versailles's mistakes by occupation and, in the West, economic recovery.
 - Both settlements united Germany with Austria :: Both forbade it.
 - Both left Germany with its army intact :: Germany was disarmed in 1945.
 - Both were negotiated with German participation :: Germany had no voice in either.
-- After 1945 Germany was required to pay the U.S. the full cost of the war :: The U.S. gave aid instead.
+- After 1945 Germany was required to pay the United States the full cost of the war :: The U.S. gave aid instead.
 
 @h
 A historian argues that the Marshall Plan was as much a political as an economic program. Which evidence best supports this?
-+ It aimed to stabilize Western Europe against communist parties, and Stalin barred Eastern Europe from accepting aid :: It reinforced the division of Europe into blocs.
++ It aimed to weaken communist parties in the West :: It reinforced the division of Europe into blocs.
 - It provided aid only to the Soviet Union :: The USSR refused it.
 - It was administered by the League of Nations :: The League no longer functioned.
-- It required European countries to adopt communism :: It aimed to prevent communism.
+- It required European countries to adopt communist planning :: It aimed to prevent communism.
 - It ended in 1945 :: It ran from 1948 to 1952.
 
 @h
 Which statement best explains why decolonization accelerated after 1945?
-+ The war had weakened colonial powers, discredited racial ideologies, strengthened nationalist movements, and both superpowers opposed the old empires :: These pressures together made empire unsustainable.
++ The war had weakened the colonial powers :: These pressures together made empire unsustainable.
 - European powers no longer had any armies :: They fought colonial wars in Indochina and Algeria.
 - The United Nations ordered all colonies to be returned to Germany :: No such order existed.
-- Colonies voted to rejoin their European rulers :: Colonies sought independence.
+- Colonies voted to rejoin their former European rulers :: Colonies sought independence.
 - The Marshall Plan required countries to give up colonies :: It did not.
 
 @h
 The Helsinki Accords (1975) had which unintended consequence?
-+ Dissidents in the Soviet bloc used its human rights commitments to challenge their governments :: Groups like Czechoslovakia's Charter 77 cited Helsinki.
++ Dissidents used its human rights pledges :: Groups like Czechoslovakia's Charter 77 cited Helsinki.
 - They immediately reunified Germany :: Reunification came in 1990.
 - They dissolved NATO :: NATO continued.
 - They ended détente :: They were the high point of détente.
-- They gave the Soviet Union control of Western Europe :: They recognized existing borders.
+- They gave the Soviet Union control of Western Europe's borders :: They recognized existing borders.
 
 @h
 Which development MOST directly reflects the goal of preventing another Franco-German war?
-+ The creation of the European Coal and Steel Community :: Pooling coal and steel tied France and Germany together.
++ The Coal and Steel Community :: Pooling coal and steel tied France and Germany together.
 - The Truman Doctrine :: That concerned Greece and Turkey.
 - The building of the Berlin Wall :: That divided Germany.
 - The Suez Crisis :: That concerned Egypt.
@@ -402,17 +402,17 @@ Which development MOST directly reflects the goal of preventing another Franco-G
 
 @h
 Which comparison of the 1956 Hungarian Revolution and the 1989 revolutions is most accurate?
-+ In 1956 Soviet forces crushed the uprising, while in 1989 the USSR chose not to intervene :: Gorbachev's restraint made the difference.
++ The USSR used force in 1956 but not in 1989 :: Gorbachev's restraint made the difference.
 - Both succeeded in ending communism :: Hungary 1956 failed.
 - Both were led by Gorbachev :: Gorbachev came to power in 1985.
 - In both cases NATO sent troops :: NATO did not intervene.
-- Both took place only in East Germany :: Neither was limited to East Germany.
+- Both took place only in East Germany and Berlin :: Neither was limited to East Germany.
 
 @h
 The Nuremberg Trials established the principle that
-+ individuals can be held responsible for crimes against humanity, even if they followed orders :: The trials rejected the "superior orders" defense.
++ "following orders" is no defense :: The trials rejected the "superior orders" defense.
 - only nations, not individuals, can be guilty of war crimes :: The trials prosecuted individuals.
-- victorious nations can never be accused of war crimes :: The trials did not establish this as a principle.
+- victorious nations can never be accused of committing war crimes :: The trials did not establish this as a principle.
 - the Treaty of Versailles was invalid :: The trials concerned Nazi crimes.
 - Germany must be permanently divided :: That was not a legal principle of the trials.
 
@@ -426,8 +426,8 @@ Operation Barbarossa (1941) was Germany's
 
 @m
 The Maastricht Treaty (1992) is significant because it
-+ created the European Union and set the path to a common currency :: It added common citizenship and planned the euro.
++ created the European Union :: It added common citizenship and planned the euro.
 - created the European Coal and Steel Community :: That was the Treaty of Paris in 1951.
 - founded NATO :: NATO was founded in 1949.
 - ended the Second World War :: The war ended in 1945.
-- divided Germany into two states :: Germany was divided in 1949 and reunified in 1990.
+- divided Germany into two separate states :: Germany was divided in 1949 and reunified in 1990.

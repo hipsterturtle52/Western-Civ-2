@@ -9,7 +9,7 @@ After the Treaty of Utrecht (1713), Europe's great powers stopped fighting over 
 ## The Atlantic economy and the slave trade
 In the 1700s the most valuable colonies were not in North America but in the **Caribbean**, where **sugar** plantations on islands such as French **Saint-Domingue** (today's Haiti) and British **Jamaica** made enormous profits. Sugar, tobacco, coffee, cotton and indigo were grown by **enslaved Africans**. Roughly six million Africans were carried across the Atlantic in the eighteenth century alone, more than in any other century of the trade, and many died on the brutal **Middle Passage**.
 
-Historians describe a **triangular trade**: European manufactured goods (guns, cloth, alcohol) went to West Africa; enslaved people went to the Americas; plantation crops went back to Europe. Port cities such as Liverpool, Bristol, Nantes and Bordeaux grew rich on it.
+Historians describe a **triangular trade**: European manufactured goods (guns, cloth, alcohol) went to West Africa; enslaved people went to the Americas; plantation crops went back to Europe. Port cities such as Liverpool, Bristol, Nantes and Bordeaux grew rich on it. At Utrecht (1713) Britain had won the **asiento**, the contract to supply enslaved Africans to Spanish America, later held by the South Sea Company.
 
 -> Cheap plantation sugar, tea, coffee and tobacco flood into European ports | A "consumer revolution": ordinary Europeans buy colonial goods | Demand for slave labor and colonies grows; merchants and port cities gain wealth and influence
 
@@ -96,17 +96,17 @@ In the eighteenth century, the most profitable European colonies in the Americas
 
 @e
 Robert Walpole is significant in British history as
-+ the first prime minister in practice, governing through a cabinet responsible to Parliament :: Walpole led the government from 1721 to 1742 and set the pattern of cabinet rule.
-- the general who captured Quebec :: James Wolfe led the attack on Quebec in 1759.
++ Britain's first prime minister in practice :: Walpole led the government from 1721 to 1742 and set the pattern of cabinet rule.
+- the general who captured Quebec from the French :: James Wolfe led the attack on Quebec in 1759.
 - the founder of the Bank of England :: The Bank of England was founded in 1694.
 - the king who replaced James II :: That was William III.
-- the leader of the Puritan army in the Civil War :: That was Oliver Cromwell.
+- the leader of the Puritan army in the English Civil War :: That was Oliver Cromwell.
 
 @e
 The Diplomatic Revolution of 1756 refers to
-+ Austria allying with its old enemy France, while Britain allied with Prussia :: The switch of partners set the sides for the Seven Years' War.
++ Austria allying with France and Britain with Prussia :: The switch of partners set the sides for the Seven Years' War.
 - the overthrow of James II in favor of William and Mary :: That was the Glorious Revolution of 1688.
-- France's alliance with the American colonies :: That came in 1778 during the American Revolution.
+- France's alliance with the rebel American colonies against Britain :: That came in 1778 during the American Revolution.
 - the union of England and Scotland :: That was the Act of Union in 1707.
 - Russia's alliance with Napoleon at Tilsit :: Tilsit was in 1807.
 
@@ -120,73 +120,73 @@ Which treaty gave Britain control of Canada?
 
 @e
 The putting-out system involved
-+ merchants supplying raw materials to rural households that produced goods at home :: Families spun and wove in their cottages; merchants collected and sold the finished cloth.
-- government factories run by state officials :: The system was private and decentralized.
++ merchants paying rural families to spin and weave at home :: Families spun and wove in their cottages; merchants collected and sold the finished cloth.
+- government-owned factories run by state officials in the capital :: The system was private and decentralized.
 - slave labor on Caribbean plantations :: That was the plantation system.
-- guild workshops in large cities :: Merchants used rural labor to avoid urban guild rules.
+- guild workshops controlled by masters in large cities :: Merchants used rural labor to avoid urban guild rules.
 - steam-powered textile mills :: Mills came with the Industrial Revolution and replaced cottage industry.
 
 @e
 Frederick II's invasion of Silesia in 1740 began the
 + War of the Austrian Succession :: Frederick exploited Maria Theresa's accession to seize Silesia.
-- Thirty Years' War :: That war ran from 1618 to 1648.
+- Thirty Years' War over religion :: That war ran from 1618 to 1648.
 - War of the Spanish Succession :: That war ran from 1701 to 1714.
-- Great Northern War :: That war (1700–1721) was fought between Russia and Sweden.
+- Great Northern War around the Baltic :: That war (1700–1721) was fought between Russia and Sweden.
 - Crimean War :: The Crimean War was fought in the 1850s.
 
 @m
 The main cause of European population growth in the eighteenth century was
-+ a declining death rate as plague vanished and famines became less frequent :: Fewer deaths from plague and famine, not more births, drove the increase.
++ a falling death rate, as plague and famine receded :: Fewer deaths from plague and famine, not more births, drove the increase.
 - the spread of modern vaccination and antibiotics :: Antibiotics came in the 1900s; the smallpox vaccine only in 1796.
 - mass immigration from Asia and Africa :: There was no large immigration into Europe.
-- government programs encouraging large families :: No such programs drove the trend.
+- government programs paying bonuses to large families :: No such programs drove the trend.
 - the end of serfdom across Europe :: Serfdom survived in central and eastern Europe well into the 1800s.
 
 @m
 Which statement about the Atlantic slave trade in the eighteenth century is accurate?
-+ More enslaved Africans were transported in the 1700s than in any other century :: The trade peaked in the eighteenth century, driven by plantation demand.
++ It reached its peak volume in the 1700s :: The trade peaked in the eighteenth century, driven by plantation demand.
 - It was abolished by Britain at the Treaty of Utrecht :: Utrecht gave Britain the asiento; Britain abolished the trade in 1807.
 - It mainly supplied workers to European factories :: Enslaved people were sent to American plantations.
 - It was controlled entirely by the Dutch :: Britain, Portugal and France were the leading carriers in this period.
-- It declined sharply as sugar became less profitable :: Sugar profits were high, and the trade expanded.
+- It declined sharply as sugar became less profitable after 1720 :: Sugar profits were high, and the trade expanded.
 
 @m
 Charles VI's Pragmatic Sanction was intended to
-+ ensure that his daughter Maria Theresa inherited the Habsburg lands intact :: Charles had no son and sought international guarantees for her succession.
++ let his daughter inherit all Habsburg lands :: Charles had no son and sought international guarantees for her succession.
 - unite the crowns of France and Spain :: Utrecht forbade that union, and it was not Charles's aim.
 - abolish serfdom in the Habsburg lands :: Serfdom reform came later under Joseph II.
-- grant religious toleration to Protestants in Austria :: That was Joseph II's Edict of Toleration in 1781.
+- grant religious toleration to Protestants in Austria and Bohemia :: That was Joseph II's Edict of Toleration in 1781.
 - divide Poland among its neighbors :: The partitions of Poland began in 1772.
 
 @m
 The South Sea Bubble (1720) and the Mississippi Bubble (1720) were both
-+ speculative financial collapses tied to companies promising colonial trade profits :: Both crashes ruined investors in companies selling dreams of overseas wealth.
++ speculative crashes of trading-company shares :: Both crashes ruined investors in companies selling dreams of overseas wealth.
 - slave revolts in the Caribbean :: They were stock-market crashes, not revolts.
 - naval battles between Britain and France :: Neither was a battle.
-- plagues that killed thousands in port cities :: The Marseille plague of 1720 is unrelated to these crashes.
+- outbreaks of plague that killed thousands in port cities :: The Marseille plague of 1720 is unrelated to these crashes.
 - treaties that ended the War of the Spanish Succession :: That war ended with Utrecht and Rastatt.
 
 @m
 Which of the following was a result of the Seven Years' War?
-+ Britain emerged as the dominant colonial power in North America and India :: The Treaty of Paris (1763) removed France from Canada and left Britain dominant in India.
-- Prussia was forced to return Silesia to Austria :: Prussia kept Silesia.
++ Britain became dominant in North America and India :: The Treaty of Paris (1763) removed France from Canada and left Britain dominant in India.
+- Prussia was forced to return the province of Silesia to Austria :: Prussia kept Silesia.
 - France gained Canada from Britain :: France lost Canada.
 - Spain lost all its American colonies :: Spain kept its American empire and received Louisiana from France.
 - Austria gained control of the Holy Roman Empire's German states :: There was no such outcome.
 
 @m
 Robert Clive's victory at the Battle of Plassey (1757) is significant because it
-+ began British East India Company control of Bengal :: Plassey made the Company the real power in Bengal, a base for wider British rule in India.
++ began British company rule in Bengal :: Plassey made the Company the real power in Bengal, a base for wider British rule in India.
 - ended the Mughal Empire's conquest of Europe :: The Mughals never invaded Europe.
-- gave France control of the spice trade :: France lost ground in India.
+- gave France control of the Indian Ocean spice trade :: France lost ground in India.
 - opened Japan to Western trade :: Japan was opened by the United States in the 1850s.
 - ended the Atlantic slave trade :: Plassey was in India and unrelated to the slave trade.
 
 @m
 The growth of eighteenth-century consumption of sugar, tea and coffee in Europe most directly encouraged
-+ the expansion of slave-worked plantations in the Americas :: Rising demand for sugar and coffee meant more plantations and more enslaved labor.
++ more slave-worked plantations in the Americas :: Rising demand for sugar and coffee meant more plantations and more enslaved labor.
 - the decline of European port cities :: Ports like Liverpool and Nantes grew rich.
-- the abandonment of mercantilist policies :: Mercantilism remained dominant through the century.
+- the abandonment of mercantilist policies by Britain and France :: Mercantilism remained dominant through the century.
 - the collapse of the Dutch East India Company within a decade :: The VOC declined slowly and was dissolved only in 1799.
 - a fall in the price of land in Britain :: There is no direct link between colonial goods and British land prices.
 
@@ -200,23 +200,23 @@ Which pair were allies during the Seven Years' War?
 
 @m
 Frederick William I of Prussia, the "Soldier King," is best known for
-+ building a large, well-drilled army and a full treasury through strict economy :: He made Prussia a major military power while rarely going to war.
-- conquering Silesia from Austria :: His son Frederick II did that in 1740.
++ building a large army while saving money :: He made Prussia a major military power while rarely going to war.
+- conquering the province of Silesia from Austria :: His son Frederick II did that in 1740.
 - leading Prussia to defeat at Jena :: Jena was in 1806, under Frederick William III.
-- writing philosophical letters to Voltaire :: That was Frederick II.
+- writing philosophical letters to Voltaire and Diderot :: That was Frederick II.
 - creating a constitutional monarchy :: He was an absolutist.
 
 @m
 After Louis XIV died in 1715, the Paris parlement regained the right to
-+ object to royal decrees before registering them :: The parlements later used this right of remonstrance to block tax reforms.
++ object to royal decrees :: The parlements later used this right of remonstrance to block tax reforms.
 - elect the king of France :: The French crown was hereditary.
-- declare war without royal approval :: The parlements were law courts with no war powers.
+- declare war without the king's approval :: The parlements were law courts with no war powers.
 - appoint the king's ministers :: Ministers were chosen by the king.
 - abolish noble tax exemptions :: The parlements defended privilege; they did not abolish it.
 
 @h
 Which development best reflects proto-industrialization in the eighteenth century?
-+ Rural families earning extra income by spinning and weaving for merchants :: Proto-industry was market-oriented rural cottage production that came before factories.
++ Rural families spinning and weaving for merchants :: Proto-industry was market-oriented rural cottage production that came before factories.
 - The building of steam-powered cotton mills in Manchester :: Mills are the factory system itself, not its precursor.
 - The guilds' monopoly over urban textile production :: Proto-industry grew in the countryside largely to escape guild control.
 - State-run silk factories in Lyon :: Lyon's silk trade was urban and artisanal.
@@ -224,11 +224,11 @@ Which development best reflects proto-industrialization in the eighteenth centur
 
 @h
 A historian notes that the national debt of both Britain and France nearly doubled because of the Seven Years' War. Which later development does this best help explain?
-+ Both the American Revolution and the French fiscal crisis of the 1780s :: British taxes on the colonies and France's bankruptcy both grew out of war debt.
++ The American Revolution and France's 1780s crisis :: British taxes on the colonies and France's bankruptcy both grew out of war debt.
 - The Glorious Revolution of 1688 :: That came long before the war.
 - The South Sea Bubble of 1720 :: That came before the war.
-- The Diplomatic Revolution of 1756 :: The alliance switch came before the debts were run up.
-- The spread of the potato in eastern Europe :: Crop diffusion is unrelated to war debt.
+- The Diplomatic Revolution that preceded the war in 1756 :: The alliance switch came before the debts were run up.
+- The spread of the potato as a staple crop in eastern Europe :: Crop diffusion is unrelated to war debt.
 
 @h
 Which factor contributed LEAST to Europe's eighteenth-century population growth?
@@ -240,23 +240,23 @@ Which factor contributed LEAST to Europe's eighteenth-century population growth?
 
 @h
 Which statement best compares Britain and France in the mid-1700s?
-+ Britain's Parliament-backed credit let it borrow cheaply for war, while France's finances were hampered by privilege and distrust of banks :: Britain's credit system funded naval victories; France's tax exemptions and memories of John Law's collapse limited its borrowing.
-- France had a larger navy and won most colonial wars :: Britain's navy was superior, and Britain won the Seven Years' War.
-- Britain was an absolute monarchy and France a parliamentary state :: The reverse is true.
++ Britain could borrow cheaply for war; France was hampered by privilege :: Britain's credit system funded naval victories; France's tax exemptions and memories of John Law's collapse limited its borrowing.
+- France had the larger navy and won most of the colonial wars :: Britain's navy was superior, and Britain won the Seven Years' War.
+- Britain was an absolute monarchy while France was a parliamentary state :: The reverse is true.
 - Both abolished their colonial empires after 1763 :: Both kept empires; France kept its sugar islands.
 - Neither country participated in the Atlantic slave trade :: Both were major slave-trading nations.
 
 @m
 What was the asiento that Britain won in 1713?
-+ The right to supply enslaved Africans to Spanish America :: The asiento contract was the commercial prize of Utrecht and was later held by the South Sea Company.
++ A contract to sell enslaved Africans to Spain's colonies :: The asiento contract was the commercial prize of Utrecht and was later held by the South Sea Company.
 - A monopoly on the tea trade with China :: The British East India Company's China trade was unrelated to the asiento.
 - Control of the Mississippi River :: The Mississippi remained in French and then Spanish hands until 1803.
-- A royal charter for the Bank of England :: The Bank of England was chartered in 1694.
-- Permanent fishing rights in the Baltic :: The asiento concerned the slave trade.
+- A royal charter for the Bank of England and its branches :: The Bank of England was chartered in 1694.
+- Permanent fishing rights off the coast of Newfoundland and the Baltic :: The asiento concerned the slave trade.
 
 @e
 Which crop from the Americas most helped Europe reduce famine in the eighteenth century?
-+ The potato :: Potatoes yielded many calories per acre and grew in poor soils.
++ Potatoes :: Potatoes yielded many calories per acre and grew in poor soils.
 - Sugarcane :: Sugar was a cash crop grown in the Caribbean, not a European staple.
 - Tobacco :: Tobacco is not a food.
 - Rice :: Rice was not a major American crop in Europe's diet.
@@ -264,7 +264,7 @@ Which crop from the Americas most helped Europe reduce famine in the eighteenth 
 
 @m
 Which best describes how mercantilist Britain viewed its colonies?
-+ As sources of raw materials and markets that should trade mainly with Britain :: The Navigation Acts channeled colonial trade through British ships and ports.
++ As suppliers and markets that should trade with Britain :: The Navigation Acts channeled colonial trade through British ships and ports.
 - As independent nations free to trade with anyone :: Mercantilism restricted colonial trade.
 - As burdens to be abandoned as soon as possible :: Britain fought major wars to keep and expand them.
 - As places to build factories that would compete with Britain :: Colonial manufacturing was discouraged.
@@ -272,8 +272,8 @@ Which best describes how mercantilist Britain viewed its colonies?
 
 @h
 Which of the following is the best evidence that the Seven Years' War was a "world war"?
-+ Fighting took place in Europe, North America, the Caribbean, India and at sea :: Its theaters spanned several continents and oceans.
++ It was fought on several continents and oceans :: Its theaters spanned several continents and oceans.
 - It involved more than one German state :: German states fought each other in many wars.
 - It lasted seven years :: Length alone does not make a war global.
-- It started because of a dynastic succession dispute :: It was rooted in Silesia and colonial rivalry, not succession.
+- It started because of a dynastic dispute over the Spanish throne :: It was rooted in Silesia and colonial rivalry, not succession.
 - It ended with a treaty signed in Paris :: Many treaties were signed in Paris.

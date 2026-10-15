@@ -136,18 +136,18 @@ Benito Mussolini came to power in Italy after the
 
 @e
 The Enabling Act of 1933
-+ gave Hitler's government the power to make laws without the Reichstag :: It provided the legal basis for dictatorship.
-- created the Weimar Republic :: The Weimar constitution dates from 1919.
++ let Hitler's cabinet make laws :: It provided the legal basis for dictatorship.
+- created the Weimar Republic and its constitution :: The Weimar constitution dates from 1919.
 - reduced German reparations :: That was the Dawes Plan (1924) and Young Plan (1929).
 - made Germany a member of the League of Nations :: Germany joined in 1926 and left in 1933.
 - annexed Austria :: The Anschluss came in 1938.
 
 @e
 Stalin's policy of collectivization forced peasants to
-+ give up private farms and join large collective farms :: Collectivization began in 1929 and caused famine.
++ join collective farms :: Collectivization began in 1929 and caused famine.
 - move to the United States :: Emigration was not the policy.
-- buy land from the nobility :: The nobility had been abolished.
-- sell grain freely on the market :: That was the NEP, which Stalin ended.
+- buy land from the former nobility on credit :: The nobility had been abolished.
+- sell their grain freely on the open market :: That was the NEP, which Stalin ended.
 - form independent trade unions :: Independent unions were not allowed.
 
 @e
@@ -168,10 +168,10 @@ The Great Depression began with
 
 @e
 The Nuremberg Laws of 1935
-+ stripped German Jews of citizenship and banned marriages between Jews and other Germans :: They legalized racial discrimination.
++ stripped Jews of citizenship :: They legalized racial discrimination.
 - created the Nazi Party :: The party dated from 1920.
-- set up war crimes trials :: The Nuremberg Trials came after 1945.
-- remilitarized the Rhineland :: That happened in 1936.
+- set up international war crimes trials :: The Nuremberg Trials came after 1945.
+- remilitarized the Rhineland in defiance of Versailles :: That happened in 1936.
 - ended German reparations :: Reparations had effectively ended by 1932.
 
 @e
@@ -192,10 +192,10 @@ Which leader was appointed German chancellor on January 30, 1933?
 
 @e
 The Nazi-Soviet Pact of August 1939
-+ was a nonaggression pact with a secret protocol dividing Poland and eastern Europe :: It cleared the way for Germany's invasion of Poland.
-- created a military alliance against Britain :: It was a nonaggression pact.
++ secretly divided Poland :: It cleared the way for Germany's invasion of Poland.
+- created a full military alliance against Britain :: It was a nonaggression pact.
 - ended the Spanish Civil War :: Franco won the Spanish war in April 1939.
-- returned Alsace-Lorraine to Germany :: That did not happen in 1939.
+- returned Alsace-Lorraine to Germany from France :: That did not happen in 1939.
 - established the Axis :: The Axis linked Germany and Italy.
 
 @e
@@ -208,23 +208,23 @@ Neville Chamberlain's policy toward Hitler in 1938 is known as
 
 @m
 Which factor contributed MOST to the Nazis' electoral rise between 1928 and 1932?
-+ The mass unemployment and despair of the Great Depression :: The Nazi vote soared from under 3 percent to 37 percent.
++ The Great Depression :: The Nazi vote soared from under 3 percent to 37 percent.
 - The Dawes Plan's success :: Prosperity in the 1920s kept the Nazis small.
 - Germany's victory in World War I :: Germany lost the war.
-- Hitler's popularity with the Communist Party :: Communists were the Nazis' bitter enemies.
+- Hitler's popularity with the German Communist Party :: Communists were the Nazis' bitter enemies.
 - The Locarno treaties :: Locarno did not fuel extremism.
 
 @m
 The German hyperinflation of 1923 was triggered most directly by
-+ the French and Belgian occupation of the Ruhr and the government's printing of money to support passive resistance :: Money creation spun out of control.
-- the Wall Street Crash :: That came in 1929.
-- Hitler's rearmament program :: Rearmament came after 1933.
++ money printed during the Ruhr crisis :: Money creation spun out of control.
+- the Wall Street Crash in New York :: That came in 1929.
+- Hitler's rearmament program and its deficit spending :: Rearmament came after 1933.
 - the Dawes Plan :: The Dawes Plan helped end the crisis.
 - the Nuremberg Laws :: Those came in 1935.
 
 @m
 Which of the following is a characteristic shared by Fascist Italy, Nazi Germany and Stalin's Soviet Union?
-+ A single ruling party that used propaganda and secret police to control society :: These are hallmarks of totalitarianism.
++ One-party rule backed by secret police :: These are hallmarks of totalitarianism.
 - Free multiparty elections :: All three banned opposition parties.
 - Private ownership of all agricultural land :: The USSR collectivized agriculture.
 - An official ideology of racial superiority :: Racial doctrine was central to Nazism, not to Soviet communism.
@@ -232,41 +232,41 @@ Which of the following is a characteristic shared by Fascist Italy, Nazi Germany
 
 @m
 The Lateran Accords of 1929 were significant because they
-+ settled the conflict between the Italian state and the papacy by recognizing Vatican City :: Mussolini won Catholic support.
++ made peace with the papacy :: Mussolini won Catholic support.
 - created the Rome-Berlin Axis :: That came in 1936.
 - ended the Spanish Civil War :: That ended in 1939.
 - made Italy a member of the Triple Entente :: The Entente belongs to the pre-1914 era.
-- restored the Papal States to their 1860 borders :: The pope received only Vatican City.
+- restored the Papal States to their borders of 1860 :: The pope received only Vatican City.
 
 @m
 Keynes's General Theory (1936) argued that during a depression governments should
-+ increase spending, even with deficits, to boost demand :: This challenged the orthodox policy of balancing budgets.
++ spend more, even with deficits :: This challenged the orthodox policy of balancing budgets.
 - cut spending to balance the budget :: That was the orthodox policy Keynes criticized.
-- return to the gold standard immediately :: Keynes opposed the rigid gold standard.
+- return to the gold standard immediately at prewar rates :: Keynes opposed the rigid gold standard.
 - nationalize all industry :: Keynes wanted to save capitalism, not abolish it.
 - raise tariffs as high as possible :: Keynes did not see tariffs as the cure.
 
 @m
 The Night of the Long Knives (1934) was
-+ Hitler's purge of SA leaders, including Ernst Röhm, to win the army's support :: The SS murdered dozens of rivals.
-- the pogrom against Jews in November 1938 :: That was Kristallnacht.
++ Hitler's purge of SA leaders :: The SS murdered dozens of rivals.
+- the pogrom against German Jews in November 1938 :: That was Kristallnacht.
 - the burning of the Reichstag building :: That occurred in February 1933.
 - the Soviet show trials :: Those were Stalin's purges in 1936–38.
 - the Fascist March on Rome :: That was in Italy in 1922.
 
 @m
 Which statement about Stalin's Five-Year Plans is accurate?
-+ They rapidly built heavy industry through central planning but neglected consumer goods :: Steel, coal and machinery output soared while living standards stayed low.
++ They favored heavy industry :: Steel, coal and machinery output soared while living standards stayed low.
 - They restored private trade and small businesses :: That was the NEP, which they replaced.
-- They focused mainly on producing consumer goods :: Heavy industry was the priority.
+- They focused mainly on producing consumer goods for workers :: Heavy industry was the priority.
 - They were designed by Lenin in 1921 :: The first plan began in 1928.
 - They gave peasants ownership of their land :: Collectivization took peasants' land.
 
 @m
 Hitler's remilitarization of the Rhineland in 1936 is significant because
-+ it broke the Versailles and Locarno treaties without any response from Britain or France :: It encouraged Hitler to take further risks.
++ Britain and France did nothing :: It encouraged Hitler to take further risks.
 - it began the Second World War :: The war began in 1939.
-- it was opposed by Mussolini with military force :: Mussolini did not resist.
+- it was opposed by Mussolini with Italian military force :: Mussolini did not resist.
 - it was approved by the League of Nations :: The League did nothing.
 - it returned the Rhineland to France :: The Rhineland was German territory.
 
@@ -281,9 +281,9 @@ This statement best expresses the ideology of
 
 @m
 The Dawes Plan (1924) helped Germany's economy by
-+ reducing reparations payments and arranging American loans :: It stabilized the Weimar economy in the mid-1920s.
++ cutting payments and adding U.S. loans :: It stabilized the Weimar economy in the mid-1920s.
 - canceling all reparations :: Reparations continued until 1932.
-- returning the Saar to Germany immediately :: The Saar plebiscite came in 1935.
+- returning the Saar region to Germany immediately :: The Saar plebiscite came in 1935.
 - allowing Germany to rearm :: Rearmament remained forbidden.
 - uniting Germany with Austria :: Union was forbidden.
 
@@ -297,18 +297,18 @@ In the Spanish Civil War (1936–1939), Franco's Nationalists received significa
 
 @m
 Which statement best describes the Weimar Republic's constitution?
-+ It created a democracy with proportional representation, which produced many parties and unstable coalitions :: Article 48 also allowed rule by emergency decree.
++ Proportional representation fragmented parliament :: Article 48 also allowed rule by emergency decree.
 - It established an absolute monarchy :: Weimar was a republic.
-- It banned all political parties except one :: That was Nazi Germany after 1933.
+- It banned all political parties except the ruling one :: That was Nazi Germany after 1933.
 - It denied women the vote :: Weimar women could vote.
-- It created a federation with Austria :: Union with Austria was forbidden.
+- It created a federation with the new Austrian republic :: Union with Austria was forbidden.
 
 @m
 The Kristallnacht pogrom of November 1938 involved
-+ the burning of synagogues, destruction of Jewish businesses and mass arrests of Jewish men :: It marked a violent escalation of Nazi persecution.
++ attacks on synagogues and Jewish shops :: It marked a violent escalation of Nazi persecution.
 - the murder of SA leaders :: That was the Night of the Long Knives.
 - the invasion of Poland :: That was in 1939.
-- a Soviet attack on Finland :: That was the Winter War of 1939–40.
+- a Soviet attack on Finland in the Winter War :: That was the Winter War of 1939–40.
 - the annexation of Austria :: That was the Anschluss in March 1938.
 
 @m
@@ -321,19 +321,19 @@ The League of Nations' response to Italy's invasion of Ethiopia (1935) showed th
 
 @m
 Mussolini became prime minister of Italy in 1922 mainly because
-+ the king and conservative elites chose to bring him into government rather than resist the Fascists :: Victor Emmanuel III refused to use the army against the March on Rome.
-- he won a majority in a free election :: The Fascists had few deputies in 1922.
++ the king chose not to resist him :: Victor Emmanuel III refused to use the army against the March on Rome.
+- he won a majority of seats in a free election :: The Fascists had few deputies in 1922.
 - a revolution overthrew the Italian monarchy :: The monarchy survived until 1946.
 - the League of Nations appointed him :: The League had no such power.
 - he defeated Italy's army in a civil war :: There was no civil war.
 
 @m
 In the Great Purge (1936–1938), Stalin
-+ had many old Bolsheviks, army officers and ordinary citizens arrested, tried in show trials or executed :: The NKVD carried out mass arrests and executions.
-- allowed free elections in the Soviet Union :: Elections were not free.
++ had millions arrested or shot :: The NKVD carried out mass arrests and executions.
+- allowed free elections in the Soviet republics :: Elections were not free.
 - abolished the secret police :: The NKVD led the Purge.
 - returned land to the kulaks :: The kulaks had been destroyed.
-- made Trotsky his deputy :: Trotsky had been expelled and was later murdered.
+- made Trotsky his deputy and successor :: Trotsky had been expelled and was later murdered.
 
 @m
 Which event came LAST?
@@ -345,15 +345,15 @@ Which event came LAST?
 
 @h
 Which statement best explains why Hitler's rise to power is called a "legal revolution"?
-+ He was appointed chancellor through constitutional channels and used emergency decrees and the Enabling Act to build a dictatorship :: He never seized power by force after the 1923 failure.
++ He took power by legal steps, then ended democracy :: He never seized power by force after the 1923 failure.
 - He won an absolute majority in a free election :: The Nazis never won a majority.
 - He overthrew Hindenburg in a military coup :: Hindenburg appointed him.
-- The Treaty of Versailles named him Germany's leader :: The treaty did nothing of the kind.
+- The Treaty of Versailles named him Germany's postwar leader :: The treaty did nothing of the kind.
 - He was elected by the League of Nations :: The League had no such role.
 
 @h
 Which factor best explains the British and French policy of appeasement in the 1930s?
-+ Fear of another catastrophic war, military unpreparedness and a sense that Versailles had been too harsh :: These combined to make concessions seem reasonable.
++ Fear of another great war :: These combined to make concessions seem reasonable.
 - A secret alliance with Nazi Germany :: There was no such alliance.
 - Confidence that their armies could easily defeat Germany :: They felt unprepared.
 - A desire to spread communism :: Both feared communism.
@@ -361,7 +361,7 @@ Which factor best explains the British and French policy of appeasement in the 1
 
 @h
 How did the Great Depression affect democracy in Europe?
-+ Mass unemployment discredited liberal governments and strengthened extremist movements of the left and right :: Germany is the clearest example.
++ It discredited democracies and fed extremism :: Germany is the clearest example.
 - It strengthened democracy everywhere by uniting citizens :: Many democracies weakened.
 - It had no political effect outside the United States :: It transformed European politics.
 - It ended the Fascist regime in Italy :: Mussolini stayed in power.
@@ -369,11 +369,11 @@ How did the Great Depression affect democracy in Europe?
 
 @h
 Which comparison of Nazism and Soviet communism is most accurate?
-+ Both used one-party rule and terror, but Nazism was built on racial ideology while Soviet communism was built on class ideology :: Their methods were similar; their goals differed.
++ Both used terror; one aimed at race, one at class :: Their methods were similar; their goals differed.
 - Both abolished private property entirely :: Nazi Germany kept private property and big business.
 - Both were based on the ideas of Karl Marx :: Nazis were anti-Marxist.
 - Both came to power through elections :: The Bolsheviks seized power in a revolution.
-- Both were allies throughout the 1930s :: They were enemies until the 1939 pact.
+- Both were close allies throughout the 1930s :: They were enemies until the 1939 pact.
 
 @h
 The Munich Agreement and the German occupation of Prague in March 1939 together demonstrated that
@@ -385,15 +385,15 @@ The Munich Agreement and the German occupation of Prague in March 1939 together 
 
 @h
 A historian argues that the Soviet famine of 1932–1933 was a man-made disaster. Which evidence best supports this?
-+ The state continued requisitioning grain and blocked starving peasants from leaving Ukraine while exporting grain :: Policy choices, not just weather, caused mass death.
-- Droughts struck many parts of the world in the 1930s :: That points to natural causes.
++ The state kept seizing and exporting grain :: Policy choices, not just weather, caused mass death.
+- Droughts struck many parts of the world in the early 1930s :: That points to natural causes.
 - The NEP was introduced in 1921 :: That predates the famine.
 - Soviet industrial output rose in the 1930s :: Industrial growth does not explain the famine.
 - The Great Purge began in 1936 :: That came after the famine.
 
 @h
 Which development MOST directly encouraged Hitler to invade Poland in September 1939?
-+ The Nazi-Soviet Pact, which removed the threat of a Soviet response :: It eliminated the danger of an immediate two-front war.
++ The Nazi-Soviet Pact :: It eliminated the danger of an immediate two-front war.
 - The Munich Agreement's guarantee of Poland's borders :: Munich concerned Czechoslovakia.
 - Britain's declaration of war in August 1939 :: Britain declared war on September 3, after the invasion.
 - The Lateran Accords :: These concerned Italy and the Church.

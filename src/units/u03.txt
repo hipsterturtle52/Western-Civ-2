@@ -98,8 +98,8 @@ Who first proposed, in a book published in 1543, that the Earth revolves around 
 
 @e
 Isaac Newton's Principia (1687) is best known for
-+ the law of universal gravitation and three laws of motion :: It showed that one set of physical laws governs both the heavens and the Earth.
-- proving that the mind is a blank slate at birth :: That is Locke's Essay (1690).
++ universal gravitation and the laws of motion :: It showed that one set of physical laws governs both the heavens and the Earth.
+- proving that the human mind is a blank slate at birth :: That is Locke's Essay (1690).
 - describing the circulation of the blood :: That was William Harvey (1628).
 - defending the Earth-centered universe :: Newton's work confirmed the Sun-centered system.
 - arguing for the divine right of kings :: Principia is a work of physics.
@@ -130,48 +130,48 @@ Galileo's telescope observations included
 
 @e
 Francis Bacon promoted which approach to knowledge?
-+ Induction: drawing general conclusions from careful observation and experiment :: Bacon's Novum Organum urged experimental investigation of nature.
++ Induction from observation and experiment :: Bacon's Novum Organum urged experimental investigation of nature.
 - Deduction from self-evident first principles :: That is Descartes's rationalism.
 - Reliance on the authority of Aristotle :: Bacon attacked uncritical reliance on ancient authority.
-- Accepting truths revealed in dreams and visions :: Bacon demanded empirical evidence.
+- Accepting truths revealed in dreams, visions and prophecy :: Bacon demanded empirical evidence.
 - Ignoring practical uses of science :: Bacon insisted knowledge should be useful.
 
 @e
 William Harvey's major contribution was
-+ showing that blood circulates through the body pumped by the heart :: His 1628 work overturned Galen's theory of blood.
++ showing that the heart circulates the blood :: His 1628 work overturned Galen's theory of blood.
 - the first heliocentric model :: That was Copernicus.
 - the discovery of oxygen :: Oxygen was identified in the 1770s.
-- the law of gases relating pressure and volume :: That is Boyle's law.
+- the law of gases relating pressure and volume in a container :: That is Boyle's law.
 - developing a smallpox vaccine :: Jenner developed it in 1796.
 
 @m
 Which statement best contrasts Hobbes and Locke?
-+ Hobbes thought people must surrender their rights to an absolute ruler; Locke thought government exists to protect natural rights and may be overthrown :: This is the core difference between Leviathan and the Two Treatises.
-- Hobbes supported the divine right of kings; Locke supported absolute monarchy :: Hobbes used a social contract, not divine right, and Locke opposed absolutism.
-- Both believed rebellion against a government is always justified :: Hobbes denied any right of rebellion.
++ Hobbes wanted an absolute sovereign; Locke allowed revolt against rulers who violate rights :: This is the core difference between Leviathan and the Two Treatises.
+- Hobbes supported the divine right of kings, while Locke supported absolute monarchy :: Hobbes used a social contract, not divine right, and Locke opposed absolutism.
+- Both believed rebellion against any government is always justified, whatever its conduct :: Hobbes denied any right of rebellion.
 - Hobbes defended democracy; Locke defended dictatorship :: Neither description fits.
 - Both rejected the idea of a social contract :: Both built their theories on a social contract.
 
 @m
 Kepler's laws of planetary motion depended most on
-+ the precise observational data collected by Tycho Brahe :: Kepler, Brahe's assistant, used his records of Mars to discover elliptical orbits.
++ Tycho Brahe's precise observations :: Kepler, Brahe's assistant, used his records of Mars to discover elliptical orbits.
 - Galileo's experiments with falling bodies :: Those concerned motion on Earth.
 - Newton's law of universal gravitation :: Newton came after Kepler and explained his laws.
 - Ptolemy's model of epicycles :: Kepler replaced epicycles.
-- Church records of eclipses :: Kepler's key source was Brahe's modern observations.
+- Church records of eclipses kept by monasteries since the Middle Ages :: Kepler's key source was Brahe's modern observations.
 
 @m
 Galileo's trial before the Inquisition in 1633 resulted from
-+ his public defense of the Copernican system in the Dialogue Concerning the Two Chief World Systems :: The Church saw the book as defying its 1616 order not to teach heliocentrism as fact.
-- his claim that the Earth was the center of the universe :: Galileo argued the opposite.
++ his defense of the Copernican system in print :: The Church saw the book as defying its 1616 order not to teach heliocentrism as fact.
+- his claim that the Earth stood still at the center of the universe :: Galileo argued the opposite.
 - his support of the Protestant Reformation :: Galileo remained a Catholic.
 - his invention of calculus :: Calculus was developed later by Newton and Leibniz.
 - his dissection of human corpses :: That was Vesalius's method in anatomy.
 
 @m
 John Locke's concept of the tabula rasa implied that
-+ education and environment could improve human beings :: If people are shaped by experience, better institutions could make better people.
-- humans are born with knowledge of God and morality :: Locke rejected innate ideas.
++ education and environment shape people :: If people are shaped by experience, better institutions could make better people.
+- humans are born with knowledge of God and of morality :: Locke rejected innate ideas.
 - kings rule by divine right :: Tabula rasa is a theory of knowledge, not of kingship.
 - social classes are fixed by birth :: The idea undermined claims of inborn superiority.
 - reason is useless without revelation :: Locke valued reason and experience.
@@ -203,23 +203,23 @@ Which observation most directly challenged this view?
 
 @m
 Which of the following best describes the "clockmaker" view of God that many drew from Newton's work?
-+ God designed the universe to run by natural laws and does not intervene in its operation :: This deist image follows from the Newtonian machine universe.
++ God designed a universe that runs by natural law :: This deist image follows from the Newtonian machine universe.
 - God personally moves each planet every day :: The clockmaker image implies a self-running machine.
 - The universe has no creator :: The clockmaker image presupposes a designer.
-- God reveals scientific truths only through scripture :: Newtonian science relied on observation and mathematics.
+- God reveals scientific truths only through scripture and the Church :: Newtonian science relied on observation and mathematics.
 - God punishes scientists who question the Church :: This is not what the metaphor means.
 
 @m
 Vesalius's work in anatomy and Copernicus's work in astronomy, both published in 1543, had in common that they
-+ challenged ancient authorities (Galen and Ptolemy) through new investigation :: Both books corrected classical authorities through direct study.
++ challenged ancient authorities such as Galen and Ptolemy :: Both books corrected classical authorities through direct study.
 - were written to support the Protestant Reformation :: Neither was a religious tract.
 - relied on the telescope :: The telescope was not used in astronomy until 1609.
-- were immediately accepted by all universities :: Acceptance came slowly.
+- were immediately accepted by all the universities of Europe :: Acceptance came slowly.
 - proved the law of universal gravitation :: That was Newton in 1687.
 
 @m
 Which work was written in part to justify the Glorious Revolution?
-+ Locke's Two Treatises of Government :: Locke defended the replacement of James II as resistance to a ruler who violated the people's rights.
++ Locke's Two Treatises :: Locke defended the replacement of James II as resistance to a ruler who violated the people's rights.
 - Hobbes's Leviathan :: Leviathan appeared in 1651 and defended strong sovereign power.
 - Bacon's Novum Organum :: That was a 1620 treatise on scientific method.
 - Newton's Principia :: That is a work of physics.
@@ -227,8 +227,8 @@ Which work was written in part to justify the Glorious Revolution?
 
 @m
 Pierre Bayle's Historical and Critical Dictionary (1697) contributed to the new view of society by
-+ applying skeptical criticism to religious and historical claims and urging toleration :: Bayle insisted no belief should be accepted without evidence.
-- defending the persecution of religious minorities :: Bayle, a Huguenot exile, argued for toleration.
++ applying skepticism to religious claims :: Bayle insisted no belief should be accepted without evidence.
+- defending the persecution of religious minorities by the state :: Bayle, a Huguenot exile, argued for toleration.
 - proving the existence of witches :: Bayle's skepticism helped end belief in witchcraft.
 - reviving Aristotle's physics :: Bayle was a critic, not a defender, of old authorities.
 - calling for a return to absolute monarchy :: His work was critical, not a political program for absolutism.
@@ -243,17 +243,17 @@ Which development came LAST?
 
 @h
 A historian argues that the Scientific Revolution changed how educated Europeans decided what was true. Which change best supports this?
-+ Authority shifted from ancient texts and tradition to observation, experiment and mathematical proof :: This change of method, more than any single discovery, defines the revolution.
++ Evidence and experiment replaced ancient authority :: This change of method, more than any single discovery, defines the revolution.
 - Universities stopped teaching Latin :: Latin remained the language of scholarship.
 - Most peasants accepted heliocentrism by 1700 :: The new science spread mainly among elites.
 - Scientists rejected all belief in God :: Most leading scientists, including Newton, were religious.
-- The Catholic Church immediately endorsed Galileo's work :: The Church condemned Galileo in 1633.
+- The Catholic Church immediately endorsed Galileo's work in astronomy :: The Church condemned Galileo in 1633.
 
 @h
 Which of the following was a weakness of Copernicus's original model?
-+ It kept circular orbits, so it predicted planetary positions no better than Ptolemy's :: Accuracy improved only when Kepler introduced ellipses.
++ It kept circular orbits, so it was no more accurate :: Accuracy improved only when Kepler introduced ellipses.
 - It placed the Earth at the center of the universe :: Copernicus placed the Sun at the center.
-- It relied on telescope observations that were later shown to be faulty :: Copernicus had no telescope.
+- It relied on telescope observations later shown to be faulty :: Copernicus had no telescope.
 - It denied the existence of the planets :: It described the known planets orbiting the Sun.
 - It was based on Newton's flawed equations :: Newton came more than a century later.
 
@@ -267,32 +267,32 @@ Hobbes's political conclusions were most directly shaped by
 
 @h
 The combination of Bacon's and Descartes's approaches is significant because
-+ modern scientific method joins experimental observation with mathematical reasoning :: Newton's work showed how experiment and mathematics together produce reliable laws.
++ the scientific method joins experiment and mathematics :: Newton's work showed how experiment and mathematics together produce reliable laws.
 - both men rejected experiment entirely :: Bacon championed experiment.
 - both men defended the authority of Aristotle :: Both attacked reliance on Aristotle.
-- Descartes's dualism proved that Bacon's induction was invalid :: Neither method disproved the other.
+- Descartes's dualism proved that Bacon's method of induction was invalid :: Neither method disproved the other.
 - their ideas led directly to the revocation of the Edict of Nantes :: The revocation was a religious-political act by Louis XIV.
 
 @h
 Which statement about women in the Scientific Revolution is most accurate?
-+ Some women contributed to science, but they were largely excluded from universities and academies :: Maria Winkelmann was denied an academy post despite discovering a comet.
++ Some women did science but were kept out of academies :: Maria Winkelmann was denied an academy post despite discovering a comet.
 - Women held most of the seats in the Royal Society :: Women were not admitted as fellows until 1945.
-- Women were barred from all scientific activity by law :: No such law existed; women worked in households and family observatories.
+- Women were barred by law from all forms of scientific activity :: No such law existed; women worked in households and family observatories.
 - Women led the opposition to heliocentrism :: There is no evidence of this.
 - Women founded the French Academy of Sciences :: It was founded under Louis XIV's minister Colbert.
 
 @h
 Which development helped end the European witch hunts by around 1700?
-+ Educated elites adopted a mechanistic, skeptical worldview that made magic seem implausible :: Judges and officials stopped accepting accusations as the new science spread.
++ Elites adopted a skeptical, mechanistic worldview :: Judges and officials stopped accepting accusations as the new science spread.
 - The discovery of the circulation of the blood :: Harvey's work did not address witchcraft.
 - The Catholic Church's adoption of heliocentrism :: The Church did not endorse heliocentrism in this period.
 - Newton's personal campaign against witch trials :: Newton led no such campaign.
-- The Treaty of Utrecht's ban on religious courts :: Utrecht contained no such provision.
+- The Treaty of Utrecht's ban on church courts across Europe :: Utrecht contained no such provision.
 
 @m
 A thinker who says the mind is like a blank sheet of paper and that all knowledge comes from experience is expressing
-+ empiricism, as in Locke's Essay Concerning Human Understanding :: Locke's empiricism grounded all knowledge in experience.
-- rationalism, as in Descartes's philosophy :: Descartes believed in innate ideas known by reason.
++ empiricism, as in Locke's Essay :: Locke's empiricism grounded all knowledge in experience.
+- rationalism, as in Descartes's Discourse on Method :: Descartes believed in innate ideas known by reason.
 - divine-right theory, as in Bossuet :: That concerns monarchy, not knowledge.
 - mercantilism, as in Colbert :: That is an economic doctrine.
 - geocentrism, as in Ptolemy :: That is a cosmology.

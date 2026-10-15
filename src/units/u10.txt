@@ -148,18 +148,18 @@ Britain declared war on Germany in August 1914 immediately after Germany
 
 @e
 Trench warfare on the Western Front resulted mainly from
-+ the power of defensive weapons such as machine guns and artillery :: Attacks across open ground were enormously costly.
-- a shortage of soldiers on both sides :: Both sides had huge armies.
++ strong defensive weapons :: Attacks across open ground were enormously costly.
+- a shortage of soldiers on both sides of the front :: Both sides had huge armies.
 - an agreement to avoid fighting :: The trenches saw constant fighting.
-- the use of airplanes to bomb cities :: Air power was a minor factor in creating stalemate.
+- the use of airplanes to bomb cities behind the lines :: Air power was a minor factor in creating stalemate.
 - the absence of railways :: Railways helped defenders bring reserves quickly.
 
 @e
 The United States entered the First World War in 1917 largely because of
-+ Germany's unrestricted submarine warfare and the Zimmermann Telegram :: Both angered Americans in early 1917.
-- the assassination of Franz Ferdinand :: That was in 1914, and the U.S. stayed neutral.
++ U-boat attacks and the Zimmermann Telegram :: Both angered Americans in early 1917.
+- the assassination of Archduke Franz Ferdinand :: That was in 1914, and the U.S. stayed neutral.
 - the Russian Revolution :: That made the war harder for the Allies but was not the U.S. reason.
-- a Japanese attack on Pearl Harbor :: That was in 1941.
+- a surprise Japanese attack on Pearl Harbor :: That was in 1941.
 - the Treaty of Versailles :: That came after the war.
 
 @e
@@ -172,9 +172,9 @@ Which leader led the Bolsheviks to power in Russia in 1917?
 
 @e
 Article 231 of the Treaty of Versailles
-+ required Germany to accept responsibility for causing the war's losses :: The "war guilt clause" justified reparations.
++ assigned Germany war guilt :: The "war guilt clause" justified reparations.
 - created the League of Nations :: The League's covenant was a separate part of the treaty.
-- gave Germany new colonies in Africa :: Germany lost all its colonies.
+- gave Germany new colonies in Africa and the Pacific :: Germany lost all its colonies.
 - united Germany and Austria :: Anschluss was forbidden.
 - abolished the German army :: The army was limited to 100,000 men, not abolished.
 
@@ -188,10 +188,10 @@ The slogan "Peace, Land, and Bread" was used by
 
 @e
 Which battle in 1914 stopped the German advance on Paris?
-+ The First Battle of the Marne :: The French and British halted the Schlieffen Plan.
-- Tannenberg :: Tannenberg was a German victory over Russia.
++ The Marne :: The French and British halted the Schlieffen Plan.
+- Tannenberg in East Prussia :: Tannenberg was a German victory over Russia.
 - Verdun :: Verdun was fought in 1916.
-- Gallipoli :: Gallipoli was an Allied campaign against the Ottomans.
+- Gallipoli on the Dardanelles :: Gallipoli was an Allied campaign against the Ottomans.
 - Jutland :: Jutland was a naval battle in 1916.
 
 @e
@@ -236,11 +236,11 @@ Which group made up the Central Powers in the First World War?
 
 @m
 The "blank check" of July 1914 refers to
-+ Germany's promise of unconditional support to Austria-Hungary against Serbia :: It encouraged Austria to take a hard line.
++ German backing for Austria-Hungary :: It encouraged Austria to take a hard line.
 - Britain's loans to France :: It refers to German support for Austria.
 - U.S. reparations payments to Germany :: There were no such payments.
-- Russia's promise to protect Belgium :: Britain guaranteed Belgium.
-- Serbia's acceptance of the Austrian ultimatum :: Serbia accepted most but not all of it.
+- Russia's promise to protect Belgium's neutrality :: Britain guaranteed Belgium.
+- Serbia's acceptance of every term of the Austrian ultimatum :: Serbia accepted most but not all of it.
 
 @m
 Which event came FIRST?
@@ -252,43 +252,43 @@ Which event came FIRST?
 
 @m
 The Schlieffen Plan failed mainly because
-+ the French and British stopped the German advance at the Marne, and Russia mobilized faster than expected :: Germany could not knock out France quickly.
++ the Allies held at the Marne :: Germany could not knock out France quickly.
 - Germany refused to invade Belgium :: Germany did invade Belgium.
-- Italy joined Germany and slowed its advance :: Italy stayed neutral, then joined the Allies.
-- the United States entered the war in 1914 :: The U.S. entered in 1917.
+- Italy joined Germany and slowed the advance through France :: Italy stayed neutral, then joined the Allies.
+- the United States entered the war in 1914 on France's side :: The U.S. entered in 1917.
 - Britain stayed neutral :: Britain entered the war on August 4.
 
 @m
 Which statement best describes the home front in the First World War?
-+ Governments took control of economies, rationed goods and used propaganda to sustain total war :: The war mobilized whole societies.
-- Civilian life continued with little government interference :: Governments intervened heavily.
++ Governments directed economies and opinion :: The war mobilized whole societies.
+- Civilian life continued with little interference from government :: Governments intervened heavily.
 - Women were barred from factory work :: Millions of women worked in factories.
 - All nations balanced their budgets :: Governments borrowed heavily and printed money.
 - Censorship was abolished :: Censorship expanded.
 
 @m
 Which provision was part of the Treaty of Versailles?
-+ Limiting the German army to 100,000 men and demilitarizing the Rhineland :: These measures were meant to prevent future German aggression.
++ Limiting Germany's army to 100,000 men :: These measures were meant to prevent future German aggression.
 - Giving Alsace-Lorraine to Germany :: Alsace-Lorraine went back to France.
 - Allowing Germany to unite with Austria :: Anschluss was forbidden.
-- Granting Germany a seat on the League of Nations Council immediately :: Germany joined the League only in 1926.
+- Granting Germany a permanent seat on the League of Nations Council :: Germany joined the League only in 1926.
 - Dividing Germany into four occupation zones :: That was in 1945.
 
 @m
 The Provisional Government in Russia lost support in 1917 mainly because it
-+ continued the unpopular war and postponed land reform :: These failures opened the way for the Bolsheviks.
++ kept fighting the war :: These failures opened the way for the Bolsheviks.
 - signed a separate peace with Germany :: The Bolsheviks did that in 1918.
 - restored Nicholas II to the throne :: It was formed after his abdication.
 - abolished the soviets :: The soviets existed alongside it.
-- carried out Stalin's five-year plans :: Those began in 1928.
+- carried out industrial five-year plans :: Those began in 1928.
 
 @m
 Lenin's view of the revolutionary party differed from the Mensheviks' in that Lenin
-+ insisted on a small, disciplined vanguard of professional revolutionaries :: This was the cause of the 1903 split.
++ wanted a small vanguard party :: This was the cause of the 1903 split.
 - favored cooperation with the tsar :: Lenin wanted to overthrow the tsar.
 - rejected Marxism entirely :: Both factions were Marxist.
 - wanted a mass party open to all workers with no central direction :: That was closer to the Menshevik view.
-- supported the Provisional Government's war policy :: Lenin opposed the war.
+- supported the Provisional Government's policy of continuing the war :: Lenin opposed the war.
 
 @m
 Why did Lenin dissolve the Constituent Assembly in January 1918?
@@ -300,19 +300,19 @@ Why did Lenin dissolve the Constituent Assembly in January 1918?
 
 @m
 The New Economic Policy (1921) was
-+ a temporary return to limited private trade and small business after War Communism :: Peasants could sell surplus grain, and the economy recovered.
-- the collectivization of agriculture :: That was Stalin's policy from 1929.
++ a partial return to private trade :: Peasants could sell surplus grain, and the economy recovered.
+- the forced collectivization of agriculture :: That was Stalin's policy from 1929.
 - Russia's withdrawal from the First World War :: That was Brest-Litovsk.
 - the first five-year plan :: That began in 1928.
-- a plan to restore the Romanovs :: The Bolsheviks killed the Romanovs in 1918.
+- a secret plan to restore the Romanovs to power :: The Bolsheviks killed the Romanovs in 1918.
 
 @m
 In the Russian Civil War, the Bolsheviks (Reds) defeated the Whites partly because
-+ the Reds controlled the central heartland and railways and were more united :: The Whites were scattered and divided.
-- the Whites had no foreign support at all :: The Allies sent limited aid and troops to the Whites.
++ the Reds held the central heartland :: The Whites were scattered and divided.
+- the Whites had no foreign support of any kind :: The Allies sent limited aid and troops to the Whites.
 - the peasants wanted the landlords to return :: Peasants feared a White victory would bring landlords back.
 - the Whites were led by Lenin :: Lenin led the Reds.
-- Germany sent armies to help the Bolsheviks :: Germany was defeated in 1918.
+- Germany sent armies to help the Bolsheviks win :: Germany was defeated in 1918.
 
 @m
 > "The Allied and Associated Governments affirm and Germany accepts the responsibility of Germany and her allies for causing all the loss and damage to which the Allied and Associated Governments and their nationals have been subjected as a consequence of the war."
@@ -325,35 +325,35 @@ This passage provided the legal basis for
 
 @m
 Which statement about women and the First World War is most accurate?
-+ Women's wartime work helped them win the vote in Britain, Germany and several other countries by 1919 :: British women over 30 voted from 1918; German women from 1919.
++ War work helped women win the vote in several countries :: British women over 30 voted from 1918; German women from 1919.
 - Women were excluded from all wartime work :: Millions worked in factories and services.
 - France gave women the vote in 1918 :: French women voted only from 1944.
 - The war ended the women's suffrage movement :: The movement achieved major victories.
-- Women served as front-line infantry in all armies :: Front-line combat roles for women were rare.
+- Women served as front-line infantry in all the major armies :: Front-line combat roles for women were rare.
 
 @m
 The Battle of the Somme (1916) is remembered for
-+ enormous casualties, including about 57,000 British on the first day, and the first use of tanks :: It symbolizes the futility of attrition.
++ huge losses and the first tanks :: It symbolizes the futility of attrition.
 - the first use of atomic weapons :: Those were used in 1945.
-- ending the war in a decisive Allied victory :: The war continued for two more years.
+- ending the war in a decisive Allied victory that autumn :: The war continued for two more years.
 - the defeat of the Russian army :: The Somme was on the Western Front.
-- the capture of Paris by Germany :: Paris was never captured in World War I.
+- the capture of Paris by the German army :: Paris was never captured in World War I.
 
 @m
 The Gallipoli campaign (1915–1916) was an Allied attempt to
-+ knock the Ottoman Empire out of the war and open a supply route to Russia :: The campaign failed with heavy losses.
-- invade Germany through Denmark :: There was no such campaign.
++ knock the Ottomans out of the war :: The campaign failed with heavy losses.
+- invade Germany through neutral Denmark :: There was no such campaign.
 - defend Belgium from the Schlieffen Plan :: That occurred in 1914 in the west.
 - capture Vienna :: Gallipoli was in the Ottoman Empire.
-- break the British naval blockade :: The blockade was Britain's own strategy.
+- break the British naval blockade of Germany :: The blockade was Britain's own strategy.
 
 @m
 The Paris Peace Conference's application of national self-determination is often criticized because
-+ it was applied unevenly and left large minorities, such as Germans in the Sudetenland, inside new states :: Mixed populations made neat borders impossible.
++ it was applied unevenly :: Mixed populations made neat borders impossible.
 - no new states were created :: Many new states were created.
-- it gave all former colonies independence :: Colonies became mandates.
+- it gave all the former colonies immediate independence :: Colonies became mandates.
 - it united all Germans in one state :: Germans in Austria and the Sudetenland were excluded.
-- it was applied to the victors as well as the defeated :: It was applied mainly to defeated empires.
+- it was applied to the victors' empires as well :: It was applied mainly to defeated empires.
 
 @m
 Which treaty dismantled Hungary's territory, leaving it with about one-third of its prewar lands?
@@ -365,10 +365,10 @@ Which treaty dismantled Hungary's territory, leaving it with about one-third of 
 
 @m
 Which statement about the League of Nations is accurate?
-+ The United States never joined because the Senate refused to ratify the Treaty of Versailles :: This weakened the League from the start.
++ The United States never joined it :: This weakened the League from the start.
 - It was created by the Congress of Vienna :: It was created in 1919–20.
-- It had its own powerful army :: It had no armed forces.
-- Germany and the Soviet Union were founding members :: Germany joined in 1926 and the USSR in 1934.
+- It had its own powerful army and navy :: It had no armed forces.
+- Germany and the Soviet Union were both founding members :: Germany joined in 1926 and the USSR in 1934.
 - It replaced the United Nations :: The UN replaced the League in 1945.
 
 @m
@@ -381,71 +381,71 @@ The Bolsheviks seized power in Petrograd in the October Revolution, which in the
 
 @m
 War Communism during the Russian Civil War involved
-+ nationalizing industry and forcibly requisitioning grain from peasants :: It kept the Red Army supplied but caused economic collapse.
-- allowing peasants to sell grain freely :: That was the NEP.
++ seizing grain and industry :: It kept the Red Army supplied but caused economic collapse.
+- allowing peasants to sell their grain freely :: That was the NEP.
 - returning factories to private owners :: Industry was nationalized.
 - ending the secret police :: The Cheka expanded.
-- inviting foreign investment :: Foreign capital fled.
+- inviting foreign investment in Russian industry :: Foreign capital fled.
 
 @h
 Which development MOST directly turned a local Austro-Serbian conflict into a general European war in 1914?
-+ The alliance system and rigid mobilization plans :: Russia's mobilization and Germany's Schlieffen Plan quickly involved France and Britain.
++ Alliances and mobilization plans :: Russia's mobilization and Germany's Schlieffen Plan quickly involved France and Britain.
 - The Treaty of Versailles :: That came after the war.
 - The Zimmermann Telegram :: That came in 1917.
 - The Russian Revolution :: That came in 1917.
-- The Balfour Declaration :: That came in 1917 and concerned Palestine.
+- The Balfour Declaration on Palestine :: That came in 1917 and concerned Palestine.
 
 @h
 Fritz Fischer's interpretation of the origins of the First World War emphasized
-+ the aggressive aims of Germany's leaders, who were willing to risk a major war :: Fischer's 1961 work reopened the war-guilt debate.
++ German leaders' aggressive aims :: Fischer's 1961 work reopened the war-guilt debate.
 - Britain's desire to destroy Germany's navy :: Fischer focused on German policy.
 - Russia's sole responsibility :: Fischer argued the opposite of German innocence.
 - the war's purely accidental nature :: Fischer stressed intention, not accident.
-- the role of the United States :: The U.S. was neutral in 1914.
+- the role of the United States in the July Crisis :: The U.S. was neutral in 1914.
 
 @h
 Which comparison of the February and October Revolutions of 1917 is most accurate?
-+ February was a largely spontaneous popular uprising that toppled the tsar; October was a planned seizure of power by one party :: The Bolsheviks organized October through the Military Revolutionary Committee.
++ February was spontaneous; October was planned :: The Bolsheviks organized October through the Military Revolutionary Committee.
 - Both were led by Lenin :: Lenin was in exile during February.
 - Both restored the monarchy :: February ended the monarchy; October created a Bolshevik state.
-- February brought the Bolsheviks to power and October removed them :: The reverse is closer to the truth.
+- February brought the Bolsheviks to power, and October removed them :: The reverse is closer to the truth.
 - Both ended Russian participation in the war immediately :: The Provisional Government kept fighting after February.
 
 @h
 John Maynard Keynes criticized the Treaty of Versailles mainly because he believed
-+ the heavy reparations would damage the economy of Germany and all of Europe :: The Economic Consequences of the Peace (1919) predicted economic disaster.
++ reparations would wreck Europe's economy :: The Economic Consequences of the Peace (1919) predicted economic disaster.
 - the treaty was too lenient toward Germany :: Keynes thought it was too harsh economically.
 - the League of Nations should have been abolished :: His focus was economics.
 - Germany should have kept its colonies :: That was not his main argument.
-- the United States should have paid Germany reparations :: He proposed nothing of the kind.
+- the United States should have paid reparations to Germany :: He proposed nothing of the kind.
 
 @h
 Which factor best explains why the First World War is described as a "total war"?
-+ Governments mobilized entire economies and civilian populations, not just armies :: Production, labor, food and opinion were all directed toward victory.
++ whole societies were mobilized :: Production, labor, food and opinion were all directed toward victory.
 - It was fought on every continent equally :: Most fighting was in Europe and the Middle East.
 - Every country in the world took part :: Many countries stayed neutral.
 - Soldiers fought without any rules :: Some conventions still applied.
-- It lasted longer than any previous war :: The Thirty Years' War and Hundred Years' War lasted far longer.
+- It lasted longer than any previous war in European history :: The Thirty Years' War and Hundred Years' War lasted far longer.
 
 @h
 The Treaty of Brest-Litovsk shows that the Bolsheviks
-+ were willing to give up vast territory to end the war and secure their revolution :: Lenin accepted harsh terms to survive.
++ would trade land for peace :: Lenin accepted harsh terms to survive.
 - won the war on the Eastern Front :: Russia was defeated.
-- kept fighting Germany until 1918's armistice :: Russia left the war in March 1918.
+- kept fighting Germany until the armistice of November 1918 :: Russia left the war in March 1918.
 - regained Poland and the Baltic states :: Russia lost those lands.
 - accepted Wilson's Fourteen Points :: The Bolsheviks made a separate peace with Germany.
 
 @h
 Which outcome of the First World War most directly contributed to the instability of central and eastern Europe in the 1920s?
-+ The replacement of multinational empires by new states with disputed borders and large minorities :: Border disputes and ethnic tensions troubled the new states.
++ New states with disputed borders :: Border disputes and ethnic tensions troubled the new states.
 - The creation of a strong, unified Austria-Hungary :: Austria-Hungary was dissolved.
 - The restoration of the Romanov dynasty :: The Romanovs were overthrown and killed.
 - The economic dominance of Germany in the region :: Germany was weakened and paying reparations.
-- The absorption of Poland into Russia :: Poland became independent.
+- The absorption of Poland into the Russian state :: Poland became independent.
 
 @h
 Which statement best explains why the Bolsheviks gained support between March and November 1917?
-+ Their promises of peace, land and soviet power matched the demands of soldiers, peasants and workers :: The Provisional Government failed to deliver these.
++ They promised peace and land :: The Provisional Government failed to deliver these.
 - They promised to continue the war until victory :: That was the Provisional Government's policy.
 - They had won a majority in the Constituent Assembly elections :: Those elections came after October, and they lost.
 - They were supported by the Russian nobility :: The nobility opposed them.
@@ -453,15 +453,15 @@ Which statement best explains why the Bolsheviks gained support between March an
 
 @m
 The mandate system created after World War I
-+ placed former German colonies and Ottoman Arab lands under British, French and other Allied administration :: Mandates were supervised, in theory, by the League of Nations.
++ gave Allied powers control of former colonies :: Mandates were supervised, in theory, by the League of Nations.
 - granted immediate independence to all colonies :: Colonies were not freed.
 - gave Germany new colonies in the Middle East :: Germany lost all colonies.
-- returned Arab lands to Ottoman rule :: The Ottoman Empire lost those lands.
+- returned the Arab lands to Ottoman rule :: The Ottoman Empire lost those lands.
 - created the state of Israel :: Israel was founded in 1948.
 
 @h
 Which wartime document most complicated the postwar settlement of the Middle East?
-+ The Balfour Declaration (1917), supporting a Jewish national home in Palestine :: It conflicted with British promises to the Arabs.
++ The Balfour Declaration :: It conflicted with British promises to the Arabs.
 - The Fourteen Points' call for freedom of the seas :: This had no specific Middle Eastern effect.
 - The Treaty of Brest-Litovsk :: That concerned Russia and Germany.
 - The October Manifesto :: That was a 1905 Russian document.
@@ -469,7 +469,7 @@ Which wartime document most complicated the postwar settlement of the Middle Eas
 
 @m
 The Kronstadt rebellion of 1921 led Lenin to
-+ abandon War Communism and introduce the New Economic Policy :: The revolt of once-loyal sailors showed how unpopular forced requisitioning was.
++ adopt the NEP :: The revolt of once-loyal sailors showed how unpopular forced requisitioning was.
 - restore the Provisional Government :: The Bolsheviks kept power.
 - declare war on Germany again :: The war was over.
 - hold new elections to the Constituent Assembly :: There were none.
@@ -477,7 +477,7 @@ The Kronstadt rebellion of 1921 led Lenin to
 
 @m
 Which factor most weakened the tsarist government during the First World War?
-+ Military defeats, shortages of food and weapons, and the influence of Rasputin at court :: Nicholas's absence at the front left an unpopular court in charge.
++ Defeats, shortages and Rasputin :: Nicholas's absence at the front left an unpopular court in charge.
 - A successful German invasion of Petrograd :: Germany never captured Petrograd.
 - Britain's refusal to sell Russia grain :: Russia's problems were internal transport and production.
 - The Bolsheviks' control of the Duma :: The Bolsheviks were a small minority before 1917.
