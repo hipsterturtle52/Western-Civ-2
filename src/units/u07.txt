@@ -1,0 +1,332 @@
+=== META
+short: Ideologies & Revolutions
+range: 1815–1848
+
+=== LESSON
+## The big picture
+The Congress of Vienna tried to freeze Europe in 1815. It could not stop the ideas released by the French and Industrial Revolutions. Between 1815 and 1848 Europeans invented the "**isms**" that still frame politics: **conservatism, liberalism, nationalism and socialism**. In culture, **Romanticism** rebelled against Enlightenment reason. And waves of revolution, in the 1820s, in 1830 and above all in **1848**, tested whether the old order could hold. A typical exam question gives you a quotation and asks which ideology it expresses, so focus on what each "ism" believed and who its spokesmen were.
+
+## The four ideologies
+**Conservatism** defended the old order of monarchy, aristocracy, established church and tradition. Following **Edmund Burke**, conservatives argued that society is a living organism built over centuries; change should be slow and organic, never imposed by abstract theories like "the rights of man." The French writer **Joseph de Maistre** went further, defending absolute monarchy and the pope. In practice, conservatism meant **Metternich**, who saw liberalism and nationalism as diseases that would tear apart his multinational Austrian Empire.
+
+**Liberalism** was the creed of the middle class. Liberals wanted **constitutions**, representative government, **equality before the law**, freedom of the press, speech and religion, and **laissez-faire** economics (Adam Smith, Ricardo). But most early liberals did **not** want democracy: they favored voting limited to men of **property** and education. The English philosopher **Jeremy Bentham** taught **utilitarianism**: laws should be judged by whether they produce "the greatest happiness of the greatest number." His follower **John Stuart Mill** later defended individual freedom in *On Liberty* (1859) and argued for women's rights.
+
+**Nationalism** held that humanity is naturally divided into **nations**, peoples sharing a language, culture and history, and that each nation should have its own state. The German thinker **Johann Gottfried Herder** taught that each people has a unique spirit (*Volksgeist*) expressed in its language and folk songs. **Giuseppe Mazzini** founded **Young Italy** (1831) to unite Italy as a democratic republic. Nationalism was revolutionary in 1815 because it threatened multinational empires (Austria, Russia, the Ottoman Empire) and divided lands (Germany and Italy, each split into many states).
+
+**Socialism** responded to the misery of industrial workers. Its basic idea: private ownership and competition cause inequality, so society should own or cooperatively manage the means of production. The early **utopian socialists** hoped to persuade society by example. **Robert Owen**, a British mill owner, built a model factory community at **New Lanark** with schools and decent housing, and later a commune at New Harmony, Indiana. **Charles Fourier** designed cooperative communities called *phalanxes*. **Henri de Saint-Simon** wanted society run by experts and industrialists for the good of all. **Louis Blanc** called for state-funded "social workshops" guaranteeing the **right to work**. **Pierre-Joseph Proudhon** declared "**Property is theft!**" and became a father of **anarchism**.
+
+-> Industrial capitalism creates a large, impoverished working class | Marx and Engels publish The Communist Manifesto (1848) | "Scientific" socialism: history is class struggle and capitalism will be overthrown by the proletariat
+
+**Karl Marx** and **Friedrich Engels** dismissed the utopians as naive and called their own theory **scientific socialism**. *The Communist Manifesto* (February 1848) begins, "A specter is haunting Europe, the specter of communism," and ends, "Workers of the world, unite!" Its argument: "The history of all hitherto existing society is the history of **class struggles**." Economic forces drive history (**historical materialism**); under capitalism the **bourgeoisie** (owners) exploits the **proletariat** (workers), who will become a majority, overthrow capitalism in a revolution, set up a dictatorship of the proletariat, and eventually create a classless, stateless communist society. Marx borrowed the idea of history moving through conflicts (the **dialectic**) from the German philosopher **G. W. F. Hegel**. Marx's influence came mostly after 1848 (Units 8 and 9).
+
+## Romanticism
+**Romanticism** (about 1790–1850) was a cultural revolt against the Enlightenment's cool rationalism and against the ugliness of industrial cities. Romantics prized **emotion, intuition and imagination** over reason; **nature** as sublime and spiritual; the **individual genius** and rebel; the **medieval past** (the Gothic revival); and the folk culture of each people, which tied Romanticism closely to **nationalism**.
+
+Key figures: in poetry, **William Wordsworth** and Samuel Taylor Coleridge (*Lyrical Ballads*, 1798) celebrated nature and common speech; **Lord Byron** lived and died (1824) as a Romantic rebel fighting for Greek independence. In Germany, **Goethe** wrote *The Sorrows of Young Werther* and *Faust*, and the **Brothers Grimm** collected German folk tales. **Victor Hugo** (*The Hunchback of Notre-Dame*, 1831) and Sir **Walter Scott** (*Ivanhoe*) turned to the Middle Ages. In painting, **Caspar David Friedrich** showed lonely figures before vast landscapes, and **Eugène Delacroix** painted ***Liberty Leading the People*** (1830). In music, **Beethoven** bridged classicism and Romanticism, and **Chopin** wove Polish folk dances into his piano works. Romanticism also fed a **religious revival** after the skepticism of the Enlightenment.
+
+## Metternich's system and the revolts of the 1820s
+Metternich used the **Concert of Europe** to crush revolutions. When liberal revolts broke out in **Spain** and **Naples** (1820), the conservative powers declared at the Congress of **Troppau** (1820) a right to intervene; Austrian troops crushed the Naples revolt (1821) and a French army restored the Spanish king (1823). Britain refused to join these interventions and drifted away from the Concert. In the German Confederation, after a nationalist student murdered a conservative writer, Metternich pushed through the **Carlsbad Decrees (1819)**, which dissolved student nationalist societies (*Burschenschaften*), censored the press and put university professors under surveillance.
+
+Two exceptions broke the pattern:
+- **Greek War of Independence (1821–1829).** Greeks revolted against the Ottoman Empire. European Romantics (like Byron) adored the cause of ancient Greece's descendants, and Britain, France and Russia intervened, destroying the Ottoman-Egyptian fleet at **Navarino (1827)**. Greece became independent (recognized 1830–1832). Nationalism had won, with great-power help, because the rebels were Christians fighting the Muslim Ottomans and Russia saw a chance to weaken the Ottomans.
+- In Russia, the **Decembrist Revolt (December 1825)**: liberal army officers who had seen Western Europe during the Napoleonic wars rebelled for a constitution when Nicholas I took the throne. They were crushed. **Nicholas I** (r. 1825–1855) became the "gendarme of Europe," ruling under the slogan "**Orthodoxy, Autocracy, Nationality**."
+
+## The revolutions of 1830
+In France, the restored Bourbon **Louis XVIII** had accepted a **Charter (1814)** with a parliament elected by a tiny wealthy electorate. His brother **Charles X** (r. 1824–1830) was an ultra-royalist. When he issued the **July Ordinances** (1830), dissolving the chamber, restricting the vote further and censoring the press, Paris rose in the **July Revolution**. Charles fled, and liberals installed his cousin **Louis-Philippe** of Orléans as the "**citizen king**" of the **July Monarchy** (1830–1848). The electorate roughly doubled but stayed small; the regime favored the wealthy bourgeoisie (his minister Guizot told those who wanted the vote to "get rich").
+
+The French example spread. **Belgium** revolted against Dutch rule in 1830 and won independence, guaranteed as permanently **neutral** by the great powers (1839). The **Polish November Uprising** (1830–31) against Russian rule was crushed, and Nicholas I abolished Poland's constitution. Revolts in Italy were put down by Austria.
+
+## The revolutions of 1848: the "springtime of peoples"
+-> Bad harvests and the potato blight (1845–47), unemployment and food prices; liberal and nationalist frustration | Revolutions in Paris, Vienna, Berlin, Milan, Budapest, Prague and Rome in 1848 | Most fail by 1849, divided by class and nationality and crushed by royal armies; but serfdom ends in Austria
+
+**France.** In **February 1848**, banquets for electoral reform turned into revolution. Louis-Philippe abdicated, and the **Second Republic** proclaimed **universal male suffrage** and created **National Workshops** to employ the jobless (inspired by Louis Blanc). The newly elected, mostly rural and conservative assembly closed the workshops; Paris workers rose in the **June Days** and were crushed by the army, with thousands killed. Frightened voters elected **Louis Napoleon Bonaparte**, nephew of the emperor, as president in December 1848. He overthrew the republic in 1851 and became **Emperor Napoleon III** in 1852.
+
+**Austrian Empire.** In **March 1848**, a revolt in Vienna forced **Metternich** to flee. Hungarians under **Lajos Kossuth** won self-government; Czechs in Prague demanded rights; Italians in Lombardy-Venetia revolted. The Austrian assembly **abolished serfdom** (1848), the one lasting gain. Then the counterrevolution struck: General Windischgrätz bombarded Prague (June) and retook Vienna (October); the young **Franz Joseph** became emperor (December 1848); and in 1849 **Russian troops** helped crush Hungary. The nationalities had fought each other as much as the emperor; the Croats, for example, helped Austria against Hungary.
+
+**Germany.** Liberals elected the **Frankfurt Parliament** (1848–49) to unite Germany under a constitution. It argued over whether Germany should include Austria ("greater Germany") or exclude it ("smaller Germany"), and finally offered the crown of a smaller Germany to King **Frederick William IV of Prussia** (1849). He refused a "crown from the gutter" offered by a parliament, and Prussian troops dispersed the remaining radicals. German unity would come by force under Bismarck instead (Unit 8).
+
+**Italy.** Revolts spread from Sicily to Milan and Venice. King **Charles Albert of Piedmont-Sardinia** declared war on Austria but was defeated at Custoza (1848) and Novara (1849). In Rome, **Mazzini** and **Garibaldi** led a **Roman Republic** (1849) until French troops restored the pope. Only Piedmont kept its new constitution (the Statuto).
+
+**Why 1848 failed:** liberals feared the radical workers more than the kings; nationalities clashed with each other; peasants lost interest once serfdom was abolished; and the armies stayed loyal to the monarchs. Afterward, idealism gave way to **realism**: Realpolitik, the politics of power rather than principles, would unify Italy and Germany.
+
+=== MUSTKNOW
+- **Conservatism** (Burke, de Maistre, Metternich): tradition, monarchy, church, gradual change.
+- **Liberalism:** constitutions, rights, free press, laissez-faire, but votes for property owners only. Bentham's **utilitarianism**; J. S. Mill.
+- **Nationalism:** each people (language, culture, history) deserves its own state. Herder's Volksgeist; **Mazzini's Young Italy**.
+- **Utopian socialists:** Owen (New Lanark), Fourier (phalanxes), Saint-Simon, Louis Blanc (right to work); **Proudhon** ("Property is theft," anarchism).
+- **Communist Manifesto (1848):** class struggle, bourgeoisie vs. proletariat, historical materialism, inevitable revolution.
+- **Romanticism:** emotion, nature, the past, folk culture, genius. Wordsworth, Byron, Goethe, Grimm, Hugo, Friedrich, Delacroix.
+- **Metternich's tools:** Carlsbad Decrees (1819), intervention in Naples and Spain (Troppau, 1820).
+- **Greek independence** (1821–30) succeeded with British, French and Russian help; the **Decembrist Revolt** (1825) failed.
+- **1830:** July Revolution → Louis-Philippe; Belgian independence; Polish revolt crushed.
+- **1848:** February Revolution → Second Republic → June Days → Louis Napoleon. Metternich falls; **serfdom abolished in Austria**; Frankfurt Parliament fails (Frederick William IV refuses crown); Russia crushes Hungary.
+
+=== TIMELINE
+1814 | Louis XVIII's Charter | Constitutional monarchy restored in France
+*1819 | Carlsbad Decrees | Metternich suppresses German nationalism
+1820 | Revolts in Spain and Naples; Troppau Protocol | Concert claims right to intervene
+*1821–1830 | Greek War of Independence | Nationalist success with great-power help
+1825 | Decembrist Revolt | Failed liberal officers' revolt in Russia
+1827 | Battle of Navarino | British, French and Russian fleets destroy Ottoman navy
+*1830 | July Revolution in France; Belgian revolt | Louis-Philippe becomes "citizen king"
+1830–1831 | Polish November Uprising | Crushed by Russia
+1831 | Mazzini founds Young Italy | Nationalist movement
+*1848 (Feb.) | Communist Manifesto; February Revolution | Second French Republic
+*1848 (March) | Revolutions in Vienna, Berlin, Milan; Metternich flees | "Springtime of peoples"
+1848 (June) | June Days in Paris | Workers' rising crushed
+1848–1849 | Frankfurt Parliament | Fails to unite Germany
+1849 | Russia helps crush Hungary; Roman Republic falls | Counterrevolution triumphs
+*1852 | Louis Napoleon becomes Napoleon III | Second Empire
+
+=== CARDS
+Conservatism :: Defense of tradition, monarchy, church and gradual change against revolution (Burke, Metternich).
+Liberalism (19th century) :: Constitutions, individual rights, free press, laissez-faire; voting limited to property owners.
+Nationalism :: Belief that each people sharing language and culture should have its own state.
+@ Edmund Burke :: Reflections on the Revolution in France (1790); founder of modern conservatism.
+@ Jeremy Bentham :: Utilitarianism: "the greatest happiness of the greatest number."
+@ Giuseppe Mazzini :: Founded Young Italy (1831); democratic Italian nationalist.
+@ Robert Owen :: Utopian socialist; model factory community at New Lanark.
+@ Charles Fourier :: Utopian socialist who planned cooperative communities (phalanxes).
+@ Pierre-Joseph Proudhon :: "Property is theft!"; father of anarchism.
+@ Karl Marx :: Communist Manifesto (1848, with Engels); history as class struggle; proletarian revolution.
+Romanticism :: Cultural movement stressing emotion, nature, imagination, the past and national folk culture.
+Carlsbad Decrees (1819) :: Metternich's censorship and suppression of German student nationalist groups.
+Decembrist Revolt (1825) :: Failed revolt of Russian officers seeking a constitution.
+Greek War of Independence :: 1821–30 revolt against the Ottomans, won with British, French and Russian help.
+July Revolution (1830) :: Overthrew Charles X; made Louis-Philippe France's "citizen king."
+Frankfurt Parliament (1848–49) :: Liberal German assembly that failed to unify Germany; Prussia's king refused its crown.
+June Days (1848) :: Paris workers' uprising after National Workshops closed; crushed by the army.
+
+=== QUESTIONS
+@e
+Which ideology most strongly emphasized tradition, monarchy and an established church?
++ Conservatism :: Conservatives like Burke and Metternich defended the old order.
+- Liberalism :: Liberals sought constitutions and individual rights.
+- Socialism :: Socialists attacked private property and inequality.
+- Anarchism :: Anarchists rejected all state authority.
+- Utilitarianism :: Utilitarians judged institutions by usefulness, not tradition.
+
+@e
+The Communist Manifesto (1848) argued that
++ history is the history of class struggles and the proletariat will overthrow the bourgeoisie :: Marx and Engels predicted a workers' revolution.
+- workers and owners share the same interests :: Marx saw their interests as opposed.
+- monarchy is the best form of government :: The Manifesto is revolutionary and anti-monarchical.
+- private property is a sacred natural right :: Marx called for abolishing bourgeois property.
+- society should return to medieval guilds :: Marx looked forward, not backward.
+
+@e
+Romanticism emphasized
++ emotion, imagination and nature :: Romantics reacted against Enlightenment rationalism.
+- strict reason and mathematical order :: That characterizes the Enlightenment and classicism.
+- the benefits of factory life :: Romantics often criticized industrialization.
+- realistic depiction of urban poverty :: That characterizes later Realism.
+- obedience to the Concert of Europe :: Romanticism was a cultural movement, often linked to nationalism.
+
+@e
+Giuseppe Mazzini is best known for
++ founding Young Italy to work for a united, democratic Italy :: Mazzini was the prophet of Italian nationalism.
+- writing The Communist Manifesto :: That was Marx and Engels.
+- serving as Austria's foreign minister :: That was Metternich.
+- leading the Decembrist Revolt :: That took place in Russia in 1825.
+- painting Liberty Leading the People :: That was Delacroix.
+
+@e
+The July Revolution of 1830 in France replaced Charles X with
++ Louis-Philippe :: The "citizen king" ruled until 1848.
+- Napoleon III :: Louis Napoleon became president in 1848 and emperor in 1852.
+- Louis XVIII :: Louis XVIII ruled 1814–1824.
+- Louis XVI :: Louis XVI was executed in 1793.
+- Napoleon Bonaparte :: Napoleon died in exile in 1821.
+
+@e
+Which of the following won its independence from the Ottoman Empire in the 1820s with help from Britain, France and Russia?
++ Greece :: Navarino (1827) and Russian pressure secured Greek independence.
+- Poland :: Poland was under Russian rule, and its 1830 revolt failed.
+- Belgium :: Belgium broke away from the Netherlands in 1830.
+- Hungary :: Hungary was part of the Austrian Empire.
+- Italy :: Italy was not united until 1861 and was not under the Ottomans.
+
+@e
+The Carlsbad Decrees (1819) were designed to
++ suppress liberal and nationalist activity in German universities and the press :: Metternich used them to censor and dissolve student societies.
+- unify Germany under Prussia :: They aimed to prevent nationalist agitation.
+- abolish serfdom in Austria :: Serfdom was abolished in 1848.
+- grant constitutions to all German states :: They restricted liberal movements.
+- create a customs union :: That was the Zollverein (1834).
+
+@e
+Which utopian socialist built a model industrial community at New Lanark, Scotland?
++ Robert Owen :: Owen provided schools, housing and shorter hours for his mill workers.
+- Karl Marx :: Marx rejected utopian experiments.
+- Jeremy Bentham :: Bentham was a utilitarian philosopher.
+- Edmund Burke :: Burke was a conservative.
+- Lord Byron :: Byron was a Romantic poet.
+
+@e
+The Frankfurt Parliament of 1848–1849 attempted to
++ unify Germany under a liberal constitution :: It offered the crown to Frederick William IV, who refused.
+- restore Napoleon's Confederation of the Rhine :: It sought a new national state.
+- abolish the Prussian army :: It had no power over the army.
+- partition Poland :: It did not concern Poland's partition.
+- elect Metternich as German emperor :: Metternich had fled Vienna.
+
+@m
+Most liberals in the early nineteenth century supported
++ constitutional government with voting limited to property owners :: Liberals feared democracy as well as absolutism.
+- universal suffrage for men and women :: Most liberals opposed even universal male suffrage.
+- absolute monarchy by divine right :: That is conservative or absolutist.
+- state ownership of industry :: That is socialist.
+- the abolition of all government :: That is anarchist.
+
+@m
+> "A nation is a community of people united by a common language, history and spirit; every such people has the right to govern itself in its own state."
+This statement best expresses the ideology of
++ nationalism :: It defines the nation by culture and claims a right to statehood.
+- conservatism, as defended by Metternich :: Metternich opposed nationalism as a threat to the Austrian Empire.
+- utilitarianism :: Utilitarianism judges by the greatest happiness, not by nationhood.
+- utopian socialism :: Socialists focused on class, not nation.
+- laissez-faire liberalism :: This statement concerns national self-rule, not markets.
+
+@m
+Why was Metternich especially hostile to nationalism?
++ It threatened to break apart the multinational Austrian Empire :: Austria ruled Germans, Hungarians, Czechs, Poles, Italians and others.
+- Austria was a nation-state with one language :: Austria was the opposite.
+- Nationalism required the restoration of the Holy Roman Empire :: Nationalists sought new nation-states.
+- Austria wanted to unite Italy under its rule :: Austria opposed Italian unification.
+- Nationalism was a conservative ideology :: In 1815 nationalism was revolutionary.
+
+@m
+Utopian socialists differed from Marx in that they
++ hoped to reform society by example and persuasion rather than through class revolution :: Owen and Fourier built model communities; Marx predicted revolution.
+- supported laissez-faire capitalism :: They criticized capitalist competition.
+- wanted to restore absolute monarchy :: They sought social reform.
+- denied that workers suffered under industrialization :: They were responding to workers' suffering.
+- were all government officials :: Most were private reformers and writers.
+
+@m
+The revolutions of 1848 failed mainly because
++ liberals, radicals and rival nationalities divided while royal armies stayed loyal :: Divisions let monarchs regain control in 1848–49.
+- no revolutions broke out outside France :: Revolution spread across central Europe and Italy.
+- the revolutionaries had won universal suffrage everywhere :: They had not.
+- Britain sent armies to restore the monarchs :: Britain did not intervene; Russia did in Hungary.
+- Marx ordered the workers to stop fighting :: Marx had no such authority.
+
+@m
+Which was a lasting result of the 1848 revolutions in the Austrian Empire?
++ The abolition of serfdom :: The emancipation of 1848 was not reversed.
+- Hungarian independence :: Hungary was crushed in 1849, with Russian help.
+- The creation of a democratic republic :: The Habsburg monarchy survived under Franz Joseph.
+- Metternich's permanent return to power :: Metternich never regained office.
+- The unification of Germany under Austria :: Germany was unified in 1871 without Austria.
+
+@m
+The June Days of 1848 in Paris were caused by
++ the government's closing of the National Workshops that employed jobless workers :: Workers rose in protest and were crushed by the army.
+- Napoleon III's coup d'état :: The coup came in December 1851.
+- Charles X's July Ordinances :: Those caused the 1830 revolution.
+- the arrival of Russian troops :: Russian troops intervened in Hungary, not France.
+- the publication of the Communist Manifesto :: The Manifesto had little immediate effect.
+
+@m
+Which work of art is most associated with the Romantic glorification of revolution?
++ Delacroix's Liberty Leading the People :: Painted after the July Revolution of 1830.
+- David's Oath of the Horatii :: That is a Neoclassical painting of 1784.
+- Courbet's The Stone Breakers :: That is a Realist painting of 1849.
+- Monet's Impression, Sunrise :: That is Impressionist, from 1872.
+- Picasso's Guernica :: That dates from 1937.
+
+@m
+Frederick William IV of Prussia refused the crown offered by the Frankfurt Parliament because
++ he would not accept a crown from an elected assembly rather than from his fellow princes :: He called it a "crown from the gutter."
+- he wanted Austria to rule a united Germany :: He did not refuse in order to favor Austria.
+- he had already been crowned emperor of Germany :: There was no German emperor until 1871.
+- Napoleon III threatened war :: Napoleon III did not stop him.
+- Prussia had become a republic :: Prussia remained a monarchy.
+
+@m
+Jeremy Bentham's utilitarianism held that
++ laws and institutions should be judged by whether they produce the greatest happiness of the greatest number :: Utility was the test of good policy.
+- tradition is the best guide for government :: That is a conservative view.
+- history is driven by class struggle :: That is Marxism.
+- each nation has a unique spirit :: That is Herder's nationalism.
+- property is theft :: That is Proudhon.
+
+@m
+Which event of 1825 showed the influence of Western liberal ideas on the Russian army officer class?
++ The Decembrist Revolt :: Officers who had seen Europe during the Napoleonic wars rebelled for a constitution.
+- The emancipation of the serfs :: That came in 1861.
+- The Crimean War :: That came in 1853–56.
+- The Greek War of Independence :: That was an Ottoman, not Russian, revolt.
+- The November Uprising :: That was a Polish revolt in 1830.
+
+@m
+In 1848, Louis Napoleon Bonaparte won the French presidential election largely because
++ his famous name and promise of order appealed to peasants and property owners frightened by radicalism :: Voters chose stability after the June Days.
+- he had led the workers in the June Days :: He was not involved in the June Days.
+- he was the candidate of the Communist League :: He ran on order and his uncle's legend.
+- only aristocrats were allowed to vote :: The 1848 election used universal male suffrage.
+- the Concert of Europe appointed him :: He was elected by French voters.
+
+@m
+Which statement about nationalism and Romanticism is most accurate?
++ Romantics' interest in folk culture, language and history strengthened national identity :: Collections like Grimm's tales celebrated a people's heritage.
+- Romantics rejected all national traditions in favor of universal reason :: That describes the Enlightenment more than Romanticism.
+- Nationalism and Romanticism were both invented by Metternich :: Metternich opposed nationalism.
+- Romanticism opposed the Greek struggle for independence :: Romantics like Byron championed it.
+- Nationalism emerged only after 1900 :: It was a major force by 1815.
+
+@h
+A liberal in 1830 and a socialist in 1848 would most likely have disagreed about
++ whether private property and free markets should be the basis of society :: Liberals defended property and laissez-faire; socialists attacked them.
+- whether absolute monarchy was desirable :: Both opposed absolute monarchy.
+- whether the Congress of Vienna's settlement should be preserved :: Both generally criticized it.
+- whether censorship should be ended :: Both generally opposed censorship.
+- whether constitutions were needed :: Most of both groups supported constitutions.
+
+@h
+The successful Greek War of Independence differed from the failed revolts in Naples and Spain in the 1820s because
++ the great powers backed the Greeks against the Ottoman Empire rather than suppressing them :: Christian sympathy and Russian self-interest outweighed Metternich's opposition.
+- the Greeks fought for an absolute monarchy :: The Greeks sought national independence.
+- Metternich personally led the Greek armies :: Metternich opposed the revolt.
+- the Greeks had no help from abroad :: Britain, France and Russia intervened.
+- the revolt took place in Western Europe :: Greece was in southeastern Europe under Ottoman rule.
+
+@h
+In 1848–1849, Croatian troops helped the Habsburgs defeat the Hungarian revolution. This best illustrates that
++ rival nationalisms within the empire could be played against one another :: Croats feared Hungarian domination more than Habsburg rule.
+- all nationalities in the Austrian Empire wanted independence as a single bloc :: They had conflicting goals.
+- Croatia was the center of the revolution :: Budapest and Vienna were the centers.
+- the Croats supported Marxist revolution :: The Croats sided with the emperor.
+- Austria had abolished its army :: The army was crucial to the counterrevolution.
+
+@h
+Which development MOST directly reflects the shift from idealism to Realpolitik after 1848?
++ Nationalists abandoning parliamentary methods for unification by war and diplomacy :: Cavour and Bismarck used power politics after the failures of 1848.
+- The founding of Young Italy in 1831 :: That was an idealistic movement before 1848.
+- The Romantic poetry of Wordsworth :: That predates 1848 and is cultural.
+- The Carlsbad Decrees :: Those were from 1819.
+- The publication of Burke's Reflections :: That dates from 1790.
+
+@h
+Which comparison of the revolutions of 1830 and 1848 in France is most accurate?
++ 1830 replaced one king with a more liberal one; 1848 abolished the monarchy and introduced universal male suffrage :: The July Monarchy kept a narrow electorate; the Second Republic expanded it.
+- Both established permanent republics :: The Second Republic ended in 1852.
+- Both were led by Napoleon III :: Napoleon III came to power after 1848.
+- 1830 abolished slavery and 1848 restored it :: France abolished slavery in its colonies in 1848.
+- Neither had any influence outside France :: Both inspired revolts abroad.
+
+@m
+Which pairing of a Romantic figure and his work is correct?
++ Goethe – Faust :: Goethe's Faust is a landmark of German literature.
+- Wordsworth – The Communist Manifesto :: Marx and Engels wrote the Manifesto.
+- Byron – The Wealth of Nations :: Adam Smith wrote that.
+- Victor Hugo – The Social Contract :: Rousseau wrote that.
+- Delacroix – Leviathan :: Hobbes wrote Leviathan.
+
+@m
+Nicholas I's slogan "Orthodoxy, Autocracy, Nationality" expressed
++ the conservative program of the Russian monarchy :: It defended the Church, absolute rule and Russian identity.
+- the goals of the Decembrists :: The Decembrists wanted a constitution.
+- the platform of the Frankfurt Parliament :: That was a German liberal body.
+- Marx's program for revolution :: Marx rejected religion and autocracy.
+- the principles of the Greek revolutionaries :: The Greeks fought for independence from the Ottomans.
