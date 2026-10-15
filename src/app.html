@@ -1078,7 +1078,7 @@ function viewSettings() {
   <section class="panel"><h3>Theme</h3><div class="row">${["system", "light", "dark"].map((t) => `<button class="btn ${ST.theme === t ? "primary" : ""}" type="button" data-act="set-theme" data-t="${t}">${t[0].toUpperCase() + t.slice(1)}</button>`).join("")}</div></section>
   <section class="panel"><h3>Export progress</h3>
     <p class="small muted">Progress lives in this browser only. Export it to move to another device or keep a backup.</p>
-    <div class="row"><button class="btn primary" type="button" data-act="export">Download progress file</button><button class="btn" type="button" data-act="copy-export">Copy as text</button></div>
+    <div class="row">${inFrame ? "" : '<button class="btn primary" type="button" data-act="export">Download progress file</button>'}<button class="btn" type="button" data-act="copy-export">Copy as text</button></div>
     <textarea id="exportBox" readonly aria-label="Progress JSON">${esc(JSON.stringify(ST))}</textarea>
   </section>
   <section class="panel"><h3>Import progress</h3>
