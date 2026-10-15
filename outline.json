@@ -1,0 +1,48 @@
+{
+  "exam": "CLEP Western Civilization II: 1648 to the Present",
+  "format": {
+    "questions": 120,
+    "time_minutes": 90,
+    "note": "Approximately 120 questions in 90 minutes; some are unscored pretest questions. Passing score: 50 on a 20-80 scale (ACE recommended credit score).",
+    "verified": true
+  },
+  "sources": [
+    {"label": "College Board exam page", "url": "https://clep.collegeboard.org/exam/western-civilization-ii"},
+    {"label": "College Board exam page (alt URL)", "url": "https://clep.collegeboard.org/clep-exams/western-civilization-2"},
+    {"label": "College Board 'At a Glance' fact sheet (PDF)", "url": "https://secure-media.collegeboard.org/digitalServices/pdf/clep/western_civiliation_II_fact_sheet.pdf"}
+  ],
+  "verification_note": "collegeboard.org could not be fetched directly from the build environment (network policy). Weights marked verified=true were confirmed from search-engine excerpts of the College Board page/fact sheet; verified=false means only third-party prep sites confirmed the figure. Subtopic wording is paraphrased.",
+  "skills_tested": [
+    "Understanding important factual knowledge of developments in Western civilization",
+    "Ability to identify the causes and effects of major historical events",
+    "Ability to analyze, interpret, and evaluate textual and graphic historical materials",
+    "Ability to distinguish the relevant from the irrelevant",
+    "Ability to reach conclusions on the basis of facts"
+  ],
+  "topics": [
+    {"id": 1, "title": "Absolutism and Constitutionalism, 1648–1715", "min": 7, "max": 9, "verified": true,
+     "subtopics": ["The Dutch Republic", "The English Revolution", "France under Louis XIV", "Formation of Austria and Prussia", "The 'westernization' of Russia"]},
+    {"id": 2, "title": "Competition for Empire and Economic Expansion", "min": 4, "max": 6, "verified": true,
+     "subtopics": ["Global economy of the eighteenth century", "Europe after Utrecht, 1713–1740", "Demographic change in the eighteenth century"]},
+    {"id": 3, "title": "The Scientific View of the World", "min": 5, "max": 7, "verified": true,
+     "subtopics": ["Major figures of the scientific revolution", "New knowledge of man and society", "Political theory"]},
+    {"id": 4, "title": "Period of Enlightenment", "min": 7, "max": 9, "verified": true,
+     "subtopics": ["Enlightenment thought", "Enlightened despotism", "Partitions of Poland"]},
+    {"id": 5, "title": "Revolution and Napoleonic Europe", "min": 10, "max": 13, "verified": true,
+     "subtopics": ["The Revolution in France", "The Revolution in Europe", "The Napoleonic era", "Congress of Vienna"]},
+    {"id": 6, "title": "The Industrial Revolution", "min": 7, "max": 9, "verified": true,
+     "subtopics": ["Agricultural and industrial revolution", "Causes of revolution", "Economic and social impact on working and middle class", "British reform legislation", "Chartism"]},
+    {"id": 7, "title": "Political and Cultural Developments, 1815–1848", "min": 6, "max": 8, "verified": false,
+     "subtopics": ["Conservatism", "Liberalism", "Nationalism", "Socialism", "Romanticism", "Revolutions of 1830 and 1848"]},
+    {"id": 8, "title": "Politics and Diplomacy in the Age of Nationalism, 1850–1914", "min": 8, "max": 10, "verified": true,
+     "subtopics": ["The unification of Italy and Germany", "Austria-Hungary", "Russia", "France", "Socialism and labor unions", "European diplomacy, 1871–1900"]},
+    {"id": 9, "title": "Economy, Culture, and Imperialism, 1850–1914", "min": 7, "max": 9, "verified": true,
+     "subtopics": ["Demography", "Mass politics", "Science, technology, and industrial growth", "Imperialism in Africa and Asia", "Modern art, thought, and literature"]},
+    {"id": 10, "title": "The First World War and the Russian Revolution", "min": 10, "max": 12, "verified": true,
+     "subtopics": ["Causes of the First World War", "Economic and social impact of the war", "The peace settlements", "The Russian Revolution of 1917"]},
+    {"id": 11, "title": "Europe Between the Wars", "min": 7, "max": 9, "verified": true,
+     "subtopics": ["The Great Depression", "International politics, 1919–1939", "Stalin's five-year plans and purges", "Fascism and Nazism", "Interwar culture"]},
+    {"id": 12, "title": "The Second World War and Contemporary Europe", "min": 8, "max": 10, "verified": true,
+     "subtopics": ["Causes and course of the Second World War", "Postwar Europe and the Cold War", "Decolonization", "European integration", "The collapse of communism and contemporary Europe"]}
+  ]
+}

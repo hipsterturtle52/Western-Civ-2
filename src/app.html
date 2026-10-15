@@ -1,0 +1,1229 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Western Civ II Study Guide</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+/* Layout: archive ledger. Fixed index rail on the left (desktop) / drawer (phone),
+   one reading column at ~68ch. Prussian blue (first synthetic pigment, Berlin 1706)
+   is the accent; gilt marks the "must know" material. System fonts only: works offline. */
+:root {
+  --paper: #f4f5f1;
+  --surface: #ffffff;
+  --sunk: #eceee8;
+  --ink: #18212b;
+  --muted: #5a6470;
+  --line: #d8dcd6;
+  --accent: #1d4e7c;
+  --accent-ink: #ffffff;
+  --accent-soft: #e2eaf3;
+  --gilt: #8a5f0f;
+  --gilt-soft: #f5ecd8;
+  --good: #23704a;
+  --good-soft: #e1f1e7;
+  --warn: #8a5a00;
+  --warn-soft: #fbefd4;
+  --bad: #ad2a22;
+  --bad-soft: #f8e3e1;
+  --focus: #2f7bd0;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --mono: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  --step--1: 0.85rem;
+  --step-0: 1rem;
+  --step-1: 1.2rem;
+  --step-2: 1.5rem;
+  --step-3: 2rem;
+  --radius: 6px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0f141a; --surface: #161d25; --sunk: #1c242e; --ink: #e4e8ec; --muted: #9aa5b1;
+    --line: #2a3542; --accent: #8db8e3; --accent-ink: #0f141a; --accent-soft: #1b2c3e;
+    --gilt: #d9b166; --gilt-soft: #2a2416; --good: #74c99a; --good-soft: #15291f;
+    --warn: #e0b45a; --warn-soft: #2b2312; --bad: #f08c84; --bad-soft: #2f1a19; --focus: #8db8e3;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0f141a; --surface: #161d25; --sunk: #1c242e; --ink: #e4e8ec; --muted: #9aa5b1;
+  --line: #2a3542; --accent: #8db8e3; --accent-ink: #0f141a; --accent-soft: #1b2c3e;
+  --gilt: #d9b166; --gilt-soft: #2a2416; --good: #74c99a; --good-soft: #15291f;
+  --warn: #e0b45a; --warn-soft: #2b2312; --bad: #f08c84; --bad-soft: #2f1a19; --focus: #8db8e3;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--paper); color: var(--ink); font-family: var(--sans);
+  font-size: 16px; line-height: 1.55; -webkit-text-size-adjust: 100%;
+}
+[hidden] { display: none !important; }
+a { color: var(--accent); }
+h1, h2, h3, h4 { font-family: var(--serif); line-height: 1.2; text-wrap: balance; margin: 0; font-weight: 600; }
+h1 { font-size: var(--step-3); }
+h2 { font-size: var(--step-2); }
+h3 { font-size: var(--step-1); }
+p { margin: 0; }
+button, input, select, textarea { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.num { font-variant-numeric: tabular-nums; }
+
+/* Shell */
+.shell { display: grid; grid-template-columns: 264px minmax(0, 1fr); min-height: 100vh; }
+.rail {
+  position: sticky; top: 0; height: 100vh; overflow-y: auto; background: var(--surface);
+  border-right: 1px solid var(--line); padding: 20px 14px 32px; display: flex; flex-direction: column; gap: 18px;
+}
+.brand { display: flex; flex-direction: column; gap: 2px; padding: 0 8px; text-decoration: none; color: var(--ink); }
+.brand-eyebrow { font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.brand-name { font-family: var(--serif); font-size: 1.35rem; font-weight: 600; }
+.brand-span { font-family: var(--serif); color: var(--accent); font-size: 0.95rem; }
+.nav { display: flex; flex-direction: column; gap: 2px; }
+.nav-label { font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); padding: 10px 8px 4px; }
+.nav a {
+  display: flex; align-items: center; gap: 8px; padding: 6px 8px; border-radius: var(--radius);
+  color: var(--ink); text-decoration: none; font-size: 0.93rem;
+}
+.nav a:hover { background: var(--sunk); }
+.nav a[aria-current="page"] { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.nav .u-no { font-family: var(--serif); color: var(--muted); width: 1.6em; flex: none; text-align: right; font-variant-numeric: tabular-nums; }
+.nav .u-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.dot { width: 8px; height: 8px; border-radius: 50%; flex: none; background: var(--line); }
+.dot.prog { background: var(--warn); }
+.dot.done { background: var(--good); }
+.rail-foot { margin-top: auto; display: flex; gap: 8px; flex-wrap: wrap; padding: 0 8px; }
+
+.topbar { display: none; }
+main {
+  min-width: 0; padding-block: 28px 80px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.col { max-width: 760px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px; }
+.col.wide { max-width: 1000px; }
+
+@media (max-width: 860px) {
+  .shell { grid-template-columns: minmax(0, 1fr); }
+  .rail {
+    position: fixed; z-index: 30; left: 0; top: 0; bottom: 0; width: min(300px, 86vw); height: auto;
+    transform: translateX(-102%); transition: transform 0.2s ease;
+    padding-top: calc(16px + env(safe-area-inset-top, 0px)); padding-left: max(14px, env(safe-area-inset-left, 0px));
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.25);
+  }
+  .rail.open { transform: none; }
+  .scrim { position: fixed; inset: 0; z-index: 25; background: rgba(0, 0, 0, 0.35); }
+  .topbar {
+    display: flex; align-items: center; gap: 10px; position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20;
+    background: var(--surface); border-bottom: 1px solid var(--line);
+    padding-block: 8px; padding-left: max(12px, env(safe-area-inset-left, 0px)); padding-right: max(12px, env(safe-area-inset-right, 0px));
+  }
+  .topbar .brand-name { font-size: 1.05rem; flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  main { padding-block: 18px 72px; }
+}
+@media (prefers-reduced-motion: reduce) { .rail { transition: none; } }
+
+/* Common pieces */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px; border: 1px solid var(--line);
+  background: var(--surface); color: var(--ink); padding: 8px 14px; border-radius: var(--radius);
+  cursor: pointer; text-decoration: none; font-size: 0.95rem; line-height: 1.3;
+}
+.btn:hover { border-color: var(--accent); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); font-weight: 600; }
+.btn.primary:hover { filter: brightness(1.08); }
+.btn.danger { color: var(--bad); border-color: var(--bad); }
+.btn.small { padding: 4px 10px; font-size: 0.85rem; }
+.btn.ghost { border-color: transparent; background: transparent; }
+.btn[disabled] { opacity: 0.5; cursor: not-allowed; }
+.row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.spread { display: flex; gap: 12px; flex-wrap: wrap; align-items: baseline; justify-content: space-between; }
+.eyebrow { font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.lede { color: var(--muted); max-width: 62ch; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.panel.tight { padding: 14px; gap: 8px; }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 4px; padding: 1px 8px; border-radius: 999px; font-size: 0.78rem;
+  border: 1px solid var(--line); color: var(--muted); white-space: nowrap; background: var(--surface);
+}
+.chip.good { background: var(--good-soft); color: var(--good); border-color: transparent; }
+.chip.warn { background: var(--warn-soft); color: var(--warn); border-color: transparent; }
+.chip.bad { background: var(--bad-soft); color: var(--bad); border-color: transparent; }
+.chip.accent { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
+.chip.unverified { background: var(--warn-soft); color: var(--warn); border-color: transparent; font-weight: 600; }
+.muted { color: var(--muted); }
+.small { font-size: 0.88rem; }
+.bar { height: 8px; background: var(--sunk); border-radius: 99px; overflow: hidden; min-width: 60px; }
+.bar > span { display: block; height: 100%; background: var(--accent); border-radius: 99px; }
+.bar.good > span { background: var(--good); }
+.bar.warn > span { background: var(--warn); }
+.bar.bad > span { background: var(--bad); }
+.tablewrap { overflow-x: auto; max-width: 100%; }
+table { border-collapse: collapse; width: 100%; font-size: 0.92rem; }
+th, td { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--muted); font-size: 0.8rem; letter-spacing: 0.04em; text-transform: uppercase; }
+td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.notice { background: var(--warn-soft); color: var(--ink); border-radius: var(--radius); padding: 10px 14px; font-size: 0.92rem; }
+.notice.info { background: var(--accent-soft); }
+.notice.bad { background: var(--bad-soft); }
+.stat { display: flex; flex-direction: column; gap: 2px; }
+.stat b { font-family: var(--serif); font-size: 1.7rem; font-weight: 600; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.stat span { color: var(--muted); font-size: 0.85rem; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 16px; }
+input[type="number"], input[type="date"], select, textarea {
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 7px 10px; max-width: 100%;
+}
+textarea { width: 100%; min-height: 120px; font-family: var(--mono); font-size: 0.8rem; }
+label.field { display: flex; flex-direction: column; gap: 4px; font-size: 0.9rem; color: var(--muted); }
+.toast {
+  position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(18px + env(safe-area-inset-bottom, 0px)); z-index: 50;
+  background: var(--ink); color: var(--paper); padding: 9px 16px; border-radius: var(--radius); font-size: 0.92rem; max-width: 90vw;
+}
+
+/* Home */
+.hero { display: flex; flex-direction: column; gap: 10px; }
+.hero h1 { font-size: clamp(1.8rem, 4.5vw, 2.6rem); }
+.hero h1 .dates { color: var(--accent); }
+.next { border-left: 4px solid var(--accent); }
+.meter { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+.meter > div { height: 10px; border-radius: 3px; background: var(--sunk); }
+.meter > div.on { background: var(--good); }
+.meter > div.part { background: var(--warn); }
+.ready-badge { font-family: var(--serif); font-size: 1.25rem; font-weight: 600; }
+.ready-badge.yes { color: var(--good); }
+.unit-table td:first-child { font-family: var(--serif); color: var(--muted); width: 2em; }
+.unit-table a { color: var(--ink); text-decoration: none; }
+.unit-table a:hover { color: var(--accent); text-decoration: underline; }
+
+/* Lesson */
+.unit-head { display: flex; flex-direction: column; gap: 8px; }
+.unit-head .meta { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.lesson { font-size: 1.04rem; display: flex; flex-direction: column; gap: 14px; max-width: 68ch; }
+.lesson h3 { margin-top: 12px; font-size: 1.3rem; }
+.lesson strong { font-weight: 650; }
+.chain { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+.chain-step { padding: 10px 12px; font-size: 0.93rem; position: relative; min-width: 0; }
+.chain-step + .chain-step { border-left: 1px solid var(--line); }
+.chain-step + .chain-step::before {
+  content: ""; position: absolute; left: -7px; top: 50%; width: 12px; height: 12px; margin-top: -6px;
+  background: var(--surface); border-top: 1px solid var(--line); border-right: 1px solid var(--line); transform: rotate(45deg);
+}
+.chain-label { display: block; font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); font-weight: 600; margin-bottom: 2px; }
+@media (max-width: 560px) {
+  .chain { grid-template-columns: minmax(0, 1fr); }
+  .chain-step + .chain-step { border-left: 0; border-top: 1px solid var(--line); }
+  .chain-step + .chain-step::before { left: 50%; top: -7px; margin: 0 0 0 -6px; transform: rotate(135deg); }
+}
+.mustknow { background: var(--gilt-soft); border: 1px solid transparent; border-radius: var(--radius); padding: 16px 18px; }
+.mustknow h3 { color: var(--gilt); font-size: 1.1rem; margin-bottom: 8px; }
+.mustknow ol { margin: 0; padding-left: 1.4em; display: flex; flex-direction: column; gap: 6px; }
+.timeline { list-style: none; margin: 0; padding: 0; position: relative; }
+.timeline::before { content: ""; position: absolute; left: 4.6em; top: 6px; bottom: 6px; width: 2px; background: var(--line); }
+.timeline li { display: grid; grid-template-columns: 4em 1.2em minmax(0, 1fr); gap: 8px; padding: 6px 0; align-items: start; }
+.timeline .yr { font-family: var(--serif); font-weight: 600; color: var(--accent); text-align: right; font-variant-numeric: tabular-nums; }
+.timeline .pin { width: 12px; height: 12px; border-radius: 50%; background: var(--surface); border: 2px solid var(--accent); margin-top: 6px; justify-self: center; position: relative; z-index: 1; }
+.timeline li.key .pin { background: var(--accent); }
+.timeline .ev b { font-weight: 600; }
+.timeline .ev span { display: block; color: var(--muted); font-size: 0.9rem; }
+.lesson-actions { position: sticky; bottom: calc(10px + env(safe-area-inset-bottom, 0px)); z-index: 5; }
+.lesson-actions .panel { box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12); flex-direction: row; flex-wrap: wrap; align-items: center; padding: 10px 12px; }
+
+/* Question runner */
+.runner { display: flex; flex-direction: column; gap: 16px; }
+.runner-head { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; justify-content: space-between; }
+.timer { font-family: var(--mono); font-size: 1.1rem; font-variant-numeric: tabular-nums; padding: 3px 10px; border-radius: var(--radius); background: var(--sunk); }
+.timer.low { background: var(--bad-soft); color: var(--bad); }
+.stem { font-size: 1.08rem; display: flex; flex-direction: column; gap: 10px; }
+.stem blockquote { margin: 0; padding: 10px 14px; border-left: 3px solid var(--gilt); background: var(--gilt-soft); font-family: var(--serif); font-size: 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
+.qtable { font-size: 0.92rem; background: var(--surface); }
+.opts { display: flex; flex-direction: column; gap: 8px; }
+.opt {
+  display: grid; grid-template-columns: 2em minmax(0, 1fr); gap: 10px; align-items: start; text-align: left; width: 100%;
+  padding: 10px 12px; border: 1px solid var(--line); background: var(--surface); border-radius: var(--radius); cursor: pointer; line-height: 1.45;
+}
+.opt:hover:not([disabled]) { border-color: var(--accent); }
+.opt .k {
+  display: inline-flex; width: 1.8em; height: 1.8em; align-items: center; justify-content: center; border-radius: 50%;
+  border: 1px solid var(--line); font-weight: 600; font-size: 0.85rem; color: var(--muted);
+}
+.opt.sel { border-color: var(--accent); background: var(--accent-soft); }
+.opt.sel .k { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.opt.right { border-color: var(--good); background: var(--good-soft); }
+.opt.right .k { background: var(--good); color: var(--surface); border-color: var(--good); }
+.opt.wrong { border-color: var(--bad); background: var(--bad-soft); }
+.opt.wrong .k { background: var(--bad); color: var(--surface); border-color: var(--bad); }
+.opt[disabled] { cursor: default; }
+.why { display: flex; flex-direction: column; gap: 8px; font-size: 0.93rem; }
+.why li { list-style: none; display: grid; grid-template-columns: 1.6em minmax(0, 1fr); gap: 6px; }
+.why ul { margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+.why .mk { font-weight: 700; }
+.why .mk.ok { color: var(--good); }
+.why .mk.no { color: var(--bad); }
+.verdict { font-family: var(--serif); font-size: 1.2rem; font-weight: 600; }
+.verdict.ok { color: var(--good); }
+.verdict.no { color: var(--bad); }
+.qgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(36px, 1fr)); gap: 4px; }
+.qgrid button {
+  height: 32px; border: 1px solid var(--line); background: var(--surface); border-radius: 4px; cursor: pointer;
+  font-size: 0.78rem; font-variant-numeric: tabular-nums; position: relative;
+}
+.qgrid button.ans { background: var(--accent-soft); border-color: var(--accent-soft); }
+.qgrid button.cur { outline: 2px solid var(--accent); outline-offset: -2px; }
+.qgrid button.flag::after { content: ""; position: absolute; top: 2px; right: 2px; width: 6px; height: 6px; border-radius: 50%; background: var(--gilt); }
+.kbd { font-family: var(--mono); font-size: 0.78rem; padding: 0 5px; border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 4px; color: var(--muted); }
+.review-item { border-top: 1px solid var(--line); padding-top: 14px; display: flex; flex-direction: column; gap: 10px; }
+details > summary { cursor: pointer; }
+
+/* Flashcards */
+.card-stage { perspective: 1200px; }
+.fcard {
+  min-height: 220px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); padding: 28px 22px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; gap: 12px; cursor: pointer;
+}
+.fcard .front { font-family: var(--serif); font-size: 1.5rem; font-weight: 600; }
+.fcard .back { font-size: 1.05rem; max-width: 52ch; }
+.fcard.flipped { border-color: var(--accent); }
+.boxes { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 8px; }
+.boxes > div { background: var(--sunk); border-radius: var(--radius); padding: 8px; text-align: center; }
+.boxes b { display: block; font-family: var(--serif); font-size: 1.4rem; font-variant-numeric: tabular-nums; }
+.boxes span { font-size: 0.75rem; color: var(--muted); }
+
+/* Plan */
+.plan-table td:nth-child(1) { white-space: nowrap; }
+.plan-table tr.exam td { background: var(--accent-soft); }
+.plan-table tr.examday td { background: var(--gilt-soft); font-weight: 600; }
+.plan-table ul { margin: 0; padding-left: 1.1em; }
+
+/* Cheat sheet */
+.cheat h2 { font-size: 1.2rem; border-bottom: 2px solid var(--ink); padding-bottom: 4px; margin-top: 8px; }
+.cheat-cols { columns: 2 300px; column-gap: 28px; font-size: 0.9rem; }
+.cheat-cols > div { break-inside: avoid; padding: 2px 0; display: grid; grid-template-columns: 3.4em minmax(0, 1fr); gap: 8px; }
+.cheat-cols .y { font-family: var(--serif); font-weight: 600; color: var(--accent); text-align: right; font-variant-numeric: tabular-nums; }
+.who { columns: 2 300px; column-gap: 28px; font-size: 0.9rem; }
+.who p { break-inside: avoid; margin-bottom: 4px; }
+.who b { font-weight: 650; }
+.cheat .hideable.masked { color: transparent; background: var(--sunk); border-radius: 3px; user-select: none; }
+.unit-mini { font-size: 0.86rem; }
+.unit-mini h4 { font-size: 0.95rem; margin: 6px 0 2px; }
+.unit-mini ul { margin: 0; padding-left: 1.1em; }
+
+@media print {
+  :root { --paper: #fff; --surface: #fff; --ink: #000; --muted: #333; --line: #bbb; --accent: #1d4e7c; --sunk: #fff; color-scheme: light; }
+  .rail, .topbar, .no-print, .scrim, .toast { display: none !important; }
+  .shell { display: block; }
+  main { padding: 0; }
+  .col, .col.wide { max-width: none; gap: 8px; }
+  body { font-size: 8.5pt; line-height: 1.3; background: #fff; }
+  .cheat-cols, .who { columns: 3; column-gap: 14px; font-size: 7.5pt; }
+  .cheat h2 { font-size: 10pt; margin-top: 4px; }
+  .cheat .hideable.masked { color: #000; background: none; }
+  @page { margin: 10mm; }
+}
+</style>
+</head>
+<body>
+<div class="topbar no-print">
+  <button class="btn small" type="button" data-act="menu" aria-label="Open menu" aria-expanded="false" id="menuBtn">☰ Menu</button>
+  <span class="brand-name">Western Civ II</span>
+  <button class="btn small ghost" type="button" data-act="theme" aria-label="Toggle dark mode" id="themeBtnTop">◐</button>
+</div>
+<div class="shell">
+  <aside class="rail" id="rail" aria-label="Study guide navigation">
+    <a class="brand" href="#home" data-nav>
+      <span class="brand-eyebrow">CLEP study guide</span>
+      <span class="brand-name">Western Civ II</span>
+      <span class="brand-span">1648 → the present</span>
+    </a>
+    <nav class="nav" id="nav"></nav>
+    <div class="rail-foot">
+      <button class="btn small" type="button" data-act="theme" id="themeBtn">◐ Theme: system</button>
+    </div>
+  </aside>
+  <main id="main" tabindex="-1"></main>
+</div>
+<div class="scrim" id="scrim" hidden data-act="menu"></div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script>
+"use strict";
+const DATA = /*__DATA__*/null;
+
+/* ---------- helpers ---------- */
+const $ = (s, r = document) => r.querySelector(s);
+const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const pct = (c, t) => (t ? Math.round((100 * c) / t) : 0);
+const LETTERS = ["A", "B", "C", "D", "E"];
+const UNITS = DATA.units;
+const Q = DATA.questions;
+const unitById = (id) => UNITS.find((u) => u.id === +id);
+const dayNum = (d = new Date()) => Math.floor((d.getTime() - d.getTimezoneOffset() * 60000) / 864e5);
+const isoDate = (d = new Date()) => new Date(d.getTime() - d.getTimezoneOffset() * 60000).toISOString().slice(0, 10);
+const fmtH = (h) => (h < 1 ? Math.round(h * 60) + " min" : (Math.round(h * 10) / 10).toFixed(1).replace(/\.0$/, "") + " h");
+function shuffle(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+function toast(msg) { const t = $("#toast"); t.textContent = msg; t.hidden = false; clearTimeout(toast._t); toast._t = setTimeout(() => (t.hidden = true), 2600); }
+const inFrame = (() => { try { return window.self !== window.top; } catch (e) { return true; } })();
+
+/* ---------- storage (always wrapped: works with storage blocked) ---------- */
+const KEY = "clep-wc2-guide-v1";
+const EXAM_MINUTES = DATA.meta.format.time_minutes || 90;
+const BOX_DAYS = [0, 0, 1, 3, 7, 14]; // Leitner box -> days until next review
+function fresh() {
+  return { v: 1, theme: "system", diag: null, units: {}, cards: {}, mistakes: {}, exams: {}, plan: { hours: 2, date: "", start: "" }, created: isoDate() };
+}
+let storageOK = true;
+function load() {
+  try {
+    const raw = localStorage.getItem(KEY);
+    if (!raw) return fresh();
+    return Object.assign(fresh(), JSON.parse(raw));
+  } catch (e) { storageOK = false; return fresh(); }
+}
+let ST = load();
+function save() {
+  try { localStorage.setItem(KEY, JSON.stringify(ST)); storageOK = true; }
+  catch (e) { storageOK = false; }
+}
+const U = (id) => (ST.units[id] = ST.units[id] || { read: false, quiz: [] });
+
+/* ---------- derived progress ---------- */
+function quizBest(id) { const q = U(id).quiz; return q.length ? Math.max(...q.map((r) => r.score / r.total)) : null; }
+function diagRec(id) {
+  if (!ST.diag) return null;
+  const [c, t] = ST.diag.byUnit[id] || [0, 0];
+  if (!t) return null;
+  const p = c / t;
+  return p >= 0.75 ? "skim" : p >= 0.5 ? "review" : "study";
+}
+function cardStats(unitId) {
+  const cards = unitId ? unitById(unitId).cards : UNITS.flatMap((u) => u.cards);
+  let mastered = 0, seen = 0, due = 0;
+  const today = dayNum();
+  for (const c of cards) {
+    const s = ST.cards[c.id];
+    if (s) { seen++; if (s.box >= 3) mastered++; if (s.due <= today) due++; }
+  }
+  return { total: cards.length, mastered, seen, due, fresh: cards.length - seen };
+}
+function unitStatus(id) {
+  const u = U(id), best = quizBest(id);
+  const passed = best !== null && best >= 0.7;
+  if (passed && (u.read || diagRec(id) === "skim")) return "done";
+  if (u.read || u.quiz.length) return "prog";
+  return "todo";
+}
+function unitRemainingHours(unit) {
+  const u = U(unit.id), best = quizBest(unit.id), cs = cardStats(unit.id);
+  let left = 1 - (u.read ? 0.4 : 0) - (best !== null && best >= 0.7 ? 0.4 : 0) - 0.2 * (cs.total ? cs.mastered / cs.total : 0);
+  const factor = diagRec(unit.id) === "skim" ? 0.5 : 1;
+  return Math.max(0, unit.hours * factor * left);
+}
+const EXTRA = { diag: 0.5, exam: 2.5, final: 2 };
+function hoursLeft() {
+  let h = UNITS.reduce((s, u) => s + unitRemainingHours(u), 0);
+  if (!ST.diag) h += EXTRA.diag;
+  for (const k of ["exam1", "exam2"]) if (!(ST.exams[k] && ST.exams[k].status === "done")) h += EXTRA.exam;
+  if (!(ST.exams.exam2 && ST.exams.exam2.status === "done")) h += EXTRA.final;
+  return h;
+}
+const totalPlannedHours = () => UNITS.reduce((s, u) => s + u.hours, 0) + EXTRA.diag + 2 * EXTRA.exam + EXTRA.final;
+function examScore(k) { const e = ST.exams[k]; return e && e.status === "done" ? e.score / e.total : null; }
+function readiness() {
+  const s1 = examScore("exam1"), s2 = examScore("exam2");
+  return { s1, s2, ready: s1 !== null && s2 !== null && s1 >= 0.75 && s2 >= 0.75 };
+}
+
+/* ---------- mistakes ---------- */
+function recordAnswer(qid, correct) {
+  const m = ST.mistakes[qid];
+  if (!correct) {
+    ST.mistakes[qid] = { n: (m ? m.n : 0) + 1, last: isoDate(), streak: 0, cleared: false };
+  } else if (m && !m.cleared) {
+    m.streak = (m.streak || 0) + 1;
+    if (m.streak >= 2) m.cleared = true;
+  }
+}
+const openMistakes = () => Object.keys(ST.mistakes).filter((id) => Q[id] && !ST.mistakes[id].cleared);
+
+/* ---------- router ---------- */
+let S = { session: null, result: null, cardSession: null, confirm: null };
+function route() { return (location.hash || "#home").slice(1) || "home"; }
+function go(r) { if (route() === r) render(); else location.hash = r; }
+window.addEventListener("hashchange", () => { closeMenu(); render(); window.scrollTo(0, 0); });
+
+function navHTML() {
+  const r = route();
+  const cur = (x) => (r === x || r.startsWith(x + "-") ? ' aria-current="page"' : "");
+  const mist = openMistakes().length;
+  const due = cardStats().due;
+  const item = (h, label, extra = "") => `<a href="#${h}"${cur(h)}><span class="u-name">${label}</span>${extra}</a>`;
+  let s = item("home", "Dashboard") + item("diagnostic", "Diagnostic test", ST.diag ? '<span class="chip good">done</span>' : "");
+  s += '<div class="nav-label">Units</div>';
+  for (const u of UNITS) {
+    const st = unitStatus(u.id);
+    s += `<a href="#unit-${u.id}"${r === "unit-" + u.id ? ' aria-current="page"' : ""} title="${esc(u.title)}"><span class="u-no">${u.id}</span><span class="u-name">${esc(u.short)}</span><span class="dot ${st}" aria-label="${st === "done" ? "complete" : st === "prog" ? "in progress" : "not started"}"></span></a>`;
+  }
+  s += '<div class="nav-label">Practice</div>';
+  s += item("cards", "Flashcards", due ? `<span class="chip accent num">${due} due</span>` : "");
+  s += item("mistakes", "Mistake log", mist ? `<span class="chip bad num">${mist}</span>` : "");
+  s += item("exams", "Practice exams");
+  s += '<div class="nav-label">Tools</div>';
+  s += item("cheatsheet", "Cheat sheet") + item("plan", "Study plan") + item("about", "About this exam") + item("settings", "Progress & settings");
+  return s;
+}
+
+function render() {
+  const r = route();
+  $("#nav").innerHTML = navHTML();
+  const running = runningExam();
+  let html;
+  if (running && r !== "session") {
+    // An exam clock is running: keep the way back obvious.
+    html = `<div class="notice bad no-print">Practice ${running === "exam1" ? "Exam 1" : "Exam 2"} is running and the clock does not stop. <a href="#session" data-act="resume-exam" data-k="${running}">Return to the exam</a></div>`;
+  } else html = "";
+  if (r === "home") html += viewHome();
+  else if (r === "diagnostic") html += viewDiagnostic();
+  else if (/^unit-\d+$/.test(r) && unitById(r.slice(5))) html += viewUnit(unitById(r.slice(5)));
+  else if (r === "session") html += viewSession();
+  else if (r === "result") html += viewResult();
+  else if (r === "cards") html += viewCards();
+  else if (r === "mistakes") html += viewMistakes();
+  else if (r === "exams") html += viewExams();
+  else if (r === "cheatsheet") html += viewCheat();
+  else if (r === "plan") html += viewPlan();
+  else if (r === "about") html += viewAbout();
+  else if (r === "settings") html += viewSettings();
+  else html += viewHome();
+  if (!storageOK) html = `<div class="notice no-print">This browser is blocking saved progress. Everything works, but progress disappears when you close the page. Use <a href="#settings">Export progress</a> to keep it.</div>` + html;
+  $("#main").innerHTML = html;
+  syncTheme();
+  if (r === "session") startTimer(); else stopTimer();
+}
+
+/* ---------- views: home ---------- */
+function nextStep() {
+  if (runningExam()) return { t: "Finish your practice exam", d: "The clock is still running.", h: "session", b: "Return to exam" };
+  if (!ST.diag) return { t: "Take the diagnostic test", d: "30 questions across all 12 units, about 30 minutes, untimed. It tells you which units you can skim and which need full study.", h: "diagnostic", b: "Start diagnostic" };
+  const order = UNITS.slice().sort((a, b) => ({ study: 0, review: 1, skim: 2 }[diagRec(a.id)] ?? 1) - ({ study: 0, review: 1, skim: 2 }[diagRec(b.id)] ?? 1) || a.id - b.id);
+  const u = order.find((x) => unitStatus(x.id) !== "done");
+  if (u) {
+    const read = U(u.id).read;
+    return { t: `Unit ${u.id}: ${u.title}`, d: read ? "You've read the lesson. Take the unit quiz and aim for 70% or better." : `Read the ${u.minutes}-minute lesson, then take the quiz.`, h: `unit-${u.id}`, b: read ? "Go to quiz" : "Open lesson" };
+  }
+  const mist = openMistakes().length;
+  if (!examScore("exam1")) return { t: "Take Practice Exam 1", d: `120 questions, ${EXAM_MINUTES} minutes, no pausing. Block out the time first.`, h: "exams", b: "Go to exams" };
+  if (mist > 15) return { t: "Drill your mistake log", d: `${mist} missed questions are waiting. Clear them before Exam 2.`, h: "mistakes", b: "Drill mistakes" };
+  if (!examScore("exam2")) return { t: "Take Practice Exam 2", d: "Same format, all-new questions.", h: "exams", b: "Go to exams" };
+  if (!readiness().ready) return { t: "Retake the weaker exam after review", d: "Both practice exams need 75% or better before you book.", h: "exams", b: "Go to exams" };
+  return { t: "You're ready to book the exam", d: "Keep flashcards warm and redraw the cheat sheet the day before.", h: "cheatsheet", b: "Open cheat sheet" };
+}
+function viewHome() {
+  const n = nextStep();
+  const done = UNITS.filter((u) => unitStatus(u.id) === "done").length;
+  const r = readiness();
+  const cs = cardStats();
+  const seg = (s) => (s === null ? "" : s >= 0.75 ? "on" : "part");
+  const rows = UNITS.map((u) => {
+    const st = unitStatus(u.id), best = quizBest(u.id), rec = diagRec(u.id);
+    const recChip = rec ? `<span class="chip ${rec === "skim" ? "good" : rec === "review" ? "warn" : "bad"}">${rec === "skim" ? "Skim" : rec === "review" ? "Review" : "Must study"}</span>` : '<span class="muted small">—</span>';
+    const stChip = st === "done" ? '<span class="chip good">Complete</span>' : st === "prog" ? '<span class="chip warn">In progress</span>' : '<span class="chip">Not started</span>';
+    return `<tr><td class="num">${u.id}</td><td><a href="#unit-${u.id}">${esc(u.short)}</a> <span class="muted small">${esc(u.range)}</span></td><td class="n">${u.weight.min}–${u.weight.max}%</td><td>${recChip}</td><td class="n">${best === null ? "—" : Math.round(best * 100) + "%"}</td><td>${stChip}</td></tr>`;
+  }).join("");
+  return `<div class="col">
+  <header class="hero">
+    <span class="eyebrow">CLEP · ${DATA.meta.format.questions} questions · ${EXAM_MINUTES} minutes</span>
+    <h1>Western Civilization II, <span class="dates">1648 to the present</span></h1>
+    <p class="lede">Twelve units weighted like the real exam, ${Object.keys(Q).length} original practice questions, and two full-length timed exams. Work top to bottom; the next step is always on this page.</p>
+  </header>
+  <section class="panel next" aria-labelledby="nexth">
+    <span class="eyebrow">Next step</span>
+    <h2 id="nexth">${esc(n.t)}</h2>
+    <p class="muted">${esc(n.d)}</p>
+    <div class="row"><a class="btn primary" href="#${n.h}">${n.b}</a></div>
+  </section>
+  <section class="stats" aria-label="Progress summary">
+    <div class="stat"><b>${done}/${UNITS.length}</b><span>units complete</span></div>
+    <div class="stat"><b>${fmtH(hoursLeft())}</b><span>est. study left (of ${fmtH(totalPlannedHours())})</span></div>
+    <div class="stat"><b>${cs.mastered}/${cs.total}</b><span>flashcards mastered</span></div>
+    <div class="stat"><b>${openMistakes().length}</b><span>open mistakes</span></div>
+  </section>
+  <section class="panel" aria-labelledby="readyh">
+    <div class="spread"><h3 id="readyh">Readiness</h3><span class="ready-badge ${r.ready ? "yes" : ""}">${r.ready ? "Ready to book" : "Not ready yet"}</span></div>
+    <div class="meter" aria-hidden="true"><div class="${done === UNITS.length ? "on" : done ? "part" : ""}"></div><div class="${seg(r.s1)}"></div><div class="${seg(r.s2)}"></div></div>
+    <div class="row small muted" style="justify-content:space-between"><span>Units ${done}/${UNITS.length}</span><span>Exam 1: ${r.s1 === null ? "not taken" : Math.round(r.s1 * 100) + "%"}</span><span>Exam 2: ${r.s2 === null ? "not taken" : Math.round(r.s2 * 100) + "%"}</span></div>
+    <p class="small muted">"Ready to book" lights up only when both full-length practice exams are at 75% or higher.</p>
+  </section>
+  <section class="panel" aria-labelledby="unitsh">
+    <div class="spread"><h3 id="unitsh">Units</h3><span class="small muted">Weight = share of real exam questions</span></div>
+    <div class="tablewrap"><table class="unit-table"><thead><tr><th>#</th><th>Unit</th><th class="n">Weight</th><th>Diagnostic</th><th class="n">Best quiz</th><th>Status</th></tr></thead><tbody>${rows}</tbody></table></div>
+  </section>
+</div>`;
+}
+
+/* ---------- views: unit ---------- */
+function viewUnit(u) {
+  const st = U(u.id);
+  const best = quizBest(u.id);
+  const rec = diagRec(u.id);
+  const cs = cardStats(u.id);
+  const w = `${u.weight.min}–${u.weight.max}% of exam` + (u.weight.verified ? "" : ' <span class="chip unverified" title="Weight confirmed only by third-party sources">unverified</span>');
+  const tl = u.timeline.map((t) => `<li class="${t.key ? "key" : ""}"><span class="yr">${esc(t.y)}</span><span class="pin" aria-hidden="true"></span><span class="ev"><b>${t.label}</b><span>${t.note}</span></span></li>`).join("");
+  const recNote = rec === "skim" ? '<div class="notice info">Your diagnostic says you can <b>skim</b> this unit: read the Must-know box and timeline, then go straight to the quiz.</div>'
+    : rec === "study" ? '<div class="notice">Your diagnostic flagged this unit as <b>must study</b>. Read the whole lesson before the quiz.</div>' : "";
+  const prev = unitById(u.id - 1), next = unitById(u.id + 1);
+  return `<div class="col">
+  <header class="unit-head">
+    <span class="eyebrow">Unit ${u.id} of ${UNITS.length} · ${esc(u.range)}</span>
+    <h1>${esc(u.title)}</h1>
+    <div class="meta"><span class="chip accent">${w}</span><span class="chip">${u.minutes}-min lesson</span><span class="chip">${u.quizIds.length}-question quiz</span><span class="chip">${u.cards.length} flashcards</span>${best !== null ? `<span class="chip ${best >= 0.7 ? "good" : "warn"}">Best quiz ${Math.round(best * 100)}%</span>` : ""}</div>
+  </header>
+  ${recNote}
+  <section class="mustknow" aria-labelledby="mk${u.id}">
+    <h3 id="mk${u.id}">Must know</h3>
+    <ol>${u.mustKnow.map((m) => `<li>${m}</li>`).join("")}</ol>
+  </section>
+  <article class="lesson" aria-label="Lesson">${u.lesson || '<p class="muted">Lesson coming in the next build stage.</p>'}</article>
+  <section class="panel" aria-labelledby="tl${u.id}">
+    <div class="spread"><h3 id="tl${u.id}">Timeline</h3><span class="small muted">Filled dots also appear on the master timeline</span></div>
+    <ol class="timeline">${tl}</ol>
+  </section>
+  <section class="panel" aria-label="Official subtopics">
+    <span class="eyebrow">Official subtopics covered</span>
+    <div class="row">${u.subtopics.map((s) => `<span class="chip">${esc(s)}</span>`).join("")}</div>
+  </section>
+  <div class="row spread no-print">
+    ${prev ? `<a class="btn" href="#unit-${prev.id}">← Unit ${prev.id}</a>` : "<span></span>"}
+    ${next ? `<a class="btn" href="#unit-${next.id}">Unit ${next.id} →</a>` : `<a class="btn" href="#exams">Practice exams →</a>`}
+  </div>
+  <div class="lesson-actions no-print"><div class="panel">
+    <button class="btn ${st.read ? "" : "primary"}" type="button" data-act="mark-read" data-u="${u.id}">${st.read ? "✓ Lesson read" : "Mark lesson read"}</button>
+    <button class="btn ${st.read ? "primary" : ""}" type="button" data-act="unit-quiz" data-u="${u.id}" ${u.quizIds.length ? "" : "disabled"}>Take quiz (${u.quizIds.length})</button>
+    <button class="btn" type="button" data-act="unit-cards" data-u="${u.id}" ${u.cards.length ? "" : "disabled"}>Flashcards <span class="muted small num">${cs.mastered}/${cs.total}</span></button>
+  </div></div>
+</div>`;
+}
+
+/* ---------- question sessions ---------- */
+// kind: quiz | diag | exam | drill.  feedback: "now" (show answer immediately) or "end".
+function startSession(cfg) {
+  S.session = Object.assign({ idx: 0, answers: {}, flags: {} }, cfg);
+  S.result = null;
+  go("session");
+}
+function runningExam() {
+  for (const k of ["exam1", "exam2"]) { const e = ST.exams[k]; if (e && e.status === "running") return k; }
+  return null;
+}
+function examSession(k) {
+  const e = ST.exams[k];
+  return { kind: "exam", examKey: k, ids: e.ids, title: k === "exam1" ? "Practice Exam 1" : "Practice Exam 2", feedback: "end", idx: e.idx || 0, answers: e.answers, flags: e.flags, deadline: e.start + EXAM_MINUTES * 60000 };
+}
+function ensureSession() {
+  const k = runningExam();
+  if (k && (!S.session || S.session.examKey !== k)) S.session = examSession(k);
+  return S.session;
+}
+function viewSession() {
+  const s = ensureSession();
+  if (!s) return `<div class="col"><p>No quiz in progress.</p><p><a class="btn" href="#home">Back to dashboard</a></p></div>`;
+  const id = s.ids[s.idx], q = Q[id], u = unitById(q.unit);
+  const chosen = s.answers[id];
+  const reveal = s.feedback === "now" && chosen !== undefined;
+  const opts = q.options.map((o, i) => {
+    let cls = "opt";
+    if (reveal) { if (i === q.answer) cls += " right"; else if (i === chosen) cls += " wrong"; }
+    else if (i === chosen) cls += " sel";
+    return `<button class="${cls}" type="button" data-act="pick" data-i="${i}" ${reveal ? "disabled" : ""} aria-pressed="${i === chosen}"><span class="k">${LETTERS[i]}</span><span>${o}</span></button>`;
+  }).join("");
+  let fb = "";
+  if (reveal) {
+    const ok = chosen === q.answer;
+    fb = `<section class="panel why" aria-live="polite"><span class="verdict ${ok ? "ok" : "no"}">${ok ? "Correct." : `Not quite. The answer is ${LETTERS[q.answer]}.`}</span>
+      <ul>${q.why.map((w, i) => `<li><span class="mk ${i === q.answer ? "ok" : "no"}">${LETTERS[i]}</span><span>${w}</span></li>`).join("")}</ul></section>`;
+  }
+  const last = s.idx === s.ids.length - 1;
+  const answeredCount = s.ids.filter((x) => s.answers[x] !== undefined).length;
+  const timer = s.deadline ? `<span class="timer" id="timer" aria-label="Time remaining">--:--</span>` : "";
+  const grid = s.feedback === "end" ? `<details class="panel tight no-print" ${s.kind === "exam" ? "" : "open"}><summary class="small">Question map · ${answeredCount}/${s.ids.length} answered${s.kind === "exam" ? " · gold dot = flagged" : ""}</summary>
+      <div class="qgrid">${s.ids.map((x, i) => `<button type="button" data-act="jump" data-i="${i}" class="${s.answers[x] !== undefined ? "ans" : ""} ${i === s.idx ? "cur" : ""} ${s.flags[x] ? "flag" : ""}" aria-label="Question ${i + 1}">${i + 1}</button>`).join("")}</div></details>` : "";
+  const nextLabel = last ? (s.feedback === "end" ? "Review & submit" : "Finish") : "Next";
+  const canNext = s.feedback === "end" || reveal;
+  const confirm = S.confirm === "submit" ? `<div class="notice bad" role="alert"><b>${s.ids.length - answeredCount} unanswered.</b> Unanswered questions count as wrong (there is no guessing penalty on CLEP, so guess). <div class="row" style="margin-top:8px"><button class="btn primary" type="button" data-act="submit-confirm">Submit now</button><button class="btn" type="button" data-act="cancel-confirm">Keep working</button></div></div>` : "";
+  return `<div class="col">
+  <div class="runner">
+    <div class="runner-head">
+      <div><span class="eyebrow">${esc(s.title)}</span><div class="small muted num">Question ${s.idx + 1} of ${s.ids.length} · Unit ${u.id}: ${esc(u.short)}${s.kind === "exam" || s.kind === "diag" ? "" : " · " + ({ e: "easy", m: "medium", h: "hard" }[q.diff])}</div></div>
+      <div class="row">${timer}${s.kind !== "exam" ? `<button class="btn small ghost" type="button" data-act="quit">Quit</button>` : ""}</div>
+    </div>
+    <div class="stem">${q.stem}</div>
+    <div class="opts" role="group" aria-label="Answer choices">${opts}</div>
+    ${fb}
+    ${confirm}
+    <div class="row spread no-print">
+      <div class="row">${s.feedback === "end" ? `<button class="btn" type="button" data-act="prev" ${s.idx === 0 ? "disabled" : ""}>← Back</button>` : ""}${s.kind === "exam" ? `<button class="btn" type="button" data-act="flag">${s.flags[id] ? "Unflag" : "Flag for review"}</button>` : ""}</div>
+      <div class="row">${s.feedback === "end" && !last ? `<button class="btn small ghost" type="button" data-act="submit">Submit early</button>` : ""}<button class="btn primary" type="button" data-act="next" ${canNext ? "" : "disabled"}>${nextLabel}</button></div>
+    </div>
+    <p class="small muted no-print">Keys: <span class="kbd">1</span>–<span class="kbd">5</span> choose an answer, <span class="kbd">Enter</span> next${s.feedback === "end" ? ', <span class="kbd">←</span> back' : ""}.</p>
+    ${grid}
+  </div>
+</div>`;
+}
+function persistExam() {
+  const s = S.session;
+  if (s && s.kind === "exam") { const e = ST.exams[s.examKey]; e.answers = s.answers; e.flags = s.flags; e.idx = s.idx; save(); }
+}
+function pick(i) {
+  const s = S.session; if (!s) return;
+  const id = s.ids[s.idx];
+  if (s.feedback === "now") {
+    if (s.answers[id] !== undefined) return;
+    s.answers[id] = i;
+    recordAnswer(id, i === Q[id].answer);
+    save();
+  } else {
+    s.answers[id] = i;
+    persistExam();
+  }
+  render();
+}
+function nextQ() {
+  const s = S.session; if (!s) return;
+  const id = s.ids[s.idx];
+  if (s.feedback === "now" && s.answers[id] === undefined) return;
+  if (s.idx < s.ids.length - 1) { s.idx++; S.confirm = null; persistExam(); render(); window.scrollTo(0, 0); }
+  else if (s.feedback === "end") {
+    const unanswered = s.ids.filter((x) => s.answers[x] === undefined).length;
+    if (unanswered && S.confirm !== "submit") { S.confirm = "submit"; render(); return; }
+    finishSession();
+  } else finishSession();
+}
+function grade(ids, answers) {
+  const byUnit = {};
+  let correct = 0;
+  for (const id of ids) {
+    const q = Q[id], ok = answers[id] === q.answer;
+    byUnit[q.unit] = byUnit[q.unit] || [0, 0];
+    byUnit[q.unit][1]++;
+    if (ok) { byUnit[q.unit][0]++; correct++; }
+  }
+  return { correct, total: ids.length, byUnit };
+}
+function finishSession() {
+  const s = S.session; if (!s) return;
+  S.confirm = null;
+  const g = grade(s.ids, s.answers);
+  if (s.feedback === "end") for (const id of s.ids) recordAnswer(id, s.answers[id] === Q[id].answer);
+  if (s.kind === "quiz") U(s.unit).quiz.push({ score: g.correct, total: g.total, date: isoDate() });
+  if (s.kind === "diag") ST.diag = { answers: s.answers, byUnit: g.byUnit, score: g.correct, total: g.total, date: isoDate() };
+  if (s.kind === "exam") Object.assign(ST.exams[s.examKey], { status: "done", answers: s.answers, byUnit: g.byUnit, score: g.correct, total: g.total, end: Date.now() });
+  save();
+  S.result = { kind: s.kind, title: s.title, ids: s.ids, answers: s.answers, g, unit: s.unit, examKey: s.examKey };
+  S.session = null;
+  if (s.kind === "diag") go("diagnostic");
+  else go("result");
+}
+function byUnitTable(byUnit, showRec) {
+  const rows = Object.keys(byUnit).map(Number).sort((a, b) => a - b).map((id) => {
+    const [c, t] = byUnit[id], p = pct(c, t), u = unitById(id);
+    const cls = p >= 75 ? "good" : p >= 50 ? "warn" : "bad";
+    const rec = showRec ? `<td><span class="chip ${cls}">${p >= 75 ? "Skim" : p >= 50 ? "Review" : "Must study"}</span></td>` : "";
+    return `<tr><td class="num">${id}</td><td><a href="#unit-${id}">${esc(u.short)}</a></td><td class="n">${c}/${t}</td><td style="width:30%"><div class="bar ${cls}"><span style="width:${p}%"></span></div></td><td class="n">${p}%</td>${rec}</tr>`;
+  }).join("");
+  return `<div class="tablewrap"><table><thead><tr><th>#</th><th>Unit</th><th class="n">Right</th><th>Score</th><th class="n">%</th>${showRec ? "<th>Plan</th>" : ""}</tr></thead><tbody>${rows}</tbody></table></div>`;
+}
+function reviewList(ids, answers, missedOnly) {
+  const list = ids.filter((id) => !missedOnly || answers[id] !== Q[id].answer);
+  if (!list.length) return '<p class="muted">Nothing to review: every answer was right.</p>';
+  return list.map((id) => {
+    const q = Q[id], a = answers[id];
+    return `<div class="review-item"><div class="small muted">Unit ${q.unit} · ${a === undefined ? "<b>unanswered</b>" : a === q.answer ? "correct" : `you chose ${LETTERS[a]}`}</div>
+      <div class="stem">${q.stem}</div>
+      <div class="why"><ul>${q.options.map((o, i) => `<li><span class="mk ${i === q.answer ? "ok" : "no"}">${i === q.answer ? "✓" : i === a ? "✗" : LETTERS[i]}</span><span><b>${o}</b><br><span class="muted">${q.why[i]}</span></span></li>`).join("")}</ul></div></div>`;
+  }).join("");
+}
+function viewResult() {
+  const r = S.result;
+  if (!r) return `<div class="col"><p>No results to show.</p><a class="btn" href="#home">Dashboard</a></div>`;
+  const p = pct(r.g.correct, r.g.total);
+  let actions = "";
+  if (r.kind === "quiz") actions = `<button class="btn primary" type="button" data-act="unit-quiz" data-u="${r.unit}">Retake quiz</button><a class="btn" href="#unit-${r.unit}">Back to lesson</a>${unitById(r.unit + 1) ? `<a class="btn" href="#unit-${r.unit + 1}">Next unit →</a>` : ""}`;
+  else if (r.kind === "drill") actions = `<button class="btn primary" type="button" data-act="drill">Drill again</button><a class="btn" href="#mistakes">Mistake log</a>`;
+  else actions = `<a class="btn primary" href="#exams">Exams overview</a><a class="btn" href="#mistakes">Drill mistakes</a>`;
+  const multi = Object.keys(r.g.byUnit).length > 1;
+  const passNote = r.kind === "quiz" ? (p >= 70 ? "Passed. This counts toward completing the unit." : "Aim for 70% to complete the unit. Re-read the Must-know box, then retake.") : r.kind === "exam" ? (p >= 75 ? "At or above the 75% readiness bar." : "Below the 75% readiness bar. Study the weakest units below, then drill your mistakes.") : "";
+  return `<div class="col">
+  <span class="eyebrow">${esc(r.title)} · results</span>
+  <h1 class="num">${r.g.correct} / ${r.g.total} <span class="muted">(${p}%)</span></h1>
+  ${passNote ? `<p class="lede">${passNote}</p>` : ""}
+  <div class="row no-print">${actions}</div>
+  ${multi ? `<section class="panel"><h3>Results by topic</h3>${byUnitTable(r.g.byUnit, false)}</section>` : ""}
+  <section class="panel"><div class="spread"><h3>Review missed questions</h3><span class="small muted">Every option explained</span></div>${reviewList(r.ids, r.answers, true)}</section>
+</div>`;
+}
+
+/* ---------- diagnostic ---------- */
+function viewDiagnostic() {
+  const ids = DATA.pools.diag;
+  if (ST.diag) {
+    const d = ST.diag, p = pct(d.score, d.total);
+    const skim = UNITS.filter((u) => diagRec(u.id) === "skim").length;
+    return `<div class="col">
+    <span class="eyebrow">Diagnostic · ${esc(d.date)}</span>
+    <h1 class="num">${d.score} / ${d.total} <span class="muted">(${p}%)</span></h1>
+    <p class="lede">With only 2–4 questions per unit this is a rough map, not a verdict. <b>Skim</b> units (75%+) need the Must-know box, timeline and quiz only; that saves about half their study time. <b>Must study</b> units get the full lesson first.</p>
+    <div class="row no-print"><a class="btn primary" href="#home">See my next step</a><a class="btn" href="#plan">Build a study plan</a><button class="btn small ghost" type="button" data-act="diag-reset">Retake diagnostic</button></div>
+    ${S.confirm === "diag-reset" ? `<div class="notice bad">Retaking clears these results and your skim/study marks. <div class="row" style="margin-top:8px"><button class="btn danger" type="button" data-act="diag-reset-confirm">Clear and retake</button><button class="btn" type="button" data-act="cancel-confirm">Cancel</button></div></div>` : ""}
+    <section class="panel"><div class="spread"><h3>Scores by unit</h3><span class="small muted">${skim} unit${skim === 1 ? "" : "s"} to skim</span></div>${byUnitTable(d.byUnit, true)}</section>
+    <section class="panel"><h3>Review missed questions</h3>${reviewList(ids, d.answers, true)}</section>
+  </div>`;
+  }
+  return `<div class="col">
+  <span class="eyebrow">Start here</span>
+  <h1>Diagnostic test</h1>
+  <p class="lede">${ids.length} questions drawn from all 12 units in proportion to the real exam. Untimed, about 30 minutes. You won't see answers until the end, so you're measuring what you know now. Guess when unsure; CLEP has no penalty for wrong answers.</p>
+  <section class="panel"><h3>What you get</h3><p>A score for each unit and a mark of <span class="chip good">Skim</span>, <span class="chip warn">Review</span> or <span class="chip bad">Must study</span>. The dashboard, hours estimate and study plan all use these marks.</p></section>
+  <div class="row"><button class="btn primary" type="button" data-act="diag-start" ${ids.length ? "" : "disabled"}>Start diagnostic</button><a class="btn" href="#unit-1">Skip and start Unit 1</a></div>
+</div>`;
+}
+
+/* ---------- exams ---------- */
+function viewExams() {
+  const card = (k, label) => {
+    const e = ST.exams[k], ids = DATA.pools[k];
+    let body;
+    if (e && e.status === "running") body = `<p>In progress. The clock is running.</p><div class="row"><a class="btn primary" href="#session" data-act="resume-exam" data-k="${k}">Return to exam</a></div>`;
+    else if (e && e.status === "done") {
+      const p = pct(e.score, e.total);
+      body = `<p class="num"><b style="font-family:var(--serif);font-size:1.6rem">${p}%</b> <span class="muted">${e.score}/${e.total} · ${new Date(e.end).toLocaleDateString()}</span> <span class="chip ${p >= 75 ? "good" : "bad"}">${p >= 75 ? "meets 75% bar" : "below 75%"}</span></p>
+        <div class="row"><button class="btn" type="button" data-act="exam-results" data-k="${k}">Results by topic</button><button class="btn small ghost" type="button" data-act="exam-start" data-k="${k}">Retake</button></div>`;
+    } else body = `<p class="muted">${ids.length} questions · ${EXAM_MINUTES} minutes · not taken</p><div class="row"><button class="btn primary" type="button" data-act="exam-start" data-k="${k}" ${ids.length ? "" : "disabled"}>Start ${label}</button></div>`;
+    const conf = S.confirm === "start-" + k ? `<div class="notice bad" role="alert"><b>The ${EXAM_MINUTES}-minute clock starts now and does not pause</b>, even if you close the page. ${e && e.status === "done" ? "Your previous score will be replaced. " : ""}Sit somewhere quiet with ${EXAM_MINUTES} free minutes.<div class="row" style="margin-top:8px"><button class="btn primary" type="button" data-act="exam-go" data-k="${k}">Start the clock</button><button class="btn" type="button" data-act="cancel-confirm">Not now</button></div></div>` : "";
+    return `<section class="panel"><h3>${label}</h3>${body}${conf}</section>`;
+  };
+  const r = readiness();
+  return `<div class="col">
+  <span class="eyebrow">Full-length, timed</span>
+  <h1>Practice exams</h1>
+  <p class="lede">Each exam matches the real format: ${DATA.meta.format.questions} questions in ${EXAM_MINUTES} minutes, topics in official proportions. The two exams share no questions with each other, the unit quizzes or the diagnostic. You can move back and forth and flag questions, as on the real test. Results by topic appear at the end.</p>
+  <div class="notice info">Pacing: ${EXAM_MINUTES} minutes for ${DATA.meta.format.questions} questions is 45 seconds each. Don't stall; flag it and move on.</div>
+  <div class="grid2">${card("exam1", "Practice Exam 1")}${card("exam2", "Practice Exam 2")}</div>
+  <section class="panel"><div class="spread"><h3>Readiness</h3><span class="ready-badge ${r.ready ? "yes" : ""}">${r.ready ? "Ready to book" : "Not ready yet"}</span></div><p class="small muted">Both exams at 75% or higher means ready to book. Retakes show the same questions, so a retake score overstates readiness; review mistakes instead of memorizing letters.</p></section>
+</div>`;
+}
+
+/* ---------- flashcards (Leitner) ---------- */
+function deckCards(unitId) { return unitId ? unitById(unitId).cards : UNITS.flatMap((u) => u.cards); }
+function viewCards() {
+  const cs = S.cardSession;
+  if (cs && cs.queue.length) return viewCardRun(cs);
+  const unitSel = S.cardUnit || 0;
+  const cards = deckCards(unitSel);
+  const today = dayNum();
+  const boxes = [0, 0, 0, 0, 0, 0];
+  let missed = 0;
+  for (const c of cards) { const s = ST.cards[c.id]; boxes[s ? s.box : 0]++; if (s && s.last === "miss") missed++; }
+  const st = cardStats(unitSel);
+  const opts = `<option value="0">All units</option>` + UNITS.map((u) => `<option value="${u.id}" ${+unitSel === u.id ? "selected" : ""}>Unit ${u.id}: ${esc(u.short)}</option>`).join("");
+  const finished = cs && !cs.queue.length ? `<div class="notice info">Session done: ${cs.right} right, ${cs.wrong} missed. Missed cards went back to box 1 and come back sooner.</div>` : "";
+  return `<div class="col">
+  <span class="eyebrow">Spaced repetition</span>
+  <h1>Flashcards</h1>
+  <p class="lede">Leitner boxes: a card you know moves up a box and waits longer (box 2: 1 day, 3: 3 days, 4: 7 days, 5: 14 days). A card you miss drops to box 1 and returns later in the same session.</p>
+  ${finished}
+  <div class="row"><label class="field">Deck<select id="deckSel" data-act="deck">${opts}</select></label></div>
+  <div class="boxes" aria-label="Cards per box">
+    <div><b class="num">${boxes[0]}</b><span>New</span></div>
+    ${[1, 2, 3, 4, 5].map((b) => `<div><b class="num">${boxes[b]}</b><span>Box ${b}</span></div>`).join("")}
+  </div>
+  <p class="small muted">Mastered = box 3 or higher: <b class="num">${st.mastered}/${st.total}</b>.</p>
+  <div class="row">
+    <button class="btn primary" type="button" data-act="cards-due">Review due + new (${st.due + Math.min(st.fresh, 20)})</button>
+    <button class="btn" type="button" data-act="cards-missed" ${missed ? "" : "disabled"}>Review missed only (${missed})</button>
+    <button class="btn" type="button" data-act="cards-all">Cram whole deck (${cards.length})</button>
+  </div>
+  <p class="small muted">Keys: <span class="kbd">Space</span> flip, <span class="kbd">1</span> missed it, <span class="kbd">2</span> knew it.</p>
+</div>`;
+}
+function startCards(mode) {
+  const unitSel = S.cardUnit || 0, cards = deckCards(unitSel), today = dayNum();
+  let q;
+  if (mode === "missed") q = cards.filter((c) => ST.cards[c.id] && ST.cards[c.id].last === "miss");
+  else if (mode === "all") q = cards.slice();
+  else {
+    const due = cards.filter((c) => ST.cards[c.id] && ST.cards[c.id].due <= today);
+    const fresh = cards.filter((c) => !ST.cards[c.id]).slice(0, 20);
+    q = due.concat(fresh);
+  }
+  if (!q.length) { toast("Nothing due in this deck. Try cram mode or another unit."); return; }
+  S.cardSession = { queue: shuffle(q).map((c) => c.id), flipped: false, right: 0, wrong: 0, total: q.length };
+  render();
+}
+const cardById = (id) => unitById(+id.match(/^u(\d+)/)[1]).cards.find((c) => c.id === id);
+function viewCardRun(cs) {
+  const c = cardById(cs.queue[0]);
+  const s = ST.cards[c.id];
+  return `<div class="col">
+  <div class="spread"><span class="eyebrow">Flashcards · ${cs.queue.length} left · ${s ? "box " + s.box : "new card"}</span><button class="btn small ghost" type="button" data-act="cards-quit">End session</button></div>
+  <div class="fcard ${cs.flipped ? "flipped" : ""}" data-act="flip" role="button" tabindex="0" aria-label="Flip card">
+    <div class="front">${c.front}</div>
+    ${cs.flipped ? `<div class="back">${c.back}</div>` : '<div class="muted small">Say the answer out loud, then flip</div>'}
+  </div>
+  <div class="row" style="justify-content:center">
+    ${cs.flipped ? `<button class="btn danger" type="button" data-act="card-grade" data-ok="0">Missed it <span class="kbd">1</span></button><button class="btn primary" type="button" data-act="card-grade" data-ok="1">Knew it <span class="kbd">2</span></button>` : `<button class="btn primary" type="button" data-act="flip">Flip <span class="kbd">Space</span></button>`}
+  </div>
+  <p class="small muted" style="text-align:center">Unit ${c.id.match(/^u(\d+)/)[1]}</p>
+</div>`;
+}
+function gradeCard(ok) {
+  const cs = S.cardSession; if (!cs || !cs.flipped) return;
+  const id = cs.queue.shift();
+  const s = ST.cards[id] || { box: 0, lapses: 0 };
+  if (ok) { s.box = Math.min(5, Math.max(1, s.box) + 1); s.due = dayNum() + BOX_DAYS[s.box]; s.last = "ok"; cs.right++; }
+  else {
+    s.box = 1; s.due = dayNum(); s.last = "miss"; s.lapses = (s.lapses || 0) + 1; cs.wrong++;
+    cs.queue.splice(Math.min(cs.queue.length, 3), 0, id); // comes back after ~3 cards
+  }
+  ST.cards[id] = s;
+  cs.flipped = false;
+  save();
+  render();
+}
+
+/* ---------- mistake log ---------- */
+function viewMistakes() {
+  const open = openMistakes().sort((a, b) => ST.mistakes[b].n - ST.mistakes[a].n);
+  const cleared = Object.keys(ST.mistakes).filter((id) => ST.mistakes[id].cleared).length;
+  const byUnit = {};
+  open.forEach((id) => (byUnit[Q[id].unit] = (byUnit[Q[id].unit] || 0) + 1));
+  const unitChips = Object.keys(byUnit).sort((a, b) => a - b).map((u) => `<span class="chip">Unit ${u}: ${byUnit[u]}</span>`).join("");
+  const list = open.slice(0, 60).map((id) => {
+    const q = Q[id], m = ST.mistakes[id];
+    return `<details class="review-item"><summary><span class="small muted">Unit ${q.unit} · missed ${m.n}× · last ${esc(m.last)}</span><div class="stem">${q.stem}</div></summary>
+      <div class="why"><ul>${q.options.map((o, i) => `<li><span class="mk ${i === q.answer ? "ok" : "no"}">${i === q.answer ? "✓" : LETTERS[i]}</span><span><b>${o}</b><br><span class="muted">${q.why[i]}</span></span></li>`).join("")}</ul></div></details>`;
+  }).join("");
+  return `<div class="col">
+  <span class="eyebrow">Review queue</span>
+  <h1>Mistake log</h1>
+  <p class="lede">Every question you miss anywhere (quizzes, diagnostic, exams, drills) lands here. Answer it right twice in a row and it clears.</p>
+  <div class="stats"><div class="stat"><b class="num">${open.length}</b><span>open</span></div><div class="stat"><b class="num">${cleared}</b><span>cleared</span></div></div>
+  ${unitChips ? `<div class="row">${unitChips}</div>` : ""}
+  <div class="row"><button class="btn primary" type="button" data-act="drill" ${open.length ? "" : "disabled"}>Drill mistakes (${Math.min(20, open.length)})</button></div>
+  ${open.length ? `<section class="panel"><h3>Open mistakes</h3>${list}</section>` : '<p class="muted">No open mistakes yet. Take a quiz or the diagnostic.</p>'}
+</div>`;
+}
+
+/* ---------- cheat sheet ---------- */
+function yearKey(y) { const m = String(y).match(/\d{3,4}/); return m ? +m[0] : 9999; }
+function viewCheat() {
+  const mask = S.mask ? " masked" : "";
+  const tl = UNITS.flatMap((u) => u.timeline.filter((t) => t.key)).sort((a, b) => yearKey(a.y) - yearKey(b.y));
+  const tlHtml = tl.map((t) => `<div><span class="y">${esc(t.y)}</span><span class="hideable${mask}">${t.label}</span></div>`).join("");
+  const who = UNITS.map((u) => {
+    const ppl = u.cards.filter((c) => c.person);
+    if (!ppl.length) return "";
+    return ppl.map((c) => `<p><b>${c.front}</b> <span class="muted">(U${u.id})</span>: <span class="hideable${mask}">${c.back}</span></p>`).join("");
+  }).join("");
+  const mini = UNITS.map((u) => `<div class="unit-mini"><h4>${u.id}. ${esc(u.short)} <span class="muted">${u.weight.min}–${u.weight.max}%</span></h4><ul>${u.mustKnow.slice(0, 3).map((m) => `<li class="hideable${mask}">${m}</li>`).join("")}</ul></div>`).join("");
+  return `<div class="col wide cheat">
+  <div class="spread"><div><span class="eyebrow">One page, redraw it from memory</span><h1>Cheat sheet</h1></div>
+  <div class="row no-print"><button class="btn" type="button" data-act="mask">${S.mask ? "Show answers" : "Hide answers (self-test)"}</button>${inFrame ? "" : '<button class="btn" type="button" data-act="print">Print</button>'}</div></div>
+  <p class="lede no-print">The night before the exam, cover this page and redraw the timeline from memory. "Hide answers" blanks the right-hand side so you can test yourself on screen.</p>
+  <h2>Master timeline</h2>
+  <div class="cheat-cols">${tlHtml}</div>
+  <h2>Who's who: thinkers, leaders, and their big idea</h2>
+  <div class="who">${who}</div>
+  <h2>Top 3 per unit</h2>
+  <div class="grid2">${mini}</div>
+</div>`;
+}
+
+/* ---------- study plan ---------- */
+function buildPlan(hoursPerDay, examDate, startDate) {
+  const start = new Date(startDate + "T00:00:00"), exam = new Date(examDate + "T00:00:00");
+  const nDays = Math.round((exam - start) / 864e5); // study days before exam day
+  if (!(hoursPerDay > 0)) return { error: "Enter how many hours a day you can study." };
+  if (isNaN(nDays)) return { error: "Pick a start date and an exam date." };
+  if (nDays < 3) return { error: "Pick an exam date at least 3 days after the start date: the last two days are reserved for the practice exams." };
+  const tasks = [];
+  if (!ST.diag) tasks.push({ label: "Diagnostic test (30 questions)", h: EXTRA.diag });
+  const order = UNITS.slice().sort((a, b) => a.id - b.id);
+  for (const u of order) {
+    const left = unitRemainingHours(u);
+    if (left < 0.05) continue;
+    const skim = diagRec(u.id) === "skim";
+    const lead = `Unit ${u.id} · ${u.short}${skim ? " (skim)" : ""}`;
+    const parts = U(u.id).read ? [["quiz + review misses", 0.55], ["flashcards", 0.45]] : [["lesson + must-know + timeline", 0.4], ["quiz + review misses", 0.35], ["flashcards", 0.25]];
+    for (const [p, f] of parts) tasks.push({ label: `${lead}: ${p}`, h: left * f, unit: u.id });
+  }
+  tasks.push({ label: "Mistake-log drill + weakest-unit quiz retake", h: 1 });
+  tasks.push({ label: "Cheat sheet: redraw timeline and who's who from memory", h: 1 });
+  const days = [];
+  const studyDays = nDays - 2;
+  for (let i = 0; i < nDays; i++) days.push({ date: new Date(start.getTime() + i * 864e5), items: [], h: 0 });
+  let di = 0;
+  const flash = hoursPerDay >= 1 ? 0.25 : 0;
+  const cap = hoursPerDay - flash;
+  for (const t of tasks) {
+    let rem = t.h, part = 0;
+    const whole = rem;
+    while (rem > 0.01) {
+      if (di >= studyDays) break;
+      const room = cap - days[di].h;
+      if (room < 0.1) { di++; continue; }
+      const take = Math.min(room, rem);
+      part++;
+      const cont = take < rem - 0.01 || part > 1;
+      days[di].items.push(`${t.label}${cont ? (part > 1 ? " (cont.)" : " (start)") : ""}`);
+      days[di].h += take;
+      rem -= take;
+    }
+    t.left = rem;
+    if (di >= studyDays) break;
+  }
+  const shortfall = tasks.reduce((s, t) => s + (t.left === undefined ? t.h : t.left), 0);
+  for (let i = 0; i < studyDays; i++) {
+    if (!days[i].items.length) { days[i].items.push("Buffer: drill mistakes, retake your weakest quiz, or rest"); days[i].h = Math.min(cap, 1); days[i].buffer = true; }
+    if (flash) { days[i].items.push("Flashcards: due cards (15 min)"); days[i].h += flash; }
+  }
+  days[nDays - 2].items = ["Practice Exam 1 (90 min, timed, no pausing)", "Review every missed question; drill mistake log"]; days[nDays - 2].h = EXTRA.exam; days[nDays - 2].exam = true;
+  days[nDays - 1].items = ["Practice Exam 2 (90 min, timed, no pausing)", "Review misses; skim cheat sheet"]; days[nDays - 1].h = EXTRA.exam; days[nDays - 1].exam = true;
+  days.push({ date: exam, items: ["CLEP exam day. Light flashcard warm-up only."], h: 0, examday: true });
+  const need = tasks.reduce((s, t) => s + t.h, 0);
+  return { days, shortfall, need, studyDays, suggest: Math.ceil(((need + studyDays * flash) / studyDays) * 4) / 4 + flash };
+}
+function viewPlan() {
+  const p = ST.plan;
+  const today = isoDate();
+  const start = p.start || today;
+  const def = isoDate(new Date(Date.now() + 21 * 864e5));
+  const examDate = p.date || def;
+  const res = buildPlan(+p.hours, examDate, start);
+  let out;
+  if (res.error) out = `<div class="notice bad">${res.error}</div>`;
+  else {
+    const rows = res.days.map((d, i) => `<tr class="${d.exam ? "exam" : ""} ${d.examday ? "examday" : ""}"><td class="num">${d.date.toLocaleDateString(undefined, { weekday: "short", month: "short", day: "numeric" })}</td><td class="num">${d.examday ? "Exam" : "Day " + (i + 1)}</td><td><ul>${d.items.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></td><td class="n">${d.h ? fmtH(d.h) : ""}</td></tr>`).join("");
+    const warn = res.shortfall > 0.1 ? `<div class="notice bad"><b>Not enough time:</b> about ${fmtH(res.shortfall)} of unit work doesn't fit before the practice exams. Study about <b>${res.suggest} hours a day</b>, or move the exam date later.</div>` : `<div class="notice info">Fits: ${fmtH(res.need)} of remaining work across ${res.studyDays} study days, then two practice-exam days.</div>`;
+    out = warn + `<div class="tablewrap"><table class="plan-table"><thead><tr><th>Date</th><th>Day</th><th>Tasks</th><th class="n">Hours</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+  }
+  return `<div class="col">
+  <span class="eyebrow">Day by day</span>
+  <h1>Study plan</h1>
+  <p class="lede">Built from what's left: finished units drop out and units your diagnostic marked "skim" get half the time. The last two days before the exam are always Practice Exam 1 and Practice Exam 2.</p>
+  <div class="panel"><div class="row">
+    <label class="field">Hours per day<input id="planHours" type="number" min="0.5" max="12" step="0.5" value="${esc(p.hours)}" data-act="plan-input"></label>
+    <label class="field">Start date<input id="planStart" type="date" value="${esc(start)}" data-act="plan-input"></label>
+    <label class="field">Exam date<input id="planDate" type="date" value="${esc(examDate)}" data-act="plan-input"></label>
+  </div><p class="small muted">Total remaining: ${fmtH(hoursLeft())}. Changes save automatically.</p></div>
+  <div id="planOut">${out}</div>
+</div>`;
+}
+
+/* ---------- about ---------- */
+function viewAbout() {
+  const m = DATA.meta;
+  const allQ = Object.values(Q);
+  const totalWords = UNITS.reduce((s, u) => s + u.words, 0);
+  const totalCards = UNITS.reduce((s, u) => s + u.cards.length, 0);
+  const rows = DATA.outline.map((t) => {
+    const u = unitById(t.id);
+    const qn = u ? allQ.filter((q) => q.unit === t.id).length : 0;
+    const share = (x, tot) => (tot ? ((100 * x) / tot).toFixed(1) + "%" : "—");
+    return `<tr><td class="num">${t.id}</td><td>${esc(t.title)} ${t.verified ? "" : '<span class="chip unverified">unverified</span>'}<div class="small muted">${t.subtopics.map(esc).join(" · ")}</div></td><td class="n">${t.min}–${t.max}%</td><td class="n">${u ? share(u.words, totalWords) : "—"}</td><td class="n">${share(qn, allQ.length)}</td><td class="n">${u ? share(u.cards.length, totalCards) : "—"}</td></tr>`;
+  }).join("");
+  return `<div class="col wide">
+  <span class="eyebrow">Sources and coverage</span>
+  <h1>About this exam</h1>
+  <section class="panel"><h3>Format</h3>
+    <p><b>${m.format.questions} questions, ${m.format.time_minutes} minutes.</b> ${esc(m.format.note)}</p>
+    <p class="small muted">Questions test: ${m.skills.map(esc).join("; ")}.</p>
+  </section>
+  <section class="panel"><h3>Official content outline and this guide's coverage</h3>
+    <p class="small muted">Lesson, question and flashcard shares should track the official weight. Weights marked <span class="chip unverified">unverified</span> were confirmed only by third-party prep sites.</p>
+    <div class="tablewrap"><table><thead><tr><th>#</th><th>Topic</th><th class="n">Official</th><th class="n">Lesson</th><th class="n">Questions</th><th class="n">Cards</th></tr></thead><tbody>${rows}</tbody></table></div>
+  </section>
+  <section class="panel"><h3>Sources</h3>
+    <ul>${m.sources.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a><br><span class="small muted">${esc(s.url)}</span></li>`).join("")}</ul>
+    <p class="notice">${esc(m.verificationNote)}</p>
+    <p class="small muted">All questions, lessons and flashcards in this guide are original. They are not copied from the College Board, prep books or websites. CLEP is a registered trademark of the College Board, which does not endorse this guide.</p>
+  </section>
+  <section class="panel"><h3>How scoring works</h3>
+    <p>CLEP reports a scaled score from 20 to 80; 50 is the credit-granting score the American Council on Education recommends. The College Board does not publish the raw score needed for a 50. <span class="chip unverified">unverified</span> Test-takers commonly report needing roughly 60% raw. This guide asks for 75% on both practice exams to leave a safety margin.</p>
+  </section>
+</div>`;
+}
+
+/* ---------- settings / export ---------- */
+function viewSettings() {
+  return `<div class="col">
+  <span class="eyebrow">Your data</span>
+  <h1>Progress & settings</h1>
+  <section class="panel"><h3>Theme</h3><div class="row">${["system", "light", "dark"].map((t) => `<button class="btn ${ST.theme === t ? "primary" : ""}" type="button" data-act="set-theme" data-t="${t}">${t[0].toUpperCase() + t.slice(1)}</button>`).join("")}</div></section>
+  <section class="panel"><h3>Export progress</h3>
+    <p class="small muted">Progress lives in this browser only. Export it to move to another device or keep a backup.</p>
+    <div class="row"><button class="btn primary" type="button" data-act="export">Download progress file</button><button class="btn" type="button" data-act="copy-export">Copy as text</button></div>
+    <textarea id="exportBox" readonly aria-label="Progress JSON">${esc(JSON.stringify(ST))}</textarea>
+  </section>
+  <section class="panel"><h3>Import progress</h3>
+    <p class="small muted">Choose a progress file or paste its text. This replaces your current progress.</p>
+    <input type="file" id="importFile" accept="application/json,.json" data-act="import-file">
+    <textarea id="importBox" placeholder="Paste exported progress JSON here" aria-label="Paste progress JSON"></textarea>
+    <div class="row"><button class="btn" type="button" data-act="import-text">Import pasted text</button></div>
+  </section>
+  <section class="panel"><h3>Reset</h3>
+    ${S.confirm === "reset" ? `<div class="notice bad">This erases all progress in this browser. <div class="row" style="margin-top:8px"><button class="btn danger" type="button" data-act="reset-confirm">Erase everything</button><button class="btn" type="button" data-act="cancel-confirm">Cancel</button></div></div>` : `<div class="row"><button class="btn danger" type="button" data-act="reset">Reset all progress</button></div>`}
+  </section>
+</div>`;
+}
+function importState(text) {
+  try {
+    const obj = JSON.parse(text);
+    if (!obj || typeof obj !== "object" || obj.v !== 1 || typeof obj.units !== "object") throw new Error("shape");
+    ST = Object.assign(fresh(), obj);
+    save(); S = { session: null, result: null, cardSession: null, confirm: null };
+    toast("Progress imported.");
+    go("home");
+  } catch (e) { toast("That isn't a progress file from this guide. Nothing was changed."); }
+}
+
+/* ---------- theme ---------- */
+function syncTheme() {
+  const root = document.documentElement;
+  if (ST.theme === "system") root.removeAttribute("data-theme"); else root.setAttribute("data-theme", ST.theme);
+  const b = $("#themeBtn"); if (b) b.textContent = "◐ Theme: " + ST.theme;
+}
+function cycleTheme() {
+  const dark = ST.theme === "dark" || (ST.theme === "system" && window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches);
+  ST.theme = dark ? "light" : "dark";
+  save(); syncTheme();
+}
+
+/* ---------- menu ---------- */
+function closeMenu() { $("#rail").classList.remove("open"); $("#scrim").hidden = true; $("#menuBtn").setAttribute("aria-expanded", "false"); }
+function toggleMenu() { const open = !$("#rail").classList.contains("open"); $("#rail").classList.toggle("open", open); $("#scrim").hidden = !open; $("#menuBtn").setAttribute("aria-expanded", String(open)); }
+
+/* ---------- timer ---------- */
+let timerId = null;
+function tick() {
+  const s = S.session, el = $("#timer");
+  if (!s || !s.deadline) return;
+  const left = s.deadline - Date.now();
+  if (left <= 0) { stopTimer(); toast("Time's up. Your exam was submitted."); S.confirm = null; finishSession(); return; }
+  if (el) {
+    const m = Math.floor(left / 60000), sec = Math.floor((left % 60000) / 1000);
+    el.textContent = `${m}:${String(sec).padStart(2, "0")}`;
+    el.classList.toggle("low", left < 5 * 60000);
+  }
+}
+function startTimer() { stopTimer(); if (S.session && S.session.deadline) { tick(); timerId = setInterval(tick, 1000); } }
+function stopTimer() { if (timerId) clearInterval(timerId); timerId = null; }
+
+/* ---------- actions ---------- */
+const ACT = {
+  menu: toggleMenu,
+  theme: cycleTheme,
+  "set-theme": (el) => { ST.theme = el.dataset.t; save(); render(); },
+  "mark-read": (el) => { const u = U(el.dataset.u); u.read = !u.read; save(); render(); if (u.read) toast("Lesson marked read."); },
+  "unit-quiz": (el) => { const u = unitById(el.dataset.u); startSession({ kind: "quiz", unit: u.id, ids: shuffle(u.quizIds), title: `Unit ${u.id} quiz`, feedback: "now" }); },
+  "unit-cards": (el) => { S.cardUnit = +el.dataset.u; S.cardSession = null; go("cards"); },
+  pick: (el) => pick(+el.dataset.i),
+  next: nextQ,
+  prev: () => { const s = S.session; if (s && s.idx > 0) { s.idx--; S.confirm = null; persistExam(); render(); } },
+  jump: (el) => { const s = S.session; s.idx = +el.dataset.i; S.confirm = null; persistExam(); render(); },
+  flag: () => { const s = S.session, id = s.ids[s.idx]; s.flags[id] = !s.flags[id]; persistExam(); render(); },
+  submit: () => { S.confirm = "submit"; const s = S.session; if (!s.ids.some((x) => s.answers[x] === undefined)) finishSession(); else render(); },
+  "submit-confirm": finishSession,
+  "cancel-confirm": () => { S.confirm = null; render(); },
+  quit: () => { S.session = null; history.length > 1 ? history.back() : go("home"); },
+  "diag-start": () => startSession({ kind: "diag", ids: DATA.pools.diag.slice(), title: "Diagnostic test", feedback: "end" }),
+  "diag-reset": () => { S.confirm = "diag-reset"; render(); },
+  "diag-reset-confirm": () => { ST.diag = null; S.confirm = null; save(); render(); },
+  "exam-start": (el) => { S.confirm = "start-" + el.dataset.k; render(); },
+  "exam-go": (el) => {
+    const k = el.dataset.k;
+    ST.exams[k] = { status: "running", start: Date.now(), ids: DATA.pools[k].slice(), answers: {}, flags: {}, idx: 0 };
+    save(); S.confirm = null; S.session = examSession(k); go("session");
+  },
+  "resume-exam": (el, ev) => { ev.preventDefault(); S.session = examSession(el.dataset.k); go("session"); },
+  "exam-results": (el) => { const k = el.dataset.k, e = ST.exams[k]; S.result = { kind: "exam", title: k === "exam1" ? "Practice Exam 1" : "Practice Exam 2", ids: e.ids, answers: e.answers, g: grade(e.ids, e.answers), examKey: k }; go("result"); },
+  drill: () => {
+    const open = openMistakes().sort((a, b) => ST.mistakes[b].n - ST.mistakes[a].n).slice(0, 20);
+    if (!open.length) { toast("No open mistakes."); return; }
+    startSession({ kind: "drill", ids: shuffle(open), title: "Mistake drill", feedback: "now" });
+  },
+  "cards-due": () => startCards("due"),
+  "cards-missed": () => startCards("missed"),
+  "cards-all": () => startCards("all"),
+  "cards-quit": () => { S.cardSession = null; render(); },
+  flip: () => { if (S.cardSession) { S.cardSession.flipped = !S.cardSession.flipped; render(); } },
+  "card-grade": (el) => gradeCard(el.dataset.ok === "1"),
+  mask: () => { S.mask = !S.mask; render(); },
+  print: () => window.print(),
+  export: () => {
+    try {
+      const blob = new Blob([JSON.stringify(ST, null, 1)], { type: "application/json" });
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob); a.download = `wc2-progress-${isoDate()}.json`;
+      document.body.appendChild(a); a.click(); a.remove();
+      toast("Download started. If nothing downloads here, use Copy as text.");
+    } catch (e) { toast("Downloads are blocked here. Use Copy as text."); }
+  },
+  "copy-export": () => {
+    const box = $("#exportBox"); box.value = JSON.stringify(ST);
+    const done = () => toast("Progress copied.");
+    const fallback = () => { box.focus(); box.select(); toast("Text selected. Press Ctrl+C / Cmd+C to copy."); };
+    try { navigator.clipboard.writeText(box.value).then(done, fallback); } catch (e) { fallback(); }
+  },
+  "import-text": () => importState($("#importBox").value),
+  reset: () => { S.confirm = "reset"; render(); },
+  "reset-confirm": () => { ST = fresh(); save(); S = { session: null, result: null, cardSession: null, confirm: null }; toast("Progress erased."); go("home"); },
+};
+document.addEventListener("click", (ev) => {
+  const el = ev.target.closest("[data-act]");
+  if (el && el.tagName !== "SELECT" && el.tagName !== "INPUT" && ACT[el.dataset.act]) {
+    ACT[el.dataset.act](el, ev);
+    return;
+  }
+  if (ev.target.closest(".rail a")) closeMenu();
+});
+document.addEventListener("change", (ev) => {
+  const el = ev.target;
+  if (el.id === "deckSel") { S.cardUnit = +el.value; S.cardSession = null; render(); }
+  if (el.id === "importFile" && el.files && el.files[0]) {
+    const r = new FileReader(); r.onload = () => importState(String(r.result)); r.readAsText(el.files[0]);
+  }
+  if (["planHours", "planStart", "planDate"].includes(el.id)) {
+    ST.plan = { hours: +$("#planHours").value || 0, start: $("#planStart").value, date: $("#planDate").value };
+    save(); render();
+  }
+});
+document.addEventListener("keydown", (ev) => {
+  if (ev.target.matches("input, textarea, select") || ev.metaKey || ev.ctrlKey || ev.altKey) return;
+  const r = route();
+  if (r === "session" && S.session) {
+    if (/^[1-5]$/.test(ev.key)) { const s = S.session; if (+ev.key <= Q[s.ids[s.idx]].options.length) { ev.preventDefault(); pick(+ev.key - 1); } }
+    else if (ev.key === "Enter") { ev.preventDefault(); if (S.confirm === "submit") finishSession(); else nextQ(); }
+    else if (ev.key === "ArrowLeft" && S.session.feedback === "end") ACT.prev();
+    else if (ev.key === "ArrowRight" && S.session.feedback === "end") nextQ();
+  } else if (r === "cards" && S.cardSession && S.cardSession.queue.length) {
+    if (ev.key === " " || ev.key === "Enter") { ev.preventDefault(); ACT.flip(); }
+    else if (ev.key === "1" && S.cardSession.flipped) gradeCard(false);
+    else if (ev.key === "2" && S.cardSession.flipped) gradeCard(true);
+  } else if (ev.key === "Escape") closeMenu();
+});
+
+/* ---------- boot ---------- */
+(function boot() {
+  const k = runningExam();
+  if (k && ST.exams[k].start + EXAM_MINUTES * 60000 <= Date.now()) {
+    // Time ran out while away: submit what was answered.
+    S.session = examSession(k); finishSession();
+    toast("Your exam time ran out while you were away; it was submitted.");
+    return;
+  }
+  render();
+})();
+</script>
+</body>
+</html>
