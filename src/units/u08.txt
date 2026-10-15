@@ -1,0 +1,431 @@
+=== META
+short: Age of Nationalism
+range: 1850–1914
+
+=== LESSON
+## The big picture
+After 1848 failed, nationalism did not die; it changed hands. Instead of idealistic students and poets, hard-headed statesmen used armies and diplomacy, a style called **Realpolitik** ("the politics of reality"), to build nation-states. In just twelve years **Italy (1861)** and **Germany (1871)** were unified, the map of Europe was redrawn, and a newly powerful Germany sat at the center of the continent. Meanwhile the old multinational empires (Austria-Hungary, Russia, the Ottoman Empire) struggled to reform, democracies expanded the vote in Britain and France, and the workers' movement grew into mass socialist parties. The period ends with Europe divided into two armed alliance blocs.
+
+## The Crimean War (1853–1856): the Concert breaks
+Russia pressed the weakening **Ottoman Empire** (the "sick man of Europe"), claiming to protect Orthodox Christians. Britain and France, fearing Russian control of the Straits and the eastern Mediterranean, went to war alongside the Ottomans; little **Piedmont-Sardinia** joined too. Most fighting centered on the siege of the Russian naval base at **Sevastopol** in the Crimea. The war was notoriously mismanaged (the Charge of the Light Brigade) and killed hundreds of thousands, many from disease; **Florence Nightingale's** nursing reforms made her famous.
+
+-> Russian pressure on the Ottoman Empire alarms Britain and France | Crimean War (1853–56); Russia defeated; Treaty of Paris (1856) | Concert of Europe shattered; Austria isolated; Russia turns to internal reform; the way opens for Italian and German unification
+
+The **Treaty of Paris (1856)** neutralized the Black Sea. More important were the side effects: the great powers no longer cooperated to keep the 1815 order, **Austria** had angered Russia by not helping it, and Russia began the Great Reforms. Without the Concert, Cavour and Bismarck could redraw the map.
+
+## The unification of Italy
+In 1850 Italy was a patchwork: Austria held **Lombardy and Venetia**, the pope ruled the **Papal States**, Bourbon kings ruled the **Kingdom of the Two Sicilies** (Naples and Sicily), and the only independent, constitutional Italian state was **Piedmont-Sardinia** under King **Victor Emmanuel II**.
+
+Its prime minister, Count **Camillo di Cavour** (from 1852), was a liberal and a master of Realpolitik. He modernized Piedmont's economy and railways and sent troops to the Crimean War to win a seat at the peace conference. He knew Piedmont could not beat Austria alone, so at **Plombières (1858)** he secretly won French help from **Napoleon III** in exchange for Nice and Savoy.
+
+-> Cavour provokes Austria into war (1859) with French support | Victories at Magenta and Solferino; Piedmont gains Lombardy; central Italy votes to join; Garibaldi conquers the south (1860) | Kingdom of Italy proclaimed (1861); Venetia added 1866, Rome 1870
+
+In the **war of 1859**, French and Piedmontese armies won at **Magenta** and **Solferino**, and Piedmont gained **Lombardy**. (The bloodshed at Solferino inspired the founding of the **Red Cross**.) The duchies of central Italy overthrew their rulers and voted by **plebiscite** to join Piedmont; Cavour paid Napoleon III with **Nice and Savoy**.
+
+Then **Giuseppe Garibaldi**, a romantic republican guerrilla, sailed with about 1,000 volunteers, the "**Red Shirts**," and conquered **Sicily and Naples** (1860). Cavour, fearing Garibaldi would march on Rome and provoke France, sent Piedmont's army through the Papal States to meet him. Garibaldi, a patriot first, **handed his conquests to Victor Emmanuel**. In **March 1861** the **Kingdom of Italy** was proclaimed. **Venetia** was added in **1866** (Italy allied with Prussia against Austria), and **Rome** in **1870**, when French troops guarding the pope left to fight Prussia. Rome became the capital; the pope refused to recognize the kingdom and called himself the "prisoner of the Vatican."
+
+Unity did not end Italy's problems: a deep gap between the industrializing **north** and the poor, rural **south**, hostility from the Church, and a narrow electorate. As one politician put it, "We have made Italy; now we must make Italians."
+
+## The unification of Germany
+-> Prussian king and parliament deadlock over army reform (1862) | Bismarck wins three short wars: Denmark (1864), Austria (1866), France (1870–71) | German Empire proclaimed at Versailles (January 1871), dominated by Prussia; France loses Alsace-Lorraine and wants revenge
+
+Prussia had advantages: a strong army, the **Zollverein** customs union that already tied most German states to its economy, and booming coal and steel industries. In 1862 King **William I** appointed **Otto von Bismarck** minister-president to push through an army expansion that the liberal parliament refused to fund. Bismarck simply collected the taxes anyway, declaring that the great questions of the day would be decided "not by speeches and majority decisions, but by **iron and blood**."
+
+Bismarck unified Germany through **three wars**:
+1. The **Danish War (1864)**: Prussia and Austria together took **Schleswig and Holstein** from Denmark. Their joint administration gave Bismarck a ready-made quarrel with Austria.
+2. The **Austro-Prussian (Seven Weeks') War (1866)**: after making sure France and Russia would stay out and allying with Italy, Bismarck crushed Austria at **Königgrätz (Sadowa)**. He imposed a lenient peace to avoid lasting hatred, but **Austria was excluded from German affairs**. Prussia annexed several states and formed the **North German Confederation (1867)**. Prussian liberals, dazzled by victory, forgave Bismarck's illegal taxes.
+3. The **Franco-Prussian War (1870–1871)**: a dispute over a Hohenzollern candidate for the Spanish throne gave Bismarck his chance. He edited the **Ems Dispatch**, a telegram about a meeting between William I and the French ambassador, to make it sound insulting; France declared war. The southern German states joined Prussia; the French army collapsed, and **Napoleon III was captured at Sedan** (September 1870). Paris was besieged and surrendered in January 1871.
+
+On **January 18, 1871**, in the **Hall of Mirrors at Versailles**, William I was proclaimed **German Emperor (Kaiser)**. In the peace, France paid a large indemnity and lost **Alsace-Lorraine**, leaving a lasting French desire for revenge (*revanche*). Germany was unified "from above," by Prussian arms and princes rather than by a liberal parliament.
+
+The new **German Empire** was federal and dominated by Prussia. The **Reichstag** was elected by **universal male suffrage**, but the **chancellor** answered to the Kaiser, not to the Reichstag. As chancellor (1871–1890), Bismarck fought the Catholic Church in the **Kulturkampf** ("culture struggle," 1870s), then turned against the socialists with the **Anti-Socialist Laws (1878)**. To win workers away from socialism he also created the world's first national **social insurance**: health insurance (1883), accident insurance (1884), and old-age and disability pensions (1889). In 1888 **William II** became Kaiser; he dismissed Bismarck in **1890** and pursued a restless **Weltpolitik** ("world policy"), including a big navy that alarmed Britain.
+
+## Austria-Hungary
+Defeats in 1859 and 1866 forced the Habsburgs to compromise with their largest and most assertive nationality, the **Magyars** (Hungarians). The **Compromise (Ausgleich) of 1867** created the **Dual Monarchy of Austria-Hungary**: Franz Joseph was emperor of Austria and king of Hungary; each half had its own parliament and government, but they shared foreign policy, the army, and the finances for both. Hungary's Magyar elite then pursued **Magyarization** of its own minorities. The other nationalities, especially the **Slavs** (Czechs, Poles, Croats, Serbs, Slovaks), resented being left out. Nationalism was a constant threat to the empire's survival.
+
+## Russia: reform and reaction
+Defeat in the Crimea convinced **Alexander II** (r. 1855–1881) that Russia had to modernize. In **1861** he **emancipated the serfs**, more than 20 million people. Peasants gained personal freedom and land, but they had to make **redemption payments** for decades, and the land was usually held by the village commune (*mir*), which limited mobility. He also created elected local councils (**zemstvos**, 1864), reformed the courts with jury trials, and shortened military service. Radicals were not satisfied; populists (*narodniki*) tried to stir the peasants, and the terrorist group **People's Will assassinated Alexander II in 1881**.
+
+His son **Alexander III** responded with reaction: censorship, police repression and **Russification** (forcing Russian language and Orthodoxy on minorities). **Pogroms**, violent attacks on Jews, spread, and millions of Jews emigrated. Under **Sergei Witte**, finance minister in the 1890s, Russia industrialized rapidly with foreign loans, building the **Trans-Siberian Railway**. Defeat by Japan (1904–1905) and the **Revolution of 1905** (beginning with **Bloody Sunday**, when troops fired on peaceful petitioners) forced **Nicholas II** to issue the **October Manifesto**, promising civil rights and an elected parliament, the **Duma**, which he soon restricted (Unit 10).
+
+## France and Britain: toward democracy
+**France.** Napoleon III's **Second Empire** (1852–1870) rebuilt Paris with wide boulevards (Baron **Haussmann**), promoted railways and banks, and liberalized in the 1860s, but collapsed at Sedan. The **Third Republic** was born in defeat. In 1871 radical Parisians set up the **Paris Commune**, which the national government crushed in "Bloody Week" (about 20,000 killed), leaving lasting class bitterness. The Republic survived scandals and the nationalist general **Boulanger**. The **Dreyfus Affair** (1894–1906), in which **Captain Alfred Dreyfus**, a Jewish army officer, was falsely convicted of spying for Germany, split France between the army, Church and anti-Semitic right on one side and republicans, socialists and intellectuals on the other. **Émile Zola's** open letter "**J'accuse!**" (1898) accused the army of a cover-up. Dreyfus was cleared in 1906, and the republicans' victory led to the **separation of church and state (1905)**. The affair also convinced journalist **Theodor Herzl** that Jews needed their own state, and he founded political **Zionism** (1897).
+
+**Britain** widened democracy by reform rather than revolution. The Conservative **Benjamin Disraeli** passed the **Second Reform Act (1867)**, enfranchising many urban working men; the Liberal **William Gladstone's** governments introduced the **secret ballot (1872)** and the **Third Reform Act (1884)** for rural workers. Gladstone repeatedly tried, and failed, to give **Home Rule** to **Ireland**. The **Labour Party** formed (1900–1906), the **Parliament Act of 1911** ended the House of Lords' veto, and the **suffragettes** led by **Emmeline Pankhurst** campaigned, sometimes militantly, for women's votes.
+
+## Socialism and labor unions
+Trade unions grew rapidly, especially "new unions" of unskilled workers after the 1889 London dock strike. Marx helped found the **First International** (1864), which split between Marxists and anarchists led by **Mikhail Bakunin**. The **Second International** (1889) united national socialist parties. The largest was Germany's **Social Democratic Party (SPD)**, which survived the Anti-Socialist Laws and became the **largest party in the Reichstag by 1912**.
+
+Socialists argued about strategy. **Eduard Bernstein's revisionism** (*Evolutionary Socialism*, 1899) said capitalism was not collapsing and socialism could come gradually through elections and reforms. Orthodox Marxists such as Karl Kautsky insisted on revolution in theory while working within parliaments in practice. **Syndicalists** (Georges Sorel) put their faith in the general strike. In Britain, the **Fabian Society** pursued gradual, democratic socialism.
+
+## Diplomacy, 1871–1914: Bismarck's system and its collapse
+-> A unified Germany fears a French war of revenge over Alsace-Lorraine | Bismarck builds alliances to keep France isolated (Dual Alliance, Triple Alliance, Reinsurance Treaty) | William II drops Russia (1890); France and Russia ally (1894); Britain joins them: Europe splits into two armed camps
+
+After 1871, Bismarck called Germany "satiated" and worked to keep the peace and keep France **isolated**. His tools: the **Three Emperors' League** (Germany, Austria-Hungary, Russia, 1873 and 1881); the **Congress of Berlin (1878)**, where he acted as "honest broker" after Russia defeated the Ottomans and revised the Treaty of San Stefano: Serbia, Montenegro and Romania became independent, a big Bulgaria was cut down, and Austria-Hungary was allowed to occupy **Bosnia-Herzegovina** (which angered Russia); the **Dual Alliance (1879)** with Austria-Hungary; the **Triple Alliance (1882)** adding Italy; and the secret **Reinsurance Treaty (1887)** with Russia.
+
+William II let the Reinsurance Treaty lapse in **1890**. France quickly courted Russia with loans and signed the **Franco-Russian Alliance (1894)**, the nightmare of a two-front war Bismarck had avoided. Britain, alarmed by Germany's navy, left its "splendid isolation": the **Entente Cordiale (1904)** settled colonial quarrels with France, and the **Anglo-Russian Entente (1907)** did the same with Russia, creating the **Triple Entente**. Europe was now divided into two blocs: the **Triple Alliance** (Germany, Austria-Hungary, Italy) and the **Triple Entente** (France, Russia, Britain).
+
+=== MUSTKNOW
+- **Realpolitik:** practical power politics (Cavour, Bismarck) replaced 1848 idealism.
+- **Crimean War (1853–56):** Russia vs. Ottomans, Britain, France, Piedmont; broke the Concert of Europe and isolated Austria.
+- **Italy:** Cavour (diplomacy, French alliance, 1859 war → Lombardy), Garibaldi (Red Shirts take Sicily and Naples, 1860), Victor Emmanuel II king (1861); Venetia 1866, Rome 1870.
+- **Germany:** Bismarck's "iron and blood"; three wars (Denmark 1864, Austria 1866, France 1870–71); Ems Dispatch; Empire proclaimed at Versailles (1871); Alsace-Lorraine annexed.
+- **Bismarck at home:** Kulturkampf, Anti-Socialist Laws (1878), first social insurance (1880s).
+- **Ausgleich (1867):** Dual Monarchy of Austria-Hungary; Slavs left out.
+- **Russia:** Alexander II freed the serfs (1861), zemstvos; assassinated 1881; Alexander III's Russification and pogroms; 1905 revolution → Duma.
+- **France:** Paris Commune (1871); Third Republic; **Dreyfus Affair** (Zola's "J'accuse!") → separation of church and state (1905).
+- **Britain:** Reform Acts of 1867 and 1884, secret ballot (1872), Irish Home Rule fights, suffragettes.
+- **Alliances:** Dual Alliance (1879), Triple Alliance (1882), Reinsurance Treaty lapses (1890), Franco-Russian Alliance (1894), Entente Cordiale (1904), Triple Entente (1907).
+
+=== TIMELINE
+*1853–1856 | Crimean War | Concert of Europe breaks down
+1858 | Plombières agreement | Cavour secures French help
+*1859 | Franco-Piedmontese war with Austria | Magenta, Solferino; Lombardy to Piedmont
+1860 | Garibaldi's expedition | Red Shirts conquer Sicily and Naples
+*1861 | Kingdom of Italy; Russian serfs emancipated | Victor Emmanuel II; Alexander II's reform
+1862 | Bismarck becomes Prussian minister-president | "Iron and blood"
+1864 | Danish War | Schleswig-Holstein seized
+*1866 | Austro-Prussian War (Königgrätz) | Austria excluded from Germany
+*1867 | Ausgleich; Second Reform Act | Dual Monarchy; urban workers vote in Britain
+*1870–1871 | Franco-Prussian War | Sedan; Rome joins Italy; Third Republic
+*1871 | German Empire proclaimed; Paris Commune | Hall of Mirrors; Alsace-Lorraine annexed
+1878 | Congress of Berlin; Anti-Socialist Laws | Bismarck as honest broker
+1879 | Dual Alliance | Germany and Austria-Hungary
+1881 | Alexander II assassinated | Reaction under Alexander III
+1882 | Triple Alliance | Germany, Austria-Hungary, Italy
+1890 | Bismarck dismissed | Reinsurance Treaty lapses
+1894 | Franco-Russian Alliance; Dreyfus convicted | Two-front threat to Germany
+1898 | Zola's "J'accuse!" | Dreyfus Affair peaks
+*1904 | Entente Cordiale | Britain and France settle differences
+1905 | Russian Revolution of 1905; French separation of church and state | October Manifesto, Duma
+*1907 | Triple Entente | Britain, France, Russia
+
+=== CARDS
+Realpolitik :: Politics based on practical power and interests rather than ideals.
+Crimean War (1853–56) :: Russia vs. Ottomans, Britain, France and Piedmont; broke the Concert of Europe.
+@ Camillo di Cavour :: Prime minister of Piedmont-Sardinia; used diplomacy and French help to unify northern Italy.
+@ Giuseppe Garibaldi :: Led the Red Shirts to conquer Sicily and Naples (1860), then handed them to Victor Emmanuel II.
+@ Victor Emmanuel II :: King of Piedmont-Sardinia who became first king of united Italy (1861).
+@ Otto von Bismarck :: Prussian minister-president and German chancellor; unified Germany through "iron and blood."
+Ems Dispatch (1870) :: Telegram Bismarck edited to provoke France into the Franco-Prussian War.
+Battle of Sedan (1870) :: Prussian victory; Napoleon III captured.
+German Empire proclaimed (1871) :: William I crowned Kaiser in the Hall of Mirrors at Versailles.
+Kulturkampf :: Bismarck's 1870s campaign against the Catholic Church in Germany.
+Bismarck's social insurance :: Health (1883), accident (1884) and old-age (1889) insurance to undercut socialism.
+Ausgleich (1867) :: Compromise creating the Dual Monarchy of Austria-Hungary.
+@ Alexander II :: Russian tsar who emancipated the serfs (1861); assassinated 1881.
+Emancipation of the serfs (1861) :: Freed Russia's serfs; peasants owed redemption payments; land held by communes.
+Russification :: Forcing Russian language and Orthodoxy on minorities under Alexander III.
+Paris Commune (1871) :: Radical Paris government crushed by the French army in "Bloody Week."
+Dreyfus Affair :: False conviction of a Jewish French officer (1894); exposed anti-Semitism; Zola's "J'accuse!"
+@ Theodor Herzl :: Founder of political Zionism (1897), influenced by the Dreyfus Affair.
+@ Eduard Bernstein :: Revisionist socialist: reach socialism gradually through elections and reform.
+Second Reform Act (1867) :: Disraeli's law giving the vote to many urban working men in Britain.
+Triple Alliance (1882) :: Germany, Austria-Hungary and Italy.
+Triple Entente (1907) :: France, Russia and Britain.
+
+=== QUESTIONS
+@e
+Who was the Prussian leader most responsible for the unification of Germany?
++ Otto von Bismarck :: As minister-president and chancellor, he unified Germany through three wars.
+- Klemens von Metternich :: Metternich was an Austrian who opposed German nationalism.
+- Camillo di Cavour :: Cavour unified northern Italy.
+- Frederick the Great :: Frederick ruled Prussia in the 1700s.
+- William II :: William II became Kaiser in 1888, after unification.
+
+@e
+Giuseppe Garibaldi's Red Shirts conquered
++ Sicily and Naples :: In 1860 Garibaldi took the Kingdom of the Two Sicilies and handed it to Victor Emmanuel II.
+- Lombardy :: Lombardy was won by Piedmont and France in 1859.
+- Venetia :: Venetia was gained in 1866 after the Austro-Prussian War.
+- Alsace-Lorraine :: Alsace-Lorraine was taken by Germany from France in 1871.
+- Schleswig-Holstein :: That was taken from Denmark by Prussia and Austria in 1864.
+
+@e
+The German Empire was proclaimed in 1871 in
++ the Hall of Mirrors at Versailles :: The location deliberately humiliated defeated France.
+- the Frankfurt Parliament :: That assembly failed in 1849.
+- Vienna's Hofburg Palace :: Austria was excluded from the new Germany.
+- the Reichstag building in Berlin :: The Reichstag building was completed in 1894.
+- St. Peter's Basilica in Rome :: Rome had no role in German unification.
+
+@e
+In 1861 Tsar Alexander II
++ emancipated Russia's serfs :: The emancipation freed more than 20 million serfs.
+- created the Duma :: The Duma came after the Revolution of 1905.
+- was assassinated by revolutionaries :: He was assassinated in 1881.
+- defeated Napoleon :: That was Alexander I in 1812–14.
+- began the Crimean War :: The war began in 1853 under Nicholas I.
+
+@e
+The Ausgleich (Compromise) of 1867 created
++ the Dual Monarchy of Austria-Hungary :: Austria and Hungary got separate governments under one monarch.
+- the Kingdom of Italy :: Italy was proclaimed in 1861.
+- the German Empire :: That was proclaimed in 1871.
+- the Third French Republic :: That emerged in 1870.
+- the Triple Entente :: That formed in 1907.
+
+@e
+The Dreyfus Affair in France centered on
++ the false conviction of a Jewish army officer for treason :: The case exposed anti-Semitism in the army and society.
+- a scandal over the building of the Suez Canal :: The canal opened in 1869 without such a scandal.
+- the assassination of a French president by a socialist :: The affair concerned Alfred Dreyfus's trial.
+- France's defeat in the Crimean War :: France was on the winning side in the Crimea.
+- the Paris Commune of 1871 :: The Commune was a separate event.
+
+@e
+Which country fought against Russia in the Crimean War?
++ Britain :: Britain and France joined the Ottoman Empire against Russia.
+- Prussia :: Prussia stayed neutral.
+- Austria :: Austria stayed neutral, which angered Russia.
+- The United States :: The United States did not take part.
+- Germany :: Germany did not exist as a unified state until 1871.
+
+@e
+Bismarck's statement that great questions would be decided "by iron and blood" reflected his belief in
++ Realpolitik and the use of military power :: He unified Germany through war, not parliamentary debate.
+- pacifism and international law :: Bismarck relied on force.
+- liberal parliamentary government :: Bismarck defied the liberal Prussian parliament.
+- Marxist class struggle :: Bismarck fought socialism.
+- religious toleration :: The phrase concerns power politics.
+
+@e
+Which three countries formed the Triple Entente?
++ Britain, France and Russia :: The Entente took shape between 1894 and 1907.
+- Germany, Austria-Hungary and Italy :: That was the Triple Alliance.
+- Britain, Germany and Austria-Hungary :: Britain was aligned against Germany.
+- France, Italy and the Ottoman Empire :: This was not an alliance bloc.
+- Russia, Prussia and Austria :: That was the old Holy Alliance core.
+
+@e
+Which statesman served as prime minister of Piedmont-Sardinia and led the diplomacy of Italian unification?
++ Camillo di Cavour :: Cavour won French support and annexed northern and central Italy.
+- Giuseppe Mazzini :: Mazzini was a republican idealist, not Piedmont's prime minister.
+- Giuseppe Garibaldi :: Garibaldi was a guerrilla leader, not prime minister.
+- Victor Emmanuel II :: He was king, not prime minister.
+- Napoleon III :: He was emperor of the French.
+
+@e
+Who wrote the open letter "J'accuse!" (1898) defending Alfred Dreyfus?
++ Émile Zola :: Zola accused the army of covering up Dreyfus's innocence.
+- Victor Hugo :: Hugo died in 1885.
+- Theodor Herzl :: Herzl reported on the affair but did not write "J'accuse!"
+- Georges Clemenceau :: Clemenceau published the letter in his newspaper but did not write it.
+- Karl Marx :: Marx died in 1883.
+
+@m
+Cavour sent Piedmontese troops to fight in the Crimean War mainly to
++ gain diplomatic standing and allies for Italian unification :: Participation won Piedmont a voice at the Paris peace conference.
+- help Russia defeat the Ottoman Empire :: Piedmont fought against Russia.
+- conquer the Crimea for Italy :: Piedmont sought no territory there.
+- support Austria's control of northern Italy :: Cavour wanted to drive Austria out.
+- spread Mazzini's republican ideas :: Cavour was a monarchist.
+
+@m
+Which event came LAST?
++ The proclamation of the German Empire :: January 1871.
+- The Danish War :: 1864.
+- The Battle of Königgrätz :: 1866.
+- The proclamation of the Kingdom of Italy :: 1861.
+- The Crimean War :: 1853–56.
+
+@m
+Bismarck's purpose in creating health, accident and old-age insurance in the 1880s was to
++ win workers' loyalty to the state and weaken the socialist movement :: It was "state socialism" to undercut the SPD.
+- carry out Marx's program :: Bismarck was a conservative opponent of Marxism.
+- reward the Catholic Church for its support :: He had fought the Church in the Kulturkampf.
+- prepare for war against Russia :: The insurance laws were domestic social policy.
+- satisfy demands of the Frankfurt Parliament :: That body had dissolved in 1849.
+
+@m
+The Franco-Prussian War resulted in
++ Germany's annexation of Alsace-Lorraine and lasting French resentment :: France also paid a large indemnity.
+- France's annexation of the Rhineland :: France lost territory.
+- the restoration of Napoleon III's power :: His empire collapsed after Sedan.
+- Austria's entry into the German Empire :: Austria was excluded.
+- a Franco-German alliance against Russia :: France and Russia later allied against Germany.
+
+@m
+Which statement about the emancipation of the Russian serfs (1861) is accurate?
++ Peasants gained freedom but owed redemption payments and usually held land through the village commune :: Freedom came with heavy burdens.
+- Peasants received land free of charge as private property :: They paid for it over decades.
+- It was a result of a successful peasant revolution :: It was a reform from above.
+- It immediately made Russia a constitutional monarchy :: Russia remained an autocracy.
+- It applied only to Russian Poland :: It applied across the empire.
+
+@m
+Why did Bismarck impose a lenient peace on Austria in 1866?
++ To avoid lasting hostility and keep Austria as a possible future ally :: He wanted Austria out of Germany, not humiliated.
+- Because Austria had won the war :: Prussia won decisively at Königgrätz.
+- Because the Frankfurt Parliament demanded it :: That parliament no longer existed.
+- To win Austria's support for war with Britain :: Germany and Britain were not at war.
+- Because France threatened to invade Prussia :: France's role was not the reason.
+
+@m
+The Kulturkampf was Bismarck's campaign against
++ the political influence of the Catholic Church :: Laws in the 1870s restricted clergy and Catholic schools.
+- the Social Democratic Party :: That was the Anti-Socialist Laws of 1878.
+- Austria-Hungary :: Kulturkampf was a domestic cultural struggle.
+- Jewish immigration from Russia :: The Kulturkampf targeted Catholicism.
+- the Prussian Junkers :: Junkers were Bismarck's own class and allies.
+
+@m
+The Congress of Berlin (1878) is significant because it
++ revised the Russian-dictated Treaty of San Stefano and angered Russia :: Bismarck's "honest broker" settlement cut Bulgaria down and let Austria occupy Bosnia.
+- unified Germany :: Unification came in 1871.
+- ended the Crimean War :: That was the Treaty of Paris (1856).
+- divided Africa among the European powers :: That was the Berlin Conference of 1884–85.
+- created the League of Nations :: The League was created in 1919–20.
+
+@m
+The French Third Republic's response to the Paris Commune in 1871 was to
++ crush it with the army, killing thousands of Communards :: "Bloody Week" left lasting class bitterness.
+- negotiate a power-sharing government with the Commune :: There was no compromise.
+- invite Prussia to restore order :: The French army did it.
+- adopt the Commune's socialist program :: The Republic suppressed it.
+- restore Napoleon III :: Napoleon III had been deposed.
+
+@m
+After 1890, William II's foreign policy differed from Bismarck's in that William
++ let the Reinsurance Treaty with Russia lapse and pursued an aggressive world policy :: This pushed Russia toward France and alarmed Britain.
+- sought to keep France isolated by alliances with Russia :: That was Bismarck's approach.
+- reduced the size of the German navy :: William expanded the navy.
+- withdrew from the alliance with Austria-Hungary :: The Dual Alliance remained.
+- gave Alsace-Lorraine back to France :: Germany kept it until 1918.
+
+@m
+Which reform passed by Disraeli's Conservative government in 1867 extended the vote in Britain?
++ The Second Reform Act :: It enfranchised many urban working-class men.
+- The Great Reform Act :: That was passed in 1832 by the Whigs.
+- The Parliament Act :: That was passed in 1911 and limited the House of Lords.
+- The Corn Law repeal :: That was in 1846.
+- The Factory Act :: That regulated labor, not voting.
+
+@m
+> "Socialism will come not through a sudden catastrophe but through the steady extension of democracy and reforms won by workers' parties in parliament."
+This statement best reflects the views of
++ Eduard Bernstein's revisionism :: Bernstein argued for gradual, democratic change.
+- Karl Marx in the Communist Manifesto :: The Manifesto predicted revolution.
+- Mikhail Bakunin's anarchism :: Bakunin rejected parliaments and the state.
+- Georges Sorel's syndicalism :: Sorel favored the general strike, not parliamentary reform.
+- Bismarck's state socialism :: Bismarck opposed socialist parties.
+
+@m
+The Austro-Prussian War of 1866 had which result?
++ Austria was excluded from German affairs, and Prussia formed the North German Confederation :: Königgrätz ended Austrian leadership in Germany.
+- Austria became the leader of a united Germany :: Prussia, not Austria, led unification.
+- Prussia lost Schleswig-Holstein to Denmark :: Prussia kept and annexed Holstein.
+- France annexed the Rhineland :: France gained nothing.
+- Italy lost Venetia to Austria :: Italy gained Venetia.
+
+@m
+In what way did Garibaldi's actions in 1860 contribute to Italian unification?
++ He conquered southern Italy and then handed it over to King Victor Emmanuel II :: His patriotism let north and south unite under the monarchy.
+- He defeated Austria at Solferino :: Solferino was won by French and Piedmontese armies.
+- He negotiated the alliance with Napoleon III :: That was Cavour at Plombières.
+- He captured Rome from the pope in 1860 :: Rome was taken in 1870.
+- He founded Young Italy :: That was Mazzini in 1831.
+
+@m
+The Third French Republic's separation of church and state in 1905 was most directly connected to
++ the republicans' victory in the Dreyfus Affair :: The affair discredited the army and Catholic right.
+- the Paris Commune :: The Commune was crushed in 1871.
+- Napoleon III's Concordat :: The Concordat was Napoleon I's in 1801, and it was abolished in 1905.
+- Bismarck's Kulturkampf :: That was a German campaign.
+- the Crimean War :: That was decades earlier.
+
+@m
+The Franco-Russian Alliance of 1894 was significant because it
++ created the danger of a two-front war for Germany :: Bismarck had worked to prevent exactly this.
+- ended the Crimean War :: That war ended in 1856.
+- united France and Germany against Britain :: France was allied with Russia against Germany.
+- led to the unification of Italy :: Italy had been unified by 1870.
+- created the Dual Monarchy :: The Dual Monarchy came in 1867.
+
+@m
+Which of the following was a weakness of the German Empire's constitution?
++ The chancellor answered to the Kaiser rather than to the elected Reichstag :: Universal male suffrage elected a parliament with limited control over government.
+- It denied the vote to all men :: The Reichstag was elected by universal male suffrage.
+- It abolished the Prussian monarchy :: The Prussian king was the German emperor.
+- It made Germany a republic :: Germany became a republic only in 1918.
+- It required unanimous approval from all states for any law :: There was no such rule.
+
+@m
+Russification under Alexander III involved
++ imposing the Russian language and Orthodox religion on the empire's minorities :: Poles, Finns, Ukrainians, Jews and others faced pressure.
+- freeing the serfs :: That was Alexander II in 1861.
+- adopting Western constitutional government :: Alexander III was a reactionary.
+- giving independence to Finland :: Finland gained independence in 1917.
+- moving the capital to Moscow :: The capital moved to Moscow in 1918, under the Bolsheviks.
+
+@h
+Which statement best compares the unification of Italy and Germany?
++ Both were led by a strong northern kingdom using diplomacy and war, and both excluded or defeated Austria :: Piedmont and Prussia played parallel roles.
+- Both were achieved mainly through popular revolutions in 1848 :: The 1848 revolutions failed in both.
+- Both were opposed by Napoleon III throughout :: Napoleon III helped Italy in 1859.
+- Both created democratic republics :: Both created monarchies.
+- Both were completed without any wars :: Both required several wars.
+
+@h
+A historian argues that the Crimean War made German and Italian unification possible. Which reasoning best supports this?
++ It destroyed the Concert of Europe and left Austria isolated from Russia :: Without Russian support, Austria faced Piedmont and Prussia alone.
+- It made Russia the protector of Austria :: Russia felt betrayed by Austria.
+- It forced Britain to join the German Confederation :: Britain was never part of it.
+- It gave Prussia control of the Black Sea :: Prussia was neutral and gained nothing there.
+- It ended the Ottoman Empire :: The Ottoman Empire survived until 1922.
+
+@h
+Which statement best explains why Austria-Hungary was especially threatened by nationalism?
++ It ruled many nationalities, and the 1867 settlement privileged Germans and Magyars over Slavs :: Excluded peoples sought rights or independence.
+- It was a single-nationality state :: It was highly diverse.
+- It had no army :: It had a large army.
+- It had already been divided by the Congress of Berlin :: Berlin allowed it to occupy Bosnia.
+- It was ruled by a republican government :: It was a monarchy.
+
+@h
+The emancipation of the Russian serfs and the creation of the zemstvos were both responses to
++ Russia's defeat in the Crimean War, which exposed its backwardness :: Alexander II concluded Russia must modernize to remain a great power.
+- the Revolution of 1905 :: These reforms came in the 1860s.
+- the assassination of Alexander II :: That came in 1881, after the reforms.
+- Russification policies :: Russification came later, under Alexander III.
+- the Franco-Russian Alliance :: That came in 1894.
+
+@h
+Bismarck's alliance system after 1871 was designed primarily to
++ keep France diplomatically isolated and prevent a two-front war :: He wanted no ally for a revenge-seeking France.
+- encourage French expansion in Europe :: He wanted France contained in Europe.
+- prepare Germany to conquer Russia :: He sought peace with Russia.
+- break up Austria-Hungary :: Austria-Hungary was his main ally.
+- support British naval supremacy :: His system concerned continental alliances.
+
+@h
+The Dreyfus Affair is significant in European history beyond France because it
++ revealed the strength of modern political anti-Semitism and helped inspire Zionism :: Theodor Herzl concluded that assimilation would not protect Jews.
+- started the First World War :: The war began in 1914 with the Sarajevo assassination.
+- led to the unification of Germany :: Unification preceded it.
+- ended the Russian monarchy :: That happened in 1917.
+- established the first communist government :: That was in Russia in 1917.
+
+@h
+The Paris Commune of 1871 was later celebrated by Marxists because they saw it as
++ an early example of workers' self-government :: Marx praised it as a model of a proletarian state.
+- a victory for the French monarchy :: The Commune was radically anti-monarchist.
+- a successful alliance of workers and the army :: The army crushed it.
+- the start of the Third Republic's conservative policies :: Marxists celebrated the Commune itself, not its suppression.
+- proof that revolution could succeed only with Prussian help :: The Commune was crushed by French forces.
+
+@h
+Which development MOST weakened Bismarck's goal of isolating France?
++ The Franco-Russian Alliance of 1894 :: It gave France a great-power ally on Germany's eastern border.
+- The Triple Alliance of 1882 :: That strengthened Germany's position.
+- The Congress of Berlin of 1878 :: It angered Russia but did not yet ally it with France.
+- The Dual Alliance of 1879 :: That was an alliance with Austria-Hungary.
+- The Kulturkampf :: That was a domestic campaign.
+
+@m
+The Revolution of 1905 in Russia led Nicholas II to
++ issue the October Manifesto promising civil liberties and an elected Duma :: He conceded a parliament, then limited its powers.
+- abdicate in favor of a republic :: He abdicated in 1917.
+- emancipate the serfs :: The serfs were freed in 1861.
+- withdraw from the Triple Alliance :: Russia was never in the Triple Alliance.
+- sign the Treaty of Brest-Litovsk :: That was signed by the Bolsheviks in 1918.
