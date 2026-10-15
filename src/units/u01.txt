@@ -1,0 +1,377 @@
+=== META
+short: Absolutism & Constitutionalism
+range: 1648–1715
+
+=== LESSON
+## The big picture
+In 1648 the **Peace of Westphalia** ended the Thirty Years' War, the last great war fought mainly over religion in Europe. From then on, rulers fought for power, territory and trade rather than faith. The treaty recognized the independence of the **Dutch Republic** and Switzerland, let each German prince run his own state (making the Holy Roman Emperor weak), and accepted Calvinism alongside Catholicism and Lutheranism. Historians often treat Westphalia as the birth of the modern system of **sovereign states**.
+
+The central question of the next seventy years was simple: **who holds supreme power in a state?** Two answers competed. **Absolutism** said the monarch rules alone, answering only to God (**divine right of kings**), with no parliament able to block him. **Constitutionalism** said the ruler's power is limited by law and shared with a representative body. France under Louis XIV became the model of the first answer; England and the Dutch Republic became the models of the second.
+
+## France: Louis XIV, the model absolute monarch
+Louis XIV became king in 1643 at age four and reigned until 1715, the longest reign in European history. As a boy he lived through the **Fronde** (1648–1653), a series of revolts by nobles and the Paris law courts against the regency government of Cardinal **Mazarin**. Louis never forgot being forced to flee Paris. He drew a lesson: the nobility must be tamed.
+
+-> Noble revolts of the Fronde humiliate the young king | Louis XIV builds Versailles and moves the court there (1682) | Great nobles trade political power for court rituals and royal favor
+
+At **Versailles**, a giant palace outside Paris, the most powerful nobles were expected to live at court, where they competed for honors such as handing the king his shirt. Nobles busy with etiquette were not raising armies. Louis governed through middle-class officials and royal agents called **intendants**, who carried his orders to the provinces. He never called the **Estates-General**, France's national assembly, which did not meet from 1614 until 1789. The bishop **Jacques-Bénigne Bossuet** gave the theory: kings are God's lieutenants on earth. The phrase "L'état, c'est moi" ("I am the state") is attributed to Louis, though he probably never said it.
+
+His finance minister **Jean-Baptiste Colbert** practiced **mercantilism**: the idea that a nation's wealth is a fixed pie measured in gold and silver, so the state should export more than it imports, protect home industries with tariffs, build roads and canals, and found colonies to supply raw materials.
+
+Louis wanted "one king, one law, one faith." In 1685 he **revoked the Edict of Nantes** (which since 1598 had protected French Protestants, the **Huguenots**). About 200,000 skilled Huguenots fled to the Dutch Republic, England, Prussia and America, taking their crafts and capital with them. It was a gift to France's rivals.
+
+Louis also fought almost constantly to push France's borders to the Rhine. His last and biggest war, the **War of the Spanish Succession** (1701–1714), began when the childless Spanish king left his throne to Louis's grandson Philip. England, the Dutch and Austria feared a French-Spanish superstate and formed a grand alliance against him. The **Treaty of Utrecht (1713)** let Philip V keep Spain but ruled that the French and Spanish crowns could never be united. Britain took **Gibraltar**, Minorca, Newfoundland, Nova Scotia (Acadia) and the **asiento** (the right to sell enslaved Africans in Spanish America). Utrecht established the principle of the **balance of power**: no single state should dominate Europe. Louis died in 1715 leaving France victorious in prestige but deeply in debt.
+
+## England: from civil war to constitutional monarchy
+England's Stuart kings, **James I** and **Charles I**, also believed in divine right, but they needed Parliament's consent to raise taxes. Charles I collected taxes without Parliament, accepted the **Petition of Right (1628)** and then ignored it, and ruled without Parliament from 1629 to 1640. A Scottish revolt over religion forced him to call Parliament again for money. That **Long Parliament** demanded reforms, and in 1642 the **English Civil War** began.
+
+-> Charles I taxes without Parliament and pushes high-church religion on Puritans and Scots | English Civil War, 1642–1649 | Charles I executed (1649); England becomes a republic
+
+The **Royalists** (Cavaliers) fought the **Parliamentarians** (Roundheads), who were strongest among Puritans, merchants and London. **Oliver Cromwell** led Parliament's disciplined **New Model Army** to victory. In 1649 Charles I was tried and **beheaded**, a shocking act in a Europe of kings. England became a republic, the **Commonwealth**. Radical groups appeared, such as the **Levellers**, who wanted votes for most men. Cromwell dissolved Parliament and ruled as **Lord Protector** (1653–1658), a military dictatorship in practice. Puritan rule (theaters closed, strict morality) grew unpopular.
+
+After Cromwell died, the monarchy was **restored in 1660** under **Charles II**. Parliament now held the upper hand on taxes. Two political factions formed: **Whigs**, who wanted to limit the king and exclude Catholics from the throne, and **Tories**, who supported royal authority and hereditary right. The **Test Act (1673)** barred non-Anglicans from public office.
+
+-> Catholic James II rules by decree and his son is born, promising a Catholic dynasty | Glorious Revolution (1688): Parliament invites William of Orange and Mary | Bill of Rights (1689) makes Parliament supreme: constitutional monarchy
+
+Charles's brother **James II** was openly Catholic and ignored laws he disliked. When his son was born in 1688, Parliament's leaders invited the Protestant Dutch prince **William of Orange** and his wife **Mary** (James's Protestant daughter) to take the throne. James fled with almost no bloodshed: the **Glorious Revolution**. William and Mary accepted the **Bill of Rights (1689)**: no taxes or standing army in peacetime without Parliament's consent, free elections, free speech in Parliament, and no Catholic monarch. The **Toleration Act (1689)** allowed Protestant dissenters to worship (but not Catholics). **John Locke's** *Two Treatises of Government* (1690) justified the revolution: government rests on the consent of the governed. The **Act of Union (1707)** joined England and Scotland as **Great Britain**.
+
+## The Dutch Republic: a merchant republic
+The **United Provinces of the Netherlands** won independence from Spain (recognized in 1648). It was a loose federation of seven provinces with a weak central **States General**. Power lay with wealthy merchant oligarchs called **regents**, while the princes of the House of **Orange** held the office of **stadtholder** (military leader) and gained power in wartime crises. In the "disaster year" of **1672**, when France invaded, the Dutch turned to **William III of Orange**, the same William who later took England's throne.
+
+The seventeenth century was the **Dutch Golden Age**. The **Dutch East India Company** (VOC, founded 1602) dominated the Asian spice trade; Amsterdam had the world's leading stock exchange and the **Bank of Amsterdam**; Dutch ships carried much of Europe's trade. The Republic practiced unusual **religious toleration**, sheltering Jews, Huguenots and dissenters like the philosopher **Spinoza**. Painters such as **Rembrandt** and **Vermeer** painted merchants and everyday life rather than kings and saints. By 1700, wars with England and France had drained the Dutch, and Britain overtook them as the leading commercial power.
+
+## Central and Eastern Europe: Austria, Prussia, Russia
+After 1648 the Habsburg emperors in Vienna gave up on controlling Germany and built a Danube empire: Austria, Bohemia and Hungary. In **1683 the Ottoman Turks besieged Vienna** for the last time; a relief army led by the Polish king **Jan Sobieski** broke the siege. In the **Treaty of Karlowitz (1699)** the Ottomans surrendered most of **Hungary** to Austria. The Habsburg lands stayed a patchwork of peoples and laws held together by the dynasty, the Catholic Church and the army, never as centralized as France.
+
+**Brandenburg-Prussia**, ruled by the **Hohenzollern** family, was poor and scattered across northern Germany. **Frederick William, the Great Elector** (r. 1640–1688), built a large standing army and a tax bureaucracy (the General War Commissariat). He made a bargain with the landowning nobles, the **Junkers**: they accepted royal taxes and served as army officers in return for total control over their serfs. His son became **King in Prussia** in 1701. Prussia became famous as an army with a state attached.
+
+In Russia, **Peter the Great** (r. 1682–1725) toured Western Europe incognito in the **Grand Embassy** (1697–1698) to study shipbuilding and technology. Back home he forced **westernization** from the top: nobles had to shave their beards (or pay a beard tax) and wear Western clothes; he built a navy; he crushed the rebellious palace guard (the **streltsy**); he created the **Table of Ranks** (1722), which ranked nobles by state service rather than birth; and he put the Orthodox Church under a government committee, the **Holy Synod**. He fought Sweden in the **Great Northern War** (1700–1721), won the decisive **Battle of Poltava (1709)** against Charles XII, and gained the Baltic coast in the **Treaty of Nystad (1721)**. There he built his new capital, **St. Petersburg** (founded 1703), his "window on the West." Westernization touched the elite; for peasants, **serfdom** grew harsher.
+
+## How it fits together
+Every state faced the same pressure: war had become enormously expensive (standing armies, navies, fortresses). Rulers who could raise money without asking anyone, as in France, Prussia and Russia, became absolutist. Where a parliament controlled taxes, as in England, or merchants controlled the state, as in the Dutch Republic, power was shared under law. Exam questions often ask you to match a state to its model and to name the document or event that defined it.
+
+=== MUSTKNOW
+- **Peace of Westphalia (1648):** ended the Thirty Years' War, recognized Dutch and Swiss independence, weakened the Holy Roman Emperor, birth of the sovereign-state system.
+- **Louis XIV** (r. 1643–1715) is the model absolutist: Versailles to tame nobles, intendants, never called the Estates-General, Bossuet's divine right, Colbert's mercantilism.
+- **Revocation of the Edict of Nantes (1685)** drove out the Huguenots, a skilled population that strengthened France's rivals.
+- **Treaty of Utrecht (1713):** Bourbon Philip V keeps Spain but the crowns stay separate; Britain gains Gibraltar and the asiento; balance-of-power principle.
+- **English Civil War (1642–49)** → Charles I executed (1649) → Cromwell's Commonwealth/Protectorate → Restoration (1660).
+- **Glorious Revolution (1688)** → William and Mary accept the **Bill of Rights (1689)**: Parliament supreme, constitutional monarchy.
+- **Dutch Republic:** merchant oligarchy, stadtholder from House of Orange, VOC, toleration, Golden Age art.
+- **Prussia:** Great Elector, standing army, Junker bargain (nobles serve the state, keep their serfs).
+- **Peter the Great:** westernization from above, Table of Ranks, Holy Synod, Great Northern War, Poltava (1709), St. Petersburg.
+- **Austria:** repelled the Ottoman siege of Vienna (1683), gained Hungary at Karlowitz (1699); a multiethnic dynastic state.
+
+=== TIMELINE
+*1648 | Peace of Westphalia | Ends the Thirty Years' War; Dutch independence recognized
+1648–1653 | The Fronde | Noble and judicial revolts against Mazarin's regency in France
+*1649 | Charles I executed | England becomes a republic (Commonwealth)
+1653–1658 | Cromwell's Protectorate | Military rule under the Lord Protector
+*1660 | Stuart Restoration | Charles II returns; Parliament keeps control of taxes
+1682 | Court moves to Versailles | Louis XIV domesticates the high nobility
+*1683 | Ottoman siege of Vienna fails | Start of the Habsburg advance into Hungary
+*1685 | Edict of Nantes revoked | Huguenots flee France
+*1688–1689 | Glorious Revolution; Bill of Rights | Constitutional monarchy in England
+1697–1698 | Peter the Great's Grand Embassy | Peter studies Western technology
+1699 | Treaty of Karlowitz | Ottomans cede Hungary to Austria
+1700–1721 | Great Northern War | Russia defeats Sweden (Poltava 1709); Nystad 1721
+1701 | Prussia becomes a kingdom | Elector Frederick III crowned Frederick I, King in Prussia
+1703 | St. Petersburg founded | Russia's "window on the West"
+1707 | Act of Union | England and Scotland form Great Britain
+*1713 | Treaty of Utrecht | Ends War of the Spanish Succession; balance of power
+1715 | Death of Louis XIV | Ends the age of the Sun King
+
+=== CARDS
+Peace of Westphalia (1648) :: Ended the Thirty Years' War; recognized Dutch and Swiss independence; German princes became sovereign; Calvinism tolerated.
+Absolutism :: Rule by a monarch with no legal limits from a parliament, justified by divine right.
+Constitutionalism :: Government whose power is limited by law and shared with a representative body.
+Divine right of kings :: Theory that monarchs get their authority from God and answer only to God.
+@ Louis XIV :: The "Sun King" of France (r. 1643–1715); model absolutist; built Versailles, revoked the Edict of Nantes.
+The Fronde :: Revolts by French nobles and courts (1648–53) against Mazarin's regency; taught Louis XIV to tame the nobility.
+Versailles :: Louis XIV's palace; the court moved there in 1682 to keep great nobles busy and under watch.
+Intendants :: Royal agents who enforced the French king's orders in the provinces.
+@ Jean-Baptiste Colbert :: Louis XIV's finance minister; mercantilism: tariffs, state-backed industry, colonies.
+Mercantilism :: Policy of building national wealth (gold and silver) through a favorable balance of trade, tariffs and colonies.
+Huguenots :: French Protestants; about 200,000 fled after the 1685 revocation of the Edict of Nantes.
+Treaty of Utrecht (1713) :: Philip V keeps Spain but French and Spanish crowns stay separate; Britain gains Gibraltar and the asiento.
+@ Oliver Cromwell :: Led Parliament's New Model Army in the English Civil War; ruled as Lord Protector 1653–58.
+Glorious Revolution (1688) :: Bloodless replacement of Catholic James II by William and Mary; Parliament's victory.
+English Bill of Rights (1689) :: No taxes or peacetime army without Parliament; free elections; no Catholic monarch.
+Whigs and Tories :: Restoration-era factions: Whigs favored limiting the king; Tories backed royal authority.
+Stadtholder :: Military and executive leader in the Dutch provinces, usually from the House of Orange.
+Junkers :: Prussian landed nobility; served as army officers and kept control of their serfs.
+@ Peter the Great :: Russian tsar (r. 1682–1725) who westernized Russia from above, founded St. Petersburg, beat Sweden.
+Table of Ranks (1722) :: Peter the Great's system ranking nobles by state service rather than birth.
+
+=== QUESTIONS
+@e
+Which document, accepted by William and Mary in 1689, guaranteed that Parliament must consent to taxation and to a peacetime standing army?
++ The English Bill of Rights :: The 1689 Bill of Rights made these parliamentary powers law as the condition of William and Mary's accession.
+- The Petition of Right :: The Petition of Right dates from 1628, under Charles I, and he ignored it.
+- The Edict of Nantes :: The Edict of Nantes (1598) gave French Protestants toleration; it has nothing to do with Parliament.
+- The Act of Union :: The Act of Union (1707) joined England and Scotland; it did not set out Parliament's taxing power.
+- The Test Act :: The Test Act (1673) barred non-Anglicans from office; it did not define Parliament's powers over taxes.
+
+@e
+The Peace of Westphalia (1648) did which of the following?
++ Recognized the independence of the Dutch Republic :: Westphalia formally recognized the United Provinces' independence from Spain, along with Swiss independence.
+- Ended the War of the Spanish Succession :: That war ended with the Treaty of Utrecht in 1713.
+- Unified the German states under the Habsburg emperor :: It did the opposite: German princes became effectively sovereign and the emperor was weakened.
+- Restored the Stuart monarchy in England :: The Stuart Restoration happened in 1660 and was an English domestic event.
+- Outlawed Calvinism within the Holy Roman Empire :: Westphalia added Calvinism to the faiths a ruler could legally adopt.
+
+@e
+Louis XIV's main purpose in requiring great nobles to live at Versailles was to
++ keep them under royal watch and away from independent power bases :: Busy competing for court honors, nobles could not raise private armies or lead revolts like the Fronde.
+- train them as officers for the French navy :: Versailles was a court, not a naval academy.
+- prepare them to serve in the Estates-General :: Louis never called the Estates-General.
+- convert them from Protestantism to Catholicism :: The great nobles were overwhelmingly Catholic already; Versailles was about political control.
+- collect the taxes that the nobles owed the crown :: French nobles were largely exempt from direct taxes; Versailles was not a tax office.
+
+@e
+Which ruler is most closely associated with founding St. Petersburg and forcing Russian nobles to adopt Western dress?
++ Peter the Great :: Peter founded St. Petersburg in 1703 and imposed beard taxes and Western clothing on the elite.
+- Catherine the Great :: Catherine (r. 1762–1796) came later and is linked to enlightened despotism and the partitions of Poland.
+- Ivan the Terrible :: Ivan IV ruled in the 1500s, long before St. Petersburg existed.
+- Alexander I :: Alexander I ruled 1801–1825 and is known for fighting Napoleon.
+- Michael Romanov :: Michael founded the Romanov dynasty in 1613; he did not westernize Russia.
+
+@e
+The Glorious Revolution of 1688 replaced James II with
++ William of Orange and Mary :: Parliament's leaders invited the Protestant William and Mary, James's daughter, to take the throne.
+- Oliver Cromwell :: Cromwell died in 1658, thirty years earlier.
+- Charles II :: Charles II was restored in 1660 and died in 1685; James II was his successor.
+- Queen Anne :: Anne followed William in 1702; she did not replace James II.
+- George I of Hanover :: George I came to the throne in 1714 under the Act of Settlement.
+
+@e
+In the Dutch Republic of the 1600s, political power rested chiefly with
++ wealthy merchant oligarchs (regents) in the provinces and towns :: The regents dominated provincial estates and town councils; the federation's center was weak.
+- an absolute monarch ruling by divine right :: The Dutch Republic had no king; it was a federal republic.
+- the Catholic bishops of the Netherlands :: The Republic was officially Calvinist; Catholic bishops held no political power.
+- a parliament elected by all adult men :: There was no democratic suffrage; power was oligarchic.
+- the Spanish viceroy in Brussels :: The Dutch had broken away from Spain; Spanish officials governed only the southern (Spanish) Netherlands.
+
+@e
+Which war ended with the Treaty of Utrecht in 1713?
++ The War of the Spanish Succession :: Utrecht (1713, with Rastatt in 1714) settled who would rule Spain.
+- The Thirty Years' War :: The Thirty Years' War ended at Westphalia in 1648.
+- The Great Northern War :: That war ended with the Treaty of Nystad in 1721.
+- The English Civil War :: The English Civil War was a domestic conflict that ended in 1649.
+- The Seven Years' War :: The Seven Years' War ended in 1763 with the Treaty of Paris.
+
+@e
+The Prussian Junkers were
++ landowning nobles who served as army officers in return for control over their serfs :: This bargain with the Hohenzollerns was the social basis of the Prussian state.
+- Prussian merchants who financed the royal army :: Prussia's merchant class was small; Junkers were rural nobles.
+- elected members of the Prussian parliament :: Prussia had no powerful elected parliament in this period.
+- foreign mercenaries hired by the Great Elector :: Junkers were native Prussian nobles, not foreign hires.
+- Protestant refugees from France :: Huguenot refugees settled in Prussia, but they were not called Junkers.
+
+@e
+Mercantilism, as practiced by Colbert, held that a nation should
++ export more than it imports in order to accumulate gold and silver :: Mercantilists measured wealth in bullion and sought a favorable balance of trade.
+- remove all tariffs and allow free trade :: Free trade is Adam Smith's later answer to mercantilism.
+- let private markets set all prices without state interference :: That is laissez-faire, the opposite of Colbert's state-directed economy.
+- abolish colonies because they drain the home economy :: Mercantilists valued colonies as sources of raw materials and markets.
+- collectivize land and industry under worker control :: That describes socialism, a nineteenth-century idea.
+
+@e
+What happened to King Charles I of England in 1649?
++ He was tried and executed by order of Parliament's leaders :: His beheading in January 1649 led to the Commonwealth.
+- He fled to France and returned as king in 1660 :: Charles II, his son, returned in 1660; Charles I was dead by then.
+- He was deposed in a bloodless revolution :: That describes James II in 1688.
+- He signed the Bill of Rights and became a constitutional monarch :: The Bill of Rights was accepted by William and Mary in 1689.
+- He dissolved Parliament and began eleven years of personal rule :: His personal rule ran from 1629 to 1640, not 1649.
+
+@m
+Louis XIV's revocation of the Edict of Nantes in 1685 had which of the following consequences?
++ Many skilled Huguenot artisans and merchants emigrated to France's rivals :: Around 200,000 Huguenots fled to the Dutch Republic, England, Prussia and America, taking skills and capital with them.
+- France became officially Protestant :: The revocation made Protestant worship illegal; France stayed Catholic.
+- The Fronde broke out against royal authority :: The Fronde (1648–53) happened decades earlier.
+- The pope excommunicated Louis XIV :: The revocation pleased many Catholics; there was no excommunication.
+- France's economy immediately surpassed the Dutch Republic's :: Losing skilled workers hurt France's economy.
+
+@m
+Which pairing of a state and its form of government around 1700 is correct?
++ England: constitutional monarchy with Parliament controlling taxation :: After 1689 the English crown could not tax without Parliament.
+- France: limited monarchy under a strong Estates-General :: The Estates-General did not meet between 1614 and 1789; France was absolutist.
+- Russia: elected monarchy chosen by the nobility :: Russia was an autocracy under hereditary tsars.
+- Prussia: merchant republic run by town councils :: Prussia was a militarized absolute monarchy.
+- Dutch Republic: absolute monarchy under the House of Orange :: The Orange stadtholders were powerful but the Republic had no king.
+
+@m
+Which event came FIRST?
++ The beheading of Charles I :: 1649, the earliest of these.
+- The Glorious Revolution :: 1688.
+- The founding of St. Petersburg :: 1703.
+- The Treaty of Utrecht :: 1713.
+- The revocation of the Edict of Nantes :: 1685.
+
+@m
+> "The royal throne is not the throne of a man, but the throne of God himself... The person of the king is sacred, and to attack him in any way is sacrilege."
+The passage above best expresses the ideas of
++ Bishop Bossuet, defending divine-right absolutism :: Bossuet, tutor to Louis XIV's son, argued that kings are God's ministers on earth.
+- John Locke, defending the Glorious Revolution :: Locke argued that power comes from the consent of the governed, not from God.
+- the Levellers, demanding wider suffrage :: The Levellers were radicals who wanted to limit authority, not sanctify kings.
+- Oliver Cromwell, justifying the Protectorate :: Cromwell had helped execute a king; he did not call kings sacred.
+- Spinoza, arguing for religious toleration :: Spinoza was a rationalist critic of religious authority.
+
+@m
+Peter the Great's Table of Ranks (1722) was designed to
++ tie noble status and promotion to service to the state :: Rank came from service in the army, navy or bureaucracy, so the nobility worked for the tsar.
+- free the serfs and give them land :: Serfdom grew harsher under Peter; emancipation came in 1861.
+- establish an elected Russian parliament :: Russia had no parliament until the Duma of 1906.
+- rank Orthodox clergy above the nobility :: Peter subordinated the Church to the state through the Holy Synod.
+- list the provinces that owed tribute to Sweden :: Russia fought Sweden; it did not pay it tribute.
+
+@m
+The Treaty of Utrecht (1713) is significant because it
++ kept the French and Spanish crowns separate and upheld a balance of power :: Philip V kept Spain but could never unite it with France, preventing one dominant power.
+- placed a Habsburg prince on the Spanish throne :: The Bourbon Philip V, Louis XIV's grandson, kept Spain.
+- forced Britain to return Gibraltar to Spain :: Britain gained Gibraltar at Utrecht.
+- ended Dutch independence :: Dutch independence was not at issue; the Republic was on the winning side.
+- created the German Confederation :: The German Confederation was created by the Congress of Vienna in 1815.
+
+@m
+Which group was most likely to support Parliament against Charles I in the English Civil War?
++ Puritans and London merchants :: Parliament's strongholds were the Puritans, the commercial classes and London.
+- High-church Anglican bishops :: Bishops generally backed the king's religious policies.
+- Irish Catholics :: Irish Catholics were hostile to the Puritan Parliament.
+- The great landed nobility of the north and west :: Many northern and western nobles were Royalists.
+- Jesuit missionaries :: Jesuits were banned in England and opposed Puritan Parliament.
+
+@m
+The 1683 Ottoman siege of Vienna is important because its failure
++ began a Habsburg advance that won most of Hungary by 1699 :: After the siege was broken, Austria pushed back the Ottomans and gained Hungary at Karlowitz.
+- led directly to the unification of Germany :: German unification came in 1871.
+- caused the Thirty Years' War :: That war began in 1618 and ended in 1648.
+- ended Habsburg rule in Austria :: The Habsburgs emerged stronger.
+- made the Ottoman Empire a member of the Holy Roman Empire :: The Ottomans were never part of the Holy Roman Empire.
+
+@m
+A historian argues that seventeenth-century rulers became absolute mainly because war had grown too expensive for traditional revenue. Which evidence would best support this?
++ Prussia's Great Elector created a tax bureaucracy specifically to fund a standing army :: The General War Commissariat shows military needs driving state-building.
+- Rembrandt painted group portraits of Amsterdam militia companies :: This is cultural evidence, not evidence about state finance.
+- The Peace of Westphalia tolerated Calvinism :: Religious settlement does not show that war costs drove absolutism.
+- Peter the Great required nobles to shave their beards :: Beard rules concern cultural westernization, not war finance.
+- The English Bill of Rights guaranteed free speech in Parliament :: This shows limits on a king, not the fiscal roots of absolutism.
+
+@m
+The Dutch Republic in the seventeenth century was notable for
++ religious toleration that attracted Jews, Huguenots and other refugees :: Its relative tolerance drew skilled refugees and dissenting thinkers such as Spinoza.
+- a powerful landed nobility that dominated trade :: Trade was dominated by urban merchants, not landed nobles.
+- strict censorship that drove printers abroad :: The Republic was Europe's freest publishing center.
+- its rejection of overseas trade and colonies :: The VOC made it a leading colonial and trading power.
+- being governed directly from Madrid :: Independence from Spain was recognized in 1648.
+
+@m
+Which statement best describes Oliver Cromwell's rule as Lord Protector (1653–1658)?
++ It was a republic in name but a military dictatorship in practice :: Cromwell relied on the army and dismissed parliaments that opposed him.
+- It established the first fully democratic government in Europe :: Cromwell rejected the Levellers' demand for wide suffrage.
+- It restored the Catholic Church in England :: Cromwell was a Puritan and hostile to Catholicism.
+- It ended when Parliament invited William of Orange to rule :: That happened to James II in 1688.
+- It made England an absolute monarchy under divine right :: Cromwell was not a king, and divine right was the Stuart theory.
+
+@m
+Frederick William, the Great Elector of Brandenburg-Prussia, is best known for
++ building a large standing army and a central bureaucracy to pay for it :: He laid the foundations of Prussian militarism and administration.
+- defeating Napoleon at Leipzig :: The Battle of Leipzig took place in 1813, long after his death in 1688.
+- becoming the first Holy Roman Emperor from Prussia :: No Prussian ruler was Holy Roman Emperor.
+- granting a liberal constitution to his subjects :: He ruled as an absolutist.
+- unifying Germany through "blood and iron" :: That was Bismarck in the 1860s.
+
+@m
+The Battle of Poltava (1709) was decisive because it
++ broke Swedish power and opened Russia's path to the Baltic :: Peter's victory over Charles XII led to Russian gains confirmed at Nystad (1721).
+- ended the Ottoman threat to Vienna :: That was the relief of Vienna in 1683.
+- forced Louis XIV to accept the Treaty of Utrecht :: Utrecht followed battles in western Europe, not Poltava.
+- made Prussia a kingdom :: Prussia became a kingdom in 1701 by agreement with the emperor.
+- restored the Stuarts to the English throne :: The Restoration was in 1660.
+
+@m
+"No taxation without the consent of Parliament" was a central issue in which conflict?
++ The struggle between the Stuart kings and Parliament that led to the English Civil War :: Charles I's attempts to tax without Parliament helped trigger the war in 1642.
+- The Fronde in France :: The Fronde concerned French nobles and courts; there was no Parliament in the English sense.
+- The Great Northern War :: That war was between Russia and Sweden over the Baltic.
+- The Dutch revolt against Spain :: Taxation was an issue, but "Parliament" refers to England.
+- The War of the Spanish Succession :: That war was about who would inherit the Spanish throne.
+
+@h
+Which of the following best explains why England developed a constitutional monarchy while France developed absolutism?
++ English kings depended on Parliament for taxes, while French kings could tax without a national assembly :: Control of revenue determined who held power; the French crown never had to call the Estates-General.
+- England was Catholic while France was Protestant :: The reverse is closer to the truth: England was Protestant and France Catholic.
+- France had no nobility to resist the king :: France had a powerful nobility; Louis XIV had to tame it.
+- English kings rejected the theory of divine right :: James I and Charles I strongly believed in divine right.
+- France had already experienced a successful revolution :: France's revolution came in 1789.
+
+@h
+Which development is MOST similar to Louis XIV's use of intendants?
++ Peter the Great's creation of a service bureaucracy loyal to the tsar :: Both rulers bypassed traditional nobles by relying on officials who owed everything to the crown.
+- The Dutch reliance on town councils run by regents :: That decentralized merchant government is the opposite of royal centralization.
+- England's Bill of Rights limiting the crown :: That limited royal power rather than extending it.
+- The Levellers' call for wider suffrage :: That was a popular democratic demand, not a royal administrative tool.
+- The Peace of Westphalia's grant of sovereignty to German princes :: That decentralized authority within the Empire.
+
+@h
+A French Huguenot silk weaver who left France in 1686 and settled in Berlin would most likely have been
++ welcomed by the Great Elector, who offered refuge to Huguenots to build Prussia's economy :: His Edict of Potsdam (1685) invited Huguenots, who boosted Berlin's crafts.
+- expelled immediately as a Catholic :: Huguenots were Protestants, and Prussia's rulers were Protestant.
+- drafted into the Ottoman army :: Berlin was not Ottoman territory.
+- required to convert to Russian Orthodoxy :: Berlin was in Brandenburg-Prussia, not Russia.
+- forced to return to France under the Treaty of Utrecht :: Utrecht contained no such provision.
+
+@h
+Which of the following was a provision of the Treaty of Utrecht?
++ Britain received the asiento, the right to supply enslaved Africans to Spanish America :: The asiento was one of Britain's chief commercial gains at Utrecht.
+- Austria received Gibraltar and Minorca :: Britain, not Austria, received Gibraltar and Minorca.
+- France gained Nova Scotia from Britain :: France ceded Acadia (Nova Scotia) to Britain.
+- Philip V was required to give Spain to the Habsburgs :: Philip V kept Spain.
+- Russia received a Baltic coastline :: Russia's Baltic gains came at Nystad in 1721.
+
+@h
+Locke's Two Treatises of Government (1690) is closely linked to the Glorious Revolution because it
++ argued that a ruler who violates the people's rights may be replaced :: Locke's case for government by consent justified removing James II.
+- defended the divine right of the Stuart dynasty :: That was the position Locke attacked (Filmer's Patriarcha).
+- argued for an all-powerful sovereign to prevent civil war :: That is Hobbes's argument in Leviathan (1651).
+- called for the abolition of private property :: Locke made property a natural right.
+- urged England to adopt Catholicism :: Locke supported toleration for Protestants and opposed a Catholic monarch.
+
+@h
+Which statement about the Habsburg monarchy after 1648 is most accurate?
++ It was a multiethnic collection of territories held together by the dynasty, Catholicism and the army :: Austria, Bohemia and Hungary kept separate laws and estates under one ruler.
+- It was a centralized nation-state with a single language :: The Habsburg lands were linguistically diverse and decentralized.
+- It controlled the German states more tightly after Westphalia :: Westphalia weakened imperial control over the German princes.
+- It adopted a constitutional monarchy like England's :: The Habsburgs ruled as absolutists where they could.
+- It lost Hungary to the Ottomans in 1699 :: At Karlowitz (1699) the Ottomans ceded Hungary to Austria.
+
+@m
+The phrase "one king, one law, one faith" best summarizes the goals of
++ Louis XIV :: His centralization and the 1685 revocation of the Edict of Nantes aimed at uniformity under the crown.
+- William of Orange :: William ruled England under the Bill of Rights and supported toleration for Protestant dissenters.
+- the Dutch regents :: The regents governed a decentralized, tolerant republic.
+- the Levellers :: The Levellers wanted wider rights, not royal uniformity.
+- John Locke :: Locke argued for limited government and toleration.
+
+@e
+Who won the English Civil War?
++ The Parliamentarians, led militarily by Oliver Cromwell :: Cromwell's New Model Army defeated the Royalists by 1646 and again in 1648.
+- The Royalists under Charles I :: Charles I lost and was executed in 1649.
+- The Scots under James II :: James II reigned in 1685–88; he did not lead the Scots in the 1640s.
+- The Irish Catholic Confederation :: The Irish were defeated by Cromwell in 1649–50.
+- William of Orange's Dutch army :: William's landing came in 1688, decades later.
+
+@m
+Which feature distinguished the English Restoration settlement of 1660 from the monarchy before 1640?
++ Parliament kept its control over taxation and could not be ignored by the king :: The monarchy returned, but the crown could no longer rule and tax without Parliament.
+- The monarch was now elected by Parliament :: The crown remained hereditary; Charles II was the son of Charles I.
+- Catholicism became the state religion :: The Church of England was restored, and the Test Act excluded Catholics from office.
+- Cromwell's Protectorate continued alongside the king :: The Protectorate ended in 1659.
+- Divine right was written into law :: The settlement limited royal power in practice.
+
+@h
+Which comparison of Peter the Great and Louis XIV is most accurate?
++ Both strengthened royal power by bringing nobles and the church under tighter state control :: Louis used Versailles and Gallican control; Peter used service ranks and the Holy Synod.
+- Both revoked edicts of religious toleration for Protestants :: Only Louis did this, in 1685.
+- Both ruled through powerful elected parliaments :: Neither shared power with a parliament.
+- Both lost their thrones in revolutions :: Both died as reigning monarchs.
+- Both modeled their reforms on the Dutch republican constitution :: Peter admired Dutch shipbuilding, not republicanism; Louis invaded the Dutch.

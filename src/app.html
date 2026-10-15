@@ -155,6 +155,7 @@ main {
 .chip.accent { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
 .chip.unverified { background: var(--warn-soft); color: var(--warn); border-color: transparent; font-weight: 600; }
 .muted { color: var(--muted); }
+.url { overflow-wrap: anywhere; }
 .small { font-size: 0.88rem; }
 .bar { height: 8px; background: var(--sunk); border-radius: 99px; overflow: hidden; min-width: 60px; }
 .bar > span { display: block; height: 100%; background: var(--accent); border-radius: 99px; }
@@ -1044,7 +1045,7 @@ function viewAbout() {
     <div class="tablewrap"><table><thead><tr><th>#</th><th>Topic</th><th class="n">Official</th><th class="n">Lesson</th><th class="n">Questions</th><th class="n">Cards</th></tr></thead><tbody>${rows}</tbody></table></div>
   </section>
   <section class="panel"><h3>Sources</h3>
-    <ul>${m.sources.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a><br><span class="small muted">${esc(s.url)}</span></li>`).join("")}</ul>
+    <ul>${m.sources.map((s) => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a><br><span class="small muted url">${esc(s.url)}</span></li>`).join("")}</ul>
     <p class="notice">${esc(m.verificationNote)}</p>
     <p class="small muted">All questions, lessons and flashcards in this guide are original. They are not copied from the College Board, prep books or websites. CLEP is a registered trademark of the College Board, which does not endorse this guide.</p>
   </section>
