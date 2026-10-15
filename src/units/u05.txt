@@ -1,0 +1,521 @@
+=== META
+short: Revolution & Napoleon
+range: 1789–1815
+
+=== LESSON
+## The big picture
+The **French Revolution** (1789–1799) and the age of **Napoleon** (1799–1815) are the most heavily tested topics on this exam, about one question in nine. In 26 years France went from absolute monarchy to constitutional monarchy, to radical republic, to Terror, to a corrupt conservative republic, to military dictatorship, to empire, and back to a Bourbon king. Along the way it spread the ideas of **liberty, equality and nationalism** across Europe. Learn the sequence of phases; many questions ask which came first or what caused what.
+
+## The Old Regime and its crisis
+Before 1789, French society was divided into three legal orders called **estates**. The **First Estate** (clergy, under 1 percent of the population) and the **Second Estate** (nobility, about 2 percent) held privileges, above all freedom from most direct taxes such as the *taille*. The **Third Estate** was everyone else, about 97 percent: peasants, urban workers (the **sans-culottes**), and the wealthy, educated middle class, the **bourgeoisie** (merchants, lawyers, officials). The bourgeoisie resented being shut out of honors and offices by birth; peasants resented paying taxes, tithes and **seigneurial dues** to lords.
+
+-> War debts from the Seven Years' War and the American Revolution; tax-exempt privileged orders | Royal bankruptcy forces Louis XVI to call the Estates-General (1789) | Third Estate seizes the initiative and turns a fiscal crisis into a revolution
+
+The trigger was **money**. Wars, especially French aid to the American Revolution, had left the crown so indebted that interest payments ate about half the budget. Louis XVI's ministers proposed taxing the privileged; an **Assembly of Notables** (1787) and the Paris **parlement** refused and insisted that only the **Estates-General**, unused since 1614, could approve new taxes. A bad harvest in 1788 doubled bread prices just as elections were held. The abbé **Emmanuel-Joseph Sieyès** captured the mood in his pamphlet ***What Is the Third Estate?*** (January 1789): "Everything. What has it been until now? Nothing."
+
+## 1789: the year of revolution
+The Estates-General met at Versailles in **May 1789**. The key fight was over voting. If each estate voted as a body, the two privileged orders could outvote the Third Estate 2 to 1; the Third wanted voting **by head**, since it had as many deputies as the other two combined. On **June 17** the Third Estate declared itself the **National Assembly**. Locked out of its hall, it met on a tennis court and swore the **Tennis Court Oath (June 20)** not to disband until France had a constitution.
+
+When the king massed troops near Paris, crowds seeking gunpowder stormed the **Bastille**, a royal fortress-prison, on **July 14, 1789**. In the countryside, rumors of noble plots set off the **Great Fear**: peasants burned manor records of their dues. On the night of **August 4**, nobles in the Assembly gave up their feudal privileges. On **August 26** the Assembly adopted the **Declaration of the Rights of Man and of the Citizen**: men are born free and equal in rights; sovereignty rests in the nation; liberty, property, security and resistance to oppression are natural rights; all citizens are equal before the law and eligible for office by talent. In the **October Days**, thousands of Parisian women marched to Versailles over bread prices and forced the royal family to move to Paris.
+
+## The moderate (constitutional) phase, 1789–1792
+The National Assembly remade France on liberal lines. It replaced the old provinces with 83 **departments**, abolished guilds and internal tolls, and seized **Church lands** to pay the debt, issuing paper money (*assignats*) backed by them. The **Civil Constitution of the Clergy (1790)** made priests state employees elected by citizens and required them to swear an oath to the constitution. The pope condemned it, about half the clergy refused the oath, and Catholic France split. This was the Revolution's first great mistake: it turned many devout peasants against it.
+
+The **Constitution of 1791** created a **constitutional monarchy** with a one-house Legislative Assembly. Only "active citizens" who paid a certain level of tax could vote, so it was a government of property owners. **Olympe de Gouges** answered with a *Declaration of the Rights of Woman* (1791), demanding equal rights for women; she was executed in 1793.
+
+-> The king's attempted flight (Varennes, June 1791) destroys trust; Austria and Prussia threaten intervention | France declares war on Austria (April 1792); Paris crowds overthrow the monarchy (August 1792) | A republic is proclaimed; radicals take power in wartime
+
+In June 1791 Louis XVI tried to flee to the Austrian border and was caught at **Varennes**. Austria and Prussia's **Declaration of Pillnitz** (August 1791) hinted they would restore him. In **April 1792** the Assembly, eager to spread the Revolution, declared war on Austria. Early defeats and the Prussian commander's threat (the Brunswick Manifesto) to destroy Paris if the king were harmed led crowds to storm the Tuileries palace on **August 10, 1792**. In the **September Massacres**, mobs killed about 1,200 prisoners. A French victory at **Valmy** (September 20) stopped the invasion.
+
+## The radical phase and the Terror, 1792–1794
+A new assembly, the **National Convention**, elected by universal male suffrage, abolished the monarchy and declared France a **republic** (September 1792). It tried the king as "Citizen Louis Capet," and **Louis XVI was executed in January 1793**; Marie Antoinette followed in October. The Convention split between the more moderate **Girondins** and the radical **Jacobins** (the "Mountain"), who relied on the Paris sans-culottes. In June 1793 the Jacobins purged the Girondins.
+
+France was at war with almost all of Europe, and the Catholic, royalist **Vendée** region rose in civil war. To survive, the Convention gave dictatorial power to the twelve-man **Committee of Public Safety**, dominated by **Maximilien Robespierre**. It ordered the **levée en masse** (August 1793), the first national draft: all citizens were mobilized for total war. A huge, motivated citizen army began to win. The Committee imposed price controls (the **Maximum**) on bread and other goods.
+
+-> Foreign invasion, civil war in the Vendée, and fear of traitors | The Reign of Terror (September 1793–July 1794): Committee of Public Safety, Law of Suspects, guillotine | About 17,000 official executions; the Republic survives, but the Terror devours its leaders
+
+The **Reign of Terror** used revolutionary tribunals and the **guillotine** against "enemies of the Republic": nobles, priests, Girondins, rebels, and eventually fellow Jacobins such as **Georges Danton**. About 17,000 people were officially executed and many more died in prison or in the brutal repression of the Vendée. Robespierre called terror "nothing but justice, prompt, severe, inflexible," an emanation of virtue. The radicals also tried to remake culture: **dechristianization** closed churches, a new **revolutionary calendar** dated years from the Republic's founding (Year I = 1792), and Robespierre staged a deist **Cult of the Supreme Being**.
+
+## Europe reacts to the Revolution
+The Revolution divided opinion everywhere. In Britain, the Irish-born politician **Edmund Burke** published ***Reflections on the Revolution in France* (1790)**, predicting that tearing down ancient institutions in the name of abstract rights would end in bloodshed and dictatorship. Burke became the founder of modern **conservatism** (Unit 7). **Thomas Paine** answered with ***The Rights of Man* (1791)**, defending the Revolution and popular sovereignty. Governments in Britain, Austria, Prussia and Russia cracked down on radicals at home, and from 1792 they fought France in a series of **coalitions**. As French armies advanced, they set up "sister republics" (such as the Batavian Republic in the Netherlands) that abolished feudal privileges, which made the Revolution an international force.
+
+## Thermidor and the Directory, 1794–1799
+With the armies winning, the Terror seemed less necessary, and Convention members feared they were next. On 9 Thermidor (**July 27, 1794**) they arrested Robespierre and guillotined him the next day. This **Thermidorian Reaction** ended the Terror, closed the Jacobin Club and lifted price controls. The **Constitution of 1795** created the **Directory**: five executive Directors and a two-house legislature elected by property owners. The Directory was corrupt and unstable, beset by inflation, royalist and radical plots, and continuing war. It increasingly relied on the army, and especially on a young general from Corsica.
+
+## Napoleon Bonaparte
+**Napoleon Bonaparte** won fame by conquering northern Italy (1796–1797) and leading a campaign to **Egypt** (1798–1799), where scholars found the Rosetta Stone. In the **coup of 18 Brumaire (November 9, 1799)** he overthrew the Directory and became **First Consul**, then consul for life (1802) and finally **Emperor of the French (1804)**, crowning himself in Notre-Dame. Each step was approved by a **plebiscite**, a popular vote that gave dictatorship a democratic look.
+
+At home Napoleon consolidated the moderate gains of the Revolution and ended its chaos:
+- The **Concordat of 1801** with Pope Pius VII restored the Catholic Church in France while the state kept the confiscated Church lands and the right to nominate bishops. It made peace with Catholics.
+- The **Napoleonic Code** (Civil Code, 1804) guaranteed **equality before the law**, the abolition of feudal privilege, secure **property rights** and religious freedom. It also restored patriarchal authority: wives had to obey husbands and lost rights to property, and it reinstated limits on workers. The Code spread across Europe and still underlies law in many countries.
+- He created the **Bank of France**, a centralized administration of prefects, and elite secondary schools (*lycées*), and opened careers to talent. He also censored the press and used secret police.
+
+## The Napoleonic Empire
+-> Napoleon's victories over Austria, Prussia and Russia (1805–1807) | French domination of the continent; Continental System against Britain | Nationalist resistance (Spain, Germany) and the disastrous invasion of Russia lead to his fall
+
+**Britain** remained his steadiest enemy. Admiral **Horatio Nelson** destroyed the French and Spanish fleets at **Trafalgar (1805)**, ending any hope of invading Britain. On land Napoleon seemed unbeatable: he crushed Austria and Russia at **Austerlitz (1805)**, abolished the **Holy Roman Empire (1806)** and grouped western German states into his **Confederation of the Rhine**, smashed Prussia at **Jena (1806)**, and made peace with Tsar Alexander I at **Tilsit (1807)**. He placed relatives on thrones in Spain, Naples, Holland and Westphalia and created the **Duchy of Warsaw** from Polish lands.
+
+To defeat Britain economically, his **Continental System** (Berlin Decree, 1806) banned trade with Britain throughout Europe. It hurt European economies more than Britain's and caused resentment. When Portugal and later Russia broke it, Napoleon attacked them.
+
+Two disasters followed. In Spain, after he made his brother Joseph king (1808), the Spanish people waged a savage **guerrilla** war (the **Peninsular War**, 1808–1814), aided by a British army under Wellington; the painter **Goya** recorded its horrors. In **1812** Napoleon invaded **Russia** with about 600,000 men. The Russians retreated, burned crops, and let him take a burned-out **Moscow**; when Alexander refused to negotiate, Napoleon retreated through the winter, and fewer than 100,000 of his soldiers got out.
+
+A coalition of Russia, Prussia, Austria and Britain defeated him at **Leipzig, the "Battle of the Nations" (1813)**. Paris fell, and Napoleon abdicated in **1814** and was exiled to the island of **Elba**. The Bourbons returned under **Louis XVIII**. Napoleon escaped in 1815 for the **Hundred Days**, but was defeated by the Duke of **Wellington** and the Prussian Blücher at **Waterloo (June 18, 1815)** and exiled to remote **St. Helena**, where he died in 1821.
+
+Napoleon's conquests spread revolutionary reforms (the Code, the end of feudal dues and guilds, religious toleration) across Europe. They also provoked **nationalism**: Spaniards, Germans and Russians learned to resist France as nations.
+
+Revolutionary ideas also crossed the Atlantic. In the French colony of **Saint-Domingue**, enslaved people rose in 1791. Led by **Toussaint Louverture**, they forced France to abolish slavery (1794) and, after defeating an army Napoleon sent to restore it, declared the independent nation of **Haiti** in 1804, the first state founded by formerly enslaved people.
+
+## The Congress of Vienna, 1814–1815
+The victors met in Vienna to rebuild Europe. The leading figure was Austria's foreign minister, Prince **Klemens von Metternich**; others were Britain's **Castlereagh**, Russia's **Tsar Alexander I**, Prussia's Hardenberg, and the skillful French diplomat **Talleyrand**. Their goals were stability and preventing another French conquest.
+
+-> Twenty-five years of revolution and war | Congress of Vienna: legitimacy, balance of power, containment of France | No general European war for a century (until 1914), but nationalism and liberalism are suppressed
+
+They followed three principles:
+- **Legitimacy:** restore "legitimate" dynasties, such as the Bourbons in France, Spain and Naples.
+- **Balance of power:** no state should dominate. France was treated leniently so it would not seek revenge (in 1814 it kept its 1792 borders; after the Hundred Days it was cut back to roughly its 1790 borders, paid an indemnity and accepted a temporary army of occupation), but it was **ringed by buffer states**: the Kingdom of the **Netherlands** (with Belgium), a stronger **Piedmont-Sardinia**, and **Prussia's** new Rhineland provinces.
+- **Compensation:** Austria got Lombardy-Venetia in Italy; Russia got most of Poland; Prussia got part of Saxony and the Rhineland; Britain kept colonies such as the Cape Colony and Ceylon.
+
+Napoleon's German reorganization was kept in a new form: the **German Confederation** of 39 states under Austrian leadership. The great powers agreed to meet periodically to keep the peace, the **Concert of Europe** (Quadruple Alliance), and Alexander I proposed a **Holy Alliance** of Christian monarchs (Russia, Austria, Prussia). The settlement largely ignored nationalism and liberalism, which became the great forces of the next era (Unit 7).
+
+=== MUSTKNOW
+- **Causes:** royal debt (Seven Years' War, American Revolution), privileged orders exempt from taxes, bourgeois resentment, the 1788 harvest failure, Enlightenment ideas.
+- **1789 sequence:** Estates-General (May) → National Assembly (June 17) → Tennis Court Oath (June 20) → Bastille (July 14) → Great Fear → August 4 decrees → Declaration of the Rights of Man (August 26) → October Days.
+- **Civil Constitution of the Clergy (1790)** split the Church and turned many Catholics against the Revolution.
+- **Phases:** constitutional monarchy (1791) → republic and king's execution (1792–93) → Terror under Robespierre and the Committee of Public Safety (1793–94) → Thermidor (1794) → Directory (1795–99) → Napoleon's coup (1799).
+- **Levée en masse (1793):** first mass national conscription.
+- **Napoleon at home:** Concordat (1801), Napoleonic Code (1804: equality before law, property; women subordinate), plebiscites, centralization.
+- **Napoleon abroad:** Trafalgar and Austerlitz (1805), end of the Holy Roman Empire (1806), Continental System, Peninsular War, Russia (1812), Leipzig (1813), Waterloo (1815).
+- **Haiti:** Toussaint Louverture leads the slave revolt; independence in 1804.
+- **Congress of Vienna:** Metternich; legitimacy, balance of power, compensation; buffer states around France; German Confederation; Concert of Europe.
+
+=== TIMELINE
+*1789 (May) | Estates-General meets | First meeting since 1614
+*1789 (June 20) | Tennis Court Oath | National Assembly vows to write a constitution
+*1789 (July 14) | Fall of the Bastille | Popular uprising in Paris
+1789 (Aug. 26) | Declaration of the Rights of Man and of the Citizen | Liberal charter of rights
+1790 | Civil Constitution of the Clergy | Church subordinated to the state; Catholics split
+1791 | Flight to Varennes; Constitution of 1791 | Constitutional monarchy; king's credibility destroyed
+1792 (April) | France declares war on Austria | Revolutionary wars begin
+*1792 (Sept.) | Monarchy abolished; First Republic | National Convention elected by male suffrage
+*1793 (Jan.) | Louis XVI executed | Europe's monarchs unite against France
+1793–1794 | Reign of Terror | Committee of Public Safety; levée en masse
+*1794 (July) | Thermidor: Robespierre executed | End of the Terror
+1795–1799 | The Directory | Corrupt, unstable republic
+*1799 | Coup of 18 Brumaire | Napoleon becomes First Consul
+1801 | Concordat | Napoleon's settlement with the Catholic Church
+*1804 | Napoleonic Code; Napoleon crowned emperor; Haiti independent | Equality before law; empire
+1805 | Trafalgar and Austerlitz | British sea power; French land power
+1806 | Holy Roman Empire dissolved; Continental System | Confederation of the Rhine
+1808–1814 | Peninsular War | Spanish guerrilla resistance
+*1812 | Invasion of Russia | The Grand Army destroyed
+1813 | Battle of Leipzig | "Battle of the Nations"
+*1814–1815 | Congress of Vienna | Legitimacy and balance of power
+*1815 | Waterloo | Napoleon's final defeat
+
+=== CARDS
+Three estates :: Old Regime orders: clergy (First), nobility (Second), everyone else (Third, ~97%).
+Bourgeoisie :: Middle class of merchants, lawyers and professionals; led the Third Estate.
+@ Abbé Sieyès :: Wrote "What Is the Third Estate?" (1789): "Everything."
+Tennis Court Oath (June 20, 1789) :: National Assembly vowed not to disband until France had a constitution.
+Storming of the Bastille (July 14, 1789) :: Parisian crowd seized the royal fortress; symbol of popular revolution.
+Great Fear (1789) :: Rural panic in which peasants attacked manors and burned records of feudal dues.
+Declaration of the Rights of Man and of the Citizen :: 1789 charter: natural rights, equality before law, sovereignty of the nation.
+October Days (1789) :: Parisian women marched to Versailles and brought the royal family to Paris.
+Civil Constitution of the Clergy (1790) :: Made clergy elected state employees who swore loyalty; divided French Catholics.
+@ Olympe de Gouges :: Wrote the Declaration of the Rights of Woman (1791); executed in 1793.
+Flight to Varennes (1791) :: Louis XVI's failed escape attempt; destroyed trust in the king.
+Girondins vs. Jacobins :: Moderate vs. radical republicans in the National Convention; Jacobins purged Girondins in 1793.
+@ Maximilien Robespierre :: Jacobin leader of the Committee of Public Safety during the Terror; executed July 1794.
+Committee of Public Safety :: Twelve-member executive committee that ran France during the Terror.
+Levée en masse (1793) :: Mass conscription of the whole nation for war.
+Reign of Terror (1793–94) :: Revolutionary dictatorship that executed about 17,000 "enemies."
+Sans-culottes :: Paris working people who backed radical revolution.
+Thermidorian Reaction (1794) :: Overthrow and execution of Robespierre; end of the Terror.
+The Directory (1795–99) :: Five-man executive of a conservative, corrupt republic; overthrown by Napoleon.
+Concordat of 1801 :: Napoleon's agreement with the pope restoring the Church while keeping state control.
+Napoleonic Code (1804) :: Civil law code: equality before law, property rights; women subordinate to husbands.
+Continental System :: Napoleon's ban on European trade with Britain (from 1806).
+Peninsular War (1808–14) :: Spanish guerrilla war, with British help, against Napoleon's rule.
+Battle of Waterloo (1815) :: Wellington and Blücher's final defeat of Napoleon.
+@ Toussaint Louverture :: Led the slave revolution in Saint-Domingue that created independent Haiti (1804).
+@ Klemens von Metternich :: Austrian foreign minister; architect of the Congress of Vienna and of conservative order.
+Principle of legitimacy :: Congress of Vienna principle: restore pre-revolutionary ruling dynasties.
+Concert of Europe :: Great powers' system of periodic meetings to preserve the 1815 settlement.
+
+=== QUESTIONS
+@e
+The immediate cause of Louis XVI's decision to call the Estates-General in 1789 was
++ the royal government's financial crisis :: Debt and the privileged orders' refusal of new taxes forced the king to summon the Estates-General.
+- a British invasion of France :: Britain did not invade France in 1789.
+- the execution of Marie Antoinette :: She was executed in 1793.
+- Napoleon's coup d'état :: Napoleon's coup came in 1799.
+- the pope's demand for church reform :: The papacy did not ask for the Estates-General.
+
+@e
+On June 20, 1789, members of the Third Estate swore the Tennis Court Oath, vowing to
++ remain together until they had written a constitution for France :: Locked out of their hall, the deputies of the new National Assembly met on a tennis court.
+- restore Louis XVI to absolute power :: They were limiting royal power.
+- execute the king :: The king was executed in 1793.
+- declare war on Austria :: War came in April 1792.
+- elect Napoleon as First Consul :: Napoleon took power in 1799.
+
+@e
+The Declaration of the Rights of Man and of the Citizen (1789) proclaimed that
++ men are born and remain free and equal in rights :: The Declaration set out natural rights and equality before the law.
+- the king rules by divine right :: It placed sovereignty in the nation.
+- the Catholic Church is the only legal religion :: It protected freedom of opinion, including religious opinion.
+- women have equal political rights with men :: Its failure to include women prompted Olympe de Gouges's response.
+- nobles are exempt from taxes :: It required taxes to be shared according to means.
+
+@e
+The Reign of Terror is most closely associated with
++ Robespierre and the Committee of Public Safety :: The Committee ran the Terror from 1793 to 1794.
+- Napoleon and the Directory :: Napoleon overthrew the Directory in 1799, years after the Terror.
+- Louis XVIII and the Bourbon Restoration :: The Restoration came in 1814.
+- Metternich and the Congress of Vienna :: Metternich opposed revolution.
+- Lafayette and the National Guard :: Lafayette was a moderate who fled France in 1792.
+
+@e
+Napoleon's Civil Code (1804) did which of the following?
++ Established equality of male citizens before the law and protected property rights :: The Code preserved key liberal gains of the Revolution.
+- Restored the privileges of the nobility :: It confirmed the abolition of feudal privilege.
+- Gave women equal rights with men :: It made wives legally subordinate to husbands.
+- Abolished private property :: It strongly protected property.
+- Made Catholicism compulsory :: It upheld religious freedom.
+
+@e
+Which battle in 1805 ended Napoleon's hopes of invading Britain?
++ Trafalgar :: Nelson's destruction of the Franco-Spanish fleet gave Britain command of the seas.
+- Austerlitz :: Austerlitz was a French land victory over Austria and Russia.
+- Waterloo :: Waterloo (1815) was Napoleon's final defeat on land.
+- Leipzig :: Leipzig (1813) was a land battle in Germany.
+- Valmy :: Valmy (1792) stopped a Prussian invasion of France.
+
+@e
+Napoleon's final defeat came at the Battle of
++ Waterloo in 1815 :: Wellington and Blücher defeated him during the Hundred Days.
+- Austerlitz in 1805 :: Austerlitz was one of his greatest victories.
+- Jena in 1806 :: Jena was his victory over Prussia.
+- Borodino in 1812 :: Borodino was a costly French victory before he entered Moscow.
+- Trafalgar in 1805 :: Trafalgar was a naval defeat, not his final one.
+
+@e
+The principal architect of the Congress of Vienna was
++ Klemens von Metternich of Austria :: Metternich hosted the Congress and shaped its conservative settlement.
+- Otto von Bismarck of Prussia :: Bismarck led Prussia in the 1860s.
+- Napoleon Bonaparte :: Napoleon was the defeated enemy.
+- Maximilien Robespierre :: Robespierre died in 1794.
+- Camillo di Cavour :: Cavour unified Italy in the 1850s and 1860s.
+
+@e
+The Continental System was Napoleon's attempt to
++ defeat Britain economically by closing European ports to British trade :: The Berlin Decree of 1806 launched the blockade.
+- unite all German states under Prussia :: Napoleon weakened Prussia.
+- restore the Holy Roman Empire :: He abolished it in 1806.
+- free the serfs of Russia :: Russian serfdom lasted until 1861.
+- establish a common European parliament :: No such parliament existed.
+
+@e
+Who led the slave revolution in Saint-Domingue that led to the independence of Haiti?
++ Toussaint Louverture :: He led the revolt and its armies until his capture in 1802; Haiti won independence in 1804.
+- Simón Bolívar :: Bolívar led independence movements in South America.
+- Olympe de Gouges :: De Gouges was a French writer on women's rights.
+- Georges Danton :: Danton was a Paris revolutionary leader.
+- Horatio Nelson :: Nelson was a British admiral.
+
+@e
+Which group made up about 97 percent of France's population before 1789?
++ The Third Estate :: It included peasants, urban workers and the bourgeoisie.
+- The First Estate :: The clergy was under 1 percent.
+- The Second Estate :: The nobility was about 2 percent.
+- The émigrés :: Émigrés were nobles who fled after 1789.
+- The sans-culottes alone :: The sans-culottes were Parisian workers, only part of the Third Estate.
+
+@e
+The storming of the Bastille on July 14, 1789, is significant because it
++ showed that the Paris crowd would use force to defend the National Assembly :: Popular violence saved the Assembly from royal troops and made revolution irreversible.
+- ended the Reign of Terror :: The Terror ended in 1794.
+- brought Napoleon to power :: Napoleon took power in 1799.
+- restored the king's absolute power :: It weakened royal power.
+- began the war with Austria :: War came in 1792.
+
+@e
+The Concordat of 1801 was an agreement between Napoleon and
++ Pope Pius VII :: It restored the Catholic Church in France under state supervision.
+- Tsar Alexander I :: Napoleon's treaty with Alexander was Tilsit (1807).
+- the British government :: Peace with Britain was the Treaty of Amiens (1802).
+- the Directory :: Napoleon overthrew the Directory.
+- the Jacobin Club :: The Jacobin Club was closed in 1794.
+
+@e
+The Congress of Vienna created the German Confederation, which was
++ a loose union of 39 states under Austrian leadership :: It replaced Napoleon's Confederation of the Rhine and the old Holy Roman Empire.
+- a unified German empire ruled by Prussia :: German unification under Prussia came in 1871.
+- a French puppet state :: It was designed to contain France.
+- a republic with a national parliament :: It had only a diet of state representatives.
+- part of the Russian Empire :: It was dominated by Austria.
+
+@m
+Why did the voting method in the Estates-General become a crisis in 1789?
++ Voting by order let the two privileged estates outvote the Third Estate, which demanded voting by head :: The Third Estate had as many deputies as the other two combined but would lose 2 to 1 by order.
+- The king insisted that only nobles could vote :: All three estates had deputies.
+- The Third Estate wanted to vote by order to protect peasants :: The Third Estate wanted voting by head.
+- The clergy refused to attend :: The clergy attended; many parish priests later joined the Third.
+- The Estates-General voted to abolish itself :: The Third Estate instead declared itself the National Assembly.
+
+@m
+The Civil Constitution of the Clergy (1790) was significant because it
++ divided Catholics and turned many devout French people against the Revolution :: Requiring an oath split the clergy and fueled counter-revolution, notably in the Vendée.
+- made Protestantism the official religion of France :: It reorganized the Catholic Church.
+- restored the Church lands seized in 1789 :: The lands stayed nationalized.
+- was welcomed by the pope as a fair compromise :: Pope Pius VI condemned it.
+- ended the Revolution's conflict with the Church :: It intensified that conflict.
+
+@m
+Which event came FIRST?
++ The October Days march on Versailles :: October 1789.
+- The execution of Louis XVI :: January 1793.
+- The Flight to Varennes :: June 1791.
+- The declaration of war on Austria :: April 1792.
+- The levée en masse :: August 1793.
+
+@m
+The levée en masse of 1793 was significant because it
++ mobilized the entire nation for war, creating a mass citizen army :: It marked the start of modern total war.
+- abolished the French army :: It vastly expanded the army.
+- returned confiscated lands to the Church :: It concerned military mobilization.
+- gave women the right to vote :: Women did not gain the vote in France until 1944.
+- ended the war with Austria and Prussia :: The war continued.
+
+@m
+Which statement best describes the Directory (1795–1799)?
++ A conservative republic run by property owners that was weak, corrupt and dependent on the army :: Its instability made Napoleon's coup possible.
+- A radical dictatorship that executed thousands :: That describes the Terror.
+- An absolute monarchy restored under Louis XVIII :: The Bourbons returned only in 1814.
+- A democratic government elected by all adults :: Voting was limited to property owners.
+- A military government led by Robespierre :: Robespierre had been executed in 1794.
+
+@m
+Which group was most likely to support the Jacobins in 1793?
++ The Paris sans-culottes :: Working-class Parisians backed radical measures like price controls.
+- Émigré nobles :: Émigrés sought to overthrow the Revolution.
+- Peasants of the Vendée :: The Vendée rose in royalist, Catholic revolt.
+- Refractory priests :: Priests who refused the oath opposed the Revolution.
+- Austrian diplomats :: Austria was at war with the Republic.
+
+@m
+Napoleon's use of plebiscites to approve his rise to power illustrates
++ his use of democratic forms to legitimize authoritarian rule :: Voters approved his constitutions, but real power stayed with him.
+- his commitment to parliamentary government :: He reduced legislatures to rubber stamps.
+- his restoration of the Estates-General :: He never restored it.
+- his alliance with the Jacobins :: He suppressed Jacobins.
+- his dependence on the pope :: Plebiscites appealed to the people, not the Church.
+
+@m
+> "If the basis of popular government in time of peace is virtue, its basis in time of revolution is both virtue and terror: virtue, without which terror is murderous; terror, without which virtue is powerless."
+The speaker was most likely
++ Maximilien Robespierre, justifying the Reign of Terror :: Robespierre gave this argument in February 1794.
+- Napoleon Bonaparte, explaining the Civil Code :: Napoleon did not speak of terror and virtue this way.
+- Edmund Burke, attacking the French Revolution :: Burke condemned the Revolution's violence.
+- Metternich, defending the Concert of Europe :: Metternich opposed revolutionary terror.
+- Louis XVI, addressing the Estates-General :: The king did not justify revolutionary terror.
+
+@m
+Which of the following was a major cause of Napoleon's downfall?
++ The disastrous invasion of Russia in 1812 :: He lost most of his Grand Army, encouraging a new coalition.
+- His defeat at Austerlitz :: Austerlitz was a great victory.
+- The success of the Continental System in ruining Britain :: The system failed and alienated Europe.
+- His alliance with Britain after 1807 :: Britain remained his enemy.
+- His refusal to fight in Spain :: He invaded Spain in 1808.
+
+@m
+The Peninsular War (1808–1814) is significant because it
++ showed how nationalist guerrilla resistance could drain Napoleon's armies :: Spanish guerrillas and Wellington's army tied down hundreds of thousands of French troops.
+- led to Napoleon's coronation as emperor :: He was crowned in 1804.
+- ended with France annexing Portugal permanently :: The French were driven out.
+- was fought between Prussia and Russia :: It was fought in Spain and Portugal.
+- caused the abolition of the Holy Roman Empire :: That was in 1806, before the war.
+
+@m
+The Congress of Vienna's decision to strengthen the Netherlands, Prussia and Piedmont-Sardinia was intended to
++ contain France by surrounding it with stronger buffer states :: These states guarded France's northern and eastern borders.
+- reward them for revolutionary reforms :: The Congress opposed revolution.
+- punish them for supporting Napoleon :: They were strengthened, not punished.
+- prepare them to unify Italy and Germany :: Unification was not a goal; the Congress opposed nationalism.
+- give them overseas colonies :: Britain, not these states, made colonial gains.
+
+@m
+Which principle guided the Congress of Vienna's restoration of the Bourbons to the French throne?
++ Legitimacy :: The Congress restored "legitimate" pre-revolutionary dynasties.
+- Popular sovereignty :: The Congress rejected popular sovereignty.
+- National self-determination :: That principle shaped the 1919 settlement.
+- Collective security :: That concept belongs to the League of Nations.
+- Laissez-faire :: That is an economic doctrine.
+
+@m
+Which statement about women in the French Revolution is most accurate?
++ Women took part in key events but were denied political rights, and their clubs were banned in 1793 :: Women marched in the October Days, yet the Convention closed women's political clubs.
+- Women won the right to vote in the Constitution of 1791 :: Only male "active citizens" voted.
+- The Napoleonic Code made women legally equal to men :: The Code subordinated wives to husbands.
+- Women led the Committee of Public Safety :: All its members were men.
+- Olympe de Gouges became a leader of the Directory :: She was executed in 1793.
+
+@m
+After the Thermidorian Reaction of 1794, the Convention
++ ended the Terror and dismantled radical measures such as price controls :: Thermidor closed the Jacobin Club and lifted the Maximum.
+- crowned Napoleon emperor :: That happened in 1804.
+- restored Louis XVI to the throne :: Louis XVI had already been executed in 1793.
+- declared war on Russia :: France invaded Russia in 1812.
+- abolished private property :: The Thermidorians protected property owners.
+
+@m
+The Battle of Austerlitz (1805) was significant because Napoleon
++ defeated the combined armies of Austria and Russia :: The "Battle of the Three Emperors" led Austria to make peace and paved the way to dissolving the Holy Roman Empire.
+- lost his navy to the British :: That was Trafalgar.
+- was forced into exile on Elba :: That followed his 1814 abdication.
+- defeated the Prussian army :: Prussia was defeated at Jena (1806).
+- captured Moscow :: He entered Moscow in 1812.
+
+@m
+The Declaration of Pillnitz (1791) increased tension because Austria and Prussia
++ suggested they would act to restore Louis XVI's authority :: French revolutionaries took it as a threat, contributing to war in 1792.
+- recognized the French Republic :: France was not a republic until 1792.
+- agreed to partition France :: There was no such agreement.
+- declared war on Britain :: Neither did so.
+- promised to abolish serfdom :: The declaration concerned France.
+
+@m
+Which reform of the National Assembly (1789–1791) reflected liberal economic ideas?
++ The abolition of guilds and internal tolls :: Removing these barriers fostered a free market in labor and goods.
+- The Maximum on bread prices :: Price controls were a radical Jacobin measure of 1793.
+- The levée en masse :: That was a military measure.
+- The Continental System :: That was Napoleon's blockade.
+- The dechristianization campaign :: That was a radical cultural program of 1793–94.
+
+@m
+Which settlement made by the Congress of Vienna proved a long-term source of nationalist resentment?
++ Austrian control of Lombardy-Venetia in Italy :: Italian nationalists later fought to expel Austria.
+- The restoration of the Bourbons in France :: The French overthrew Charles X in 1830, but this was not a nationalist grievance.
+- Britain's acquisition of the Cape Colony :: This did not provoke European nationalism.
+- The creation of a Concert of Europe :: The Concert was a diplomatic practice, not a territorial grievance.
+- The return of the pope to Rome :: Not mainly a nationalist grievance in 1815.
+
+@h
+A historian argues that the French Revolution began as a "revolt of the nobility." Which evidence best supports this?
++ The parlements and the Assembly of Notables blocked royal tax reforms and demanded the Estates-General :: Privileged groups' resistance in 1787–88 forced the crisis that opened the door to revolution.
+- The Third Estate declared itself the National Assembly :: That was a bourgeois-led act.
+- Peasants burned manor records during the Great Fear :: That was a peasant revolt against lords.
+- Parisian women marched to Versailles :: That was a popular action.
+- The sans-culottes demanded price controls :: That was a working-class demand.
+
+@h
+Which of the following was a long-term consequence of Napoleon's conquests in Europe?
++ The spread of legal equality and the growth of nationalism among conquered peoples :: The Code spread reforms, while occupation provoked national resistance.
+- The permanent restoration of feudal privileges in Germany :: Feudal dues were weakened, not restored, in many areas.
+- The revival of the Holy Roman Empire :: It was never revived.
+- A unified Italian state in 1815 :: Italy remained divided until 1861.
+- Russia's adoption of the Napoleonic Code :: Russia did not adopt it.
+
+@h
+Which statement best compares the American and French Revolutions?
++ Both drew on Enlightenment ideas of natural rights, but the French Revolution also attacked an entrenched aristocracy and established church :: The French Revolution was more socially radical.
+- Both ended with a military emperor :: Only France produced Napoleon.
+- Both began as a result of foreign invasion :: Neither began with an invasion.
+- Both abolished slavery immediately :: The United States kept slavery until 1865; France abolished it in 1794 but Napoleon restored it.
+- Both were opposed by Enlightenment thinkers :: Both drew on Enlightenment thought.
+
+@h
+The Napoleonic Code is best described as both revolutionary and conservative because it
++ preserved legal equality and property rights while strengthening the authority of fathers and husbands :: It kept the Revolution's civil equality but rolled back gains for women.
+- restored the monarchy but kept the Terror's courts :: It did neither.
+- abolished religion but restored nobility :: It protected religious freedom and did not restore feudal privilege.
+- gave workers the right to strike while abolishing property :: It restricted workers and protected property.
+- was written by Robespierre and enforced by Louis XVIII :: Napoleon's jurists wrote it in 1804.
+
+@h
+Which development most directly allowed the French Republic to survive the military crisis of 1793?
++ The mobilization of mass citizen armies under the Committee of Public Safety :: Conscription, centralized control and wartime production turned the tide by 1794.
+- An alliance with Britain :: Britain was at war with France.
+- The restoration of Louis XVI :: Louis XVI had been executed.
+- Napoleon's victory at Austerlitz :: Austerlitz came in 1805.
+- Austria's decision to remain neutral :: Austria was France's main enemy.
+
+@h
+A peasant in the Vendée in 1793 would most likely have opposed the Revolution because of
++ the attack on the Catholic Church and military conscription :: Religious grievances and the 1793 draft sparked the Vendée rising.
+- the abolition of feudal dues :: Peasants welcomed that.
+- the restoration of the monarchy :: The monarchy had just been abolished.
+- the Concordat of 1801 :: The Concordat came years later and reconciled Catholics.
+- the Congress of Vienna :: That came in 1814–15.
+
+@h
+Which of the following best explains why the Congress of Vienna treated defeated France leniently?
++ To avoid creating a vengeful France and to keep the restored Bourbons stable :: A moderate peace supported the balance of power.
+- Because France had won the war :: France was defeated.
+- Because Metternich wished to spread revolutionary ideas :: Metternich opposed revolution.
+- Because Napoleon remained on the throne :: Napoleon was exiled.
+- Because Britain wanted France to dominate Europe :: Britain wanted a balance of power.
+
+@h
+The Haitian Revolution differed from the French Revolution in that it
++ was led by formerly enslaved people and created an independent state that abolished slavery permanently :: Haiti became the first state founded by people who had freed themselves from slavery.
+- restored an absolute monarchy under Louis XVIII :: Haiti broke away from France.
+- was inspired by opposition to Enlightenment ideas :: Its leaders invoked the rights of man.
+- ended with the creation of a French colony :: It ended French rule.
+- was supported by Napoleon throughout :: Napoleon tried to crush it and restore slavery.
+
+@m
+The Great Fear of 1789 refers to
++ peasant revolts and panic in the countryside, with attacks on manor houses and records of dues :: Rumors of aristocratic plots led peasants to attack the symbols of seigneurialism.
+- the Terror of 1793–1794 :: That came four years later.
+- the fear of a British invasion in 1805 :: That is unrelated to 1789.
+- the royal family's fear during the October Days :: The October Days were a separate Paris event.
+- the panic after the Russian campaign of 1812 :: That came much later.
+
+@m
+Which of these was a goal of the Concert of Europe?
++ Maintaining the 1815 settlement by cooperation among the great powers :: The powers met periodically to suppress threats to order.
+- Spreading republican government across Europe :: The Concert opposed revolution.
+- Uniting Germany under Prussia :: The Concert supported the German Confederation.
+- Supporting Napoleon's return in 1815 :: The allies defeated him at Waterloo.
+- Ending all monarchies in Europe :: The Concert defended monarchy.
+
+@h
+Which of the following was the MOST radical measure of the National Convention, 1792–1794?
++ Abolishing the monarchy, executing the king, and attempting to dechristianize France :: These went far beyond the moderate reforms of 1789–91.
+- Adopting the Declaration of the Rights of Man :: That was the National Assembly's work in 1789.
+- Creating the departments :: That was a reform of 1790.
+- Issuing assignats backed by Church lands :: That began in 1789–90.
+- Establishing the Bank of France :: That was Napoleon's work in 1800.
+
+@m
+Which event marks the formal end of the Holy Roman Empire?
++ Napoleon's reorganization of Germany in 1806 :: After Austerlitz, the emperor dissolved the Empire and Napoleon created the Confederation of the Rhine.
+- The Peace of Westphalia in 1648 :: Westphalia weakened but did not end the Empire.
+- The Congress of Vienna in 1815 :: Vienna did not revive the Empire; it created the German Confederation.
+- The unification of Germany in 1871 :: The Empire had been gone for 65 years by then.
+- The Treaty of Utrecht in 1713 :: Utrecht did not end the Empire.
+
+@m
+Edmund Burke's Reflections on the Revolution in France (1790) argued that
++ destroying long-standing institutions in the name of abstract rights would lead to chaos and tyranny :: Burke defended gradual change rooted in tradition; he is the founder of modern conservatism.
+- the Revolution should spread to Britain as soon as possible :: Burke opposed the Revolution.
+- Louis XVI should be executed for treason :: Burke defended the monarchy.
+- the Third Estate was "everything" :: That was Sieyès's claim.
+- laissez-faire economics required revolution :: Burke's book is about political tradition, not economics.
+
+@m
+Which work was written to DEFEND the French Revolution against Burke's criticism?
++ Thomas Paine's The Rights of Man :: Paine defended popular sovereignty and natural rights in 1791.
+- Metternich's memoirs :: Metternich was a conservative opponent of revolution.
+- Joseph de Maistre's Considerations on France :: De Maistre was a fierce conservative critic.
+- Napoleon's Civil Code :: The Code is a law code, not a reply to Burke.
+- Bossuet's Politics Drawn from Holy Scripture :: Bossuet defended absolute monarchy a century earlier.
+
+@m
+The Treaty of Tilsit (1807) is significant because it
++ marked Napoleon's peace with Russia and the height of his power on the continent :: Alexander I joined the Continental System, and Prussia lost half its territory.
+- ended the Peninsular War :: The Peninsular War began in 1808.
+- restored the Bourbons :: The Bourbons returned in 1814.
+- created the German Confederation :: That was created in 1815.
+- forced Napoleon into exile on Elba :: That followed his 1814 abdication.
